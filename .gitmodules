@@ -1,0 +1,9 @@
+[submodule "mksshare"]
+	path = mksshare
+	url = https://github.com/mksshare/mksshare.github.io.git
+[submodule "tolinkshare2"]
+	path = tolinkshare2
+	url = https://github.com/tolinkshare2/tolinkshare2.github.io.git
+[submodule "abshare"]
+	path = abshare
+	url = https://github.com/abshare/abshare.github.io.git

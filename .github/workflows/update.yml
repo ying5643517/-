@@ -1,0 +1,86 @@
+name: Update Project
+
+on:
+  workflow_dispatch: # 手动触发
+  schedule:
+    - cron: '*/5 * * * *'  # 每 5 分钟触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          submodules: true  # 确保子模块被检查出来
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8' # 根据需要调整Python版本
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Fetch submodule updates and check for updates
+        id: check_updates
+        run: |
+          updated_submodules=()
+          submodules=("abshare" "mksshare" "tolinkshare2")
+          for sub in "${submodules[@]}"; do
+            cd "$sub"
+            git fetch origin
+            git rev-parse HEAD > "../current.commit.txt"
+            git rev-parse origin/main > "../remote.commit.txt"  # 替换为相应的远程分支
+
+            if [ "$(cat ../current.commit.txt)" != "$(cat ../remote.commit.txt)" ]; then
+              # 获取远程更新
+              git fetch origin
+              # 强制将本地分支重置为远程分支的状态
+              git reset --hard origin/main  # 替换为相应的远程分支
+              echo "$sub has updates."
+              updated_submodules+=($sub)  # 获取子项目名
+            else
+              echo "$sub has no updates"
+            fi
+            cd -
+          done
+
+          if [ ${#updated_submodules[@]} -gt 0 ]; then
+            echo "update=true" >> $GITHUB_ENV
+            echo "updated_submodules=${updated_submodules[*]}" >> $GITHUB_ENV  # 将更新的子项目名存储到环境变量
+          else
+            echo "update=false" >> $GITHUB_ENV
+          fi
+          echo "$updated_submodules"
+          rm *.commit.txt
+
+      - name: Run Python script for each updated submodule
+        if: env.update == 'true'
+        run: |
+          for submodule in ${updated_submodules}; do
+            python main.py $submodule  # 将子项目名逐个传递给 Python 脚本
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "mai19950"
+          git config --global user.email "underdog-95@outlook.com"
+          # 添加更改
+          git add .
+
+          # 检查是否有更改
+          if ! git diff-index --quiet HEAD --; then
+            commit_message="Update node form '${updated_submodules}' at $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "$commit_message"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    permissions:
+      contents: write  # 确保 GitHub Actions 有权限进行推送
