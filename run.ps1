@@ -20,6 +20,7 @@ foreach ($sub in $modules) {
 
 if ($updated_submodules.count -gt 0) {
   foreach ($sub in $updated_submodules) {
+    Write-Host "python main.py $sub" -ForegroundColor "yellow"
     python main.py $sub
   }
   git add .

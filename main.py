@@ -4,10 +4,12 @@ from sys import argv
 import requests
 import base64
 import urllib.parse
+from typing import Optional, Literal
 
 headers = {
   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 }
+KeyType = Optional[Literal['ios', 'v2ray', 'clash']]
 
 class Main:
   paths = [
@@ -17,13 +19,13 @@ class Main:
   ]
   dirs = ['v2ray', 'ios', 'clash']
   sub_links = {}
+  type: KeyType = None
 
-  def __init__(self) -> None:
+  def __init__(self, type: KeyType = None) -> None:
+    self.type = type
     self.submodule_path = self.paths[0]
 
   def add_suffix(self, line: str) -> str:
-    if line.strip() == "":
-      return line
     # 提取备注
     # 去掉 ss:// 前缀
     ss_content = line[5:]
@@ -54,7 +56,13 @@ class Main:
   def parse_origin(self, text: str) -> str:
     decoded_bytes = base64.b64decode(text)
     decoded_string = decoded_bytes.decode('utf-8')
-    return "\n".join([self.add_suffix(line) for line in decoded_string.split('\n')])
+    nodes = []
+    for line in decoded_string.split('\n'):
+      if not line.strip(): continue
+      node = self.add_suffix(line)
+      if not node: continue
+      nodes.append(node)
+    return "\n".join(nodes)
 
   def get_item_link(self, key: str, url: str):
     try:
@@ -70,7 +78,9 @@ class Main:
 
   def request_links(self):
     items = self.sub_links.items()
-    if len(items) != 3:
+
+    if self.type:
+      self.get_item_link(self.type, self.sub_links[self.type])
       return
 
     for key, url in items:
@@ -89,14 +99,19 @@ class Main:
       self.sub_links = res.groupdict()
       
   def walk(self, p: str):
+    self.submodule_path = p
     if self.submodule_path in self.paths:
       self.set_links()
       self.request_links()
+
     if p == 'all':
       for it in self.paths:
         self.submodule_path = it
         self.set_links()
         self.request_links()
+
+    if self.type:
+      self.dirs = [self.type]
 
     for d in self.dirs:
       sites = ""
@@ -105,8 +120,10 @@ class Main:
           sites += (f.read().strip() + '\n')
       encoded = base64.b64encode(sites.encode('utf-8')).decode('utf-8')
       with open(f"{d}/index", mode="w+", encoding="utf-8") as f:
+        f.write(sites)
+      with open(f"{d}/base64", mode="w+", encoding="utf-8") as f:
         f.write(encoded)
 
 
 if __name__ == '__main__':
-  Main().walk(argv[1])
+  Main('v2ray').walk(argv[1])
