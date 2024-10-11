@@ -44,9 +44,10 @@ class Main:
       server, port_with_remark = ss_content.split('@')[1].split(':', 1)
       method, password = decoded_string.split(':')
       port, remark = port_with_remark.split('#')
-      remark = urllib.parse.unquote(remark)
-      if '|' not in remark:
+      remark = urllib.parse.unquote(remark).strip()
+      if not any(x in remark for x in ('|', '剩余流量')):
         return ""
+      remark = remark.replace('剩余流量', f'{self.submodule_path}')
       cleaned_remark = re.sub(r' \|.*', f'_{self.submodule_path}', remark)
       return f'ss://{base64.b64encode(f"{method}:{password}".encode()).decode()}@{server}:{port}#{urllib.parse.quote(cleaned_remark)}'
     except Exception as e:
@@ -114,13 +115,16 @@ class Main:
       self.dirs = [self.type]
 
     for d in self.dirs:
+      paths = [os.path.join(d, it) for it in os.listdir(d) if it.endswith(d)]
+      paths.sort(key=lambda f: os.path.getmtime(f), reverse=True)
+      # print(paths)
       sites = ""
-      for key in self.paths:
-        with open(f'{d}/{key}.{d}', mode="r", encoding="utf-8") as f:
+      for p in paths:
+        with open(p, mode="r", encoding="utf-8") as f:
           sites += (f.read().strip() + '\n')
-      encoded = base64.b64encode(sites.encode('utf-8')).decode('utf-8')
       with open(f"{d}/index", mode="w+", encoding="utf-8") as f:
         f.write(sites)
+      encoded = base64.b64encode(sites.encode('utf-8')).decode('utf-8')
       with open(f"{d}/base64", mode="w+", encoding="utf-8") as f:
         f.write(encoded)
 
