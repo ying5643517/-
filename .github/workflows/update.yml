@@ -28,7 +28,9 @@ jobs:
         id: check_updates
         run: |
           updated_submodules=()
-          submodules=("abshare" "mksshare" "tolinkshare2")
+          # submodules=("abshare" "mksshare" "tolinkshare2")
+          submodules=($(cat sites.txt))
+          echo "Loaded submodules: ${submodules[@]}"
           for sub in "${submodules[@]}"; do
             cd "$sub"
             git fetch origin

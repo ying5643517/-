@@ -7,3 +7,9 @@
 [submodule "abshare"]
 	path = abshare
 	url = https://github.com/abshare/abshare.github.io.git
+[submodule "toshare5"]
+	path = toshare5
+	url = https://github.com/toshare5/toshare5.github.io.git
+[submodule "mkshare3"]
+	path = mkshare3
+	url = https://github.com/mkshare3/mkshare3.github.io.git

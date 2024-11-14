@@ -4,10 +4,11 @@ from sys import argv
 from datetime import datetime
 import requests
 import pyperclip
+from sites import *
 
 
 class LocalLink:
-  modules = [ "tolinkshare2", "abshare", "mksshare" ]
+  modules = module_sites
   current_module: str = None
   min_time_str = "2000-01-01 00:00:00"
   target_link: str = None

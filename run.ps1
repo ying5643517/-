@@ -1,4 +1,5 @@
-$modules = @("abshare", "mksshare", "tolinkshare2")
+# $modules = @("abshare", "mksshare", "tolinkshare2")
+$modules = (Get-Content "./sites.txt" -Raw) -split ' '
 $updated_submodules=@()
 
 foreach ($sub in $modules) {

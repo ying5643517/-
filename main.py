@@ -4,20 +4,12 @@ from sys import argv
 import requests
 import base64
 import urllib.parse
-from typing import Optional, Literal
+from sites import *
 
-headers = {
-  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-}
-KeyType = Optional[Literal['ios', 'v2ray', 'clash']]
 
 class Main:
-  paths = [
-    "tolinkshare2",
-    "abshare",
-    "mksshare"
-  ]
-  dirs = ['v2ray', 'ios', 'clash']
+  paths = module_sites
+  dirs = dir_list
   sub_links = {}
   type: KeyType = None
 

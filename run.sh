@@ -1,6 +1,8 @@
 #!/bin/bash
 
-modules=("abshare" "mksshare" "tolinkshare2")
+# modules=("abshare" "mksshare" "tolinkshare2")
+modules=($(cat "sites.txt"))
+echo "${modules[@]}"
 updated_submodules=()
 
 for sub in "${modules[@]}"; do
