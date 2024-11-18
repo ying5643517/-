@@ -10,6 +10,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check if token is loaded
+        run: |
+          echo "Token loaded successfully"
+          if [[ -z "${{ secrets.PERSONAL_ACCESS_TOKEN }}" ]]; then
+            echo "Token is not loaded"
+          else
+            echo "Token is loaded"
+          fi
+
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
@@ -65,6 +74,14 @@ jobs:
           for submodule in ${updated_submodules}; do
             python main.py $submodule  # 将子项目名逐个传递给 Python 脚本
           done
+
+      - name: Trigger actions in maomao_sub repository
+        if: env.update == 'true'
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          repository: mai19950/maomao_sub
+          event-type: update
 
       - name: Commit and push changes
         run: |
