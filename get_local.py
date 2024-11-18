@@ -4,7 +4,7 @@ from sys import argv
 from datetime import datetime
 import requests
 import pyperclip
-from sites import *
+from params import *
 
 
 class LocalLink:

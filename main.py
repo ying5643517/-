@@ -4,7 +4,7 @@ from sys import argv
 import requests
 import base64
 import urllib.parse
-from sites import *
+from params import *
 
 
 class Main:

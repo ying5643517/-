@@ -13,3 +13,6 @@
 [submodule "mkshare3"]
 	path = mkshare3
 	url = https://github.com/mkshare3/mkshare3.github.io.git
+[submodule "abshare3"]
+	path = abshare3
+	url = https://github.com/abshare3/abshare3.github.io.git
