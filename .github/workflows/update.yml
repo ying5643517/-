@@ -74,6 +74,7 @@ jobs:
           for submodule in ${updated_submodules}; do
             python main.py $submodule  # 将子项目名逐个传递给 Python 脚本
           done
+          # python cm_sub.py
 
       - name: Trigger actions in maomao_sub repository
         if: env.update == 'true'
