@@ -76,12 +76,12 @@ jobs:
           done
           # python cm_sub.py
 
-      - name: Trigger actions in maomao_sub repository
+      - name: Trigger actions in clash_config repository
         if: env.update == 'true'
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          repository: mai19950/maomao_sub
+          repository: mai19950/clash_config
           event-type: update
 
       - name: Commit and push changes
