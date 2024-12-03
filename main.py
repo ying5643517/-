@@ -16,6 +16,9 @@ class Main:
     self.type = type
     self.submodule_path = self.paths[0]
 
+  def join_path(self, *paths) -> str:
+    return os.path.join(sub_dir, *paths)
+
   def add_suffix(self, line: str) -> str:
     # 提取备注
     # 去掉 ss:// 前缀
@@ -63,7 +66,7 @@ class Main:
         print(res.status_code, url)
         if res.status_code < 300:
           os.makedirs(key, exist_ok=True)
-          with open(f"{key}/{self.submodule_path}.{key}", mode="w+", encoding="utf-8") as f:
+          with open(self.join_path(f"{key}/{self.submodule_path}.{key}"), mode="w+", encoding="utf-8") as f:
             f.write(self.parse_origin(res.text))
     except:
       self.get_item_link(key, url)
@@ -106,17 +109,18 @@ class Main:
       self.dirs = [self.type]
 
     for d in self.dirs:
-      paths = [os.path.join(d, it) for it in os.listdir(d) if it.endswith(d)]
+      paths = [self.join_path(d, it) for it in os.listdir(self.join_path(d)) if it.endswith(d)]
       paths.sort(key=lambda f: os.path.getmtime(f), reverse=True)
       # print(paths)
+      # exit()
       sites = ""
       for p in paths:
         with open(p, mode="r", encoding="utf-8") as f:
           sites += (f.read().strip() + '\n')
-      with open(f"{d}/index", mode="w+", encoding="utf-8") as f:
+      with open(self.join_path(f"{d}/index"), mode="w+", encoding="utf-8") as f:
         f.write(sites)
       encoded = base64.b64encode(sites.encode('utf-8')).decode('utf-8')
-      with open(f"{d}/base64", mode="w+", encoding="utf-8") as f:
+      with open(self.join_path(f"{d}/base64"), mode="w+", encoding="utf-8") as f:
         f.write(encoded)
 
 

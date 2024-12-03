@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check if token is loaded
+      - name: 检查标记是否已加载
         run: |
           echo "Token loaded successfully"
           if [[ -z "${{ secrets.PERSONAL_ACCESS_TOKEN }}" ]]; then
@@ -19,21 +19,22 @@ jobs:
             echo "Token is loaded"
           fi
 
-      - name: Checkout repository
+      - name: 检查仓库
         uses: actions/checkout@v2
         with:
           submodules: true  # 确保子模块被检查出来
 
-      - name: Set up Python
+      - name: 配置Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.8' # 根据需要调整Python版本
 
-      - name: Install dependencies
+      - name: 安装python dependencies
         run: |
-          pip install requests
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Fetch submodule updates and check for updates
+      - name: 获取子模块更新并检查更新
         id: check_updates
         run: |
           updated_submodules=()
@@ -68,7 +69,7 @@ jobs:
           echo "$updated_submodules"
           rm *.commit.txt
 
-      - name: Run Python script for each updated submodule
+      - name: 为每个更新的子模块运行 Python 脚本
         if: env.update == 'true'
         run: |
           for submodule in ${updated_submodules}; do
@@ -76,7 +77,7 @@ jobs:
           done
           # python cm_sub.py
 
-      - name: Trigger actions in clash_config repository
+      - name: 在 clash_config 资源库中触发操作
         if: env.update == 'true'
         uses: peter-evans/repository-dispatch@v2
         with:
@@ -84,7 +85,7 @@ jobs:
           repository: mai19950/clash_config
           event-type: update
 
-      - name: Commit and push changes
+      - name: 提交和推送更改
         run: |
           git config --global user.name "mai19950"
           git config --global user.email "underdog-95@outlook.com"
@@ -94,12 +95,26 @@ jobs:
           # 检查是否有更改
           if ! git diff-index --quiet HEAD --; then
             commit_message="Update node form '${updated_submodules}' at $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+            echo "COMMIT_MESSAGE=$commit_message" >> $GITHUB_ENV
             git commit -m "$commit_message"
             git pull --rebase origin main
             git push origin main
           else
             echo "No changes to commit."
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 推送到订阅仓库
+        if: env.update == 'true'
+        run: |
+          cd sub
+          git init --initial-branch=main
+          git add .
+          git commit -m "${{ env.COMMIT_MESSAGE }}"
+          git remote add origin "https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/mai19950/free_site.git"
+          git push -u origin main --force
+          rm -rf .git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     permissions:
