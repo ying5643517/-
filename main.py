@@ -1,23 +1,29 @@
 import re
 from sys import argv
+import time
 import requests
 import base64
 import urllib.parse
 from params import *
+from datetime import datetime, timezone, timedelta
 
 
 class Main:
   paths = module_sites
-  dirs = dir_list
-  sub_links = {}
-  type: KeyType = None
 
   def __init__(self, type: KeyType = None) -> None:
+    self.dirs = dir_list
+    self.sub_links = {}
+    self.type: KeyType = None
     self.type = type
     self.submodule_path = self.paths[0]
 
   def join_path(self, *paths) -> str:
     return os.path.join(sub_dir, *paths)
+
+  @staticmethod
+  def replace_url(url: str) -> str:
+    return re.sub(r'https?:/', 'https://', url) if re.match(r'https:/[^/]', url) else url
 
   def add_suffix(self, line: str) -> str:
     # 提取备注
@@ -61,7 +67,7 @@ class Main:
 
   def get_item_link(self, key: str, url: str):
     try:
-      url = re.sub(r'https?:/', 'https://', url) if re.match(r'https:/[^/]', url) else url
+      url = self.replace_url(url)
       with requests.get(url, headers=headers, timeout=10) as res:
         print(res.status_code, url)
         if res.status_code < 300:
@@ -92,6 +98,22 @@ class Main:
         re.DOTALL
       )
       self.sub_links = res.groupdict()
+
+  def save_origin_sub_link(self):
+    link_file = "sub/README.md"
+    content = "\n### Origin Links\n\n"
+    baijing_time = datetime.fromtimestamp(time.time(), tz=timezone(timedelta(hours=8)))
+    content += f"> Updated Time: {baijing_time.strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+    for module in self.paths:
+      self.submodule_path = module
+      self.set_links()
+      content += f"- **{module}**\n"
+      for key, link in self.sub_links.items():
+        link = self.replace_url(link)
+        content += f"  - **{key}**: [*{link}*]({link})\n"
+    os.system(rf"cat README.md > {link_file}")
+    with open(link_file, "a") as f:
+      f.write(content)
       
   def walk(self, p: str):
     self.submodule_path = p
@@ -122,7 +144,9 @@ class Main:
       encoded = base64.b64encode(sites.encode('utf-8')).decode('utf-8')
       with open(self.join_path(f"{d}/base64"), mode="w+", encoding="utf-8") as f:
         f.write(encoded)
+    self.save_origin_sub_link()
 
 
 if __name__ == '__main__':
   Main('v2ray').walk(argv[1])
+  # Main().save_origin_sub_link()
