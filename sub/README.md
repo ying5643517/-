@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-07 04:39:54
+> Updated Time: 2024-12-07 05:10:30
 
 - **tolinkshare2**
   - **clash**: [*https://MSGzuH.tosslk.xyz/05bc7671aa99426a6bea9cb7937d9d60*](https://MSGzuH.tosslk.xyz/05bc7671aa99426a6bea9cb7937d9d60)
   - **v2ray**: [*https://MSGzuH.tosslk.xyz/05bc7671aa99426a6bea9cb7937d9d60*](https://MSGzuH.tosslk.xyz/05bc7671aa99426a6bea9cb7937d9d60)
   - **ios**: [*https://MSGzuH.tosslk.xyz/05bc7671aa99426a6bea9cb7937d9d60*](https://MSGzuH.tosslk.xyz/05bc7671aa99426a6bea9cb7937d9d60)
 - **abshare**
-  - **clash**: [*https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841*](https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841)
-  - **v2ray**: [*https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841*](https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841)
-  - **ios**: [*https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841*](https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841)
+  - **clash**: [*https://1DoNLU.absslk.xyz/4c247ba7d5cadb9cdfa370f7e94ea0c6*](https://1DoNLU.absslk.xyz/4c247ba7d5cadb9cdfa370f7e94ea0c6)
+  - **v2ray**: [*https://1DoNLU.absslk.xyz/4c247ba7d5cadb9cdfa370f7e94ea0c6*](https://1DoNLU.absslk.xyz/4c247ba7d5cadb9cdfa370f7e94ea0c6)
+  - **ios**: [*https://1DoNLU.absslk.xyz/4c247ba7d5cadb9cdfa370f7e94ea0c6*](https://1DoNLU.absslk.xyz/4c247ba7d5cadb9cdfa370f7e94ea0c6)
 - **mksshare**
   - **clash**: [*https://7pa739.mcsslk.xyz/f76ac0e1cee2c58353226d075070b147*](https://7pa739.mcsslk.xyz/f76ac0e1cee2c58353226d075070b147)
   - **v2ray**: [*https://7pa739.mcsslk.xyz/f76ac0e1cee2c58353226d075070b147*](https://7pa739.mcsslk.xyz/f76ac0e1cee2c58353226d075070b147)
