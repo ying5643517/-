@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-07 03:34:40
+> Updated Time: 2024-12-07 03:50:46
 
 - **tolinkshare2**
   - **clash**: [*https://V6a6eT.tosslk.xyz/777dec1c8421e623d24457f901296889*](https://V6a6eT.tosslk.xyz/777dec1c8421e623d24457f901296889)
   - **v2ray**: [*https://V6a6eT.tosslk.xyz/777dec1c8421e623d24457f901296889*](https://V6a6eT.tosslk.xyz/777dec1c8421e623d24457f901296889)
   - **ios**: [*https://V6a6eT.tosslk.xyz/777dec1c8421e623d24457f901296889*](https://V6a6eT.tosslk.xyz/777dec1c8421e623d24457f901296889)
 - **abshare**
-  - **clash**: [*https://QRPSW4.absslk.xyz/b7d3158a20e97c67eb8e3eeb61bdb6cb*](https://QRPSW4.absslk.xyz/b7d3158a20e97c67eb8e3eeb61bdb6cb)
-  - **v2ray**: [*https://QRPSW4.absslk.xyz/b7d3158a20e97c67eb8e3eeb61bdb6cb*](https://QRPSW4.absslk.xyz/b7d3158a20e97c67eb8e3eeb61bdb6cb)
-  - **ios**: [*https://QRPSW4.absslk.xyz/b7d3158a20e97c67eb8e3eeb61bdb6cb*](https://QRPSW4.absslk.xyz/b7d3158a20e97c67eb8e3eeb61bdb6cb)
+  - **clash**: [*https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841*](https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841)
+  - **v2ray**: [*https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841*](https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841)
+  - **ios**: [*https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841*](https://Goa2RX.absslk.xyz/39b08a4846b6c5ed42db3c3173ce6841)
 - **mksshare**
   - **clash**: [*https://Zsie6m.mcsslk.xyz/9310c3dd6da3dc2e6c732cea0363de13*](https://Zsie6m.mcsslk.xyz/9310c3dd6da3dc2e6c732cea0363de13)
   - **v2ray**: [*https://Zsie6m.mcsslk.xyz/9310c3dd6da3dc2e6c732cea0363de13*](https://Zsie6m.mcsslk.xyz/9310c3dd6da3dc2e6c732cea0363de13)
