@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-07 19:14:42
+> Updated Time: 2024-12-07 19:23:49
 
 - **tolinkshare2**
-  - **clash**: [*https://Scjg8H.tosslk.xyz/eca132f9c3457d8159494997d43f02b1*](https://Scjg8H.tosslk.xyz/eca132f9c3457d8159494997d43f02b1)
-  - **v2ray**: [*https://Scjg8H.tosslk.xyz/eca132f9c3457d8159494997d43f02b1*](https://Scjg8H.tosslk.xyz/eca132f9c3457d8159494997d43f02b1)
-  - **ios**: [*https://Scjg8H.tosslk.xyz/eca132f9c3457d8159494997d43f02b1*](https://Scjg8H.tosslk.xyz/eca132f9c3457d8159494997d43f02b1)
+  - **clash**: [*https://a6GBs4.tosslk.xyz/69b199dc2650425226b6ada61c9bcf45*](https://a6GBs4.tosslk.xyz/69b199dc2650425226b6ada61c9bcf45)
+  - **v2ray**: [*https://a6GBs4.tosslk.xyz/69b199dc2650425226b6ada61c9bcf45*](https://a6GBs4.tosslk.xyz/69b199dc2650425226b6ada61c9bcf45)
+  - **ios**: [*https://a6GBs4.tosslk.xyz/69b199dc2650425226b6ada61c9bcf45*](https://a6GBs4.tosslk.xyz/69b199dc2650425226b6ada61c9bcf45)
 - **abshare**
   - **clash**: [*https://NayaSZ.absslk.xyz/ffed4c7a58234dc56ef0133616572ac4*](https://NayaSZ.absslk.xyz/ffed4c7a58234dc56ef0133616572ac4)
   - **v2ray**: [*https://NayaSZ.absslk.xyz/ffed4c7a58234dc56ef0133616572ac4*](https://NayaSZ.absslk.xyz/ffed4c7a58234dc56ef0133616572ac4)
