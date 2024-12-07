@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-07 17:26:14
+> Updated Time: 2024-12-07 17:40:45
 
 - **tolinkshare2**
-  - **clash**: [*https://O1Oiu7.tosslk.xyz/b8c27ef0e076f0775ea386d01d5317c9*](https://O1Oiu7.tosslk.xyz/b8c27ef0e076f0775ea386d01d5317c9)
-  - **v2ray**: [*https://O1Oiu7.tosslk.xyz/b8c27ef0e076f0775ea386d01d5317c9*](https://O1Oiu7.tosslk.xyz/b8c27ef0e076f0775ea386d01d5317c9)
-  - **ios**: [*https://O1Oiu7.tosslk.xyz/b8c27ef0e076f0775ea386d01d5317c9*](https://O1Oiu7.tosslk.xyz/b8c27ef0e076f0775ea386d01d5317c9)
+  - **clash**: [*https://gcPIpI.tosslk.xyz/147a19af54e2813378a69596b86f43c5*](https://gcPIpI.tosslk.xyz/147a19af54e2813378a69596b86f43c5)
+  - **v2ray**: [*https://gcPIpI.tosslk.xyz/147a19af54e2813378a69596b86f43c5*](https://gcPIpI.tosslk.xyz/147a19af54e2813378a69596b86f43c5)
+  - **ios**: [*https://gcPIpI.tosslk.xyz/147a19af54e2813378a69596b86f43c5*](https://gcPIpI.tosslk.xyz/147a19af54e2813378a69596b86f43c5)
 - **abshare**
   - **clash**: [*https://koU4mm.absslk.xyz/4ff18ed7d5cf8de86ff59c2b267fedec*](https://koU4mm.absslk.xyz/4ff18ed7d5cf8de86ff59c2b267fedec)
   - **v2ray**: [*https://koU4mm.absslk.xyz/4ff18ed7d5cf8de86ff59c2b267fedec*](https://koU4mm.absslk.xyz/4ff18ed7d5cf8de86ff59c2b267fedec)
