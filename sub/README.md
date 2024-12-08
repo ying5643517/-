@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-08 22:08:56
+> Updated Time: 2024-12-08 22:26:58
 
 - **tolinkshare2**
-  - **clash**: [*https://RsL0CM.tosslk.xyz/9d0a38a0cd510d988e0c226cee220c5f*](https://RsL0CM.tosslk.xyz/9d0a38a0cd510d988e0c226cee220c5f)
-  - **v2ray**: [*https://RsL0CM.tosslk.xyz/9d0a38a0cd510d988e0c226cee220c5f*](https://RsL0CM.tosslk.xyz/9d0a38a0cd510d988e0c226cee220c5f)
-  - **ios**: [*https://RsL0CM.tosslk.xyz/9d0a38a0cd510d988e0c226cee220c5f*](https://RsL0CM.tosslk.xyz/9d0a38a0cd510d988e0c226cee220c5f)
+  - **clash**: [*https://PUVW4O.tosslk.xyz/777bc21e2f451ce0ccc2acc4b52b6434*](https://PUVW4O.tosslk.xyz/777bc21e2f451ce0ccc2acc4b52b6434)
+  - **v2ray**: [*https://PUVW4O.tosslk.xyz/777bc21e2f451ce0ccc2acc4b52b6434*](https://PUVW4O.tosslk.xyz/777bc21e2f451ce0ccc2acc4b52b6434)
+  - **ios**: [*https://PUVW4O.tosslk.xyz/777bc21e2f451ce0ccc2acc4b52b6434*](https://PUVW4O.tosslk.xyz/777bc21e2f451ce0ccc2acc4b52b6434)
 - **abshare**
-  - **clash**: [*https://ymrakz.absslk.xyz/df97eff12db7afdba3229428abc1bbe4*](https://ymrakz.absslk.xyz/df97eff12db7afdba3229428abc1bbe4)
-  - **v2ray**: [*https://ymrakz.absslk.xyz/df97eff12db7afdba3229428abc1bbe4*](https://ymrakz.absslk.xyz/df97eff12db7afdba3229428abc1bbe4)
-  - **ios**: [*https://ymrakz.absslk.xyz/df97eff12db7afdba3229428abc1bbe4*](https://ymrakz.absslk.xyz/df97eff12db7afdba3229428abc1bbe4)
+  - **clash**: [*https://wj6ylr.absslk.xyz/47f610fbef52ca0cd1ce27a59fc08a93*](https://wj6ylr.absslk.xyz/47f610fbef52ca0cd1ce27a59fc08a93)
+  - **v2ray**: [*https://wj6ylr.absslk.xyz/47f610fbef52ca0cd1ce27a59fc08a93*](https://wj6ylr.absslk.xyz/47f610fbef52ca0cd1ce27a59fc08a93)
+  - **ios**: [*https://wj6ylr.absslk.xyz/47f610fbef52ca0cd1ce27a59fc08a93*](https://wj6ylr.absslk.xyz/47f610fbef52ca0cd1ce27a59fc08a93)
 - **mksshare**
   - **clash**: [*https://v4HZcp.mcsslk.xyz/d7bf57303188c345e34d4d2e57cb9b2f*](https://v4HZcp.mcsslk.xyz/d7bf57303188c345e34d4d2e57cb9b2f)
   - **v2ray**: [*https://v4HZcp.mcsslk.xyz/d7bf57303188c345e34d4d2e57cb9b2f*](https://v4HZcp.mcsslk.xyz/d7bf57303188c345e34d4d2e57cb9b2f)
