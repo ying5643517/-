@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-08 23:56:26
+> Updated Time: 2024-12-09 00:10:24
 
 - **tolinkshare2**
-  - **clash**: [*https://QU75r9.tosslk.xyz/e49515b9f30b17e575a4e8790a0c7a80*](https://QU75r9.tosslk.xyz/e49515b9f30b17e575a4e8790a0c7a80)
-  - **v2ray**: [*https://QU75r9.tosslk.xyz/e49515b9f30b17e575a4e8790a0c7a80*](https://QU75r9.tosslk.xyz/e49515b9f30b17e575a4e8790a0c7a80)
-  - **ios**: [*https://QU75r9.tosslk.xyz/e49515b9f30b17e575a4e8790a0c7a80*](https://QU75r9.tosslk.xyz/e49515b9f30b17e575a4e8790a0c7a80)
+  - **clash**: [*https://aucjYQ.tosslk.xyz/8414a94a877b560af759d2f008f508d1*](https://aucjYQ.tosslk.xyz/8414a94a877b560af759d2f008f508d1)
+  - **v2ray**: [*https://aucjYQ.tosslk.xyz/8414a94a877b560af759d2f008f508d1*](https://aucjYQ.tosslk.xyz/8414a94a877b560af759d2f008f508d1)
+  - **ios**: [*https://aucjYQ.tosslk.xyz/8414a94a877b560af759d2f008f508d1*](https://aucjYQ.tosslk.xyz/8414a94a877b560af759d2f008f508d1)
 - **abshare**
   - **clash**: [*https://yw7lzU.absslk.xyz/cb7a601f48aae0f8d050e18527d1449e*](https://yw7lzU.absslk.xyz/cb7a601f48aae0f8d050e18527d1449e)
   - **v2ray**: [*https://yw7lzU.absslk.xyz/cb7a601f48aae0f8d050e18527d1449e*](https://yw7lzU.absslk.xyz/cb7a601f48aae0f8d050e18527d1449e)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://9XUyZ5.tosslk.xyz/b751b0c979cf0c57443d114e330cb1ed*](https://9XUyZ5.tosslk.xyz/b751b0c979cf0c57443d114e330cb1ed)
   - **ios**: [*https://9XUyZ5.tosslk.xyz/b751b0c979cf0c57443d114e330cb1ed*](https://9XUyZ5.tosslk.xyz/b751b0c979cf0c57443d114e330cb1ed)
 - **abshare3**
-  - **clash**: [*https://Uy4Cu2.absslk.xyz/7028fcc7066589a7bb2c2bd565760f11*](https://Uy4Cu2.absslk.xyz/7028fcc7066589a7bb2c2bd565760f11)
-  - **v2ray**: [*https://Uy4Cu2.absslk.xyz/7028fcc7066589a7bb2c2bd565760f11*](https://Uy4Cu2.absslk.xyz/7028fcc7066589a7bb2c2bd565760f11)
-  - **ios**: [*https://Uy4Cu2.absslk.xyz/7028fcc7066589a7bb2c2bd565760f11*](https://Uy4Cu2.absslk.xyz/7028fcc7066589a7bb2c2bd565760f11)
+  - **clash**: [*https://uDX3da.absslk.xyz/2ddec77437870d7669bb294266694c3b*](https://uDX3da.absslk.xyz/2ddec77437870d7669bb294266694c3b)
+  - **v2ray**: [*https://uDX3da.absslk.xyz/2ddec77437870d7669bb294266694c3b*](https://uDX3da.absslk.xyz/2ddec77437870d7669bb294266694c3b)
+  - **ios**: [*https://uDX3da.absslk.xyz/2ddec77437870d7669bb294266694c3b*](https://uDX3da.absslk.xyz/2ddec77437870d7669bb294266694c3b)
