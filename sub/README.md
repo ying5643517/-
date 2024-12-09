@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-09 21:54:52
+> Updated Time: 2024-12-09 22:17:21
 
 - **tolinkshare2**
-  - **clash**: [*https://aW4t54.tosslk.xyz/ffe2ebb93937563c16ffedd55ef70a50*](https://aW4t54.tosslk.xyz/ffe2ebb93937563c16ffedd55ef70a50)
-  - **v2ray**: [*https://aW4t54.tosslk.xyz/ffe2ebb93937563c16ffedd55ef70a50*](https://aW4t54.tosslk.xyz/ffe2ebb93937563c16ffedd55ef70a50)
-  - **ios**: [*https://aW4t54.tosslk.xyz/ffe2ebb93937563c16ffedd55ef70a50*](https://aW4t54.tosslk.xyz/ffe2ebb93937563c16ffedd55ef70a50)
+  - **clash**: [*https://5TlK8q.tosslk.xyz/d657fdfe86e64b7c4af312dece648826*](https://5TlK8q.tosslk.xyz/d657fdfe86e64b7c4af312dece648826)
+  - **v2ray**: [*https://5TlK8q.tosslk.xyz/d657fdfe86e64b7c4af312dece648826*](https://5TlK8q.tosslk.xyz/d657fdfe86e64b7c4af312dece648826)
+  - **ios**: [*https://5TlK8q.tosslk.xyz/d657fdfe86e64b7c4af312dece648826*](https://5TlK8q.tosslk.xyz/d657fdfe86e64b7c4af312dece648826)
 - **abshare**
-  - **clash**: [*https://QzFmZr.absslk.xyz/4ab98960e04095821ea67f927e707eda*](https://QzFmZr.absslk.xyz/4ab98960e04095821ea67f927e707eda)
-  - **v2ray**: [*https://QzFmZr.absslk.xyz/4ab98960e04095821ea67f927e707eda*](https://QzFmZr.absslk.xyz/4ab98960e04095821ea67f927e707eda)
-  - **ios**: [*https://QzFmZr.absslk.xyz/4ab98960e04095821ea67f927e707eda*](https://QzFmZr.absslk.xyz/4ab98960e04095821ea67f927e707eda)
+  - **clash**: [*https://4vUj2r.absslk.xyz/1efe3d1cab055c32ebda4e6c43f7b860*](https://4vUj2r.absslk.xyz/1efe3d1cab055c32ebda4e6c43f7b860)
+  - **v2ray**: [*https://4vUj2r.absslk.xyz/1efe3d1cab055c32ebda4e6c43f7b860*](https://4vUj2r.absslk.xyz/1efe3d1cab055c32ebda4e6c43f7b860)
+  - **ios**: [*https://4vUj2r.absslk.xyz/1efe3d1cab055c32ebda4e6c43f7b860*](https://4vUj2r.absslk.xyz/1efe3d1cab055c32ebda4e6c43f7b860)
 - **mksshare**
   - **clash**: [*https://IQvIRX.mcsslk.xyz/a5a27888846841c483ac2f8bcc86301f*](https://IQvIRX.mcsslk.xyz/a5a27888846841c483ac2f8bcc86301f)
   - **v2ray**: [*https://IQvIRX.mcsslk.xyz/a5a27888846841c483ac2f8bcc86301f*](https://IQvIRX.mcsslk.xyz/a5a27888846841c483ac2f8bcc86301f)
