@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-10 02:20:55
+> Updated Time: 2024-12-10 02:43:09
 
 - **tolinkshare2**
-  - **clash**: [*https://XFPYL2.tosslk.xyz/3c968c78474aa770ad89e812a6753be0*](https://XFPYL2.tosslk.xyz/3c968c78474aa770ad89e812a6753be0)
-  - **v2ray**: [*https://XFPYL2.tosslk.xyz/3c968c78474aa770ad89e812a6753be0*](https://XFPYL2.tosslk.xyz/3c968c78474aa770ad89e812a6753be0)
-  - **ios**: [*https://XFPYL2.tosslk.xyz/3c968c78474aa770ad89e812a6753be0*](https://XFPYL2.tosslk.xyz/3c968c78474aa770ad89e812a6753be0)
+  - **clash**: [*https://pHLbff.tosslk.xyz/2662de08254c82e89d2df3ecac273a44*](https://pHLbff.tosslk.xyz/2662de08254c82e89d2df3ecac273a44)
+  - **v2ray**: [*https://pHLbff.tosslk.xyz/2662de08254c82e89d2df3ecac273a44*](https://pHLbff.tosslk.xyz/2662de08254c82e89d2df3ecac273a44)
+  - **ios**: [*https://pHLbff.tosslk.xyz/2662de08254c82e89d2df3ecac273a44*](https://pHLbff.tosslk.xyz/2662de08254c82e89d2df3ecac273a44)
 - **abshare**
-  - **clash**: [*https://TYclUx.absslk.xyz/c1b96fbec66ec5134a572f036be50747*](https://TYclUx.absslk.xyz/c1b96fbec66ec5134a572f036be50747)
-  - **v2ray**: [*https://TYclUx.absslk.xyz/c1b96fbec66ec5134a572f036be50747*](https://TYclUx.absslk.xyz/c1b96fbec66ec5134a572f036be50747)
-  - **ios**: [*https://TYclUx.absslk.xyz/c1b96fbec66ec5134a572f036be50747*](https://TYclUx.absslk.xyz/c1b96fbec66ec5134a572f036be50747)
+  - **clash**: [*https://ifV0fl.absslk.xyz/a86de14751f2cd7b4d6bc20dcb9c384b*](https://ifV0fl.absslk.xyz/a86de14751f2cd7b4d6bc20dcb9c384b)
+  - **v2ray**: [*https://ifV0fl.absslk.xyz/a86de14751f2cd7b4d6bc20dcb9c384b*](https://ifV0fl.absslk.xyz/a86de14751f2cd7b4d6bc20dcb9c384b)
+  - **ios**: [*https://ifV0fl.absslk.xyz/a86de14751f2cd7b4d6bc20dcb9c384b*](https://ifV0fl.absslk.xyz/a86de14751f2cd7b4d6bc20dcb9c384b)
 - **mksshare**
   - **clash**: [*https://APJiRz.mcsslk.xyz/c93bb3c7c39ffee6cecf196f29f59f8e*](https://APJiRz.mcsslk.xyz/c93bb3c7c39ffee6cecf196f29f59f8e)
   - **v2ray**: [*https://APJiRz.mcsslk.xyz/c93bb3c7c39ffee6cecf196f29f59f8e*](https://APJiRz.mcsslk.xyz/c93bb3c7c39ffee6cecf196f29f59f8e)
