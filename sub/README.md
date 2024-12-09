@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-09 20:56:12
+> Updated Time: 2024-12-09 21:05:48
 
 - **tolinkshare2**
   - **clash**: [*https://2Lvmev.tosslk.xyz/48cacdf32fd3316c0c2f979b3908a03a*](https://2Lvmev.tosslk.xyz/48cacdf32fd3316c0c2f979b3908a03a)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://SFGJHn.tosslk.xyz/d45cfd2d95b6f85a21d52232defe5e79*](https://SFGJHn.tosslk.xyz/d45cfd2d95b6f85a21d52232defe5e79)
   - **ios**: [*https://SFGJHn.tosslk.xyz/d45cfd2d95b6f85a21d52232defe5e79*](https://SFGJHn.tosslk.xyz/d45cfd2d95b6f85a21d52232defe5e79)
 - **abshare3**
-  - **clash**: [*https://Z4DIeN.absslk.xyz/134c14dad36748a1d54fe8663758c3ae*](https://Z4DIeN.absslk.xyz/134c14dad36748a1d54fe8663758c3ae)
-  - **v2ray**: [*https://Z4DIeN.absslk.xyz/134c14dad36748a1d54fe8663758c3ae*](https://Z4DIeN.absslk.xyz/134c14dad36748a1d54fe8663758c3ae)
-  - **ios**: [*https://Z4DIeN.absslk.xyz/134c14dad36748a1d54fe8663758c3ae*](https://Z4DIeN.absslk.xyz/134c14dad36748a1d54fe8663758c3ae)
+  - **clash**: [*https://LuGWGS.absslk.xyz/5df39f72861a79f3e650c57e67e4010d*](https://LuGWGS.absslk.xyz/5df39f72861a79f3e650c57e67e4010d)
+  - **v2ray**: [*https://LuGWGS.absslk.xyz/5df39f72861a79f3e650c57e67e4010d*](https://LuGWGS.absslk.xyz/5df39f72861a79f3e650c57e67e4010d)
+  - **ios**: [*https://LuGWGS.absslk.xyz/5df39f72861a79f3e650c57e67e4010d*](https://LuGWGS.absslk.xyz/5df39f72861a79f3e650c57e67e4010d)
