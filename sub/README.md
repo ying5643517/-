@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-10 18:53:41
+> Updated Time: 2024-12-10 19:13:11
 
 - **tolinkshare2**
-  - **clash**: [*https://64zXTx.tosslk.xyz/889d001225cd08244cbc8c8fa716ea9f*](https://64zXTx.tosslk.xyz/889d001225cd08244cbc8c8fa716ea9f)
-  - **v2ray**: [*https://64zXTx.tosslk.xyz/889d001225cd08244cbc8c8fa716ea9f*](https://64zXTx.tosslk.xyz/889d001225cd08244cbc8c8fa716ea9f)
-  - **ios**: [*https://64zXTx.tosslk.xyz/889d001225cd08244cbc8c8fa716ea9f*](https://64zXTx.tosslk.xyz/889d001225cd08244cbc8c8fa716ea9f)
+  - **clash**: [*https://CvmxgJ.tosslk.xyz/311b727427cbef894f288aa4b749b4c5*](https://CvmxgJ.tosslk.xyz/311b727427cbef894f288aa4b749b4c5)
+  - **v2ray**: [*https://CvmxgJ.tosslk.xyz/311b727427cbef894f288aa4b749b4c5*](https://CvmxgJ.tosslk.xyz/311b727427cbef894f288aa4b749b4c5)
+  - **ios**: [*https://CvmxgJ.tosslk.xyz/311b727427cbef894f288aa4b749b4c5*](https://CvmxgJ.tosslk.xyz/311b727427cbef894f288aa4b749b4c5)
 - **abshare**
   - **clash**: [*https://cYlovq.absslk.xyz/fbd823fb8d903d001bd7e736593d2e89*](https://cYlovq.absslk.xyz/fbd823fb8d903d001bd7e736593d2e89)
   - **v2ray**: [*https://cYlovq.absslk.xyz/fbd823fb8d903d001bd7e736593d2e89*](https://cYlovq.absslk.xyz/fbd823fb8d903d001bd7e736593d2e89)
