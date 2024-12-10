@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-10 12:10:17
+> Updated Time: 2024-12-10 12:17:13
 
 - **tolinkshare2**
-  - **clash**: [*https://P1NPMK.tosslk.xyz/5c3d1efa299081b864d9e085c1a95797*](https://P1NPMK.tosslk.xyz/5c3d1efa299081b864d9e085c1a95797)
-  - **v2ray**: [*https://P1NPMK.tosslk.xyz/5c3d1efa299081b864d9e085c1a95797*](https://P1NPMK.tosslk.xyz/5c3d1efa299081b864d9e085c1a95797)
-  - **ios**: [*https://P1NPMK.tosslk.xyz/5c3d1efa299081b864d9e085c1a95797*](https://P1NPMK.tosslk.xyz/5c3d1efa299081b864d9e085c1a95797)
+  - **clash**: [*https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867*](https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867)
+  - **v2ray**: [*https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867*](https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867)
+  - **ios**: [*https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867*](https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867)
 - **abshare**
-  - **clash**: [*https://I77j1Z.absslk.xyz/b74919968106ecb31726309ccba2b62c*](https://I77j1Z.absslk.xyz/b74919968106ecb31726309ccba2b62c)
-  - **v2ray**: [*https://I77j1Z.absslk.xyz/b74919968106ecb31726309ccba2b62c*](https://I77j1Z.absslk.xyz/b74919968106ecb31726309ccba2b62c)
-  - **ios**: [*https://I77j1Z.absslk.xyz/b74919968106ecb31726309ccba2b62c*](https://I77j1Z.absslk.xyz/b74919968106ecb31726309ccba2b62c)
+  - **clash**: [*https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354*](https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354)
+  - **v2ray**: [*https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354*](https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354)
+  - **ios**: [*https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354*](https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354)
 - **mksshare**
   - **clash**: [*https://mrwbEM.mcsslk.xyz/c5171abf11a803e8e54310c4903b99d9*](https://mrwbEM.mcsslk.xyz/c5171abf11a803e8e54310c4903b99d9)
   - **v2ray**: [*https://mrwbEM.mcsslk.xyz/c5171abf11a803e8e54310c4903b99d9*](https://mrwbEM.mcsslk.xyz/c5171abf11a803e8e54310c4903b99d9)
