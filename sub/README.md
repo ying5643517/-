@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-11 01:54:02
+> Updated Time: 2024-12-11 01:59:12
 
 - **tolinkshare2**
-  - **clash**: [*https://6vxxn5.tosslk.xyz/277a38ba1ef1bee08f484b0c4a493c39*](https://6vxxn5.tosslk.xyz/277a38ba1ef1bee08f484b0c4a493c39)
-  - **v2ray**: [*https://6vxxn5.tosslk.xyz/277a38ba1ef1bee08f484b0c4a493c39*](https://6vxxn5.tosslk.xyz/277a38ba1ef1bee08f484b0c4a493c39)
-  - **ios**: [*https://6vxxn5.tosslk.xyz/277a38ba1ef1bee08f484b0c4a493c39*](https://6vxxn5.tosslk.xyz/277a38ba1ef1bee08f484b0c4a493c39)
+  - **clash**: [*https://h1AC1F.tosslk.xyz/12b5a16547811181ccbb30508bd6f930*](https://h1AC1F.tosslk.xyz/12b5a16547811181ccbb30508bd6f930)
+  - **v2ray**: [*https://h1AC1F.tosslk.xyz/12b5a16547811181ccbb30508bd6f930*](https://h1AC1F.tosslk.xyz/12b5a16547811181ccbb30508bd6f930)
+  - **ios**: [*https://h1AC1F.tosslk.xyz/12b5a16547811181ccbb30508bd6f930*](https://h1AC1F.tosslk.xyz/12b5a16547811181ccbb30508bd6f930)
 - **abshare**
-  - **clash**: [*https://nEzltu.absslk.xyz/6555eae87e070a81689462803cb6b2a2*](https://nEzltu.absslk.xyz/6555eae87e070a81689462803cb6b2a2)
-  - **v2ray**: [*https://nEzltu.absslk.xyz/6555eae87e070a81689462803cb6b2a2*](https://nEzltu.absslk.xyz/6555eae87e070a81689462803cb6b2a2)
-  - **ios**: [*https://nEzltu.absslk.xyz/6555eae87e070a81689462803cb6b2a2*](https://nEzltu.absslk.xyz/6555eae87e070a81689462803cb6b2a2)
+  - **clash**: [*https://G1fLFZ.absslk.xyz/6da451f16ca040eb7bbad020231bea65*](https://G1fLFZ.absslk.xyz/6da451f16ca040eb7bbad020231bea65)
+  - **v2ray**: [*https://G1fLFZ.absslk.xyz/6da451f16ca040eb7bbad020231bea65*](https://G1fLFZ.absslk.xyz/6da451f16ca040eb7bbad020231bea65)
+  - **ios**: [*https://G1fLFZ.absslk.xyz/6da451f16ca040eb7bbad020231bea65*](https://G1fLFZ.absslk.xyz/6da451f16ca040eb7bbad020231bea65)
 - **mksshare**
   - **clash**: [*https://VD5Clf.mcsslk.xyz/07046b3397352068d08fc5eb863741bb*](https://VD5Clf.mcsslk.xyz/07046b3397352068d08fc5eb863741bb)
   - **v2ray**: [*https://VD5Clf.mcsslk.xyz/07046b3397352068d08fc5eb863741bb*](https://VD5Clf.mcsslk.xyz/07046b3397352068d08fc5eb863741bb)
