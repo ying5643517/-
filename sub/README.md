@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-11 04:11:20
+> Updated Time: 2024-12-11 04:30:22
 
 - **tolinkshare2**
-  - **clash**: [*https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae*](https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae)
-  - **v2ray**: [*https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae*](https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae)
-  - **ios**: [*https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae*](https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae)
+  - **clash**: [*https://4qrLQ3.tosslk.xyz/be101204d9e530d6ed470babaf128537*](https://4qrLQ3.tosslk.xyz/be101204d9e530d6ed470babaf128537)
+  - **v2ray**: [*https://4qrLQ3.tosslk.xyz/be101204d9e530d6ed470babaf128537*](https://4qrLQ3.tosslk.xyz/be101204d9e530d6ed470babaf128537)
+  - **ios**: [*https://4qrLQ3.tosslk.xyz/be101204d9e530d6ed470babaf128537*](https://4qrLQ3.tosslk.xyz/be101204d9e530d6ed470babaf128537)
 - **abshare**
-  - **clash**: [*https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e*](https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e)
-  - **v2ray**: [*https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e*](https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e)
-  - **ios**: [*https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e*](https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e)
+  - **clash**: [*https://a6l5Sb.absslk.xyz/39b85f0579321860bbc8d1072148a3db*](https://a6l5Sb.absslk.xyz/39b85f0579321860bbc8d1072148a3db)
+  - **v2ray**: [*https://a6l5Sb.absslk.xyz/39b85f0579321860bbc8d1072148a3db*](https://a6l5Sb.absslk.xyz/39b85f0579321860bbc8d1072148a3db)
+  - **ios**: [*https://a6l5Sb.absslk.xyz/39b85f0579321860bbc8d1072148a3db*](https://a6l5Sb.absslk.xyz/39b85f0579321860bbc8d1072148a3db)
 - **mksshare**
   - **clash**: [*https://hFQHow.mcsslk.xyz/9cce76677b306d5ea9e4167b7e0cc3fd*](https://hFQHow.mcsslk.xyz/9cce76677b306d5ea9e4167b7e0cc3fd)
   - **v2ray**: [*https://hFQHow.mcsslk.xyz/9cce76677b306d5ea9e4167b7e0cc3fd*](https://hFQHow.mcsslk.xyz/9cce76677b306d5ea9e4167b7e0cc3fd)
