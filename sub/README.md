@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-11 04:30:22
+> Updated Time: 2024-12-11 05:30:32
 
 - **tolinkshare2**
   - **clash**: [*https://4qrLQ3.tosslk.xyz/be101204d9e530d6ed470babaf128537*](https://4qrLQ3.tosslk.xyz/be101204d9e530d6ed470babaf128537)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://QCMG1H.tosslk.xyz/12e318fc600b7efc7787e4f59808ae2a*](https://QCMG1H.tosslk.xyz/12e318fc600b7efc7787e4f59808ae2a)
   - **ios**: [*https://QCMG1H.tosslk.xyz/12e318fc600b7efc7787e4f59808ae2a*](https://QCMG1H.tosslk.xyz/12e318fc600b7efc7787e4f59808ae2a)
 - **abshare3**
-  - **clash**: [*https://Nk9CUQ.absslk.xyz/b95303240e29d6443eb1105cd65a0aa3*](https://Nk9CUQ.absslk.xyz/b95303240e29d6443eb1105cd65a0aa3)
-  - **v2ray**: [*https://Nk9CUQ.absslk.xyz/b95303240e29d6443eb1105cd65a0aa3*](https://Nk9CUQ.absslk.xyz/b95303240e29d6443eb1105cd65a0aa3)
-  - **ios**: [*https://Nk9CUQ.absslk.xyz/b95303240e29d6443eb1105cd65a0aa3*](https://Nk9CUQ.absslk.xyz/b95303240e29d6443eb1105cd65a0aa3)
+  - **clash**: [*https://i0WzDo.absslk.xyz/374664240d5c7a596ee846676c74577b*](https://i0WzDo.absslk.xyz/374664240d5c7a596ee846676c74577b)
+  - **v2ray**: [*https://i0WzDo.absslk.xyz/374664240d5c7a596ee846676c74577b*](https://i0WzDo.absslk.xyz/374664240d5c7a596ee846676c74577b)
+  - **ios**: [*https://i0WzDo.absslk.xyz/374664240d5c7a596ee846676c74577b*](https://i0WzDo.absslk.xyz/374664240d5c7a596ee846676c74577b)
