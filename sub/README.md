@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-10 12:32:54
+> Updated Time: 2024-12-10 12:52:32
 
 - **tolinkshare2**
-  - **clash**: [*https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867*](https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867)
-  - **v2ray**: [*https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867*](https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867)
-  - **ios**: [*https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867*](https://RPXx4h.tosslk.xyz/c92ff8bf0aca4b2efd8883cb53657867)
+  - **clash**: [*https://66omyC.tosslk.xyz/35250f9fa9184076402b3f1fec23a90f*](https://66omyC.tosslk.xyz/35250f9fa9184076402b3f1fec23a90f)
+  - **v2ray**: [*https://66omyC.tosslk.xyz/35250f9fa9184076402b3f1fec23a90f*](https://66omyC.tosslk.xyz/35250f9fa9184076402b3f1fec23a90f)
+  - **ios**: [*https://66omyC.tosslk.xyz/35250f9fa9184076402b3f1fec23a90f*](https://66omyC.tosslk.xyz/35250f9fa9184076402b3f1fec23a90f)
 - **abshare**
-  - **clash**: [*https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354*](https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354)
-  - **v2ray**: [*https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354*](https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354)
-  - **ios**: [*https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354*](https://48GWY4.absslk.xyz/009751e1bb1a32668fb4c6b2abf95354)
+  - **clash**: [*https://jbwMX7.absslk.xyz/b54b111a57e5fb9b75ae6eaed1ee37d8*](https://jbwMX7.absslk.xyz/b54b111a57e5fb9b75ae6eaed1ee37d8)
+  - **v2ray**: [*https://jbwMX7.absslk.xyz/b54b111a57e5fb9b75ae6eaed1ee37d8*](https://jbwMX7.absslk.xyz/b54b111a57e5fb9b75ae6eaed1ee37d8)
+  - **ios**: [*https://jbwMX7.absslk.xyz/b54b111a57e5fb9b75ae6eaed1ee37d8*](https://jbwMX7.absslk.xyz/b54b111a57e5fb9b75ae6eaed1ee37d8)
 - **mksshare**
   - **clash**: [*https://TG0ZQ1.mcsslk.xyz/fc1b62a2bdeb42dacdc6b1fb9c06f0a9*](https://TG0ZQ1.mcsslk.xyz/fc1b62a2bdeb42dacdc6b1fb9c06f0a9)
   - **v2ray**: [*https://TG0ZQ1.mcsslk.xyz/fc1b62a2bdeb42dacdc6b1fb9c06f0a9*](https://TG0ZQ1.mcsslk.xyz/fc1b62a2bdeb42dacdc6b1fb9c06f0a9)
