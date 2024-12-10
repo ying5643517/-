@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-11 03:11:33
+> Updated Time: 2024-12-11 03:56:33
 
 - **tolinkshare2**
-  - **clash**: [*https://IoPleW.tosslk.xyz/d0ca4391ef297a174f8f0fbc0bbdf5d0*](https://IoPleW.tosslk.xyz/d0ca4391ef297a174f8f0fbc0bbdf5d0)
-  - **v2ray**: [*https://IoPleW.tosslk.xyz/d0ca4391ef297a174f8f0fbc0bbdf5d0*](https://IoPleW.tosslk.xyz/d0ca4391ef297a174f8f0fbc0bbdf5d0)
-  - **ios**: [*https://IoPleW.tosslk.xyz/d0ca4391ef297a174f8f0fbc0bbdf5d0*](https://IoPleW.tosslk.xyz/d0ca4391ef297a174f8f0fbc0bbdf5d0)
+  - **clash**: [*https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae*](https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae)
+  - **v2ray**: [*https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae*](https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae)
+  - **ios**: [*https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae*](https://MabjAZ.tosslk.xyz/e8c949d838b7ac87657d65ecbce3eaae)
 - **abshare**
   - **clash**: [*https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e*](https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e)
   - **v2ray**: [*https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e*](https://iHKE35.absslk.xyz/d8f2d73a44716d4051f5ab24d4c5ec5e)
