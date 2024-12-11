@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-12 01:39:31
+> Updated Time: 2024-12-12 01:45:21
 
 - **tolinkshare2**
-  - **clash**: [*https://GeDIdo.tosslk.xyz/7b8e5b5887f03f36031dbe3ac409c765*](https://GeDIdo.tosslk.xyz/7b8e5b5887f03f36031dbe3ac409c765)
-  - **v2ray**: [*https://GeDIdo.tosslk.xyz/7b8e5b5887f03f36031dbe3ac409c765*](https://GeDIdo.tosslk.xyz/7b8e5b5887f03f36031dbe3ac409c765)
-  - **ios**: [*https://GeDIdo.tosslk.xyz/7b8e5b5887f03f36031dbe3ac409c765*](https://GeDIdo.tosslk.xyz/7b8e5b5887f03f36031dbe3ac409c765)
+  - **clash**: [*https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b*](https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b)
+  - **v2ray**: [*https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b*](https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b)
+  - **ios**: [*https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b*](https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b)
 - **abshare**
-  - **clash**: [*https://0KTMs1.absslk.xyz/a423a722d4c7ea53eb954c5b167dec15*](https://0KTMs1.absslk.xyz/a423a722d4c7ea53eb954c5b167dec15)
-  - **v2ray**: [*https://0KTMs1.absslk.xyz/a423a722d4c7ea53eb954c5b167dec15*](https://0KTMs1.absslk.xyz/a423a722d4c7ea53eb954c5b167dec15)
-  - **ios**: [*https://0KTMs1.absslk.xyz/a423a722d4c7ea53eb954c5b167dec15*](https://0KTMs1.absslk.xyz/a423a722d4c7ea53eb954c5b167dec15)
+  - **clash**: [*https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0*](https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0)
+  - **v2ray**: [*https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0*](https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0)
+  - **ios**: [*https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0*](https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0)
 - **mksshare**
   - **clash**: [*https://leZIgx.mcsslk.xyz/b83116e2f19e722ec7d897658c32f82c*](https://leZIgx.mcsslk.xyz/b83116e2f19e722ec7d897658c32f82c)
   - **v2ray**: [*https://leZIgx.mcsslk.xyz/b83116e2f19e722ec7d897658c32f82c*](https://leZIgx.mcsslk.xyz/b83116e2f19e722ec7d897658c32f82c)
