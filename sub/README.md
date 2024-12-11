@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-11 21:44:29
+> Updated Time: 2024-12-11 21:50:15
 
 - **tolinkshare2**
-  - **clash**: [*https://tzmQi1.tosslk.xyz/cf1a3394957e03b0544b1704002b0dce*](https://tzmQi1.tosslk.xyz/cf1a3394957e03b0544b1704002b0dce)
-  - **v2ray**: [*https://tzmQi1.tosslk.xyz/cf1a3394957e03b0544b1704002b0dce*](https://tzmQi1.tosslk.xyz/cf1a3394957e03b0544b1704002b0dce)
-  - **ios**: [*https://tzmQi1.tosslk.xyz/cf1a3394957e03b0544b1704002b0dce*](https://tzmQi1.tosslk.xyz/cf1a3394957e03b0544b1704002b0dce)
+  - **clash**: [*https://FctbQS.tosslk.xyz/e2cb1f5983f8b2c03203d4ed2bc7d2d8*](https://FctbQS.tosslk.xyz/e2cb1f5983f8b2c03203d4ed2bc7d2d8)
+  - **v2ray**: [*https://FctbQS.tosslk.xyz/e2cb1f5983f8b2c03203d4ed2bc7d2d8*](https://FctbQS.tosslk.xyz/e2cb1f5983f8b2c03203d4ed2bc7d2d8)
+  - **ios**: [*https://FctbQS.tosslk.xyz/e2cb1f5983f8b2c03203d4ed2bc7d2d8*](https://FctbQS.tosslk.xyz/e2cb1f5983f8b2c03203d4ed2bc7d2d8)
 - **abshare**
   - **clash**: [*https://FhhGNb.absslk.xyz/b0a22a9afd6e0e4f044185a87b5d23ab*](https://FhhGNb.absslk.xyz/b0a22a9afd6e0e4f044185a87b5d23ab)
   - **v2ray**: [*https://FhhGNb.absslk.xyz/b0a22a9afd6e0e4f044185a87b5d23ab*](https://FhhGNb.absslk.xyz/b0a22a9afd6e0e4f044185a87b5d23ab)
