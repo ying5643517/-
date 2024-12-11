@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-12 02:19:16
+> Updated Time: 2024-12-12 02:39:14
 
 - **tolinkshare2**
-  - **clash**: [*https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b*](https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b)
-  - **v2ray**: [*https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b*](https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b)
-  - **ios**: [*https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b*](https://sdOVtN.tosslk.xyz/4c13dad1e03ddeb4b9bb155b3942235b)
+  - **clash**: [*https://HqN606.tosslk.xyz/8ad4d5286bb8acd0154503afbb9752aa*](https://HqN606.tosslk.xyz/8ad4d5286bb8acd0154503afbb9752aa)
+  - **v2ray**: [*https://HqN606.tosslk.xyz/8ad4d5286bb8acd0154503afbb9752aa*](https://HqN606.tosslk.xyz/8ad4d5286bb8acd0154503afbb9752aa)
+  - **ios**: [*https://HqN606.tosslk.xyz/8ad4d5286bb8acd0154503afbb9752aa*](https://HqN606.tosslk.xyz/8ad4d5286bb8acd0154503afbb9752aa)
 - **abshare**
-  - **clash**: [*https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0*](https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0)
-  - **v2ray**: [*https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0*](https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0)
-  - **ios**: [*https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0*](https://bu6R8f.absslk.xyz/42aa45cca1723081bb859fc492fbe1e0)
+  - **clash**: [*https://6l6O6v.absslk.xyz/8be50ab99f6241b4881b2b0616f58045*](https://6l6O6v.absslk.xyz/8be50ab99f6241b4881b2b0616f58045)
+  - **v2ray**: [*https://6l6O6v.absslk.xyz/8be50ab99f6241b4881b2b0616f58045*](https://6l6O6v.absslk.xyz/8be50ab99f6241b4881b2b0616f58045)
+  - **ios**: [*https://6l6O6v.absslk.xyz/8be50ab99f6241b4881b2b0616f58045*](https://6l6O6v.absslk.xyz/8be50ab99f6241b4881b2b0616f58045)
 - **mksshare**
   - **clash**: [*https://rGVkMy.mcsslk.xyz/6641feb0d35b38c2b832ace77b9e6937*](https://rGVkMy.mcsslk.xyz/6641feb0d35b38c2b832ace77b9e6937)
   - **v2ray**: [*https://rGVkMy.mcsslk.xyz/6641feb0d35b38c2b832ace77b9e6937*](https://rGVkMy.mcsslk.xyz/6641feb0d35b38c2b832ace77b9e6937)
