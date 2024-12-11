@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-11 19:30:22
+> Updated Time: 2024-12-11 19:47:35
 
 - **tolinkshare2**
-  - **clash**: [*https://CVraHM.tosslk.xyz/d8fc79066776ba0be53eae528ad462a4*](https://CVraHM.tosslk.xyz/d8fc79066776ba0be53eae528ad462a4)
-  - **v2ray**: [*https://CVraHM.tosslk.xyz/d8fc79066776ba0be53eae528ad462a4*](https://CVraHM.tosslk.xyz/d8fc79066776ba0be53eae528ad462a4)
-  - **ios**: [*https://CVraHM.tosslk.xyz/d8fc79066776ba0be53eae528ad462a4*](https://CVraHM.tosslk.xyz/d8fc79066776ba0be53eae528ad462a4)
+  - **clash**: [*https://qPMqps.tosslk.xyz/358360c2b293cc37a7a5b640770232f1*](https://qPMqps.tosslk.xyz/358360c2b293cc37a7a5b640770232f1)
+  - **v2ray**: [*https://qPMqps.tosslk.xyz/358360c2b293cc37a7a5b640770232f1*](https://qPMqps.tosslk.xyz/358360c2b293cc37a7a5b640770232f1)
+  - **ios**: [*https://qPMqps.tosslk.xyz/358360c2b293cc37a7a5b640770232f1*](https://qPMqps.tosslk.xyz/358360c2b293cc37a7a5b640770232f1)
 - **abshare**
   - **clash**: [*https://49w9VI.absslk.xyz/661c08cae439f9b63bde89ad0d0a116f*](https://49w9VI.absslk.xyz/661c08cae439f9b63bde89ad0d0a116f)
   - **v2ray**: [*https://49w9VI.absslk.xyz/661c08cae439f9b63bde89ad0d0a116f*](https://49w9VI.absslk.xyz/661c08cae439f9b63bde89ad0d0a116f)
