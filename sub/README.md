@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-11 15:59:10
+> Updated Time: 2024-12-11 16:41:35
 
 - **tolinkshare2**
-  - **clash**: [*https://XolEud.tosslk.xyz/5ab193e3795245f54494c72cd2ecb074*](https://XolEud.tosslk.xyz/5ab193e3795245f54494c72cd2ecb074)
-  - **v2ray**: [*https://XolEud.tosslk.xyz/5ab193e3795245f54494c72cd2ecb074*](https://XolEud.tosslk.xyz/5ab193e3795245f54494c72cd2ecb074)
-  - **ios**: [*https://XolEud.tosslk.xyz/5ab193e3795245f54494c72cd2ecb074*](https://XolEud.tosslk.xyz/5ab193e3795245f54494c72cd2ecb074)
+  - **clash**: [*https://TBhRDP.tosslk.xyz/26bbac05e2b20229c961460582d881e1*](https://TBhRDP.tosslk.xyz/26bbac05e2b20229c961460582d881e1)
+  - **v2ray**: [*https://TBhRDP.tosslk.xyz/26bbac05e2b20229c961460582d881e1*](https://TBhRDP.tosslk.xyz/26bbac05e2b20229c961460582d881e1)
+  - **ios**: [*https://TBhRDP.tosslk.xyz/26bbac05e2b20229c961460582d881e1*](https://TBhRDP.tosslk.xyz/26bbac05e2b20229c961460582d881e1)
 - **abshare**
   - **clash**: [*https://EXqeQS.absslk.xyz/072212ed9c14deb37d801b336516c109*](https://EXqeQS.absslk.xyz/072212ed9c14deb37d801b336516c109)
   - **v2ray**: [*https://EXqeQS.absslk.xyz/072212ed9c14deb37d801b336516c109*](https://EXqeQS.absslk.xyz/072212ed9c14deb37d801b336516c109)
