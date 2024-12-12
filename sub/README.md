@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-12 13:14:35
+> Updated Time: 2024-12-12 13:33:00
 
 - **tolinkshare2**
-  - **clash**: [*https://JwHJeF.tosslk.xyz/cb2da78478b8bba6103b44ba91958e96*](https://JwHJeF.tosslk.xyz/cb2da78478b8bba6103b44ba91958e96)
-  - **v2ray**: [*https://JwHJeF.tosslk.xyz/cb2da78478b8bba6103b44ba91958e96*](https://JwHJeF.tosslk.xyz/cb2da78478b8bba6103b44ba91958e96)
-  - **ios**: [*https://JwHJeF.tosslk.xyz/cb2da78478b8bba6103b44ba91958e96*](https://JwHJeF.tosslk.xyz/cb2da78478b8bba6103b44ba91958e96)
+  - **clash**: [*https://AVQZx5.tosslk.xyz/90c1296b4fc35c392133c850a2943c23*](https://AVQZx5.tosslk.xyz/90c1296b4fc35c392133c850a2943c23)
+  - **v2ray**: [*https://AVQZx5.tosslk.xyz/90c1296b4fc35c392133c850a2943c23*](https://AVQZx5.tosslk.xyz/90c1296b4fc35c392133c850a2943c23)
+  - **ios**: [*https://AVQZx5.tosslk.xyz/90c1296b4fc35c392133c850a2943c23*](https://AVQZx5.tosslk.xyz/90c1296b4fc35c392133c850a2943c23)
 - **abshare**
-  - **clash**: [*https://uwvtkk.absslk.xyz/004508b19be0450b7d1b3dcc7672f187*](https://uwvtkk.absslk.xyz/004508b19be0450b7d1b3dcc7672f187)
-  - **v2ray**: [*https://uwvtkk.absslk.xyz/004508b19be0450b7d1b3dcc7672f187*](https://uwvtkk.absslk.xyz/004508b19be0450b7d1b3dcc7672f187)
-  - **ios**: [*https://uwvtkk.absslk.xyz/004508b19be0450b7d1b3dcc7672f187*](https://uwvtkk.absslk.xyz/004508b19be0450b7d1b3dcc7672f187)
+  - **clash**: [*https://VtS4Ov.absslk.xyz/732593f3b10f008f7d81f30aff914d4e*](https://VtS4Ov.absslk.xyz/732593f3b10f008f7d81f30aff914d4e)
+  - **v2ray**: [*https://VtS4Ov.absslk.xyz/732593f3b10f008f7d81f30aff914d4e*](https://VtS4Ov.absslk.xyz/732593f3b10f008f7d81f30aff914d4e)
+  - **ios**: [*https://VtS4Ov.absslk.xyz/732593f3b10f008f7d81f30aff914d4e*](https://VtS4Ov.absslk.xyz/732593f3b10f008f7d81f30aff914d4e)
 - **mksshare**
   - **clash**: [*https://LdzJqN.mcsslk.xyz/4ea7956f421d8327f04bb4c1dd868d45*](https://LdzJqN.mcsslk.xyz/4ea7956f421d8327f04bb4c1dd868d45)
   - **v2ray**: [*https://LdzJqN.mcsslk.xyz/4ea7956f421d8327f04bb4c1dd868d45*](https://LdzJqN.mcsslk.xyz/4ea7956f421d8327f04bb4c1dd868d45)
