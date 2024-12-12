@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-12 17:30:46
+> Updated Time: 2024-12-12 17:41:00
 
 - **tolinkshare2**
   - **clash**: [*https://Zas15l.tosslk.xyz/58842d3f7dbd2033f54d8c5ac8104545*](https://Zas15l.tosslk.xyz/58842d3f7dbd2033f54d8c5ac8104545)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://VSTd60.tosslk.xyz/0a45025d76c235f59084d56eee06869e*](https://VSTd60.tosslk.xyz/0a45025d76c235f59084d56eee06869e)
   - **ios**: [*https://VSTd60.tosslk.xyz/0a45025d76c235f59084d56eee06869e*](https://VSTd60.tosslk.xyz/0a45025d76c235f59084d56eee06869e)
 - **abshare3**
-  - **clash**: [*https://QQ4c1y.absslk.xyz/fac28c5a0d043e755f7196f2bc5866d2*](https://QQ4c1y.absslk.xyz/fac28c5a0d043e755f7196f2bc5866d2)
-  - **v2ray**: [*https://QQ4c1y.absslk.xyz/fac28c5a0d043e755f7196f2bc5866d2*](https://QQ4c1y.absslk.xyz/fac28c5a0d043e755f7196f2bc5866d2)
-  - **ios**: [*https://QQ4c1y.absslk.xyz/fac28c5a0d043e755f7196f2bc5866d2*](https://QQ4c1y.absslk.xyz/fac28c5a0d043e755f7196f2bc5866d2)
+  - **clash**: [*https://FCMZ2F.absslk.xyz/cb30427efe0fe7a8bcd779f870b9c883*](https://FCMZ2F.absslk.xyz/cb30427efe0fe7a8bcd779f870b9c883)
+  - **v2ray**: [*https://FCMZ2F.absslk.xyz/cb30427efe0fe7a8bcd779f870b9c883*](https://FCMZ2F.absslk.xyz/cb30427efe0fe7a8bcd779f870b9c883)
+  - **ios**: [*https://FCMZ2F.absslk.xyz/cb30427efe0fe7a8bcd779f870b9c883*](https://FCMZ2F.absslk.xyz/cb30427efe0fe7a8bcd779f870b9c883)
