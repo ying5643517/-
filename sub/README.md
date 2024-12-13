@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-13 18:40:02
+> Updated Time: 2024-12-13 18:59:03
 
 - **tolinkshare2**
-  - **clash**: [*https://DP0A6g.tosslk.xyz/6f47c3352897a3cb472749bb5a2cf77c*](https://DP0A6g.tosslk.xyz/6f47c3352897a3cb472749bb5a2cf77c)
-  - **v2ray**: [*https://DP0A6g.tosslk.xyz/6f47c3352897a3cb472749bb5a2cf77c*](https://DP0A6g.tosslk.xyz/6f47c3352897a3cb472749bb5a2cf77c)
-  - **ios**: [*https://DP0A6g.tosslk.xyz/6f47c3352897a3cb472749bb5a2cf77c*](https://DP0A6g.tosslk.xyz/6f47c3352897a3cb472749bb5a2cf77c)
+  - **clash**: [*https://OzZyxi.tosslk.xyz/1e7bcd0e2dfe2d5cdeddeb240f61c956*](https://OzZyxi.tosslk.xyz/1e7bcd0e2dfe2d5cdeddeb240f61c956)
+  - **v2ray**: [*https://OzZyxi.tosslk.xyz/1e7bcd0e2dfe2d5cdeddeb240f61c956*](https://OzZyxi.tosslk.xyz/1e7bcd0e2dfe2d5cdeddeb240f61c956)
+  - **ios**: [*https://OzZyxi.tosslk.xyz/1e7bcd0e2dfe2d5cdeddeb240f61c956*](https://OzZyxi.tosslk.xyz/1e7bcd0e2dfe2d5cdeddeb240f61c956)
 - **abshare**
   - **clash**: [*https://bGd88B.absslk.xyz/a0167eef63667b120137ae5fee1196e1*](https://bGd88B.absslk.xyz/a0167eef63667b120137ae5fee1196e1)
   - **v2ray**: [*https://bGd88B.absslk.xyz/a0167eef63667b120137ae5fee1196e1*](https://bGd88B.absslk.xyz/a0167eef63667b120137ae5fee1196e1)
