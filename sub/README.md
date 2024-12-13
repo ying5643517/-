@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-13 17:28:22
+> Updated Time: 2024-12-13 17:44:24
 
 - **tolinkshare2**
-  - **clash**: [*https://SpmHeO.tosslk.xyz/02088143f4828e500f2a44f7c2c1864a*](https://SpmHeO.tosslk.xyz/02088143f4828e500f2a44f7c2c1864a)
-  - **v2ray**: [*https://SpmHeO.tosslk.xyz/02088143f4828e500f2a44f7c2c1864a*](https://SpmHeO.tosslk.xyz/02088143f4828e500f2a44f7c2c1864a)
-  - **ios**: [*https://SpmHeO.tosslk.xyz/02088143f4828e500f2a44f7c2c1864a*](https://SpmHeO.tosslk.xyz/02088143f4828e500f2a44f7c2c1864a)
+  - **clash**: [*https://6NuYGm.tosslk.xyz/4a93617a3eb6a687b6b4e09fe6aa948f*](https://6NuYGm.tosslk.xyz/4a93617a3eb6a687b6b4e09fe6aa948f)
+  - **v2ray**: [*https://6NuYGm.tosslk.xyz/4a93617a3eb6a687b6b4e09fe6aa948f*](https://6NuYGm.tosslk.xyz/4a93617a3eb6a687b6b4e09fe6aa948f)
+  - **ios**: [*https://6NuYGm.tosslk.xyz/4a93617a3eb6a687b6b4e09fe6aa948f*](https://6NuYGm.tosslk.xyz/4a93617a3eb6a687b6b4e09fe6aa948f)
 - **abshare**
   - **clash**: [*https://8Ytk3L.absslk.xyz/fbcc6020d5fffe4346218a33b4c0d5c2*](https://8Ytk3L.absslk.xyz/fbcc6020d5fffe4346218a33b4c0d5c2)
   - **v2ray**: [*https://8Ytk3L.absslk.xyz/fbcc6020d5fffe4346218a33b4c0d5c2*](https://8Ytk3L.absslk.xyz/fbcc6020d5fffe4346218a33b4c0d5c2)
