@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-13 16:55:48
+> Updated Time: 2024-12-13 17:09:01
 
 - **tolinkshare2**
-  - **clash**: [*https://aOHPXi.tosslk.xyz/2f96f51e07fd32cce65e8f595e014cb8*](https://aOHPXi.tosslk.xyz/2f96f51e07fd32cce65e8f595e014cb8)
-  - **v2ray**: [*https://aOHPXi.tosslk.xyz/2f96f51e07fd32cce65e8f595e014cb8*](https://aOHPXi.tosslk.xyz/2f96f51e07fd32cce65e8f595e014cb8)
-  - **ios**: [*https://aOHPXi.tosslk.xyz/2f96f51e07fd32cce65e8f595e014cb8*](https://aOHPXi.tosslk.xyz/2f96f51e07fd32cce65e8f595e014cb8)
+  - **clash**: [*https://4ZGu4R.tosslk.xyz/133c2e3bec54371bb2c7fd84027fab24*](https://4ZGu4R.tosslk.xyz/133c2e3bec54371bb2c7fd84027fab24)
+  - **v2ray**: [*https://4ZGu4R.tosslk.xyz/133c2e3bec54371bb2c7fd84027fab24*](https://4ZGu4R.tosslk.xyz/133c2e3bec54371bb2c7fd84027fab24)
+  - **ios**: [*https://4ZGu4R.tosslk.xyz/133c2e3bec54371bb2c7fd84027fab24*](https://4ZGu4R.tosslk.xyz/133c2e3bec54371bb2c7fd84027fab24)
 - **abshare**
   - **clash**: [*https://k9lcb2.absslk.xyz/a056e890c2810960adef56c6cf3de76f*](https://k9lcb2.absslk.xyz/a056e890c2810960adef56c6cf3de76f)
   - **v2ray**: [*https://k9lcb2.absslk.xyz/a056e890c2810960adef56c6cf3de76f*](https://k9lcb2.absslk.xyz/a056e890c2810960adef56c6cf3de76f)
