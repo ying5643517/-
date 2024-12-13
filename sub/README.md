@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-14 06:34:27
+> Updated Time: 2024-12-14 06:49:29
 
 - **tolinkshare2**
-  - **clash**: [*https://xouCH3.tosslk.xyz/4ca80fcdf8f1dbe025111ea600c289ed*](https://xouCH3.tosslk.xyz/4ca80fcdf8f1dbe025111ea600c289ed)
-  - **v2ray**: [*https://xouCH3.tosslk.xyz/4ca80fcdf8f1dbe025111ea600c289ed*](https://xouCH3.tosslk.xyz/4ca80fcdf8f1dbe025111ea600c289ed)
-  - **ios**: [*https://xouCH3.tosslk.xyz/4ca80fcdf8f1dbe025111ea600c289ed*](https://xouCH3.tosslk.xyz/4ca80fcdf8f1dbe025111ea600c289ed)
+  - **clash**: [*https://MwEMzA.tosslk.xyz/15f510b7041bad27d14b64d6f1449da5*](https://MwEMzA.tosslk.xyz/15f510b7041bad27d14b64d6f1449da5)
+  - **v2ray**: [*https://MwEMzA.tosslk.xyz/15f510b7041bad27d14b64d6f1449da5*](https://MwEMzA.tosslk.xyz/15f510b7041bad27d14b64d6f1449da5)
+  - **ios**: [*https://MwEMzA.tosslk.xyz/15f510b7041bad27d14b64d6f1449da5*](https://MwEMzA.tosslk.xyz/15f510b7041bad27d14b64d6f1449da5)
 - **abshare**
-  - **clash**: [*https://5m1GsY.absslk.xyz/911724eb695c7860f299dc4828c737d4*](https://5m1GsY.absslk.xyz/911724eb695c7860f299dc4828c737d4)
-  - **v2ray**: [*https://5m1GsY.absslk.xyz/911724eb695c7860f299dc4828c737d4*](https://5m1GsY.absslk.xyz/911724eb695c7860f299dc4828c737d4)
-  - **ios**: [*https://5m1GsY.absslk.xyz/911724eb695c7860f299dc4828c737d4*](https://5m1GsY.absslk.xyz/911724eb695c7860f299dc4828c737d4)
+  - **clash**: [*https://931o94.absslk.xyz/b17faacdc450ea0782b27eeffc83d034*](https://931o94.absslk.xyz/b17faacdc450ea0782b27eeffc83d034)
+  - **v2ray**: [*https://931o94.absslk.xyz/b17faacdc450ea0782b27eeffc83d034*](https://931o94.absslk.xyz/b17faacdc450ea0782b27eeffc83d034)
+  - **ios**: [*https://931o94.absslk.xyz/b17faacdc450ea0782b27eeffc83d034*](https://931o94.absslk.xyz/b17faacdc450ea0782b27eeffc83d034)
 - **mksshare**
   - **clash**: [*https://3dGzqi.mcsslk.xyz/27a6e645dc6f34cd803f7b1935cdf629*](https://3dGzqi.mcsslk.xyz/27a6e645dc6f34cd803f7b1935cdf629)
   - **v2ray**: [*https://3dGzqi.mcsslk.xyz/27a6e645dc6f34cd803f7b1935cdf629*](https://3dGzqi.mcsslk.xyz/27a6e645dc6f34cd803f7b1935cdf629)
