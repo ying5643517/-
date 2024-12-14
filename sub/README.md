@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 05:25:50
+> Updated Time: 2024-12-15 05:53:37
 
 - **tolinkshare2**
-  - **clash**: [*https://c7YoXM.tosslk.xyz/b1a5e0f260f3f1b1e26fd217075bd72b*](https://c7YoXM.tosslk.xyz/b1a5e0f260f3f1b1e26fd217075bd72b)
-  - **v2ray**: [*https://c7YoXM.tosslk.xyz/b1a5e0f260f3f1b1e26fd217075bd72b*](https://c7YoXM.tosslk.xyz/b1a5e0f260f3f1b1e26fd217075bd72b)
-  - **ios**: [*https://c7YoXM.tosslk.xyz/b1a5e0f260f3f1b1e26fd217075bd72b*](https://c7YoXM.tosslk.xyz/b1a5e0f260f3f1b1e26fd217075bd72b)
+  - **clash**: [*https://3TuCNL.tosslk.xyz/cb323eaf6e0abe3a8e5ed789c5c30c9c*](https://3TuCNL.tosslk.xyz/cb323eaf6e0abe3a8e5ed789c5c30c9c)
+  - **v2ray**: [*https://3TuCNL.tosslk.xyz/cb323eaf6e0abe3a8e5ed789c5c30c9c*](https://3TuCNL.tosslk.xyz/cb323eaf6e0abe3a8e5ed789c5c30c9c)
+  - **ios**: [*https://3TuCNL.tosslk.xyz/cb323eaf6e0abe3a8e5ed789c5c30c9c*](https://3TuCNL.tosslk.xyz/cb323eaf6e0abe3a8e5ed789c5c30c9c)
 - **abshare**
   - **clash**: [*https://V1NAF0.absslk.xyz/02a6382a0f4593dda583ccde8de1d2c8*](https://V1NAF0.absslk.xyz/02a6382a0f4593dda583ccde8de1d2c8)
   - **v2ray**: [*https://V1NAF0.absslk.xyz/02a6382a0f4593dda583ccde8de1d2c8*](https://V1NAF0.absslk.xyz/02a6382a0f4593dda583ccde8de1d2c8)
