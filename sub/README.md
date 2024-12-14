@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-14 15:44:05
+> Updated Time: 2024-12-14 16:00:09
 
 - **tolinkshare2**
-  - **clash**: [*https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627*](https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627)
-  - **v2ray**: [*https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627*](https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627)
-  - **ios**: [*https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627*](https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627)
+  - **clash**: [*https://UVsT08.tosslk.xyz/c93b7bf959eef8e204573cc1c5d316cb*](https://UVsT08.tosslk.xyz/c93b7bf959eef8e204573cc1c5d316cb)
+  - **v2ray**: [*https://UVsT08.tosslk.xyz/c93b7bf959eef8e204573cc1c5d316cb*](https://UVsT08.tosslk.xyz/c93b7bf959eef8e204573cc1c5d316cb)
+  - **ios**: [*https://UVsT08.tosslk.xyz/c93b7bf959eef8e204573cc1c5d316cb*](https://UVsT08.tosslk.xyz/c93b7bf959eef8e204573cc1c5d316cb)
 - **abshare**
   - **clash**: [*https://mqNoXw.absslk.xyz/3827f408b1d18c7b2bb58986fa517fab*](https://mqNoXw.absslk.xyz/3827f408b1d18c7b2bb58986fa517fab)
   - **v2ray**: [*https://mqNoXw.absslk.xyz/3827f408b1d18c7b2bb58986fa517fab*](https://mqNoXw.absslk.xyz/3827f408b1d18c7b2bb58986fa517fab)
