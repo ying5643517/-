@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-14 18:40:40
+> Updated Time: 2024-12-14 18:56:26
 
 - **tolinkshare2**
-  - **clash**: [*https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b*](https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b)
-  - **v2ray**: [*https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b*](https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b)
-  - **ios**: [*https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b*](https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b)
+  - **clash**: [*https://EceLQ9.tosslk.xyz/0a6b17a6c5e5d78ae3d2218146daff1f*](https://EceLQ9.tosslk.xyz/0a6b17a6c5e5d78ae3d2218146daff1f)
+  - **v2ray**: [*https://EceLQ9.tosslk.xyz/0a6b17a6c5e5d78ae3d2218146daff1f*](https://EceLQ9.tosslk.xyz/0a6b17a6c5e5d78ae3d2218146daff1f)
+  - **ios**: [*https://EceLQ9.tosslk.xyz/0a6b17a6c5e5d78ae3d2218146daff1f*](https://EceLQ9.tosslk.xyz/0a6b17a6c5e5d78ae3d2218146daff1f)
 - **abshare**
   - **clash**: [*https://V2wLSs.absslk.xyz/51c09f5cc8a01d3e7f13b0c05f081e6d*](https://V2wLSs.absslk.xyz/51c09f5cc8a01d3e7f13b0c05f081e6d)
   - **v2ray**: [*https://V2wLSs.absslk.xyz/51c09f5cc8a01d3e7f13b0c05f081e6d*](https://V2wLSs.absslk.xyz/51c09f5cc8a01d3e7f13b0c05f081e6d)
