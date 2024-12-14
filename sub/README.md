@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-14 17:26:56
+> Updated Time: 2024-12-14 17:34:29
 
 - **tolinkshare2**
-  - **clash**: [*https://aSGOjH.tosslk.xyz/dc4fe3958d0574de206d8f8b04c401a6*](https://aSGOjH.tosslk.xyz/dc4fe3958d0574de206d8f8b04c401a6)
-  - **v2ray**: [*https://aSGOjH.tosslk.xyz/dc4fe3958d0574de206d8f8b04c401a6*](https://aSGOjH.tosslk.xyz/dc4fe3958d0574de206d8f8b04c401a6)
-  - **ios**: [*https://aSGOjH.tosslk.xyz/dc4fe3958d0574de206d8f8b04c401a6*](https://aSGOjH.tosslk.xyz/dc4fe3958d0574de206d8f8b04c401a6)
+  - **clash**: [*https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b*](https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b)
+  - **v2ray**: [*https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b*](https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b)
+  - **ios**: [*https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b*](https://VEulDU.tosslk.xyz/86bd9cf7d26023c40d1d63c1bd63202b)
 - **abshare**
-  - **clash**: [*https://Ul5pwV.absslk.xyz/cf4f13ac2ddbf97fb961e6634b856938*](https://Ul5pwV.absslk.xyz/cf4f13ac2ddbf97fb961e6634b856938)
-  - **v2ray**: [*https://Ul5pwV.absslk.xyz/cf4f13ac2ddbf97fb961e6634b856938*](https://Ul5pwV.absslk.xyz/cf4f13ac2ddbf97fb961e6634b856938)
-  - **ios**: [*https://Ul5pwV.absslk.xyz/cf4f13ac2ddbf97fb961e6634b856938*](https://Ul5pwV.absslk.xyz/cf4f13ac2ddbf97fb961e6634b856938)
+  - **clash**: [*https://yLsdeO.absslk.xyz/909c7c439e9a17640df73931225ca7fe*](https://yLsdeO.absslk.xyz/909c7c439e9a17640df73931225ca7fe)
+  - **v2ray**: [*https://yLsdeO.absslk.xyz/909c7c439e9a17640df73931225ca7fe*](https://yLsdeO.absslk.xyz/909c7c439e9a17640df73931225ca7fe)
+  - **ios**: [*https://yLsdeO.absslk.xyz/909c7c439e9a17640df73931225ca7fe*](https://yLsdeO.absslk.xyz/909c7c439e9a17640df73931225ca7fe)
 - **mksshare**
   - **clash**: [*https://WpMisR.mcsslk.xyz/a274bc73334c201b074f2c4dde349ac0*](https://WpMisR.mcsslk.xyz/a274bc73334c201b074f2c4dde349ac0)
   - **v2ray**: [*https://WpMisR.mcsslk.xyz/a274bc73334c201b074f2c4dde349ac0*](https://WpMisR.mcsslk.xyz/a274bc73334c201b074f2c4dde349ac0)
