@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-14 15:32:29
+> Updated Time: 2024-12-14 15:38:53
 
 - **tolinkshare2**
-  - **clash**: [*https://kmWxPJ.tosslk.xyz/b0a1eda2d06895e499fb8d41915bdaaf*](https://kmWxPJ.tosslk.xyz/b0a1eda2d06895e499fb8d41915bdaaf)
-  - **v2ray**: [*https://kmWxPJ.tosslk.xyz/b0a1eda2d06895e499fb8d41915bdaaf*](https://kmWxPJ.tosslk.xyz/b0a1eda2d06895e499fb8d41915bdaaf)
-  - **ios**: [*https://kmWxPJ.tosslk.xyz/b0a1eda2d06895e499fb8d41915bdaaf*](https://kmWxPJ.tosslk.xyz/b0a1eda2d06895e499fb8d41915bdaaf)
+  - **clash**: [*https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627*](https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627)
+  - **v2ray**: [*https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627*](https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627)
+  - **ios**: [*https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627*](https://CoycI3.tosslk.xyz/62a924761a4d8c108f4996b22a8b0627)
 - **abshare**
   - **clash**: [*https://02h5qe.absslk.xyz/17e1996bbd30ab65374c8ab658c8ab8b*](https://02h5qe.absslk.xyz/17e1996bbd30ab65374c8ab658c8ab8b)
   - **v2ray**: [*https://02h5qe.absslk.xyz/17e1996bbd30ab65374c8ab658c8ab8b*](https://02h5qe.absslk.xyz/17e1996bbd30ab65374c8ab658c8ab8b)
