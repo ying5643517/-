@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-14 12:44:45
+> Updated Time: 2024-12-14 12:50:18
 
 - **tolinkshare2**
-  - **clash**: [*https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77*](https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77)
-  - **v2ray**: [*https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77*](https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77)
-  - **ios**: [*https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77*](https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77)
+  - **clash**: [*https://jVQmIf.tosslk.xyz/efa418819f9ae8e52e92c745e99bcf2d*](https://jVQmIf.tosslk.xyz/efa418819f9ae8e52e92c745e99bcf2d)
+  - **v2ray**: [*https://jVQmIf.tosslk.xyz/efa418819f9ae8e52e92c745e99bcf2d*](https://jVQmIf.tosslk.xyz/efa418819f9ae8e52e92c745e99bcf2d)
+  - **ios**: [*https://jVQmIf.tosslk.xyz/efa418819f9ae8e52e92c745e99bcf2d*](https://jVQmIf.tosslk.xyz/efa418819f9ae8e52e92c745e99bcf2d)
 - **abshare**
   - **clash**: [*https://7izQDT.absslk.xyz/ca31d4baf2b532388f97ade77a8fb960*](https://7izQDT.absslk.xyz/ca31d4baf2b532388f97ade77a8fb960)
   - **v2ray**: [*https://7izQDT.absslk.xyz/ca31d4baf2b532388f97ade77a8fb960*](https://7izQDT.absslk.xyz/ca31d4baf2b532388f97ade77a8fb960)
