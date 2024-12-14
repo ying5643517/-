@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-14 23:53:06
+> Updated Time: 2024-12-14 23:58:10
 
 - **tolinkshare2**
   - **clash**: [*https://JhpdqY.tosslk.xyz/eede3c121ed156da75adac46c1d1eac0*](https://JhpdqY.tosslk.xyz/eede3c121ed156da75adac46c1d1eac0)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://m0p0o5.tosslk.xyz/ed35d8486b006f3e3d649760984d5899*](https://m0p0o5.tosslk.xyz/ed35d8486b006f3e3d649760984d5899)
   - **ios**: [*https://m0p0o5.tosslk.xyz/ed35d8486b006f3e3d649760984d5899*](https://m0p0o5.tosslk.xyz/ed35d8486b006f3e3d649760984d5899)
 - **abshare3**
-  - **clash**: [*https://YuS2vv.absslk.xyz/57da13bcce4a224a8ad3014d838a4f79*](https://YuS2vv.absslk.xyz/57da13bcce4a224a8ad3014d838a4f79)
-  - **v2ray**: [*https://YuS2vv.absslk.xyz/57da13bcce4a224a8ad3014d838a4f79*](https://YuS2vv.absslk.xyz/57da13bcce4a224a8ad3014d838a4f79)
-  - **ios**: [*https://YuS2vv.absslk.xyz/57da13bcce4a224a8ad3014d838a4f79*](https://YuS2vv.absslk.xyz/57da13bcce4a224a8ad3014d838a4f79)
+  - **clash**: [*https://w3a40U.absslk.xyz/4292da37c68b44111be8ff9c01d8a28d*](https://w3a40U.absslk.xyz/4292da37c68b44111be8ff9c01d8a28d)
+  - **v2ray**: [*https://w3a40U.absslk.xyz/4292da37c68b44111be8ff9c01d8a28d*](https://w3a40U.absslk.xyz/4292da37c68b44111be8ff9c01d8a28d)
+  - **ios**: [*https://w3a40U.absslk.xyz/4292da37c68b44111be8ff9c01d8a28d*](https://w3a40U.absslk.xyz/4292da37c68b44111be8ff9c01d8a28d)
