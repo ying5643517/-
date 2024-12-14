@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 00:34:30
+> Updated Time: 2024-12-15 00:45:27
 
 - **tolinkshare2**
-  - **clash**: [*https://rryKHm.tosslk.xyz/107b748770d1947f1cbf81800df38d15*](https://rryKHm.tosslk.xyz/107b748770d1947f1cbf81800df38d15)
-  - **v2ray**: [*https://rryKHm.tosslk.xyz/107b748770d1947f1cbf81800df38d15*](https://rryKHm.tosslk.xyz/107b748770d1947f1cbf81800df38d15)
-  - **ios**: [*https://rryKHm.tosslk.xyz/107b748770d1947f1cbf81800df38d15*](https://rryKHm.tosslk.xyz/107b748770d1947f1cbf81800df38d15)
+  - **clash**: [*https://IortJi.tosslk.xyz/7100cbb0773efc6d4f4a595f3b477340*](https://IortJi.tosslk.xyz/7100cbb0773efc6d4f4a595f3b477340)
+  - **v2ray**: [*https://IortJi.tosslk.xyz/7100cbb0773efc6d4f4a595f3b477340*](https://IortJi.tosslk.xyz/7100cbb0773efc6d4f4a595f3b477340)
+  - **ios**: [*https://IortJi.tosslk.xyz/7100cbb0773efc6d4f4a595f3b477340*](https://IortJi.tosslk.xyz/7100cbb0773efc6d4f4a595f3b477340)
 - **abshare**
   - **clash**: [*https://rLXaKW.absslk.xyz/a1d71df50d5a879078ef8492990837b7*](https://rLXaKW.absslk.xyz/a1d71df50d5a879078ef8492990837b7)
   - **v2ray**: [*https://rLXaKW.absslk.xyz/a1d71df50d5a879078ef8492990837b7*](https://rLXaKW.absslk.xyz/a1d71df50d5a879078ef8492990837b7)
