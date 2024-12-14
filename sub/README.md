@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-14 11:43:19
+> Updated Time: 2024-12-14 12:16:00
 
 - **tolinkshare2**
-  - **clash**: [*https://nMmdEp.tosslk.xyz/49b7de19e0d12f1094c226e3d7cc02ce*](https://nMmdEp.tosslk.xyz/49b7de19e0d12f1094c226e3d7cc02ce)
-  - **v2ray**: [*https://nMmdEp.tosslk.xyz/49b7de19e0d12f1094c226e3d7cc02ce*](https://nMmdEp.tosslk.xyz/49b7de19e0d12f1094c226e3d7cc02ce)
-  - **ios**: [*https://nMmdEp.tosslk.xyz/49b7de19e0d12f1094c226e3d7cc02ce*](https://nMmdEp.tosslk.xyz/49b7de19e0d12f1094c226e3d7cc02ce)
+  - **clash**: [*https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77*](https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77)
+  - **v2ray**: [*https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77*](https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77)
+  - **ios**: [*https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77*](https://194bod.tosslk.xyz/10cad90328eaa39193e8c3b2b6d2cb77)
 - **abshare**
-  - **clash**: [*https://M6PEIQ.absslk.xyz/91f5738d681c895150f049d3249d88bb*](https://M6PEIQ.absslk.xyz/91f5738d681c895150f049d3249d88bb)
-  - **v2ray**: [*https://M6PEIQ.absslk.xyz/91f5738d681c895150f049d3249d88bb*](https://M6PEIQ.absslk.xyz/91f5738d681c895150f049d3249d88bb)
-  - **ios**: [*https://M6PEIQ.absslk.xyz/91f5738d681c895150f049d3249d88bb*](https://M6PEIQ.absslk.xyz/91f5738d681c895150f049d3249d88bb)
+  - **clash**: [*https://kCNZve.absslk.xyz/2e87fc3102bc73d0e9db73fd30acaaf2*](https://kCNZve.absslk.xyz/2e87fc3102bc73d0e9db73fd30acaaf2)
+  - **v2ray**: [*https://kCNZve.absslk.xyz/2e87fc3102bc73d0e9db73fd30acaaf2*](https://kCNZve.absslk.xyz/2e87fc3102bc73d0e9db73fd30acaaf2)
+  - **ios**: [*https://kCNZve.absslk.xyz/2e87fc3102bc73d0e9db73fd30acaaf2*](https://kCNZve.absslk.xyz/2e87fc3102bc73d0e9db73fd30acaaf2)
 - **mksshare**
   - **clash**: [*https://CDgEUB.mcsslk.xyz/0fc82e236dd9ef6c91006e350713edd2*](https://CDgEUB.mcsslk.xyz/0fc82e236dd9ef6c91006e350713edd2)
   - **v2ray**: [*https://CDgEUB.mcsslk.xyz/0fc82e236dd9ef6c91006e350713edd2*](https://CDgEUB.mcsslk.xyz/0fc82e236dd9ef6c91006e350713edd2)
