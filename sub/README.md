@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 18:42:25
+> Updated Time: 2024-12-15 18:47:51
 
 - **tolinkshare2**
-  - **clash**: [*https://rxwW4e.tosslk.xyz/c72aa1e98e682cb703aba3801f4473f2*](https://rxwW4e.tosslk.xyz/c72aa1e98e682cb703aba3801f4473f2)
-  - **v2ray**: [*https://rxwW4e.tosslk.xyz/c72aa1e98e682cb703aba3801f4473f2*](https://rxwW4e.tosslk.xyz/c72aa1e98e682cb703aba3801f4473f2)
-  - **ios**: [*https://rxwW4e.tosslk.xyz/c72aa1e98e682cb703aba3801f4473f2*](https://rxwW4e.tosslk.xyz/c72aa1e98e682cb703aba3801f4473f2)
+  - **clash**: [*https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb*](https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb)
+  - **v2ray**: [*https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb*](https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb)
+  - **ios**: [*https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb*](https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb)
 - **abshare**
   - **clash**: [*https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5*](https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5)
   - **v2ray**: [*https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5*](https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5)
