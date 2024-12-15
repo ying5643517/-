@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-16 04:59:47
+> Updated Time: 2024-12-16 05:44:47
 
 - **tolinkshare2**
-  - **clash**: [*https://AMZu5P.tosslk.xyz/e1c39377161843bf5b694297b4a36091*](https://AMZu5P.tosslk.xyz/e1c39377161843bf5b694297b4a36091)
-  - **v2ray**: [*https://AMZu5P.tosslk.xyz/e1c39377161843bf5b694297b4a36091*](https://AMZu5P.tosslk.xyz/e1c39377161843bf5b694297b4a36091)
-  - **ios**: [*https://AMZu5P.tosslk.xyz/e1c39377161843bf5b694297b4a36091*](https://AMZu5P.tosslk.xyz/e1c39377161843bf5b694297b4a36091)
+  - **clash**: [*https://p31a0I.tosslk.xyz/8984d9d69c42215ba6178ff65af44645*](https://p31a0I.tosslk.xyz/8984d9d69c42215ba6178ff65af44645)
+  - **v2ray**: [*https://p31a0I.tosslk.xyz/8984d9d69c42215ba6178ff65af44645*](https://p31a0I.tosslk.xyz/8984d9d69c42215ba6178ff65af44645)
+  - **ios**: [*https://p31a0I.tosslk.xyz/8984d9d69c42215ba6178ff65af44645*](https://p31a0I.tosslk.xyz/8984d9d69c42215ba6178ff65af44645)
 - **abshare**
-  - **clash**: [*https://obkUow.absslk.xyz/40c6de1f32ff8331c4fe79c8c1679ced*](https://obkUow.absslk.xyz/40c6de1f32ff8331c4fe79c8c1679ced)
-  - **v2ray**: [*https://obkUow.absslk.xyz/40c6de1f32ff8331c4fe79c8c1679ced*](https://obkUow.absslk.xyz/40c6de1f32ff8331c4fe79c8c1679ced)
-  - **ios**: [*https://obkUow.absslk.xyz/40c6de1f32ff8331c4fe79c8c1679ced*](https://obkUow.absslk.xyz/40c6de1f32ff8331c4fe79c8c1679ced)
+  - **clash**: [*https://Bl22a4.absslk.xyz/fabf5f489f2a4f5e83795a14dbc7bcdc*](https://Bl22a4.absslk.xyz/fabf5f489f2a4f5e83795a14dbc7bcdc)
+  - **v2ray**: [*https://Bl22a4.absslk.xyz/fabf5f489f2a4f5e83795a14dbc7bcdc*](https://Bl22a4.absslk.xyz/fabf5f489f2a4f5e83795a14dbc7bcdc)
+  - **ios**: [*https://Bl22a4.absslk.xyz/fabf5f489f2a4f5e83795a14dbc7bcdc*](https://Bl22a4.absslk.xyz/fabf5f489f2a4f5e83795a14dbc7bcdc)
 - **mksshare**
   - **clash**: [*https://sm19pY.mcsslk.xyz/563abb2aa8db6d3b7b8860b4bec022f4*](https://sm19pY.mcsslk.xyz/563abb2aa8db6d3b7b8860b4bec022f4)
   - **v2ray**: [*https://sm19pY.mcsslk.xyz/563abb2aa8db6d3b7b8860b4bec022f4*](https://sm19pY.mcsslk.xyz/563abb2aa8db6d3b7b8860b4bec022f4)
