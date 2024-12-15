@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 15:25:54
+> Updated Time: 2024-12-15 15:31:42
 
 - **tolinkshare2**
-  - **clash**: [*https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1*](https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1)
-  - **v2ray**: [*https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1*](https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1)
-  - **ios**: [*https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1*](https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1)
+  - **clash**: [*https://ZBpYc8.tosslk.xyz/73e3adf2482f151dde6c1650ecbb0c23*](https://ZBpYc8.tosslk.xyz/73e3adf2482f151dde6c1650ecbb0c23)
+  - **v2ray**: [*https://ZBpYc8.tosslk.xyz/73e3adf2482f151dde6c1650ecbb0c23*](https://ZBpYc8.tosslk.xyz/73e3adf2482f151dde6c1650ecbb0c23)
+  - **ios**: [*https://ZBpYc8.tosslk.xyz/73e3adf2482f151dde6c1650ecbb0c23*](https://ZBpYc8.tosslk.xyz/73e3adf2482f151dde6c1650ecbb0c23)
 - **abshare**
   - **clash**: [*https://lDLUJT.absslk.xyz/179a77a98ada6f2584c76bd835492b6b*](https://lDLUJT.absslk.xyz/179a77a98ada6f2584c76bd835492b6b)
   - **v2ray**: [*https://lDLUJT.absslk.xyz/179a77a98ada6f2584c76bd835492b6b*](https://lDLUJT.absslk.xyz/179a77a98ada6f2584c76bd835492b6b)
