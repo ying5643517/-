@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 18:53:16
+> Updated Time: 2024-12-15 18:58:45
 
 - **tolinkshare2**
-  - **clash**: [*https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb*](https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb)
-  - **v2ray**: [*https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb*](https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb)
-  - **ios**: [*https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb*](https://pBXZnH.tosslk.xyz/4eaef217539b70feace8cb24a0877cdb)
+  - **clash**: [*https://O1xTAx.tosslk.xyz/a67387e466e495ebf2c9f7af48b25deb*](https://O1xTAx.tosslk.xyz/a67387e466e495ebf2c9f7af48b25deb)
+  - **v2ray**: [*https://O1xTAx.tosslk.xyz/a67387e466e495ebf2c9f7af48b25deb*](https://O1xTAx.tosslk.xyz/a67387e466e495ebf2c9f7af48b25deb)
+  - **ios**: [*https://O1xTAx.tosslk.xyz/a67387e466e495ebf2c9f7af48b25deb*](https://O1xTAx.tosslk.xyz/a67387e466e495ebf2c9f7af48b25deb)
 - **abshare**
   - **clash**: [*https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5*](https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5)
   - **v2ray**: [*https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5*](https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5)
