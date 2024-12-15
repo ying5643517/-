@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 14:58:25
+> Updated Time: 2024-12-15 15:12:36
 
 - **tolinkshare2**
-  - **clash**: [*https://tLx1WT.tosslk.xyz/21719a02ca4314c00e3d1e9d7cc39c3f*](https://tLx1WT.tosslk.xyz/21719a02ca4314c00e3d1e9d7cc39c3f)
-  - **v2ray**: [*https://tLx1WT.tosslk.xyz/21719a02ca4314c00e3d1e9d7cc39c3f*](https://tLx1WT.tosslk.xyz/21719a02ca4314c00e3d1e9d7cc39c3f)
-  - **ios**: [*https://tLx1WT.tosslk.xyz/21719a02ca4314c00e3d1e9d7cc39c3f*](https://tLx1WT.tosslk.xyz/21719a02ca4314c00e3d1e9d7cc39c3f)
+  - **clash**: [*https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1*](https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1)
+  - **v2ray**: [*https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1*](https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1)
+  - **ios**: [*https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1*](https://C6t04m.tosslk.xyz/cb718baf413e31928d672ef74e00e3d1)
 - **abshare**
-  - **clash**: [*https://xYCqqO.absslk.xyz/c06d0f962cfc01f147aaa4d0ed6825aa*](https://xYCqqO.absslk.xyz/c06d0f962cfc01f147aaa4d0ed6825aa)
-  - **v2ray**: [*https://xYCqqO.absslk.xyz/c06d0f962cfc01f147aaa4d0ed6825aa*](https://xYCqqO.absslk.xyz/c06d0f962cfc01f147aaa4d0ed6825aa)
-  - **ios**: [*https://xYCqqO.absslk.xyz/c06d0f962cfc01f147aaa4d0ed6825aa*](https://xYCqqO.absslk.xyz/c06d0f962cfc01f147aaa4d0ed6825aa)
+  - **clash**: [*https://EkmQLG.absslk.xyz/bf91ab7ab1488c1aed8e7df288756595*](https://EkmQLG.absslk.xyz/bf91ab7ab1488c1aed8e7df288756595)
+  - **v2ray**: [*https://EkmQLG.absslk.xyz/bf91ab7ab1488c1aed8e7df288756595*](https://EkmQLG.absslk.xyz/bf91ab7ab1488c1aed8e7df288756595)
+  - **ios**: [*https://EkmQLG.absslk.xyz/bf91ab7ab1488c1aed8e7df288756595*](https://EkmQLG.absslk.xyz/bf91ab7ab1488c1aed8e7df288756595)
 - **mksshare**
   - **clash**: [*https://WrleuA.mcsslk.xyz/57329fa5e50e232f6a6e641529c3bd38*](https://WrleuA.mcsslk.xyz/57329fa5e50e232f6a6e641529c3bd38)
   - **v2ray**: [*https://WrleuA.mcsslk.xyz/57329fa5e50e232f6a6e641529c3bd38*](https://WrleuA.mcsslk.xyz/57329fa5e50e232f6a6e641529c3bd38)
