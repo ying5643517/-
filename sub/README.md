@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 17:33:32
+> Updated Time: 2024-12-15 17:40:44
 
 - **tolinkshare2**
   - **clash**: [*https://Pj8DlL.tosslk.xyz/f9247257305483f2d80250f79b023f72*](https://Pj8DlL.tosslk.xyz/f9247257305483f2d80250f79b023f72)
@@ -40,10 +40,10 @@
   - **v2ray**: [*https://qOmG4v.mcsslk.xyz/df358ac1f942eab58c207d7c5c151562*](https://qOmG4v.mcsslk.xyz/df358ac1f942eab58c207d7c5c151562)
   - **ios**: [*https://qOmG4v.mcsslk.xyz/df358ac1f942eab58c207d7c5c151562*](https://qOmG4v.mcsslk.xyz/df358ac1f942eab58c207d7c5c151562)
 - **toshare5**
-  - **clash**: [*https://x4yoRH.tosslk.xyz/d0f869a0b7e5153495bc66a493f2039f*](https://x4yoRH.tosslk.xyz/d0f869a0b7e5153495bc66a493f2039f)
-  - **v2ray**: [*https://x4yoRH.tosslk.xyz/d0f869a0b7e5153495bc66a493f2039f*](https://x4yoRH.tosslk.xyz/d0f869a0b7e5153495bc66a493f2039f)
-  - **ios**: [*https://x4yoRH.tosslk.xyz/d0f869a0b7e5153495bc66a493f2039f*](https://x4yoRH.tosslk.xyz/d0f869a0b7e5153495bc66a493f2039f)
+  - **clash**: [*https://5P99EN.tosslk.xyz/b5f1758cefb60e99e92b2cb63354c841*](https://5P99EN.tosslk.xyz/b5f1758cefb60e99e92b2cb63354c841)
+  - **v2ray**: [*https://5P99EN.tosslk.xyz/b5f1758cefb60e99e92b2cb63354c841*](https://5P99EN.tosslk.xyz/b5f1758cefb60e99e92b2cb63354c841)
+  - **ios**: [*https://5P99EN.tosslk.xyz/b5f1758cefb60e99e92b2cb63354c841*](https://5P99EN.tosslk.xyz/b5f1758cefb60e99e92b2cb63354c841)
 - **abshare3**
-  - **clash**: [*https://enTN2X.absslk.xyz/451812e902c0ff28f78eb50e707bcad4*](https://enTN2X.absslk.xyz/451812e902c0ff28f78eb50e707bcad4)
-  - **v2ray**: [*https://enTN2X.absslk.xyz/451812e902c0ff28f78eb50e707bcad4*](https://enTN2X.absslk.xyz/451812e902c0ff28f78eb50e707bcad4)
-  - **ios**: [*https://enTN2X.absslk.xyz/451812e902c0ff28f78eb50e707bcad4*](https://enTN2X.absslk.xyz/451812e902c0ff28f78eb50e707bcad4)
+  - **clash**: [*https://64oq40.absslk.xyz/dc038ddbfe18db53c052b217077b21d3*](https://64oq40.absslk.xyz/dc038ddbfe18db53c052b217077b21d3)
+  - **v2ray**: [*https://64oq40.absslk.xyz/dc038ddbfe18db53c052b217077b21d3*](https://64oq40.absslk.xyz/dc038ddbfe18db53c052b217077b21d3)
+  - **ios**: [*https://64oq40.absslk.xyz/dc038ddbfe18db53c052b217077b21d3*](https://64oq40.absslk.xyz/dc038ddbfe18db53c052b217077b21d3)
