@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 19:39:59
+> Updated Time: 2024-12-15 19:50:20
 
 - **tolinkshare2**
-  - **clash**: [*https://nEKyu5.tosslk.xyz/a8c27cb401120cb3b4d829411ed2295b*](https://nEKyu5.tosslk.xyz/a8c27cb401120cb3b4d829411ed2295b)
-  - **v2ray**: [*https://nEKyu5.tosslk.xyz/a8c27cb401120cb3b4d829411ed2295b*](https://nEKyu5.tosslk.xyz/a8c27cb401120cb3b4d829411ed2295b)
-  - **ios**: [*https://nEKyu5.tosslk.xyz/a8c27cb401120cb3b4d829411ed2295b*](https://nEKyu5.tosslk.xyz/a8c27cb401120cb3b4d829411ed2295b)
+  - **clash**: [*https://WWLEsw.tosslk.xyz/7b024c0720c56942a9478d2b2774bbe6*](https://WWLEsw.tosslk.xyz/7b024c0720c56942a9478d2b2774bbe6)
+  - **v2ray**: [*https://WWLEsw.tosslk.xyz/7b024c0720c56942a9478d2b2774bbe6*](https://WWLEsw.tosslk.xyz/7b024c0720c56942a9478d2b2774bbe6)
+  - **ios**: [*https://WWLEsw.tosslk.xyz/7b024c0720c56942a9478d2b2774bbe6*](https://WWLEsw.tosslk.xyz/7b024c0720c56942a9478d2b2774bbe6)
 - **abshare**
-  - **clash**: [*https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5*](https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5)
-  - **v2ray**: [*https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5*](https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5)
-  - **ios**: [*https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5*](https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5)
+  - **clash**: [*https://NYv3zt.absslk.xyz/1cf84aef5ffbf4df59ddded0d5bb60cc*](https://NYv3zt.absslk.xyz/1cf84aef5ffbf4df59ddded0d5bb60cc)
+  - **v2ray**: [*https://NYv3zt.absslk.xyz/1cf84aef5ffbf4df59ddded0d5bb60cc*](https://NYv3zt.absslk.xyz/1cf84aef5ffbf4df59ddded0d5bb60cc)
+  - **ios**: [*https://NYv3zt.absslk.xyz/1cf84aef5ffbf4df59ddded0d5bb60cc*](https://NYv3zt.absslk.xyz/1cf84aef5ffbf4df59ddded0d5bb60cc)
 - **mksshare**
   - **clash**: [*https://IzC4uC.mcsslk.xyz/eeee40901600500306c5dfcd1204a510*](https://IzC4uC.mcsslk.xyz/eeee40901600500306c5dfcd1204a510)
   - **v2ray**: [*https://IzC4uC.mcsslk.xyz/eeee40901600500306c5dfcd1204a510*](https://IzC4uC.mcsslk.xyz/eeee40901600500306c5dfcd1204a510)
