@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 13:49:59
+> Updated Time: 2024-12-15 14:09:58
 
 - **tolinkshare2**
-  - **clash**: [*https://L2O0sz.tosslk.xyz/49431d164495214e7fa477a9f29b83bd*](https://L2O0sz.tosslk.xyz/49431d164495214e7fa477a9f29b83bd)
-  - **v2ray**: [*https://L2O0sz.tosslk.xyz/49431d164495214e7fa477a9f29b83bd*](https://L2O0sz.tosslk.xyz/49431d164495214e7fa477a9f29b83bd)
-  - **ios**: [*https://L2O0sz.tosslk.xyz/49431d164495214e7fa477a9f29b83bd*](https://L2O0sz.tosslk.xyz/49431d164495214e7fa477a9f29b83bd)
+  - **clash**: [*https://q2kZgd.tosslk.xyz/4b6b851ad699b1d775eb1d2dae160424*](https://q2kZgd.tosslk.xyz/4b6b851ad699b1d775eb1d2dae160424)
+  - **v2ray**: [*https://q2kZgd.tosslk.xyz/4b6b851ad699b1d775eb1d2dae160424*](https://q2kZgd.tosslk.xyz/4b6b851ad699b1d775eb1d2dae160424)
+  - **ios**: [*https://q2kZgd.tosslk.xyz/4b6b851ad699b1d775eb1d2dae160424*](https://q2kZgd.tosslk.xyz/4b6b851ad699b1d775eb1d2dae160424)
 - **abshare**
-  - **clash**: [*https://7rBT19.absslk.xyz/7b33f87818a3d5289d47c9fc3d734a3f*](https://7rBT19.absslk.xyz/7b33f87818a3d5289d47c9fc3d734a3f)
-  - **v2ray**: [*https://7rBT19.absslk.xyz/7b33f87818a3d5289d47c9fc3d734a3f*](https://7rBT19.absslk.xyz/7b33f87818a3d5289d47c9fc3d734a3f)
-  - **ios**: [*https://7rBT19.absslk.xyz/7b33f87818a3d5289d47c9fc3d734a3f*](https://7rBT19.absslk.xyz/7b33f87818a3d5289d47c9fc3d734a3f)
+  - **clash**: [*https://NdYZdt.absslk.xyz/b9a3f836b82cf1326effade1d2ea75db*](https://NdYZdt.absslk.xyz/b9a3f836b82cf1326effade1d2ea75db)
+  - **v2ray**: [*https://NdYZdt.absslk.xyz/b9a3f836b82cf1326effade1d2ea75db*](https://NdYZdt.absslk.xyz/b9a3f836b82cf1326effade1d2ea75db)
+  - **ios**: [*https://NdYZdt.absslk.xyz/b9a3f836b82cf1326effade1d2ea75db*](https://NdYZdt.absslk.xyz/b9a3f836b82cf1326effade1d2ea75db)
 - **mksshare**
   - **clash**: [*https://nVerou.mcsslk.xyz/d90fc8416f64a256f66aebe49fa5d398*](https://nVerou.mcsslk.xyz/d90fc8416f64a256f66aebe49fa5d398)
   - **v2ray**: [*https://nVerou.mcsslk.xyz/d90fc8416f64a256f66aebe49fa5d398*](https://nVerou.mcsslk.xyz/d90fc8416f64a256f66aebe49fa5d398)
