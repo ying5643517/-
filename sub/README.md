@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 19:11:19
+> Updated Time: 2024-12-15 19:22:19
 
 - **tolinkshare2**
-  - **clash**: [*https://FZZhf5.tosslk.xyz/042f394c60fe7caabb1e880bc8e9011b*](https://FZZhf5.tosslk.xyz/042f394c60fe7caabb1e880bc8e9011b)
-  - **v2ray**: [*https://FZZhf5.tosslk.xyz/042f394c60fe7caabb1e880bc8e9011b*](https://FZZhf5.tosslk.xyz/042f394c60fe7caabb1e880bc8e9011b)
-  - **ios**: [*https://FZZhf5.tosslk.xyz/042f394c60fe7caabb1e880bc8e9011b*](https://FZZhf5.tosslk.xyz/042f394c60fe7caabb1e880bc8e9011b)
+  - **clash**: [*https://EprnL8.tosslk.xyz/394e54092a261fdec52a0d15d5ff7d75*](https://EprnL8.tosslk.xyz/394e54092a261fdec52a0d15d5ff7d75)
+  - **v2ray**: [*https://EprnL8.tosslk.xyz/394e54092a261fdec52a0d15d5ff7d75*](https://EprnL8.tosslk.xyz/394e54092a261fdec52a0d15d5ff7d75)
+  - **ios**: [*https://EprnL8.tosslk.xyz/394e54092a261fdec52a0d15d5ff7d75*](https://EprnL8.tosslk.xyz/394e54092a261fdec52a0d15d5ff7d75)
 - **abshare**
-  - **clash**: [*https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5*](https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5)
-  - **v2ray**: [*https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5*](https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5)
-  - **ios**: [*https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5*](https://bFGCSE.absslk.xyz/d0623ec6492e06dccdde171b2309e0e5)
+  - **clash**: [*https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5*](https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5)
+  - **v2ray**: [*https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5*](https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5)
+  - **ios**: [*https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5*](https://6Wp7pO.absslk.xyz/776379de431db03b175de19d5df25bf5)
 - **mksshare**
   - **clash**: [*https://RBiyHS.mcsslk.xyz/1b7e31caaa1904390465a11f6251293b*](https://RBiyHS.mcsslk.xyz/1b7e31caaa1904390465a11f6251293b)
   - **v2ray**: [*https://RBiyHS.mcsslk.xyz/1b7e31caaa1904390465a11f6251293b*](https://RBiyHS.mcsslk.xyz/1b7e31caaa1904390465a11f6251293b)
