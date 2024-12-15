@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-15 17:09:33
+> Updated Time: 2024-12-15 17:26:03
 
 - **tolinkshare2**
-  - **clash**: [*https://mEgCBJ.tosslk.xyz/30f6656e7d700c6ce39a77b6aae0b5e5*](https://mEgCBJ.tosslk.xyz/30f6656e7d700c6ce39a77b6aae0b5e5)
-  - **v2ray**: [*https://mEgCBJ.tosslk.xyz/30f6656e7d700c6ce39a77b6aae0b5e5*](https://mEgCBJ.tosslk.xyz/30f6656e7d700c6ce39a77b6aae0b5e5)
-  - **ios**: [*https://mEgCBJ.tosslk.xyz/30f6656e7d700c6ce39a77b6aae0b5e5*](https://mEgCBJ.tosslk.xyz/30f6656e7d700c6ce39a77b6aae0b5e5)
+  - **clash**: [*https://bWUZrw.tosslk.xyz/7e279340c71a4ff0ac234edf47d3c5f1*](https://bWUZrw.tosslk.xyz/7e279340c71a4ff0ac234edf47d3c5f1)
+  - **v2ray**: [*https://bWUZrw.tosslk.xyz/7e279340c71a4ff0ac234edf47d3c5f1*](https://bWUZrw.tosslk.xyz/7e279340c71a4ff0ac234edf47d3c5f1)
+  - **ios**: [*https://bWUZrw.tosslk.xyz/7e279340c71a4ff0ac234edf47d3c5f1*](https://bWUZrw.tosslk.xyz/7e279340c71a4ff0ac234edf47d3c5f1)
 - **abshare**
-  - **clash**: [*https://KXitjn.absslk.xyz/d6898f3113f4d48ef51fcd05196c6272*](https://KXitjn.absslk.xyz/d6898f3113f4d48ef51fcd05196c6272)
-  - **v2ray**: [*https://KXitjn.absslk.xyz/d6898f3113f4d48ef51fcd05196c6272*](https://KXitjn.absslk.xyz/d6898f3113f4d48ef51fcd05196c6272)
-  - **ios**: [*https://KXitjn.absslk.xyz/d6898f3113f4d48ef51fcd05196c6272*](https://KXitjn.absslk.xyz/d6898f3113f4d48ef51fcd05196c6272)
+  - **clash**: [*https://X9bx6R.absslk.xyz/2dc0018d6eba07a589a656700d9da384*](https://X9bx6R.absslk.xyz/2dc0018d6eba07a589a656700d9da384)
+  - **v2ray**: [*https://X9bx6R.absslk.xyz/2dc0018d6eba07a589a656700d9da384*](https://X9bx6R.absslk.xyz/2dc0018d6eba07a589a656700d9da384)
+  - **ios**: [*https://X9bx6R.absslk.xyz/2dc0018d6eba07a589a656700d9da384*](https://X9bx6R.absslk.xyz/2dc0018d6eba07a589a656700d9da384)
 - **mksshare**
   - **clash**: [*https://eDKRKY.mcsslk.xyz/43464f2fc6c9bb9a402107974fe81972*](https://eDKRKY.mcsslk.xyz/43464f2fc6c9bb9a402107974fe81972)
   - **v2ray**: [*https://eDKRKY.mcsslk.xyz/43464f2fc6c9bb9a402107974fe81972*](https://eDKRKY.mcsslk.xyz/43464f2fc6c9bb9a402107974fe81972)
