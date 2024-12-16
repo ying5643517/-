@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-16 17:25:06
+> Updated Time: 2024-12-16 17:31:23
 
 - **tolinkshare2**
   - **clash**: [*https://59jz7E.tosslk.xyz/da7ec58c109d60917837fa67ec76cb2e*](https://59jz7E.tosslk.xyz/da7ec58c109d60917837fa67ec76cb2e)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://OEvijP.absslk.xyz/a745a5a734f30341aa7f21167eb75bcc*](https://OEvijP.absslk.xyz/a745a5a734f30341aa7f21167eb75bcc)
   - **ios**: [*https://OEvijP.absslk.xyz/a745a5a734f30341aa7f21167eb75bcc*](https://OEvijP.absslk.xyz/a745a5a734f30341aa7f21167eb75bcc)
 - **mksshare**
-  - **clash**: [*https://UNCOrg.mcsslk.xyz/cfb4e6329e942ed07d5e2e697f621283*](https://UNCOrg.mcsslk.xyz/cfb4e6329e942ed07d5e2e697f621283)
-  - **v2ray**: [*https://UNCOrg.mcsslk.xyz/cfb4e6329e942ed07d5e2e697f621283*](https://UNCOrg.mcsslk.xyz/cfb4e6329e942ed07d5e2e697f621283)
-  - **ios**: [*https://UNCOrg.mcsslk.xyz/cfb4e6329e942ed07d5e2e697f621283*](https://UNCOrg.mcsslk.xyz/cfb4e6329e942ed07d5e2e697f621283)
+  - **clash**: [*https://4JjdZH.mcsslk.xyz/8e75eb5fc894b05f767fa7f2da44aada*](https://4JjdZH.mcsslk.xyz/8e75eb5fc894b05f767fa7f2da44aada)
+  - **v2ray**: [*https://4JjdZH.mcsslk.xyz/8e75eb5fc894b05f767fa7f2da44aada*](https://4JjdZH.mcsslk.xyz/8e75eb5fc894b05f767fa7f2da44aada)
+  - **ios**: [*https://4JjdZH.mcsslk.xyz/8e75eb5fc894b05f767fa7f2da44aada*](https://4JjdZH.mcsslk.xyz/8e75eb5fc894b05f767fa7f2da44aada)
 - **mkshare3**
   - **clash**: [*https://Z4tdDX.mcsslk.xyz/fb6acdee3433c39f65d1f6630976992d*](https://Z4tdDX.mcsslk.xyz/fb6acdee3433c39f65d1f6630976992d)
   - **v2ray**: [*https://Z4tdDX.mcsslk.xyz/fb6acdee3433c39f65d1f6630976992d*](https://Z4tdDX.mcsslk.xyz/fb6acdee3433c39f65d1f6630976992d)
