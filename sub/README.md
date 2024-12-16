@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-16 21:56:48
+> Updated Time: 2024-12-16 22:10:35
 
 - **tolinkshare2**
-  - **clash**: [*https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5*](https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5)
-  - **v2ray**: [*https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5*](https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5)
-  - **ios**: [*https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5*](https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5)
+  - **clash**: [*https://Oo1dfz.tosslk.xyz/fe544c92aab7a23faa10394974e8e6d0*](https://Oo1dfz.tosslk.xyz/fe544c92aab7a23faa10394974e8e6d0)
+  - **v2ray**: [*https://Oo1dfz.tosslk.xyz/fe544c92aab7a23faa10394974e8e6d0*](https://Oo1dfz.tosslk.xyz/fe544c92aab7a23faa10394974e8e6d0)
+  - **ios**: [*https://Oo1dfz.tosslk.xyz/fe544c92aab7a23faa10394974e8e6d0*](https://Oo1dfz.tosslk.xyz/fe544c92aab7a23faa10394974e8e6d0)
 - **abshare**
   - **clash**: [*https://dqram2.absslk.xyz/9f959f51d32c28758391291830b0455a*](https://dqram2.absslk.xyz/9f959f51d32c28758391291830b0455a)
   - **v2ray**: [*https://dqram2.absslk.xyz/9f959f51d32c28758391291830b0455a*](https://dqram2.absslk.xyz/9f959f51d32c28758391291830b0455a)
