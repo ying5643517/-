@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-16 14:46:21
+> Updated Time: 2024-12-16 15:20:18
 
 - **tolinkshare2**
-  - **clash**: [*https://oYVtb2.tosslk.xyz/b5bf82f3864c5c32e768b9451432d61f*](https://oYVtb2.tosslk.xyz/b5bf82f3864c5c32e768b9451432d61f)
-  - **v2ray**: [*https://oYVtb2.tosslk.xyz/b5bf82f3864c5c32e768b9451432d61f*](https://oYVtb2.tosslk.xyz/b5bf82f3864c5c32e768b9451432d61f)
-  - **ios**: [*https://oYVtb2.tosslk.xyz/b5bf82f3864c5c32e768b9451432d61f*](https://oYVtb2.tosslk.xyz/b5bf82f3864c5c32e768b9451432d61f)
+  - **clash**: [*https://1SpS21.tosslk.xyz/231b850f6869d9121409c8452df3c9c3*](https://1SpS21.tosslk.xyz/231b850f6869d9121409c8452df3c9c3)
+  - **v2ray**: [*https://1SpS21.tosslk.xyz/231b850f6869d9121409c8452df3c9c3*](https://1SpS21.tosslk.xyz/231b850f6869d9121409c8452df3c9c3)
+  - **ios**: [*https://1SpS21.tosslk.xyz/231b850f6869d9121409c8452df3c9c3*](https://1SpS21.tosslk.xyz/231b850f6869d9121409c8452df3c9c3)
 - **abshare**
   - **clash**: [*https://2eiux4.absslk.xyz/c747d5c5bb5296e648b123492bd1566c*](https://2eiux4.absslk.xyz/c747d5c5bb5296e648b123492bd1566c)
   - **v2ray**: [*https://2eiux4.absslk.xyz/c747d5c5bb5296e648b123492bd1566c*](https://2eiux4.absslk.xyz/c747d5c5bb5296e648b123492bd1566c)
