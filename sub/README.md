@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-16 18:37:41
+> Updated Time: 2024-12-16 18:48:26
 
 - **tolinkshare2**
-  - **clash**: [*https://RLoKiF.tosslk.xyz/6dbfe142cfae73f7fc2df5547469836c*](https://RLoKiF.tosslk.xyz/6dbfe142cfae73f7fc2df5547469836c)
-  - **v2ray**: [*https://RLoKiF.tosslk.xyz/6dbfe142cfae73f7fc2df5547469836c*](https://RLoKiF.tosslk.xyz/6dbfe142cfae73f7fc2df5547469836c)
-  - **ios**: [*https://RLoKiF.tosslk.xyz/6dbfe142cfae73f7fc2df5547469836c*](https://RLoKiF.tosslk.xyz/6dbfe142cfae73f7fc2df5547469836c)
+  - **clash**: [*https://qiub6D.tosslk.xyz/37254a616329c2e148268bb697603f95*](https://qiub6D.tosslk.xyz/37254a616329c2e148268bb697603f95)
+  - **v2ray**: [*https://qiub6D.tosslk.xyz/37254a616329c2e148268bb697603f95*](https://qiub6D.tosslk.xyz/37254a616329c2e148268bb697603f95)
+  - **ios**: [*https://qiub6D.tosslk.xyz/37254a616329c2e148268bb697603f95*](https://qiub6D.tosslk.xyz/37254a616329c2e148268bb697603f95)
 - **abshare**
   - **clash**: [*https://MGSswn.absslk.xyz/36a018a16cd374af6d939fe76310d091*](https://MGSswn.absslk.xyz/36a018a16cd374af6d939fe76310d091)
   - **v2ray**: [*https://MGSswn.absslk.xyz/36a018a16cd374af6d939fe76310d091*](https://MGSswn.absslk.xyz/36a018a16cd374af6d939fe76310d091)
