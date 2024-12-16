@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-16 12:16:48
+> Updated Time: 2024-12-16 12:36:33
 
 - **tolinkshare2**
-  - **clash**: [*https://mpl6RE.tosslk.xyz/fe143d8a1363345963bc56ce01b8750c*](https://mpl6RE.tosslk.xyz/fe143d8a1363345963bc56ce01b8750c)
-  - **v2ray**: [*https://mpl6RE.tosslk.xyz/fe143d8a1363345963bc56ce01b8750c*](https://mpl6RE.tosslk.xyz/fe143d8a1363345963bc56ce01b8750c)
-  - **ios**: [*https://mpl6RE.tosslk.xyz/fe143d8a1363345963bc56ce01b8750c*](https://mpl6RE.tosslk.xyz/fe143d8a1363345963bc56ce01b8750c)
+  - **clash**: [*https://SuPGPl.tosslk.xyz/ef98ad704fcd205ec8676f007c878fa1*](https://SuPGPl.tosslk.xyz/ef98ad704fcd205ec8676f007c878fa1)
+  - **v2ray**: [*https://SuPGPl.tosslk.xyz/ef98ad704fcd205ec8676f007c878fa1*](https://SuPGPl.tosslk.xyz/ef98ad704fcd205ec8676f007c878fa1)
+  - **ios**: [*https://SuPGPl.tosslk.xyz/ef98ad704fcd205ec8676f007c878fa1*](https://SuPGPl.tosslk.xyz/ef98ad704fcd205ec8676f007c878fa1)
 - **abshare**
   - **clash**: [*https://vv6nLe.absslk.xyz/585f71c8be4c74116985ed00f4920f95*](https://vv6nLe.absslk.xyz/585f71c8be4c74116985ed00f4920f95)
   - **v2ray**: [*https://vv6nLe.absslk.xyz/585f71c8be4c74116985ed00f4920f95*](https://vv6nLe.absslk.xyz/585f71c8be4c74116985ed00f4920f95)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://v0zOTj.tosslk.xyz/da0873f9c6e7888b9359ae81c1f2793f*](https://v0zOTj.tosslk.xyz/da0873f9c6e7888b9359ae81c1f2793f)
   - **ios**: [*https://v0zOTj.tosslk.xyz/da0873f9c6e7888b9359ae81c1f2793f*](https://v0zOTj.tosslk.xyz/da0873f9c6e7888b9359ae81c1f2793f)
 - **abshare3**
-  - **clash**: [*https://33iIUF.absslk.xyz/964b3113f226fcc6afab3e9492ff8f97*](https://33iIUF.absslk.xyz/964b3113f226fcc6afab3e9492ff8f97)
-  - **v2ray**: [*https://33iIUF.absslk.xyz/964b3113f226fcc6afab3e9492ff8f97*](https://33iIUF.absslk.xyz/964b3113f226fcc6afab3e9492ff8f97)
-  - **ios**: [*https://33iIUF.absslk.xyz/964b3113f226fcc6afab3e9492ff8f97*](https://33iIUF.absslk.xyz/964b3113f226fcc6afab3e9492ff8f97)
+  - **clash**: [*https://jgUE6u.absslk.xyz/57b72d130a6ad5485d4d0900bc308557*](https://jgUE6u.absslk.xyz/57b72d130a6ad5485d4d0900bc308557)
+  - **v2ray**: [*https://jgUE6u.absslk.xyz/57b72d130a6ad5485d4d0900bc308557*](https://jgUE6u.absslk.xyz/57b72d130a6ad5485d4d0900bc308557)
+  - **ios**: [*https://jgUE6u.absslk.xyz/57b72d130a6ad5485d4d0900bc308557*](https://jgUE6u.absslk.xyz/57b72d130a6ad5485d4d0900bc308557)
