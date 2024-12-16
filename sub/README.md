@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-16 21:05:57
+> Updated Time: 2024-12-16 21:34:10
 
 - **tolinkshare2**
-  - **clash**: [*https://PXLNuQ.tosslk.xyz/87a02cf45e47ec30abbd4f13d6a3dce7*](https://PXLNuQ.tosslk.xyz/87a02cf45e47ec30abbd4f13d6a3dce7)
-  - **v2ray**: [*https://PXLNuQ.tosslk.xyz/87a02cf45e47ec30abbd4f13d6a3dce7*](https://PXLNuQ.tosslk.xyz/87a02cf45e47ec30abbd4f13d6a3dce7)
-  - **ios**: [*https://PXLNuQ.tosslk.xyz/87a02cf45e47ec30abbd4f13d6a3dce7*](https://PXLNuQ.tosslk.xyz/87a02cf45e47ec30abbd4f13d6a3dce7)
+  - **clash**: [*https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5*](https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5)
+  - **v2ray**: [*https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5*](https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5)
+  - **ios**: [*https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5*](https://kYb7B1.tosslk.xyz/e036410b1673f169fb75f49b2f0646a5)
 - **abshare**
-  - **clash**: [*https://ILh7Mu.absslk.xyz/6f68c5116e2bd1865a671a296c20d4de*](https://ILh7Mu.absslk.xyz/6f68c5116e2bd1865a671a296c20d4de)
-  - **v2ray**: [*https://ILh7Mu.absslk.xyz/6f68c5116e2bd1865a671a296c20d4de*](https://ILh7Mu.absslk.xyz/6f68c5116e2bd1865a671a296c20d4de)
-  - **ios**: [*https://ILh7Mu.absslk.xyz/6f68c5116e2bd1865a671a296c20d4de*](https://ILh7Mu.absslk.xyz/6f68c5116e2bd1865a671a296c20d4de)
+  - **clash**: [*https://LFBmio.absslk.xyz/60ea25bb06c9f62f01eb7ca16bcafa3e*](https://LFBmio.absslk.xyz/60ea25bb06c9f62f01eb7ca16bcafa3e)
+  - **v2ray**: [*https://LFBmio.absslk.xyz/60ea25bb06c9f62f01eb7ca16bcafa3e*](https://LFBmio.absslk.xyz/60ea25bb06c9f62f01eb7ca16bcafa3e)
+  - **ios**: [*https://LFBmio.absslk.xyz/60ea25bb06c9f62f01eb7ca16bcafa3e*](https://LFBmio.absslk.xyz/60ea25bb06c9f62f01eb7ca16bcafa3e)
 - **mksshare**
   - **clash**: [*https://4ToDKD.mcsslk.xyz/0391b2180f487c65e42fe41636852889*](https://4ToDKD.mcsslk.xyz/0391b2180f487c65e42fe41636852889)
   - **v2ray**: [*https://4ToDKD.mcsslk.xyz/0391b2180f487c65e42fe41636852889*](https://4ToDKD.mcsslk.xyz/0391b2180f487c65e42fe41636852889)
