@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-16 23:49:37
+> Updated Time: 2024-12-16 23:55:08
 
 - **tolinkshare2**
   - **clash**: [*https://anFNjd.tosslk.xyz/b37a534acf43c384ac9a2c17e59f8715*](https://anFNjd.tosslk.xyz/b37a534acf43c384ac9a2c17e59f8715)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://808sKu.tosslk.xyz/e502faa1c170e4dc4e37d0d3d00a3682*](https://808sKu.tosslk.xyz/e502faa1c170e4dc4e37d0d3d00a3682)
   - **ios**: [*https://808sKu.tosslk.xyz/e502faa1c170e4dc4e37d0d3d00a3682*](https://808sKu.tosslk.xyz/e502faa1c170e4dc4e37d0d3d00a3682)
 - **abshare3**
-  - **clash**: [*https://ZlBZlX.absslk.xyz/589ee3c73291e5522387d19ee8bd3323*](https://ZlBZlX.absslk.xyz/589ee3c73291e5522387d19ee8bd3323)
-  - **v2ray**: [*https://ZlBZlX.absslk.xyz/589ee3c73291e5522387d19ee8bd3323*](https://ZlBZlX.absslk.xyz/589ee3c73291e5522387d19ee8bd3323)
-  - **ios**: [*https://ZlBZlX.absslk.xyz/589ee3c73291e5522387d19ee8bd3323*](https://ZlBZlX.absslk.xyz/589ee3c73291e5522387d19ee8bd3323)
+  - **clash**: [*https://mTUgyN.absslk.xyz/f4fb341890026a3204625aaddcd92d0b*](https://mTUgyN.absslk.xyz/f4fb341890026a3204625aaddcd92d0b)
+  - **v2ray**: [*https://mTUgyN.absslk.xyz/f4fb341890026a3204625aaddcd92d0b*](https://mTUgyN.absslk.xyz/f4fb341890026a3204625aaddcd92d0b)
+  - **ios**: [*https://mTUgyN.absslk.xyz/f4fb341890026a3204625aaddcd92d0b*](https://mTUgyN.absslk.xyz/f4fb341890026a3204625aaddcd92d0b)
