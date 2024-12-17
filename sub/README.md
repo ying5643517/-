@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-18 02:56:18
+> Updated Time: 2024-12-18 03:27:42
 
 - **tolinkshare2**
   - **clash**: [*https://YDRRZL.tosslk.xyz/dc07bd35e022d33f0597559ef3af066a*](https://YDRRZL.tosslk.xyz/dc07bd35e022d33f0597559ef3af066a)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://GexrI2.tosslk.xyz/bed642b29ce8530e88283f492ff52c1e*](https://GexrI2.tosslk.xyz/bed642b29ce8530e88283f492ff52c1e)
   - **ios**: [*https://GexrI2.tosslk.xyz/bed642b29ce8530e88283f492ff52c1e*](https://GexrI2.tosslk.xyz/bed642b29ce8530e88283f492ff52c1e)
 - **abshare3**
-  - **clash**: [*https://T47N12.absslk.xyz/affef93da9e5d5619d0c6cf4fcd8a8f1*](https://T47N12.absslk.xyz/affef93da9e5d5619d0c6cf4fcd8a8f1)
-  - **v2ray**: [*https://T47N12.absslk.xyz/affef93da9e5d5619d0c6cf4fcd8a8f1*](https://T47N12.absslk.xyz/affef93da9e5d5619d0c6cf4fcd8a8f1)
-  - **ios**: [*https://T47N12.absslk.xyz/affef93da9e5d5619d0c6cf4fcd8a8f1*](https://T47N12.absslk.xyz/affef93da9e5d5619d0c6cf4fcd8a8f1)
+  - **clash**: [*https://7S6nkD.absslk.xyz/1ec56e8f200798e2b8ec08b3ebbd5fdc*](https://7S6nkD.absslk.xyz/1ec56e8f200798e2b8ec08b3ebbd5fdc)
+  - **v2ray**: [*https://7S6nkD.absslk.xyz/1ec56e8f200798e2b8ec08b3ebbd5fdc*](https://7S6nkD.absslk.xyz/1ec56e8f200798e2b8ec08b3ebbd5fdc)
+  - **ios**: [*https://7S6nkD.absslk.xyz/1ec56e8f200798e2b8ec08b3ebbd5fdc*](https://7S6nkD.absslk.xyz/1ec56e8f200798e2b8ec08b3ebbd5fdc)
