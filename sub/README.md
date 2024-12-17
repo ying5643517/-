@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-17 19:36:28
+> Updated Time: 2024-12-17 19:53:12
 
 - **tolinkshare2**
-  - **clash**: [*https://fV1H0z.tosslk.xyz/f9d5338978a1a0e967e7ff6bee131110*](https://fV1H0z.tosslk.xyz/f9d5338978a1a0e967e7ff6bee131110)
-  - **v2ray**: [*https://fV1H0z.tosslk.xyz/f9d5338978a1a0e967e7ff6bee131110*](https://fV1H0z.tosslk.xyz/f9d5338978a1a0e967e7ff6bee131110)
-  - **ios**: [*https://fV1H0z.tosslk.xyz/f9d5338978a1a0e967e7ff6bee131110*](https://fV1H0z.tosslk.xyz/f9d5338978a1a0e967e7ff6bee131110)
+  - **clash**: [*https://wd5ESC.tosslk.xyz/32f2584745fdaaa0c992d07d2c83f403*](https://wd5ESC.tosslk.xyz/32f2584745fdaaa0c992d07d2c83f403)
+  - **v2ray**: [*https://wd5ESC.tosslk.xyz/32f2584745fdaaa0c992d07d2c83f403*](https://wd5ESC.tosslk.xyz/32f2584745fdaaa0c992d07d2c83f403)
+  - **ios**: [*https://wd5ESC.tosslk.xyz/32f2584745fdaaa0c992d07d2c83f403*](https://wd5ESC.tosslk.xyz/32f2584745fdaaa0c992d07d2c83f403)
 - **abshare**
   - **clash**: [*https://TVdbfP.absslk.xyz/7cb1807fa42db161718eafd3d4a1cd75*](https://TVdbfP.absslk.xyz/7cb1807fa42db161718eafd3d4a1cd75)
   - **v2ray**: [*https://TVdbfP.absslk.xyz/7cb1807fa42db161718eafd3d4a1cd75*](https://TVdbfP.absslk.xyz/7cb1807fa42db161718eafd3d4a1cd75)
