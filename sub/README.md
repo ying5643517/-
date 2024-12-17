@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-17 23:40:43
+> Updated Time: 2024-12-17 23:47:06
 
 - **tolinkshare2**
-  - **clash**: [*https://3Bh4dH.tosslk.xyz/53f6f48532e713047e0b7e2b91505c9b*](https://3Bh4dH.tosslk.xyz/53f6f48532e713047e0b7e2b91505c9b)
-  - **v2ray**: [*https://3Bh4dH.tosslk.xyz/53f6f48532e713047e0b7e2b91505c9b*](https://3Bh4dH.tosslk.xyz/53f6f48532e713047e0b7e2b91505c9b)
-  - **ios**: [*https://3Bh4dH.tosslk.xyz/53f6f48532e713047e0b7e2b91505c9b*](https://3Bh4dH.tosslk.xyz/53f6f48532e713047e0b7e2b91505c9b)
+  - **clash**: [*https://yogKXF.tosslk.xyz/db4acef158dd9b6c202ac38af091f66f*](https://yogKXF.tosslk.xyz/db4acef158dd9b6c202ac38af091f66f)
+  - **v2ray**: [*https://yogKXF.tosslk.xyz/db4acef158dd9b6c202ac38af091f66f*](https://yogKXF.tosslk.xyz/db4acef158dd9b6c202ac38af091f66f)
+  - **ios**: [*https://yogKXF.tosslk.xyz/db4acef158dd9b6c202ac38af091f66f*](https://yogKXF.tosslk.xyz/db4acef158dd9b6c202ac38af091f66f)
 - **abshare**
   - **clash**: [*https://uAcNY9.absslk.xyz/8ceb786c27b5a30f1bf20350e716ec83*](https://uAcNY9.absslk.xyz/8ceb786c27b5a30f1bf20350e716ec83)
   - **v2ray**: [*https://uAcNY9.absslk.xyz/8ceb786c27b5a30f1bf20350e716ec83*](https://uAcNY9.absslk.xyz/8ceb786c27b5a30f1bf20350e716ec83)
