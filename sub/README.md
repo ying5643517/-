@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-17 11:46:16
+> Updated Time: 2024-12-17 11:55:55
 
 - **tolinkshare2**
-  - **clash**: [*https://7N0Ho6.tosslk.xyz/de889e4802e86fc1f962d99b7966c6b5*](https://7N0Ho6.tosslk.xyz/de889e4802e86fc1f962d99b7966c6b5)
-  - **v2ray**: [*https://7N0Ho6.tosslk.xyz/de889e4802e86fc1f962d99b7966c6b5*](https://7N0Ho6.tosslk.xyz/de889e4802e86fc1f962d99b7966c6b5)
-  - **ios**: [*https://7N0Ho6.tosslk.xyz/de889e4802e86fc1f962d99b7966c6b5*](https://7N0Ho6.tosslk.xyz/de889e4802e86fc1f962d99b7966c6b5)
+  - **clash**: [*https://ilHvmS.tosslk.xyz/414d5b9c26e26cea8e51862a81b7e1f0*](https://ilHvmS.tosslk.xyz/414d5b9c26e26cea8e51862a81b7e1f0)
+  - **v2ray**: [*https://ilHvmS.tosslk.xyz/414d5b9c26e26cea8e51862a81b7e1f0*](https://ilHvmS.tosslk.xyz/414d5b9c26e26cea8e51862a81b7e1f0)
+  - **ios**: [*https://ilHvmS.tosslk.xyz/414d5b9c26e26cea8e51862a81b7e1f0*](https://ilHvmS.tosslk.xyz/414d5b9c26e26cea8e51862a81b7e1f0)
 - **abshare**
-  - **clash**: [*https://6of39d.absslk.xyz/9afe1f75c0e7e2a69a813b02b45898ff*](https://6of39d.absslk.xyz/9afe1f75c0e7e2a69a813b02b45898ff)
-  - **v2ray**: [*https://6of39d.absslk.xyz/9afe1f75c0e7e2a69a813b02b45898ff*](https://6of39d.absslk.xyz/9afe1f75c0e7e2a69a813b02b45898ff)
-  - **ios**: [*https://6of39d.absslk.xyz/9afe1f75c0e7e2a69a813b02b45898ff*](https://6of39d.absslk.xyz/9afe1f75c0e7e2a69a813b02b45898ff)
+  - **clash**: [*https://9leJLk.absslk.xyz/84fcc8937eafdf78c96d31ea1343fb6c*](https://9leJLk.absslk.xyz/84fcc8937eafdf78c96d31ea1343fb6c)
+  - **v2ray**: [*https://9leJLk.absslk.xyz/84fcc8937eafdf78c96d31ea1343fb6c*](https://9leJLk.absslk.xyz/84fcc8937eafdf78c96d31ea1343fb6c)
+  - **ios**: [*https://9leJLk.absslk.xyz/84fcc8937eafdf78c96d31ea1343fb6c*](https://9leJLk.absslk.xyz/84fcc8937eafdf78c96d31ea1343fb6c)
 - **mksshare**
   - **clash**: [*https://oodC4l.mcsslk.xyz/d9cf50844731a239d5eee72472225c8f*](https://oodC4l.mcsslk.xyz/d9cf50844731a239d5eee72472225c8f)
   - **v2ray**: [*https://oodC4l.mcsslk.xyz/d9cf50844731a239d5eee72472225c8f*](https://oodC4l.mcsslk.xyz/d9cf50844731a239d5eee72472225c8f)
