@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-18 17:41:07
+> Updated Time: 2024-12-18 17:46:28
 
 - **tolinkshare2**
-  - **clash**: [*https://3ZXB0V.tosslk.xyz/d7b8c66a0d2d605760179f0c54d8beff*](https://3ZXB0V.tosslk.xyz/d7b8c66a0d2d605760179f0c54d8beff)
-  - **v2ray**: [*https://3ZXB0V.tosslk.xyz/d7b8c66a0d2d605760179f0c54d8beff*](https://3ZXB0V.tosslk.xyz/d7b8c66a0d2d605760179f0c54d8beff)
-  - **ios**: [*https://3ZXB0V.tosslk.xyz/d7b8c66a0d2d605760179f0c54d8beff*](https://3ZXB0V.tosslk.xyz/d7b8c66a0d2d605760179f0c54d8beff)
+  - **clash**: [*https://ijeiTm.tosslk.xyz/cf54f36a8227847476d1a08d7fc9d3d0*](https://ijeiTm.tosslk.xyz/cf54f36a8227847476d1a08d7fc9d3d0)
+  - **v2ray**: [*https://ijeiTm.tosslk.xyz/cf54f36a8227847476d1a08d7fc9d3d0*](https://ijeiTm.tosslk.xyz/cf54f36a8227847476d1a08d7fc9d3d0)
+  - **ios**: [*https://ijeiTm.tosslk.xyz/cf54f36a8227847476d1a08d7fc9d3d0*](https://ijeiTm.tosslk.xyz/cf54f36a8227847476d1a08d7fc9d3d0)
 - **abshare**
   - **clash**: [*https://wyUOie.absslk.xyz/15b6fc06821008ffe0eac15334cccd75*](https://wyUOie.absslk.xyz/15b6fc06821008ffe0eac15334cccd75)
   - **v2ray**: [*https://wyUOie.absslk.xyz/15b6fc06821008ffe0eac15334cccd75*](https://wyUOie.absslk.xyz/15b6fc06821008ffe0eac15334cccd75)
