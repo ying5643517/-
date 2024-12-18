@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-19 04:40:43
+> Updated Time: 2024-12-19 05:09:42
 
 - **tolinkshare2**
   - **clash**: [*https://1FECQa.tosslk.xyz/def0a0638f6368ee6ed0b00670673393*](https://1FECQa.tosslk.xyz/def0a0638f6368ee6ed0b00670673393)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://l8zMOA.absslk.xyz/a1237ce802ff3f7ae0e64bd83836afd9*](https://l8zMOA.absslk.xyz/a1237ce802ff3f7ae0e64bd83836afd9)
   - **ios**: [*https://l8zMOA.absslk.xyz/a1237ce802ff3f7ae0e64bd83836afd9*](https://l8zMOA.absslk.xyz/a1237ce802ff3f7ae0e64bd83836afd9)
 - **mksshare**
-  - **clash**: [*https://bShTbh.mcsslk.xyz/dd8d32667ec2706e278135a6b483e1ed*](https://bShTbh.mcsslk.xyz/dd8d32667ec2706e278135a6b483e1ed)
-  - **v2ray**: [*https://bShTbh.mcsslk.xyz/dd8d32667ec2706e278135a6b483e1ed*](https://bShTbh.mcsslk.xyz/dd8d32667ec2706e278135a6b483e1ed)
-  - **ios**: [*https://bShTbh.mcsslk.xyz/dd8d32667ec2706e278135a6b483e1ed*](https://bShTbh.mcsslk.xyz/dd8d32667ec2706e278135a6b483e1ed)
+  - **clash**: [*https://Rz900H.mcsslk.xyz/e602d1825ff0aebc6c8e7a9cb68eda61*](https://Rz900H.mcsslk.xyz/e602d1825ff0aebc6c8e7a9cb68eda61)
+  - **v2ray**: [*https://Rz900H.mcsslk.xyz/e602d1825ff0aebc6c8e7a9cb68eda61*](https://Rz900H.mcsslk.xyz/e602d1825ff0aebc6c8e7a9cb68eda61)
+  - **ios**: [*https://Rz900H.mcsslk.xyz/e602d1825ff0aebc6c8e7a9cb68eda61*](https://Rz900H.mcsslk.xyz/e602d1825ff0aebc6c8e7a9cb68eda61)
 - **mkshare3**
   - **clash**: [*https://0AT4De.mcsslk.xyz/27ae88b761ef1ea67f9f0c5f7316e6a0*](https://0AT4De.mcsslk.xyz/27ae88b761ef1ea67f9f0c5f7316e6a0)
   - **v2ray**: [*https://0AT4De.mcsslk.xyz/27ae88b761ef1ea67f9f0c5f7316e6a0*](https://0AT4De.mcsslk.xyz/27ae88b761ef1ea67f9f0c5f7316e6a0)
