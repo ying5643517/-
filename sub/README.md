@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-18 21:54:46
+> Updated Time: 2024-12-18 21:59:50
 
 - **tolinkshare2**
-  - **clash**: [*https://4x5NzS.tosslk.xyz/6997973d20ea6431438b348f4dc0f571*](https://4x5NzS.tosslk.xyz/6997973d20ea6431438b348f4dc0f571)
-  - **v2ray**: [*https://4x5NzS.tosslk.xyz/6997973d20ea6431438b348f4dc0f571*](https://4x5NzS.tosslk.xyz/6997973d20ea6431438b348f4dc0f571)
-  - **ios**: [*https://4x5NzS.tosslk.xyz/6997973d20ea6431438b348f4dc0f571*](https://4x5NzS.tosslk.xyz/6997973d20ea6431438b348f4dc0f571)
+  - **clash**: [*https://yhyKgW.tosslk.xyz/8f65b15b759e27f1334c5db16cb0c085*](https://yhyKgW.tosslk.xyz/8f65b15b759e27f1334c5db16cb0c085)
+  - **v2ray**: [*https://yhyKgW.tosslk.xyz/8f65b15b759e27f1334c5db16cb0c085*](https://yhyKgW.tosslk.xyz/8f65b15b759e27f1334c5db16cb0c085)
+  - **ios**: [*https://yhyKgW.tosslk.xyz/8f65b15b759e27f1334c5db16cb0c085*](https://yhyKgW.tosslk.xyz/8f65b15b759e27f1334c5db16cb0c085)
 - **abshare**
   - **clash**: [*https://1JkNGO.absslk.xyz/c4073ce77796e0eb7e5c2180ceea4e90*](https://1JkNGO.absslk.xyz/c4073ce77796e0eb7e5c2180ceea4e90)
   - **v2ray**: [*https://1JkNGO.absslk.xyz/c4073ce77796e0eb7e5c2180ceea4e90*](https://1JkNGO.absslk.xyz/c4073ce77796e0eb7e5c2180ceea4e90)
