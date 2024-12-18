@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-18 19:34:25
+> Updated Time: 2024-12-18 19:44:45
 
 - **tolinkshare2**
-  - **clash**: [*https://XPScmf.tosslk.xyz/e4c76e9fbbad3e700ac2aa13c2a9ead9*](https://XPScmf.tosslk.xyz/e4c76e9fbbad3e700ac2aa13c2a9ead9)
-  - **v2ray**: [*https://XPScmf.tosslk.xyz/e4c76e9fbbad3e700ac2aa13c2a9ead9*](https://XPScmf.tosslk.xyz/e4c76e9fbbad3e700ac2aa13c2a9ead9)
-  - **ios**: [*https://XPScmf.tosslk.xyz/e4c76e9fbbad3e700ac2aa13c2a9ead9*](https://XPScmf.tosslk.xyz/e4c76e9fbbad3e700ac2aa13c2a9ead9)
+  - **clash**: [*https://rompl7.tosslk.xyz/cdd57491b28b390a90b691a718fa37e3*](https://rompl7.tosslk.xyz/cdd57491b28b390a90b691a718fa37e3)
+  - **v2ray**: [*https://rompl7.tosslk.xyz/cdd57491b28b390a90b691a718fa37e3*](https://rompl7.tosslk.xyz/cdd57491b28b390a90b691a718fa37e3)
+  - **ios**: [*https://rompl7.tosslk.xyz/cdd57491b28b390a90b691a718fa37e3*](https://rompl7.tosslk.xyz/cdd57491b28b390a90b691a718fa37e3)
 - **abshare**
   - **clash**: [*https://WkngWL.absslk.xyz/a30cfabe0bd0b9a33324dd0b33e1114c*](https://WkngWL.absslk.xyz/a30cfabe0bd0b9a33324dd0b33e1114c)
   - **v2ray**: [*https://WkngWL.absslk.xyz/a30cfabe0bd0b9a33324dd0b33e1114c*](https://WkngWL.absslk.xyz/a30cfabe0bd0b9a33324dd0b33e1114c)
