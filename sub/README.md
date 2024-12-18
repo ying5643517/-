@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-18 13:31:57
+> Updated Time: 2024-12-18 13:41:08
 
 - **tolinkshare2**
-  - **clash**: [*https://0JvmjL.tosslk.xyz/6ee36239a2b92ef085e8a753de29d7dc*](https://0JvmjL.tosslk.xyz/6ee36239a2b92ef085e8a753de29d7dc)
-  - **v2ray**: [*https://0JvmjL.tosslk.xyz/6ee36239a2b92ef085e8a753de29d7dc*](https://0JvmjL.tosslk.xyz/6ee36239a2b92ef085e8a753de29d7dc)
-  - **ios**: [*https://0JvmjL.tosslk.xyz/6ee36239a2b92ef085e8a753de29d7dc*](https://0JvmjL.tosslk.xyz/6ee36239a2b92ef085e8a753de29d7dc)
+  - **clash**: [*https://WFa7mA.tosslk.xyz/ad5798548aef771db9a65117b10a0308*](https://WFa7mA.tosslk.xyz/ad5798548aef771db9a65117b10a0308)
+  - **v2ray**: [*https://WFa7mA.tosslk.xyz/ad5798548aef771db9a65117b10a0308*](https://WFa7mA.tosslk.xyz/ad5798548aef771db9a65117b10a0308)
+  - **ios**: [*https://WFa7mA.tosslk.xyz/ad5798548aef771db9a65117b10a0308*](https://WFa7mA.tosslk.xyz/ad5798548aef771db9a65117b10a0308)
 - **abshare**
   - **clash**: [*https://YC1Mq4.absslk.xyz/d013747fa92e0a944f0f95a05dcb1034*](https://YC1Mq4.absslk.xyz/d013747fa92e0a944f0f95a05dcb1034)
   - **v2ray**: [*https://YC1Mq4.absslk.xyz/d013747fa92e0a944f0f95a05dcb1034*](https://YC1Mq4.absslk.xyz/d013747fa92e0a944f0f95a05dcb1034)
