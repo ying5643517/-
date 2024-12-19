@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-19 11:38:18
+> Updated Time: 2024-12-19 11:46:39
 
 - **tolinkshare2**
   - **clash**: [*https://AsQwty.tosslk.xyz/9e9b9ee19a4d83caea3faaa5587d13a9*](https://AsQwty.tosslk.xyz/9e9b9ee19a4d83caea3faaa5587d13a9)
@@ -40,10 +40,10 @@
   - **v2ray**: [*https://rff2gH.mcsslk.xyz/2e1c0bf2df7dd56710b064da1fe078de*](https://rff2gH.mcsslk.xyz/2e1c0bf2df7dd56710b064da1fe078de)
   - **ios**: [*https://rff2gH.mcsslk.xyz/2e1c0bf2df7dd56710b064da1fe078de*](https://rff2gH.mcsslk.xyz/2e1c0bf2df7dd56710b064da1fe078de)
 - **toshare5**
-  - **clash**: [*https://c9Pl3b.tosslk.xyz/106d7dac76484ed8e490378033381908*](https://c9Pl3b.tosslk.xyz/106d7dac76484ed8e490378033381908)
-  - **v2ray**: [*https://c9Pl3b.tosslk.xyz/106d7dac76484ed8e490378033381908*](https://c9Pl3b.tosslk.xyz/106d7dac76484ed8e490378033381908)
-  - **ios**: [*https://c9Pl3b.tosslk.xyz/106d7dac76484ed8e490378033381908*](https://c9Pl3b.tosslk.xyz/106d7dac76484ed8e490378033381908)
+  - **clash**: [*https://MFANoN.tosslk.xyz/f394789f0cdf837bebb0c684a81a2da4*](https://MFANoN.tosslk.xyz/f394789f0cdf837bebb0c684a81a2da4)
+  - **v2ray**: [*https://MFANoN.tosslk.xyz/f394789f0cdf837bebb0c684a81a2da4*](https://MFANoN.tosslk.xyz/f394789f0cdf837bebb0c684a81a2da4)
+  - **ios**: [*https://MFANoN.tosslk.xyz/f394789f0cdf837bebb0c684a81a2da4*](https://MFANoN.tosslk.xyz/f394789f0cdf837bebb0c684a81a2da4)
 - **abshare3**
-  - **clash**: [*https://p3vr4R.absslk.xyz/e5ff691513cbf41873f2163819a66ab2*](https://p3vr4R.absslk.xyz/e5ff691513cbf41873f2163819a66ab2)
-  - **v2ray**: [*https://p3vr4R.absslk.xyz/e5ff691513cbf41873f2163819a66ab2*](https://p3vr4R.absslk.xyz/e5ff691513cbf41873f2163819a66ab2)
-  - **ios**: [*https://p3vr4R.absslk.xyz/e5ff691513cbf41873f2163819a66ab2*](https://p3vr4R.absslk.xyz/e5ff691513cbf41873f2163819a66ab2)
+  - **clash**: [*https://cn8xf6.absslk.xyz/8530504ee9c158c1b2537f42b8aa973b*](https://cn8xf6.absslk.xyz/8530504ee9c158c1b2537f42b8aa973b)
+  - **v2ray**: [*https://cn8xf6.absslk.xyz/8530504ee9c158c1b2537f42b8aa973b*](https://cn8xf6.absslk.xyz/8530504ee9c158c1b2537f42b8aa973b)
+  - **ios**: [*https://cn8xf6.absslk.xyz/8530504ee9c158c1b2537f42b8aa973b*](https://cn8xf6.absslk.xyz/8530504ee9c158c1b2537f42b8aa973b)
