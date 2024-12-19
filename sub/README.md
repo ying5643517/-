@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-19 13:49:51
+> Updated Time: 2024-12-19 13:55:16
 
 - **tolinkshare2**
-  - **clash**: [*https://oTJrWs.tosslk.xyz/2f1ee42b933524bfb5aa31f12ae11776*](https://oTJrWs.tosslk.xyz/2f1ee42b933524bfb5aa31f12ae11776)
-  - **v2ray**: [*https://oTJrWs.tosslk.xyz/2f1ee42b933524bfb5aa31f12ae11776*](https://oTJrWs.tosslk.xyz/2f1ee42b933524bfb5aa31f12ae11776)
-  - **ios**: [*https://oTJrWs.tosslk.xyz/2f1ee42b933524bfb5aa31f12ae11776*](https://oTJrWs.tosslk.xyz/2f1ee42b933524bfb5aa31f12ae11776)
+  - **clash**: [*https://FjBt1p.tosslk.xyz/d35c7af71822b9b1974c71813c6543c8*](https://FjBt1p.tosslk.xyz/d35c7af71822b9b1974c71813c6543c8)
+  - **v2ray**: [*https://FjBt1p.tosslk.xyz/d35c7af71822b9b1974c71813c6543c8*](https://FjBt1p.tosslk.xyz/d35c7af71822b9b1974c71813c6543c8)
+  - **ios**: [*https://FjBt1p.tosslk.xyz/d35c7af71822b9b1974c71813c6543c8*](https://FjBt1p.tosslk.xyz/d35c7af71822b9b1974c71813c6543c8)
 - **abshare**
   - **clash**: [*https://nhzPCf.absslk.xyz/bc07ddbee33de6c55e3eb64b1ec6395d*](https://nhzPCf.absslk.xyz/bc07ddbee33de6c55e3eb64b1ec6395d)
   - **v2ray**: [*https://nhzPCf.absslk.xyz/bc07ddbee33de6c55e3eb64b1ec6395d*](https://nhzPCf.absslk.xyz/bc07ddbee33de6c55e3eb64b1ec6395d)
