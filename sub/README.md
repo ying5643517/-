@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-20 01:39:44
+> Updated Time: 2024-12-20 01:44:54
 
 - **tolinkshare2**
-  - **clash**: [*https://mZruSn.tosslk.xyz/9fc3a806bff32b17d3b395509dcb3bc2*](https://mZruSn.tosslk.xyz/9fc3a806bff32b17d3b395509dcb3bc2)
-  - **v2ray**: [*https://mZruSn.tosslk.xyz/9fc3a806bff32b17d3b395509dcb3bc2*](https://mZruSn.tosslk.xyz/9fc3a806bff32b17d3b395509dcb3bc2)
-  - **ios**: [*https://mZruSn.tosslk.xyz/9fc3a806bff32b17d3b395509dcb3bc2*](https://mZruSn.tosslk.xyz/9fc3a806bff32b17d3b395509dcb3bc2)
+  - **clash**: [*https://UlzduH.tosslk.xyz/79aac1a2346c6169538a8bc7e2b4b914*](https://UlzduH.tosslk.xyz/79aac1a2346c6169538a8bc7e2b4b914)
+  - **v2ray**: [*https://UlzduH.tosslk.xyz/79aac1a2346c6169538a8bc7e2b4b914*](https://UlzduH.tosslk.xyz/79aac1a2346c6169538a8bc7e2b4b914)
+  - **ios**: [*https://UlzduH.tosslk.xyz/79aac1a2346c6169538a8bc7e2b4b914*](https://UlzduH.tosslk.xyz/79aac1a2346c6169538a8bc7e2b4b914)
 - **abshare**
   - **clash**: [*https://pejXqx.absslk.xyz/c9178577de02ac1dc438bf34851374f7*](https://pejXqx.absslk.xyz/c9178577de02ac1dc438bf34851374f7)
   - **v2ray**: [*https://pejXqx.absslk.xyz/c9178577de02ac1dc438bf34851374f7*](https://pejXqx.absslk.xyz/c9178577de02ac1dc438bf34851374f7)
