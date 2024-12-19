@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-20 03:47:41
+> Updated Time: 2024-12-20 04:14:38
 
 - **tolinkshare2**
   - **clash**: [*https://YifqHO.tosslk.xyz/31e768b6af3f56da5914a54bac8ce9aa*](https://YifqHO.tosslk.xyz/31e768b6af3f56da5914a54bac8ce9aa)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://GxCoZ2.absslk.xyz/64cba9b93e6ce915bc4cf8f31d64f717*](https://GxCoZ2.absslk.xyz/64cba9b93e6ce915bc4cf8f31d64f717)
   - **ios**: [*https://GxCoZ2.absslk.xyz/64cba9b93e6ce915bc4cf8f31d64f717*](https://GxCoZ2.absslk.xyz/64cba9b93e6ce915bc4cf8f31d64f717)
 - **mksshare**
-  - **clash**: [*https://23jdzK.mcsslk.xyz/5bf0b566e0db7616796ea1dfac113d99*](https://23jdzK.mcsslk.xyz/5bf0b566e0db7616796ea1dfac113d99)
-  - **v2ray**: [*https://23jdzK.mcsslk.xyz/5bf0b566e0db7616796ea1dfac113d99*](https://23jdzK.mcsslk.xyz/5bf0b566e0db7616796ea1dfac113d99)
-  - **ios**: [*https://23jdzK.mcsslk.xyz/5bf0b566e0db7616796ea1dfac113d99*](https://23jdzK.mcsslk.xyz/5bf0b566e0db7616796ea1dfac113d99)
+  - **clash**: [*https://ATA0Is.mcsslk.xyz/a031f33d664216c876149a560beb0d98*](https://ATA0Is.mcsslk.xyz/a031f33d664216c876149a560beb0d98)
+  - **v2ray**: [*https://ATA0Is.mcsslk.xyz/a031f33d664216c876149a560beb0d98*](https://ATA0Is.mcsslk.xyz/a031f33d664216c876149a560beb0d98)
+  - **ios**: [*https://ATA0Is.mcsslk.xyz/a031f33d664216c876149a560beb0d98*](https://ATA0Is.mcsslk.xyz/a031f33d664216c876149a560beb0d98)
 - **mkshare3**
   - **clash**: [*https://YpfwQq.mcsslk.xyz/a9637997d20d74549b9ac820d0029e3d*](https://YpfwQq.mcsslk.xyz/a9637997d20d74549b9ac820d0029e3d)
   - **v2ray**: [*https://YpfwQq.mcsslk.xyz/a9637997d20d74549b9ac820d0029e3d*](https://YpfwQq.mcsslk.xyz/a9637997d20d74549b9ac820d0029e3d)
