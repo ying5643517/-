@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-20 13:38:23
+> Updated Time: 2024-12-20 13:48:50
 
 - **tolinkshare2**
-  - **clash**: [*https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c*](https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c)
-  - **v2ray**: [*https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c*](https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c)
-  - **ios**: [*https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c*](https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c)
+  - **clash**: [*https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be*](https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be)
+  - **v2ray**: [*https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be*](https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be)
+  - **ios**: [*https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be*](https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be)
 - **abshare**
   - **clash**: [*https://pKNApi.absslk.xyz/c141a811c7bcc2602f4a32bbd32281ab*](https://pKNApi.absslk.xyz/c141a811c7bcc2602f4a32bbd32281ab)
   - **v2ray**: [*https://pKNApi.absslk.xyz/c141a811c7bcc2602f4a32bbd32281ab*](https://pKNApi.absslk.xyz/c141a811c7bcc2602f4a32bbd32281ab)
