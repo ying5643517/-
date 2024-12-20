@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-20 19:26:51
+> Updated Time: 2024-12-20 19:49:59
 
 - **tolinkshare2**
-  - **clash**: [*https://xakyFl.tosslk.xyz/5af0dc7d6b8d7b4c3dc079801eb82677*](https://xakyFl.tosslk.xyz/5af0dc7d6b8d7b4c3dc079801eb82677)
-  - **v2ray**: [*https://xakyFl.tosslk.xyz/5af0dc7d6b8d7b4c3dc079801eb82677*](https://xakyFl.tosslk.xyz/5af0dc7d6b8d7b4c3dc079801eb82677)
-  - **ios**: [*https://xakyFl.tosslk.xyz/5af0dc7d6b8d7b4c3dc079801eb82677*](https://xakyFl.tosslk.xyz/5af0dc7d6b8d7b4c3dc079801eb82677)
+  - **clash**: [*https://dXDPkI.tosslk.xyz/98f99da32fec29cf0508a8c690c55df0*](https://dXDPkI.tosslk.xyz/98f99da32fec29cf0508a8c690c55df0)
+  - **v2ray**: [*https://dXDPkI.tosslk.xyz/98f99da32fec29cf0508a8c690c55df0*](https://dXDPkI.tosslk.xyz/98f99da32fec29cf0508a8c690c55df0)
+  - **ios**: [*https://dXDPkI.tosslk.xyz/98f99da32fec29cf0508a8c690c55df0*](https://dXDPkI.tosslk.xyz/98f99da32fec29cf0508a8c690c55df0)
 - **abshare**
   - **clash**: [*https://2qurUA.absslk.xyz/73fbce9afc3ac6f9cfefab4ade3226e8*](https://2qurUA.absslk.xyz/73fbce9afc3ac6f9cfefab4ade3226e8)
   - **v2ray**: [*https://2qurUA.absslk.xyz/73fbce9afc3ac6f9cfefab4ade3226e8*](https://2qurUA.absslk.xyz/73fbce9afc3ac6f9cfefab4ade3226e8)
