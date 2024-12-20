@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-21 05:09:30
+> Updated Time: 2024-12-21 05:23:08
 
 - **tolinkshare2**
-  - **clash**: [*https://03EqMB.tosslk.xyz/a107272b9fa10cad415a11e8e96fd0f9*](https://03EqMB.tosslk.xyz/a107272b9fa10cad415a11e8e96fd0f9)
-  - **v2ray**: [*https://03EqMB.tosslk.xyz/a107272b9fa10cad415a11e8e96fd0f9*](https://03EqMB.tosslk.xyz/a107272b9fa10cad415a11e8e96fd0f9)
-  - **ios**: [*https://03EqMB.tosslk.xyz/a107272b9fa10cad415a11e8e96fd0f9*](https://03EqMB.tosslk.xyz/a107272b9fa10cad415a11e8e96fd0f9)
+  - **clash**: [*https://ePfc5a.tosslk.xyz/c8e0aa03475d23db7f34c9cf61db5d5e*](https://ePfc5a.tosslk.xyz/c8e0aa03475d23db7f34c9cf61db5d5e)
+  - **v2ray**: [*https://ePfc5a.tosslk.xyz/c8e0aa03475d23db7f34c9cf61db5d5e*](https://ePfc5a.tosslk.xyz/c8e0aa03475d23db7f34c9cf61db5d5e)
+  - **ios**: [*https://ePfc5a.tosslk.xyz/c8e0aa03475d23db7f34c9cf61db5d5e*](https://ePfc5a.tosslk.xyz/c8e0aa03475d23db7f34c9cf61db5d5e)
 - **abshare**
-  - **clash**: [*https://0FTZrR.absslk.xyz/196ccc2ce7dd2bc243fb924ce791c53b*](https://0FTZrR.absslk.xyz/196ccc2ce7dd2bc243fb924ce791c53b)
-  - **v2ray**: [*https://0FTZrR.absslk.xyz/196ccc2ce7dd2bc243fb924ce791c53b*](https://0FTZrR.absslk.xyz/196ccc2ce7dd2bc243fb924ce791c53b)
-  - **ios**: [*https://0FTZrR.absslk.xyz/196ccc2ce7dd2bc243fb924ce791c53b*](https://0FTZrR.absslk.xyz/196ccc2ce7dd2bc243fb924ce791c53b)
+  - **clash**: [*https://8lrknR.absslk.xyz/095e8cbb3fa4c97600b3c32a4e483fcb*](https://8lrknR.absslk.xyz/095e8cbb3fa4c97600b3c32a4e483fcb)
+  - **v2ray**: [*https://8lrknR.absslk.xyz/095e8cbb3fa4c97600b3c32a4e483fcb*](https://8lrknR.absslk.xyz/095e8cbb3fa4c97600b3c32a4e483fcb)
+  - **ios**: [*https://8lrknR.absslk.xyz/095e8cbb3fa4c97600b3c32a4e483fcb*](https://8lrknR.absslk.xyz/095e8cbb3fa4c97600b3c32a4e483fcb)
 - **mksshare**
   - **clash**: [*https://w8SSjp.mcsslk.xyz/8577c767d20b4381ca17945463b3f44e*](https://w8SSjp.mcsslk.xyz/8577c767d20b4381ca17945463b3f44e)
   - **v2ray**: [*https://w8SSjp.mcsslk.xyz/8577c767d20b4381ca17945463b3f44e*](https://w8SSjp.mcsslk.xyz/8577c767d20b4381ca17945463b3f44e)
