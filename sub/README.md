@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-20 12:46:55
+> Updated Time: 2024-12-20 12:57:40
 
 - **tolinkshare2**
-  - **clash**: [*https://v3owtW.tosslk.xyz/5830fae3f64f30c3c083cf210295f273*](https://v3owtW.tosslk.xyz/5830fae3f64f30c3c083cf210295f273)
-  - **v2ray**: [*https://v3owtW.tosslk.xyz/5830fae3f64f30c3c083cf210295f273*](https://v3owtW.tosslk.xyz/5830fae3f64f30c3c083cf210295f273)
-  - **ios**: [*https://v3owtW.tosslk.xyz/5830fae3f64f30c3c083cf210295f273*](https://v3owtW.tosslk.xyz/5830fae3f64f30c3c083cf210295f273)
+  - **clash**: [*https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c*](https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c)
+  - **v2ray**: [*https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c*](https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c)
+  - **ios**: [*https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c*](https://NDsIkJ.tosslk.xyz/58df9b80c01f78e8fa1f3b766205f10c)
 - **abshare**
   - **clash**: [*https://mAzj0t.absslk.xyz/57c90ea26abb15419be35b2dadcd1a0f*](https://mAzj0t.absslk.xyz/57c90ea26abb15419be35b2dadcd1a0f)
   - **v2ray**: [*https://mAzj0t.absslk.xyz/57c90ea26abb15419be35b2dadcd1a0f*](https://mAzj0t.absslk.xyz/57c90ea26abb15419be35b2dadcd1a0f)
