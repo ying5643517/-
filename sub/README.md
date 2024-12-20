@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-20 14:40:40
+> Updated Time: 2024-12-20 14:48:56
 
 - **tolinkshare2**
   - **clash**: [*https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be*](https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be)
   - **v2ray**: [*https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be*](https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be)
   - **ios**: [*https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be*](https://5N8Zaq.tosslk.xyz/88d9a5235d5ee0fae98db5ac30b368be)
 - **abshare**
-  - **clash**: [*https://crWHg9.absslk.xyz/d5fda8d184ba193199d991c2b41b3da9*](https://crWHg9.absslk.xyz/d5fda8d184ba193199d991c2b41b3da9)
-  - **v2ray**: [*https://crWHg9.absslk.xyz/d5fda8d184ba193199d991c2b41b3da9*](https://crWHg9.absslk.xyz/d5fda8d184ba193199d991c2b41b3da9)
-  - **ios**: [*https://crWHg9.absslk.xyz/d5fda8d184ba193199d991c2b41b3da9*](https://crWHg9.absslk.xyz/d5fda8d184ba193199d991c2b41b3da9)
+  - **clash**: [*https://0kS6Km.absslk.xyz/e88bbbff82ed1a95cb519b6e9300ff46*](https://0kS6Km.absslk.xyz/e88bbbff82ed1a95cb519b6e9300ff46)
+  - **v2ray**: [*https://0kS6Km.absslk.xyz/e88bbbff82ed1a95cb519b6e9300ff46*](https://0kS6Km.absslk.xyz/e88bbbff82ed1a95cb519b6e9300ff46)
+  - **ios**: [*https://0kS6Km.absslk.xyz/e88bbbff82ed1a95cb519b6e9300ff46*](https://0kS6Km.absslk.xyz/e88bbbff82ed1a95cb519b6e9300ff46)
 - **mksshare**
   - **clash**: [*https://dpeHZi.mcsslk.xyz/f34c13ac33338e2d78035dd515befbcc*](https://dpeHZi.mcsslk.xyz/f34c13ac33338e2d78035dd515befbcc)
   - **v2ray**: [*https://dpeHZi.mcsslk.xyz/f34c13ac33338e2d78035dd515befbcc*](https://dpeHZi.mcsslk.xyz/f34c13ac33338e2d78035dd515befbcc)
