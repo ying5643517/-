@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-21 21:40:51
+> Updated Time: 2024-12-21 21:46:11
 
 - **tolinkshare2**
   - **clash**: [*https://BH2ccf.tosslk.xyz/cbca37d1d6de90f009d4a3fafcc2f4ce*](https://BH2ccf.tosslk.xyz/cbca37d1d6de90f009d4a3fafcc2f4ce)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://sp7FXg.mcsslk.xyz/950c9e9080a20cda40c01637fa65ec51*](https://sp7FXg.mcsslk.xyz/950c9e9080a20cda40c01637fa65ec51)
   - **ios**: [*https://sp7FXg.mcsslk.xyz/950c9e9080a20cda40c01637fa65ec51*](https://sp7FXg.mcsslk.xyz/950c9e9080a20cda40c01637fa65ec51)
 - **toshare5**
-  - **clash**: [*https://ntzFdy.tosslk.xyz/fc2be588a8dccaf5213c7a985a1af0df*](https://ntzFdy.tosslk.xyz/fc2be588a8dccaf5213c7a985a1af0df)
-  - **v2ray**: [*https://ntzFdy.tosslk.xyz/fc2be588a8dccaf5213c7a985a1af0df*](https://ntzFdy.tosslk.xyz/fc2be588a8dccaf5213c7a985a1af0df)
-  - **ios**: [*https://ntzFdy.tosslk.xyz/fc2be588a8dccaf5213c7a985a1af0df*](https://ntzFdy.tosslk.xyz/fc2be588a8dccaf5213c7a985a1af0df)
+  - **clash**: [*https://P30ReL.tosslk.xyz/2f9d3c6d4fc865e4b65ef00e10c90511*](https://P30ReL.tosslk.xyz/2f9d3c6d4fc865e4b65ef00e10c90511)
+  - **v2ray**: [*https://P30ReL.tosslk.xyz/2f9d3c6d4fc865e4b65ef00e10c90511*](https://P30ReL.tosslk.xyz/2f9d3c6d4fc865e4b65ef00e10c90511)
+  - **ios**: [*https://P30ReL.tosslk.xyz/2f9d3c6d4fc865e4b65ef00e10c90511*](https://P30ReL.tosslk.xyz/2f9d3c6d4fc865e4b65ef00e10c90511)
 - **abshare3**
   - **clash**: [*https://lGEdQt.absslk.xyz/a4530070e9973571fc6fbc3cb72cefd4*](https://lGEdQt.absslk.xyz/a4530070e9973571fc6fbc3cb72cefd4)
   - **v2ray**: [*https://lGEdQt.absslk.xyz/a4530070e9973571fc6fbc3cb72cefd4*](https://lGEdQt.absslk.xyz/a4530070e9973571fc6fbc3cb72cefd4)
