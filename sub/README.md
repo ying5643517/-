@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-21 16:38:21
+> Updated Time: 2024-12-21 16:44:30
 
 - **tolinkshare2**
   - **clash**: [*https://iUh4V5.tosslk.xyz/ce55e110b5c800b86732e8a901f78c26*](https://iUh4V5.tosslk.xyz/ce55e110b5c800b86732e8a901f78c26)
   - **v2ray**: [*https://iUh4V5.tosslk.xyz/ce55e110b5c800b86732e8a901f78c26*](https://iUh4V5.tosslk.xyz/ce55e110b5c800b86732e8a901f78c26)
   - **ios**: [*https://iUh4V5.tosslk.xyz/ce55e110b5c800b86732e8a901f78c26*](https://iUh4V5.tosslk.xyz/ce55e110b5c800b86732e8a901f78c26)
 - **abshare**
-  - **clash**: [*https://JCPkpB.absslk.xyz/d3d3ebad0f559bc661d9acb03d5dab1c*](https://JCPkpB.absslk.xyz/d3d3ebad0f559bc661d9acb03d5dab1c)
-  - **v2ray**: [*https://JCPkpB.absslk.xyz/d3d3ebad0f559bc661d9acb03d5dab1c*](https://JCPkpB.absslk.xyz/d3d3ebad0f559bc661d9acb03d5dab1c)
-  - **ios**: [*https://JCPkpB.absslk.xyz/d3d3ebad0f559bc661d9acb03d5dab1c*](https://JCPkpB.absslk.xyz/d3d3ebad0f559bc661d9acb03d5dab1c)
+  - **clash**: [*https://AwvcCE.absslk.xyz/c44702b5fa24eb7b9e1648123c8a370b*](https://AwvcCE.absslk.xyz/c44702b5fa24eb7b9e1648123c8a370b)
+  - **v2ray**: [*https://AwvcCE.absslk.xyz/c44702b5fa24eb7b9e1648123c8a370b*](https://AwvcCE.absslk.xyz/c44702b5fa24eb7b9e1648123c8a370b)
+  - **ios**: [*https://AwvcCE.absslk.xyz/c44702b5fa24eb7b9e1648123c8a370b*](https://AwvcCE.absslk.xyz/c44702b5fa24eb7b9e1648123c8a370b)
 - **mksshare**
   - **clash**: [*https://WKM7vi.mcsslk.xyz/e5211ce606f05bd29a20336ea9ae2f56*](https://WKM7vi.mcsslk.xyz/e5211ce606f05bd29a20336ea9ae2f56)
   - **v2ray**: [*https://WKM7vi.mcsslk.xyz/e5211ce606f05bd29a20336ea9ae2f56*](https://WKM7vi.mcsslk.xyz/e5211ce606f05bd29a20336ea9ae2f56)
