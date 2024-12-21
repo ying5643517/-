@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-21 22:31:18
+> Updated Time: 2024-12-21 22:37:12
 
 - **tolinkshare2**
-  - **clash**: [*https://5dwcUD.tosslk.xyz/cdb535c0d080895f6cf1489b2655d1a6*](https://5dwcUD.tosslk.xyz/cdb535c0d080895f6cf1489b2655d1a6)
-  - **v2ray**: [*https://5dwcUD.tosslk.xyz/cdb535c0d080895f6cf1489b2655d1a6*](https://5dwcUD.tosslk.xyz/cdb535c0d080895f6cf1489b2655d1a6)
-  - **ios**: [*https://5dwcUD.tosslk.xyz/cdb535c0d080895f6cf1489b2655d1a6*](https://5dwcUD.tosslk.xyz/cdb535c0d080895f6cf1489b2655d1a6)
+  - **clash**: [*https://eePlS9.tosslk.xyz/f2eeec4865da5b5e3252462f893b68d8*](https://eePlS9.tosslk.xyz/f2eeec4865da5b5e3252462f893b68d8)
+  - **v2ray**: [*https://eePlS9.tosslk.xyz/f2eeec4865da5b5e3252462f893b68d8*](https://eePlS9.tosslk.xyz/f2eeec4865da5b5e3252462f893b68d8)
+  - **ios**: [*https://eePlS9.tosslk.xyz/f2eeec4865da5b5e3252462f893b68d8*](https://eePlS9.tosslk.xyz/f2eeec4865da5b5e3252462f893b68d8)
 - **abshare**
   - **clash**: [*https://WSQKsb.absslk.xyz/4a1afceeada1f85b7e0852b11f516143*](https://WSQKsb.absslk.xyz/4a1afceeada1f85b7e0852b11f516143)
   - **v2ray**: [*https://WSQKsb.absslk.xyz/4a1afceeada1f85b7e0852b11f516143*](https://WSQKsb.absslk.xyz/4a1afceeada1f85b7e0852b11f516143)
