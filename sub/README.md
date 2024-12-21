@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-21 13:50:56
+> Updated Time: 2024-12-21 13:56:19
 
 - **tolinkshare2**
-  - **clash**: [*https://5Q5ZuA.tosslk.xyz/406a7018784341c7fee1a780e2d401b7*](https://5Q5ZuA.tosslk.xyz/406a7018784341c7fee1a780e2d401b7)
-  - **v2ray**: [*https://5Q5ZuA.tosslk.xyz/406a7018784341c7fee1a780e2d401b7*](https://5Q5ZuA.tosslk.xyz/406a7018784341c7fee1a780e2d401b7)
-  - **ios**: [*https://5Q5ZuA.tosslk.xyz/406a7018784341c7fee1a780e2d401b7*](https://5Q5ZuA.tosslk.xyz/406a7018784341c7fee1a780e2d401b7)
+  - **clash**: [*https://mPpPcx.tosslk.xyz/ea104ae22ae3aaebdb4befe3839aac93*](https://mPpPcx.tosslk.xyz/ea104ae22ae3aaebdb4befe3839aac93)
+  - **v2ray**: [*https://mPpPcx.tosslk.xyz/ea104ae22ae3aaebdb4befe3839aac93*](https://mPpPcx.tosslk.xyz/ea104ae22ae3aaebdb4befe3839aac93)
+  - **ios**: [*https://mPpPcx.tosslk.xyz/ea104ae22ae3aaebdb4befe3839aac93*](https://mPpPcx.tosslk.xyz/ea104ae22ae3aaebdb4befe3839aac93)
 - **abshare**
   - **clash**: [*https://TMQlag.absslk.xyz/68e55b7732bb9d4cddbb2900417cd9b8*](https://TMQlag.absslk.xyz/68e55b7732bb9d4cddbb2900417cd9b8)
   - **v2ray**: [*https://TMQlag.absslk.xyz/68e55b7732bb9d4cddbb2900417cd9b8*](https://TMQlag.absslk.xyz/68e55b7732bb9d4cddbb2900417cd9b8)
