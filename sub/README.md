@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-22 00:56:58
+> Updated Time: 2024-12-22 01:09:00
 
 - **tolinkshare2**
-  - **clash**: [*https://hyVHPY.tosslk.xyz/ae001ddcf675bd7fb6b60f01470d2829*](https://hyVHPY.tosslk.xyz/ae001ddcf675bd7fb6b60f01470d2829)
-  - **v2ray**: [*https://hyVHPY.tosslk.xyz/ae001ddcf675bd7fb6b60f01470d2829*](https://hyVHPY.tosslk.xyz/ae001ddcf675bd7fb6b60f01470d2829)
-  - **ios**: [*https://hyVHPY.tosslk.xyz/ae001ddcf675bd7fb6b60f01470d2829*](https://hyVHPY.tosslk.xyz/ae001ddcf675bd7fb6b60f01470d2829)
+  - **clash**: [*https://VjDP2t.tosslk.xyz/5aeaf88075decdff0637b7e9532a8265*](https://VjDP2t.tosslk.xyz/5aeaf88075decdff0637b7e9532a8265)
+  - **v2ray**: [*https://VjDP2t.tosslk.xyz/5aeaf88075decdff0637b7e9532a8265*](https://VjDP2t.tosslk.xyz/5aeaf88075decdff0637b7e9532a8265)
+  - **ios**: [*https://VjDP2t.tosslk.xyz/5aeaf88075decdff0637b7e9532a8265*](https://VjDP2t.tosslk.xyz/5aeaf88075decdff0637b7e9532a8265)
 - **abshare**
-  - **clash**: [*https://PCMyq7.absslk.xyz/50b889e5f833b783392b18ad5d75628f*](https://PCMyq7.absslk.xyz/50b889e5f833b783392b18ad5d75628f)
-  - **v2ray**: [*https://PCMyq7.absslk.xyz/50b889e5f833b783392b18ad5d75628f*](https://PCMyq7.absslk.xyz/50b889e5f833b783392b18ad5d75628f)
-  - **ios**: [*https://PCMyq7.absslk.xyz/50b889e5f833b783392b18ad5d75628f*](https://PCMyq7.absslk.xyz/50b889e5f833b783392b18ad5d75628f)
+  - **clash**: [*https://VZzffS.absslk.xyz/3bf7c9f1fad633ef8f6086369770ce80*](https://VZzffS.absslk.xyz/3bf7c9f1fad633ef8f6086369770ce80)
+  - **v2ray**: [*https://VZzffS.absslk.xyz/3bf7c9f1fad633ef8f6086369770ce80*](https://VZzffS.absslk.xyz/3bf7c9f1fad633ef8f6086369770ce80)
+  - **ios**: [*https://VZzffS.absslk.xyz/3bf7c9f1fad633ef8f6086369770ce80*](https://VZzffS.absslk.xyz/3bf7c9f1fad633ef8f6086369770ce80)
 - **mksshare**
   - **clash**: [*https://PuTn73.mcsslk.xyz/0c6d28ca982ed4cd0c18083ba1c647e1*](https://PuTn73.mcsslk.xyz/0c6d28ca982ed4cd0c18083ba1c647e1)
   - **v2ray**: [*https://PuTn73.mcsslk.xyz/0c6d28ca982ed4cd0c18083ba1c647e1*](https://PuTn73.mcsslk.xyz/0c6d28ca982ed4cd0c18083ba1c647e1)
