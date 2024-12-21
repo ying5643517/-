@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-21 19:24:47
+> Updated Time: 2024-12-21 19:30:21
 
 - **tolinkshare2**
-  - **clash**: [*https://0qN9of.tosslk.xyz/2f9ad37b1351a19ee13a37714ae6d3a5*](https://0qN9of.tosslk.xyz/2f9ad37b1351a19ee13a37714ae6d3a5)
-  - **v2ray**: [*https://0qN9of.tosslk.xyz/2f9ad37b1351a19ee13a37714ae6d3a5*](https://0qN9of.tosslk.xyz/2f9ad37b1351a19ee13a37714ae6d3a5)
-  - **ios**: [*https://0qN9of.tosslk.xyz/2f9ad37b1351a19ee13a37714ae6d3a5*](https://0qN9of.tosslk.xyz/2f9ad37b1351a19ee13a37714ae6d3a5)
+  - **clash**: [*https://HhZJnT.tosslk.xyz/72fbd3725885707f2524a479a936ffb7*](https://HhZJnT.tosslk.xyz/72fbd3725885707f2524a479a936ffb7)
+  - **v2ray**: [*https://HhZJnT.tosslk.xyz/72fbd3725885707f2524a479a936ffb7*](https://HhZJnT.tosslk.xyz/72fbd3725885707f2524a479a936ffb7)
+  - **ios**: [*https://HhZJnT.tosslk.xyz/72fbd3725885707f2524a479a936ffb7*](https://HhZJnT.tosslk.xyz/72fbd3725885707f2524a479a936ffb7)
 - **abshare**
   - **clash**: [*https://KLOudy.absslk.xyz/59d51e01dc72e5ada6a6579126f4ed8e*](https://KLOudy.absslk.xyz/59d51e01dc72e5ada6a6579126f4ed8e)
   - **v2ray**: [*https://KLOudy.absslk.xyz/59d51e01dc72e5ada6a6579126f4ed8e*](https://KLOudy.absslk.xyz/59d51e01dc72e5ada6a6579126f4ed8e)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://cqXIzp.tosslk.xyz/65955431089cb233d936241a621a8f77*](https://cqXIzp.tosslk.xyz/65955431089cb233d936241a621a8f77)
   - **ios**: [*https://cqXIzp.tosslk.xyz/65955431089cb233d936241a621a8f77*](https://cqXIzp.tosslk.xyz/65955431089cb233d936241a621a8f77)
 - **abshare3**
-  - **clash**: [*https://VmELGo.absslk.xyz/9c7ca26dcfcb07a17386373b2df94c0b*](https://VmELGo.absslk.xyz/9c7ca26dcfcb07a17386373b2df94c0b)
-  - **v2ray**: [*https://VmELGo.absslk.xyz/9c7ca26dcfcb07a17386373b2df94c0b*](https://VmELGo.absslk.xyz/9c7ca26dcfcb07a17386373b2df94c0b)
-  - **ios**: [*https://VmELGo.absslk.xyz/9c7ca26dcfcb07a17386373b2df94c0b*](https://VmELGo.absslk.xyz/9c7ca26dcfcb07a17386373b2df94c0b)
+  - **clash**: [*https://OU3Dib.absslk.xyz/079f620ada5518d375c6e756791d6649*](https://OU3Dib.absslk.xyz/079f620ada5518d375c6e756791d6649)
+  - **v2ray**: [*https://OU3Dib.absslk.xyz/079f620ada5518d375c6e756791d6649*](https://OU3Dib.absslk.xyz/079f620ada5518d375c6e756791d6649)
+  - **ios**: [*https://OU3Dib.absslk.xyz/079f620ada5518d375c6e756791d6649*](https://OU3Dib.absslk.xyz/079f620ada5518d375c6e756791d6649)
