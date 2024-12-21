@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-21 21:30:04
+> Updated Time: 2024-12-21 21:40:51
 
 - **tolinkshare2**
-  - **clash**: [*https://vlWKNM.tosslk.xyz/44441e47bece2c8de6c58179d44a68c9*](https://vlWKNM.tosslk.xyz/44441e47bece2c8de6c58179d44a68c9)
-  - **v2ray**: [*https://vlWKNM.tosslk.xyz/44441e47bece2c8de6c58179d44a68c9*](https://vlWKNM.tosslk.xyz/44441e47bece2c8de6c58179d44a68c9)
-  - **ios**: [*https://vlWKNM.tosslk.xyz/44441e47bece2c8de6c58179d44a68c9*](https://vlWKNM.tosslk.xyz/44441e47bece2c8de6c58179d44a68c9)
+  - **clash**: [*https://BH2ccf.tosslk.xyz/cbca37d1d6de90f009d4a3fafcc2f4ce*](https://BH2ccf.tosslk.xyz/cbca37d1d6de90f009d4a3fafcc2f4ce)
+  - **v2ray**: [*https://BH2ccf.tosslk.xyz/cbca37d1d6de90f009d4a3fafcc2f4ce*](https://BH2ccf.tosslk.xyz/cbca37d1d6de90f009d4a3fafcc2f4ce)
+  - **ios**: [*https://BH2ccf.tosslk.xyz/cbca37d1d6de90f009d4a3fafcc2f4ce*](https://BH2ccf.tosslk.xyz/cbca37d1d6de90f009d4a3fafcc2f4ce)
 - **abshare**
-  - **clash**: [*https://IbNdSf.absslk.xyz/22f352f2d6429301706a5e11fa2c1a43*](https://IbNdSf.absslk.xyz/22f352f2d6429301706a5e11fa2c1a43)
-  - **v2ray**: [*https://IbNdSf.absslk.xyz/22f352f2d6429301706a5e11fa2c1a43*](https://IbNdSf.absslk.xyz/22f352f2d6429301706a5e11fa2c1a43)
-  - **ios**: [*https://IbNdSf.absslk.xyz/22f352f2d6429301706a5e11fa2c1a43*](https://IbNdSf.absslk.xyz/22f352f2d6429301706a5e11fa2c1a43)
+  - **clash**: [*https://lGcSSd.absslk.xyz/b228b898fbddfc60169e273fc7066e71*](https://lGcSSd.absslk.xyz/b228b898fbddfc60169e273fc7066e71)
+  - **v2ray**: [*https://lGcSSd.absslk.xyz/b228b898fbddfc60169e273fc7066e71*](https://lGcSSd.absslk.xyz/b228b898fbddfc60169e273fc7066e71)
+  - **ios**: [*https://lGcSSd.absslk.xyz/b228b898fbddfc60169e273fc7066e71*](https://lGcSSd.absslk.xyz/b228b898fbddfc60169e273fc7066e71)
 - **mksshare**
   - **clash**: [*https://nprsuj.mcsslk.xyz/eb67ca152bbe743b40e81c52de0f9829*](https://nprsuj.mcsslk.xyz/eb67ca152bbe743b40e81c52de0f9829)
   - **v2ray**: [*https://nprsuj.mcsslk.xyz/eb67ca152bbe743b40e81c52de0f9829*](https://nprsuj.mcsslk.xyz/eb67ca152bbe743b40e81c52de0f9829)
