@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-22 15:13:12
+> Updated Time: 2024-12-22 15:24:04
 
 - **tolinkshare2**
   - **clash**: [*https://YH3id9.tosslk.xyz/af70c4f2a72ce422047a6102b718e19b*](https://YH3id9.tosslk.xyz/af70c4f2a72ce422047a6102b718e19b)
   - **v2ray**: [*https://YH3id9.tosslk.xyz/af70c4f2a72ce422047a6102b718e19b*](https://YH3id9.tosslk.xyz/af70c4f2a72ce422047a6102b718e19b)
   - **ios**: [*https://YH3id9.tosslk.xyz/af70c4f2a72ce422047a6102b718e19b*](https://YH3id9.tosslk.xyz/af70c4f2a72ce422047a6102b718e19b)
 - **abshare**
-  - **clash**: [*https://rU8nYR.absslk.xyz/f053de3fb92754832ccd4964de1415b3*](https://rU8nYR.absslk.xyz/f053de3fb92754832ccd4964de1415b3)
-  - **v2ray**: [*https://rU8nYR.absslk.xyz/f053de3fb92754832ccd4964de1415b3*](https://rU8nYR.absslk.xyz/f053de3fb92754832ccd4964de1415b3)
-  - **ios**: [*https://rU8nYR.absslk.xyz/f053de3fb92754832ccd4964de1415b3*](https://rU8nYR.absslk.xyz/f053de3fb92754832ccd4964de1415b3)
+  - **clash**: [*https://juoqPa.absslk.xyz/355288e68336b116944477fcf3cca28b*](https://juoqPa.absslk.xyz/355288e68336b116944477fcf3cca28b)
+  - **v2ray**: [*https://juoqPa.absslk.xyz/355288e68336b116944477fcf3cca28b*](https://juoqPa.absslk.xyz/355288e68336b116944477fcf3cca28b)
+  - **ios**: [*https://juoqPa.absslk.xyz/355288e68336b116944477fcf3cca28b*](https://juoqPa.absslk.xyz/355288e68336b116944477fcf3cca28b)
 - **mksshare**
   - **clash**: [*https://2K77Df.mcsslk.xyz/fca0c5b287c522605b9315c482865361*](https://2K77Df.mcsslk.xyz/fca0c5b287c522605b9315c482865361)
   - **v2ray**: [*https://2K77Df.mcsslk.xyz/fca0c5b287c522605b9315c482865361*](https://2K77Df.mcsslk.xyz/fca0c5b287c522605b9315c482865361)
