@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-23 02:47:05
+> Updated Time: 2024-12-23 02:52:32
 
 - **tolinkshare2**
-  - **clash**: [*https://GXLFas.tosslk.xyz/4b3b4b5396bfbda152eaa86c16b1a6a2*](https://GXLFas.tosslk.xyz/4b3b4b5396bfbda152eaa86c16b1a6a2)
-  - **v2ray**: [*https://GXLFas.tosslk.xyz/4b3b4b5396bfbda152eaa86c16b1a6a2*](https://GXLFas.tosslk.xyz/4b3b4b5396bfbda152eaa86c16b1a6a2)
-  - **ios**: [*https://GXLFas.tosslk.xyz/4b3b4b5396bfbda152eaa86c16b1a6a2*](https://GXLFas.tosslk.xyz/4b3b4b5396bfbda152eaa86c16b1a6a2)
+  - **clash**: [*https://NFsoPw.tosslk.xyz/ab3d67ea561a9213e0e2f7fe7c2cbd2c*](https://NFsoPw.tosslk.xyz/ab3d67ea561a9213e0e2f7fe7c2cbd2c)
+  - **v2ray**: [*https://NFsoPw.tosslk.xyz/ab3d67ea561a9213e0e2f7fe7c2cbd2c*](https://NFsoPw.tosslk.xyz/ab3d67ea561a9213e0e2f7fe7c2cbd2c)
+  - **ios**: [*https://NFsoPw.tosslk.xyz/ab3d67ea561a9213e0e2f7fe7c2cbd2c*](https://NFsoPw.tosslk.xyz/ab3d67ea561a9213e0e2f7fe7c2cbd2c)
 - **abshare**
-  - **clash**: [*https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11*](https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11)
-  - **v2ray**: [*https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11*](https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11)
-  - **ios**: [*https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11*](https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11)
+  - **clash**: [*https://T2Fgm4.absslk.xyz/cef3cba2b13119e354eb8b61c28b44aa*](https://T2Fgm4.absslk.xyz/cef3cba2b13119e354eb8b61c28b44aa)
+  - **v2ray**: [*https://T2Fgm4.absslk.xyz/cef3cba2b13119e354eb8b61c28b44aa*](https://T2Fgm4.absslk.xyz/cef3cba2b13119e354eb8b61c28b44aa)
+  - **ios**: [*https://T2Fgm4.absslk.xyz/cef3cba2b13119e354eb8b61c28b44aa*](https://T2Fgm4.absslk.xyz/cef3cba2b13119e354eb8b61c28b44aa)
 - **mksshare**
   - **clash**: [*https://yzi2Pt.mcsslk.xyz/c504a3f92008edef85a9bfbdf5ce1535*](https://yzi2Pt.mcsslk.xyz/c504a3f92008edef85a9bfbdf5ce1535)
   - **v2ray**: [*https://yzi2Pt.mcsslk.xyz/c504a3f92008edef85a9bfbdf5ce1535*](https://yzi2Pt.mcsslk.xyz/c504a3f92008edef85a9bfbdf5ce1535)
