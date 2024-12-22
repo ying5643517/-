@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-22 12:51:14
+> Updated Time: 2024-12-22 12:56:42
 
 - **tolinkshare2**
   - **clash**: [*https://cCPj1D.tosslk.xyz/e8dcd47b0f5ddabd33538f7b757e1a90*](https://cCPj1D.tosslk.xyz/e8dcd47b0f5ddabd33538f7b757e1a90)
   - **v2ray**: [*https://cCPj1D.tosslk.xyz/e8dcd47b0f5ddabd33538f7b757e1a90*](https://cCPj1D.tosslk.xyz/e8dcd47b0f5ddabd33538f7b757e1a90)
   - **ios**: [*https://cCPj1D.tosslk.xyz/e8dcd47b0f5ddabd33538f7b757e1a90*](https://cCPj1D.tosslk.xyz/e8dcd47b0f5ddabd33538f7b757e1a90)
 - **abshare**
-  - **clash**: [*https://rKZttv.absslk.xyz/a22850ed8d2ecaf49a172099aeb5ef8d*](https://rKZttv.absslk.xyz/a22850ed8d2ecaf49a172099aeb5ef8d)
-  - **v2ray**: [*https://rKZttv.absslk.xyz/a22850ed8d2ecaf49a172099aeb5ef8d*](https://rKZttv.absslk.xyz/a22850ed8d2ecaf49a172099aeb5ef8d)
-  - **ios**: [*https://rKZttv.absslk.xyz/a22850ed8d2ecaf49a172099aeb5ef8d*](https://rKZttv.absslk.xyz/a22850ed8d2ecaf49a172099aeb5ef8d)
+  - **clash**: [*https://V9gLnV.absslk.xyz/721c929d04cc2f2e7c341852658e3c48*](https://V9gLnV.absslk.xyz/721c929d04cc2f2e7c341852658e3c48)
+  - **v2ray**: [*https://V9gLnV.absslk.xyz/721c929d04cc2f2e7c341852658e3c48*](https://V9gLnV.absslk.xyz/721c929d04cc2f2e7c341852658e3c48)
+  - **ios**: [*https://V9gLnV.absslk.xyz/721c929d04cc2f2e7c341852658e3c48*](https://V9gLnV.absslk.xyz/721c929d04cc2f2e7c341852658e3c48)
 - **mksshare**
   - **clash**: [*https://bzjfi5.mcsslk.xyz/cce528cd14d2db18c7fadb05a9c6048e*](https://bzjfi5.mcsslk.xyz/cce528cd14d2db18c7fadb05a9c6048e)
   - **v2ray**: [*https://bzjfi5.mcsslk.xyz/cce528cd14d2db18c7fadb05a9c6048e*](https://bzjfi5.mcsslk.xyz/cce528cd14d2db18c7fadb05a9c6048e)
