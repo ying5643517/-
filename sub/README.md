@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-23 02:32:16
+> Updated Time: 2024-12-23 02:41:50
 
 - **tolinkshare2**
-  - **clash**: [*https://8gnrgh.tosslk.xyz/dc003ef52cb6e2df969d4534398b083b*](https://8gnrgh.tosslk.xyz/dc003ef52cb6e2df969d4534398b083b)
-  - **v2ray**: [*https://8gnrgh.tosslk.xyz/dc003ef52cb6e2df969d4534398b083b*](https://8gnrgh.tosslk.xyz/dc003ef52cb6e2df969d4534398b083b)
-  - **ios**: [*https://8gnrgh.tosslk.xyz/dc003ef52cb6e2df969d4534398b083b*](https://8gnrgh.tosslk.xyz/dc003ef52cb6e2df969d4534398b083b)
+  - **clash**: [*https://7sRksr.tosslk.xyz/08518c20944cb6780ee5d9b0c5d99a82*](https://7sRksr.tosslk.xyz/08518c20944cb6780ee5d9b0c5d99a82)
+  - **v2ray**: [*https://7sRksr.tosslk.xyz/08518c20944cb6780ee5d9b0c5d99a82*](https://7sRksr.tosslk.xyz/08518c20944cb6780ee5d9b0c5d99a82)
+  - **ios**: [*https://7sRksr.tosslk.xyz/08518c20944cb6780ee5d9b0c5d99a82*](https://7sRksr.tosslk.xyz/08518c20944cb6780ee5d9b0c5d99a82)
 - **abshare**
   - **clash**: [*https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11*](https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11)
   - **v2ray**: [*https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11*](https://peXEit.absslk.xyz/93718266bbc6f69cb4a6a69807057b11)
