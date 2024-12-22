@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-22 22:09:35
+> Updated Time: 2024-12-22 22:25:24
 
 - **tolinkshare2**
-  - **clash**: [*https://pLFIpa.tosslk.xyz/5c09266a3135c0f3625d45242209703d*](https://pLFIpa.tosslk.xyz/5c09266a3135c0f3625d45242209703d)
-  - **v2ray**: [*https://pLFIpa.tosslk.xyz/5c09266a3135c0f3625d45242209703d*](https://pLFIpa.tosslk.xyz/5c09266a3135c0f3625d45242209703d)
-  - **ios**: [*https://pLFIpa.tosslk.xyz/5c09266a3135c0f3625d45242209703d*](https://pLFIpa.tosslk.xyz/5c09266a3135c0f3625d45242209703d)
+  - **clash**: [*https://cmjzjJ.tosslk.xyz/7bb919f5e74705717df7772c3c71205d*](https://cmjzjJ.tosslk.xyz/7bb919f5e74705717df7772c3c71205d)
+  - **v2ray**: [*https://cmjzjJ.tosslk.xyz/7bb919f5e74705717df7772c3c71205d*](https://cmjzjJ.tosslk.xyz/7bb919f5e74705717df7772c3c71205d)
+  - **ios**: [*https://cmjzjJ.tosslk.xyz/7bb919f5e74705717df7772c3c71205d*](https://cmjzjJ.tosslk.xyz/7bb919f5e74705717df7772c3c71205d)
 - **abshare**
   - **clash**: [*https://zSVWhA.absslk.xyz/2f09cfeb5b2f38e3c7d3f307e8af086c*](https://zSVWhA.absslk.xyz/2f09cfeb5b2f38e3c7d3f307e8af086c)
   - **v2ray**: [*https://zSVWhA.absslk.xyz/2f09cfeb5b2f38e3c7d3f307e8af086c*](https://zSVWhA.absslk.xyz/2f09cfeb5b2f38e3c7d3f307e8af086c)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://hw3mI5.tosslk.xyz/86c350fb7586c4308ae006c0789222eb*](https://hw3mI5.tosslk.xyz/86c350fb7586c4308ae006c0789222eb)
   - **ios**: [*https://hw3mI5.tosslk.xyz/86c350fb7586c4308ae006c0789222eb*](https://hw3mI5.tosslk.xyz/86c350fb7586c4308ae006c0789222eb)
 - **abshare3**
-  - **clash**: [*https://Ertn0q.absslk.xyz/fb9d8725abf2e57027a1f0b9767c0b52*](https://Ertn0q.absslk.xyz/fb9d8725abf2e57027a1f0b9767c0b52)
-  - **v2ray**: [*https://Ertn0q.absslk.xyz/fb9d8725abf2e57027a1f0b9767c0b52*](https://Ertn0q.absslk.xyz/fb9d8725abf2e57027a1f0b9767c0b52)
-  - **ios**: [*https://Ertn0q.absslk.xyz/fb9d8725abf2e57027a1f0b9767c0b52*](https://Ertn0q.absslk.xyz/fb9d8725abf2e57027a1f0b9767c0b52)
+  - **clash**: [*https://HazaIW.absslk.xyz/22af2d4d6947ec0ec05e5edba9eae3c5*](https://HazaIW.absslk.xyz/22af2d4d6947ec0ec05e5edba9eae3c5)
+  - **v2ray**: [*https://HazaIW.absslk.xyz/22af2d4d6947ec0ec05e5edba9eae3c5*](https://HazaIW.absslk.xyz/22af2d4d6947ec0ec05e5edba9eae3c5)
+  - **ios**: [*https://HazaIW.absslk.xyz/22af2d4d6947ec0ec05e5edba9eae3c5*](https://HazaIW.absslk.xyz/22af2d4d6947ec0ec05e5edba9eae3c5)
