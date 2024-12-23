@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-23 22:39:34
+> Updated Time: 2024-12-23 22:44:52
 
 - **tolinkshare2**
   - **clash**: [*https://5vBfbd.tosslk.xyz/70c188a6d94c18c932276039b47d787b*](https://5vBfbd.tosslk.xyz/70c188a6d94c18c932276039b47d787b)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://aOQqEL.absslk.xyz/b9235c72a4fde59555d8d7287b11451d*](https://aOQqEL.absslk.xyz/b9235c72a4fde59555d8d7287b11451d)
   - **ios**: [*https://aOQqEL.absslk.xyz/b9235c72a4fde59555d8d7287b11451d*](https://aOQqEL.absslk.xyz/b9235c72a4fde59555d8d7287b11451d)
 - **mksshare**
-  - **clash**: [*https://tL240U.mcsslk.xyz/c50bb69596b75fd744b6f50f024db005*](https://tL240U.mcsslk.xyz/c50bb69596b75fd744b6f50f024db005)
-  - **v2ray**: [*https://tL240U.mcsslk.xyz/c50bb69596b75fd744b6f50f024db005*](https://tL240U.mcsslk.xyz/c50bb69596b75fd744b6f50f024db005)
-  - **ios**: [*https://tL240U.mcsslk.xyz/c50bb69596b75fd744b6f50f024db005*](https://tL240U.mcsslk.xyz/c50bb69596b75fd744b6f50f024db005)
+  - **clash**: [*https://7fqaYq.mcsslk.xyz/9db24cabd4d7520abf81a3ad17857dd7*](https://7fqaYq.mcsslk.xyz/9db24cabd4d7520abf81a3ad17857dd7)
+  - **v2ray**: [*https://7fqaYq.mcsslk.xyz/9db24cabd4d7520abf81a3ad17857dd7*](https://7fqaYq.mcsslk.xyz/9db24cabd4d7520abf81a3ad17857dd7)
+  - **ios**: [*https://7fqaYq.mcsslk.xyz/9db24cabd4d7520abf81a3ad17857dd7*](https://7fqaYq.mcsslk.xyz/9db24cabd4d7520abf81a3ad17857dd7)
 - **mkshare3**
   - **clash**: [*https://YB2fA2.mcsslk.xyz/142b7b5de0f83092464c58f006578f7f*](https://YB2fA2.mcsslk.xyz/142b7b5de0f83092464c58f006578f7f)
   - **v2ray**: [*https://YB2fA2.mcsslk.xyz/142b7b5de0f83092464c58f006578f7f*](https://YB2fA2.mcsslk.xyz/142b7b5de0f83092464c58f006578f7f)
