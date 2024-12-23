@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-23 16:46:31
+> Updated Time: 2024-12-23 17:11:47
 
 - **tolinkshare2**
-  - **clash**: [*https://QyTqS7.tosslk.xyz/534c72ed2fdf828a1f6a9ad208a252a1*](https://QyTqS7.tosslk.xyz/534c72ed2fdf828a1f6a9ad208a252a1)
-  - **v2ray**: [*https://QyTqS7.tosslk.xyz/534c72ed2fdf828a1f6a9ad208a252a1*](https://QyTqS7.tosslk.xyz/534c72ed2fdf828a1f6a9ad208a252a1)
-  - **ios**: [*https://QyTqS7.tosslk.xyz/534c72ed2fdf828a1f6a9ad208a252a1*](https://QyTqS7.tosslk.xyz/534c72ed2fdf828a1f6a9ad208a252a1)
+  - **clash**: [*https://uiR1Q6.tosslk.xyz/cf8140159aaf92929da614caf44fef28*](https://uiR1Q6.tosslk.xyz/cf8140159aaf92929da614caf44fef28)
+  - **v2ray**: [*https://uiR1Q6.tosslk.xyz/cf8140159aaf92929da614caf44fef28*](https://uiR1Q6.tosslk.xyz/cf8140159aaf92929da614caf44fef28)
+  - **ios**: [*https://uiR1Q6.tosslk.xyz/cf8140159aaf92929da614caf44fef28*](https://uiR1Q6.tosslk.xyz/cf8140159aaf92929da614caf44fef28)
 - **abshare**
-  - **clash**: [*https://dfg0ic.absslk.xyz/108ff7b8ae1d28ea5281930bebf7a37e*](https://dfg0ic.absslk.xyz/108ff7b8ae1d28ea5281930bebf7a37e)
-  - **v2ray**: [*https://dfg0ic.absslk.xyz/108ff7b8ae1d28ea5281930bebf7a37e*](https://dfg0ic.absslk.xyz/108ff7b8ae1d28ea5281930bebf7a37e)
-  - **ios**: [*https://dfg0ic.absslk.xyz/108ff7b8ae1d28ea5281930bebf7a37e*](https://dfg0ic.absslk.xyz/108ff7b8ae1d28ea5281930bebf7a37e)
+  - **clash**: [*https://TQlKsl.absslk.xyz/46869009863f46da5e1d073349b1e1ed*](https://TQlKsl.absslk.xyz/46869009863f46da5e1d073349b1e1ed)
+  - **v2ray**: [*https://TQlKsl.absslk.xyz/46869009863f46da5e1d073349b1e1ed*](https://TQlKsl.absslk.xyz/46869009863f46da5e1d073349b1e1ed)
+  - **ios**: [*https://TQlKsl.absslk.xyz/46869009863f46da5e1d073349b1e1ed*](https://TQlKsl.absslk.xyz/46869009863f46da5e1d073349b1e1ed)
 - **mksshare**
   - **clash**: [*https://fA3xhJ.mcsslk.xyz/193f5ce596c923ce4879738ca69556cb*](https://fA3xhJ.mcsslk.xyz/193f5ce596c923ce4879738ca69556cb)
   - **v2ray**: [*https://fA3xhJ.mcsslk.xyz/193f5ce596c923ce4879738ca69556cb*](https://fA3xhJ.mcsslk.xyz/193f5ce596c923ce4879738ca69556cb)
