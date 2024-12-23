@@ -21,20 +21,20 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-23 13:51:01
+> Updated Time: 2024-12-23 14:13:36
 
 - **tolinkshare2**
-  - **clash**: [*https://B1Wigm.tosslk.xyz/122e871ce4c62b03cba2032e61a0df03*](https://B1Wigm.tosslk.xyz/122e871ce4c62b03cba2032e61a0df03)
-  - **v2ray**: [*https://B1Wigm.tosslk.xyz/122e871ce4c62b03cba2032e61a0df03*](https://B1Wigm.tosslk.xyz/122e871ce4c62b03cba2032e61a0df03)
-  - **ios**: [*https://B1Wigm.tosslk.xyz/122e871ce4c62b03cba2032e61a0df03*](https://B1Wigm.tosslk.xyz/122e871ce4c62b03cba2032e61a0df03)
+  - **clash**: [*https://XQEdfx.tosslk.xyz/f0761397314b3138d8897c6d816c4f03*](https://XQEdfx.tosslk.xyz/f0761397314b3138d8897c6d816c4f03)
+  - **v2ray**: [*https://XQEdfx.tosslk.xyz/f0761397314b3138d8897c6d816c4f03*](https://XQEdfx.tosslk.xyz/f0761397314b3138d8897c6d816c4f03)
+  - **ios**: [*https://XQEdfx.tosslk.xyz/f0761397314b3138d8897c6d816c4f03*](https://XQEdfx.tosslk.xyz/f0761397314b3138d8897c6d816c4f03)
 - **abshare**
   - **clash**: [*https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70*](https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70)
   - **v2ray**: [*https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70*](https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70)
   - **ios**: [*https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70*](https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70)
 - **mksshare**
-  - **clash**: [*https://n4u7oJ.mcsslk.xyz/4d54228d0ae6347413660f267862044b*](https://n4u7oJ.mcsslk.xyz/4d54228d0ae6347413660f267862044b)
-  - **v2ray**: [*https://n4u7oJ.mcsslk.xyz/4d54228d0ae6347413660f267862044b*](https://n4u7oJ.mcsslk.xyz/4d54228d0ae6347413660f267862044b)
-  - **ios**: [*https://n4u7oJ.mcsslk.xyz/4d54228d0ae6347413660f267862044b*](https://n4u7oJ.mcsslk.xyz/4d54228d0ae6347413660f267862044b)
+  - **clash**: [*https://UZHYAe.mcsslk.xyz/579ee5987812fde2043afaeb8c62ad82*](https://UZHYAe.mcsslk.xyz/579ee5987812fde2043afaeb8c62ad82)
+  - **v2ray**: [*https://UZHYAe.mcsslk.xyz/579ee5987812fde2043afaeb8c62ad82*](https://UZHYAe.mcsslk.xyz/579ee5987812fde2043afaeb8c62ad82)
+  - **ios**: [*https://UZHYAe.mcsslk.xyz/579ee5987812fde2043afaeb8c62ad82*](https://UZHYAe.mcsslk.xyz/579ee5987812fde2043afaeb8c62ad82)
 - **mkshare3**
   - **clash**: [*https://sLU2Xt.mcsslk.xyz/c2a8092accdb803518a658ecd3d146f5*](https://sLU2Xt.mcsslk.xyz/c2a8092accdb803518a658ecd3d146f5)
   - **v2ray**: [*https://sLU2Xt.mcsslk.xyz/c2a8092accdb803518a658ecd3d146f5*](https://sLU2Xt.mcsslk.xyz/c2a8092accdb803518a658ecd3d146f5)
