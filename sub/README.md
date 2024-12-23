@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-24 01:07:57
+> Updated Time: 2024-12-24 01:24:35
 
 - **tolinkshare2**
-  - **clash**: [*https://Co74eG.tosslk.xyz/256336bac34e3ae84fb1ea57620b00a9*](https://Co74eG.tosslk.xyz/256336bac34e3ae84fb1ea57620b00a9)
-  - **v2ray**: [*https://Co74eG.tosslk.xyz/256336bac34e3ae84fb1ea57620b00a9*](https://Co74eG.tosslk.xyz/256336bac34e3ae84fb1ea57620b00a9)
-  - **ios**: [*https://Co74eG.tosslk.xyz/256336bac34e3ae84fb1ea57620b00a9*](https://Co74eG.tosslk.xyz/256336bac34e3ae84fb1ea57620b00a9)
+  - **clash**: [*https://NLoc2F.tosslk.xyz/fb1d7ac4e444425887274cdda99b1a96*](https://NLoc2F.tosslk.xyz/fb1d7ac4e444425887274cdda99b1a96)
+  - **v2ray**: [*https://NLoc2F.tosslk.xyz/fb1d7ac4e444425887274cdda99b1a96*](https://NLoc2F.tosslk.xyz/fb1d7ac4e444425887274cdda99b1a96)
+  - **ios**: [*https://NLoc2F.tosslk.xyz/fb1d7ac4e444425887274cdda99b1a96*](https://NLoc2F.tosslk.xyz/fb1d7ac4e444425887274cdda99b1a96)
 - **abshare**
-  - **clash**: [*https://w0qUZ3.absslk.xyz/cefb91368dbd2fbdee2e1738f7a23d77*](https://w0qUZ3.absslk.xyz/cefb91368dbd2fbdee2e1738f7a23d77)
-  - **v2ray**: [*https://w0qUZ3.absslk.xyz/cefb91368dbd2fbdee2e1738f7a23d77*](https://w0qUZ3.absslk.xyz/cefb91368dbd2fbdee2e1738f7a23d77)
-  - **ios**: [*https://w0qUZ3.absslk.xyz/cefb91368dbd2fbdee2e1738f7a23d77*](https://w0qUZ3.absslk.xyz/cefb91368dbd2fbdee2e1738f7a23d77)
+  - **clash**: [*https://hG4pGp.absslk.xyz/f972fe82dc64191716cb803387a17aff*](https://hG4pGp.absslk.xyz/f972fe82dc64191716cb803387a17aff)
+  - **v2ray**: [*https://hG4pGp.absslk.xyz/f972fe82dc64191716cb803387a17aff*](https://hG4pGp.absslk.xyz/f972fe82dc64191716cb803387a17aff)
+  - **ios**: [*https://hG4pGp.absslk.xyz/f972fe82dc64191716cb803387a17aff*](https://hG4pGp.absslk.xyz/f972fe82dc64191716cb803387a17aff)
 - **mksshare**
   - **clash**: [*https://buCL85.mcsslk.xyz/8a0e9ec3f6eee8ddf7f06441e49c577f*](https://buCL85.mcsslk.xyz/8a0e9ec3f6eee8ddf7f06441e49c577f)
   - **v2ray**: [*https://buCL85.mcsslk.xyz/8a0e9ec3f6eee8ddf7f06441e49c577f*](https://buCL85.mcsslk.xyz/8a0e9ec3f6eee8ddf7f06441e49c577f)
