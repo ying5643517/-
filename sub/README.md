@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-23 15:13:14
+> Updated Time: 2024-12-23 15:26:06
 
 - **tolinkshare2**
-  - **clash**: [*https://zHoOhw.tosslk.xyz/9701cb0a9c4cc8758eb729571024bc58*](https://zHoOhw.tosslk.xyz/9701cb0a9c4cc8758eb729571024bc58)
-  - **v2ray**: [*https://zHoOhw.tosslk.xyz/9701cb0a9c4cc8758eb729571024bc58*](https://zHoOhw.tosslk.xyz/9701cb0a9c4cc8758eb729571024bc58)
-  - **ios**: [*https://zHoOhw.tosslk.xyz/9701cb0a9c4cc8758eb729571024bc58*](https://zHoOhw.tosslk.xyz/9701cb0a9c4cc8758eb729571024bc58)
+  - **clash**: [*https://1TkFFL.tosslk.xyz/c9f5bfae47f547757ee5dd04ba6eed5f*](https://1TkFFL.tosslk.xyz/c9f5bfae47f547757ee5dd04ba6eed5f)
+  - **v2ray**: [*https://1TkFFL.tosslk.xyz/c9f5bfae47f547757ee5dd04ba6eed5f*](https://1TkFFL.tosslk.xyz/c9f5bfae47f547757ee5dd04ba6eed5f)
+  - **ios**: [*https://1TkFFL.tosslk.xyz/c9f5bfae47f547757ee5dd04ba6eed5f*](https://1TkFFL.tosslk.xyz/c9f5bfae47f547757ee5dd04ba6eed5f)
 - **abshare**
-  - **clash**: [*https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70*](https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70)
-  - **v2ray**: [*https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70*](https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70)
-  - **ios**: [*https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70*](https://KB0EnW.absslk.xyz/59523af543dedb9be308288763232d70)
+  - **clash**: [*https://dD0KOc.absslk.xyz/a83c1ca012f5c266b24def383e06b27e*](https://dD0KOc.absslk.xyz/a83c1ca012f5c266b24def383e06b27e)
+  - **v2ray**: [*https://dD0KOc.absslk.xyz/a83c1ca012f5c266b24def383e06b27e*](https://dD0KOc.absslk.xyz/a83c1ca012f5c266b24def383e06b27e)
+  - **ios**: [*https://dD0KOc.absslk.xyz/a83c1ca012f5c266b24def383e06b27e*](https://dD0KOc.absslk.xyz/a83c1ca012f5c266b24def383e06b27e)
 - **mksshare**
   - **clash**: [*https://jW4UmL.mcsslk.xyz/629c8192d97e3d7afaa02ee8113b03aa*](https://jW4UmL.mcsslk.xyz/629c8192d97e3d7afaa02ee8113b03aa)
   - **v2ray**: [*https://jW4UmL.mcsslk.xyz/629c8192d97e3d7afaa02ee8113b03aa*](https://jW4UmL.mcsslk.xyz/629c8192d97e3d7afaa02ee8113b03aa)
