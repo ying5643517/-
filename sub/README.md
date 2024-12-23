@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-23 19:50:18
+> Updated Time: 2024-12-23 19:55:32
 
 - **tolinkshare2**
-  - **clash**: [*https://o26ibm.tosslk.xyz/edc6606fcbcb5d63ad812877772a7aac*](https://o26ibm.tosslk.xyz/edc6606fcbcb5d63ad812877772a7aac)
-  - **v2ray**: [*https://o26ibm.tosslk.xyz/edc6606fcbcb5d63ad812877772a7aac*](https://o26ibm.tosslk.xyz/edc6606fcbcb5d63ad812877772a7aac)
-  - **ios**: [*https://o26ibm.tosslk.xyz/edc6606fcbcb5d63ad812877772a7aac*](https://o26ibm.tosslk.xyz/edc6606fcbcb5d63ad812877772a7aac)
+  - **clash**: [*https://Ud98en.tosslk.xyz/a14d026d3c1811263c2c9d23a86f7d9a*](https://Ud98en.tosslk.xyz/a14d026d3c1811263c2c9d23a86f7d9a)
+  - **v2ray**: [*https://Ud98en.tosslk.xyz/a14d026d3c1811263c2c9d23a86f7d9a*](https://Ud98en.tosslk.xyz/a14d026d3c1811263c2c9d23a86f7d9a)
+  - **ios**: [*https://Ud98en.tosslk.xyz/a14d026d3c1811263c2c9d23a86f7d9a*](https://Ud98en.tosslk.xyz/a14d026d3c1811263c2c9d23a86f7d9a)
 - **abshare**
-  - **clash**: [*https://FFaVs1.absslk.xyz/7e2fad0e408089581492e33a4b165ae1*](https://FFaVs1.absslk.xyz/7e2fad0e408089581492e33a4b165ae1)
-  - **v2ray**: [*https://FFaVs1.absslk.xyz/7e2fad0e408089581492e33a4b165ae1*](https://FFaVs1.absslk.xyz/7e2fad0e408089581492e33a4b165ae1)
-  - **ios**: [*https://FFaVs1.absslk.xyz/7e2fad0e408089581492e33a4b165ae1*](https://FFaVs1.absslk.xyz/7e2fad0e408089581492e33a4b165ae1)
+  - **clash**: [*https://QhQNH5.absslk.xyz/1cafb9867ee982b94aab41878db7c513*](https://QhQNH5.absslk.xyz/1cafb9867ee982b94aab41878db7c513)
+  - **v2ray**: [*https://QhQNH5.absslk.xyz/1cafb9867ee982b94aab41878db7c513*](https://QhQNH5.absslk.xyz/1cafb9867ee982b94aab41878db7c513)
+  - **ios**: [*https://QhQNH5.absslk.xyz/1cafb9867ee982b94aab41878db7c513*](https://QhQNH5.absslk.xyz/1cafb9867ee982b94aab41878db7c513)
 - **mksshare**
   - **clash**: [*https://FmpVIx.mcsslk.xyz/29f78348e569c89abae8cc1b9df58c35*](https://FmpVIx.mcsslk.xyz/29f78348e569c89abae8cc1b9df58c35)
   - **v2ray**: [*https://FmpVIx.mcsslk.xyz/29f78348e569c89abae8cc1b9df58c35*](https://FmpVIx.mcsslk.xyz/29f78348e569c89abae8cc1b9df58c35)
