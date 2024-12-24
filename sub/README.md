@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-25 01:37:51
+> Updated Time: 2024-12-25 01:53:39
 
 - **tolinkshare2**
-  - **clash**: [*https://f0XxQF.tosslk.xyz/8d0c6a92eb20d3c6d0fb53aed4575b38*](https://f0XxQF.tosslk.xyz/8d0c6a92eb20d3c6d0fb53aed4575b38)
-  - **v2ray**: [*https://f0XxQF.tosslk.xyz/8d0c6a92eb20d3c6d0fb53aed4575b38*](https://f0XxQF.tosslk.xyz/8d0c6a92eb20d3c6d0fb53aed4575b38)
-  - **ios**: [*https://f0XxQF.tosslk.xyz/8d0c6a92eb20d3c6d0fb53aed4575b38*](https://f0XxQF.tosslk.xyz/8d0c6a92eb20d3c6d0fb53aed4575b38)
+  - **clash**: [*https://204VOZ.tosslk.xyz/a711fe8fcce29d2888ed79a7da5b7915*](https://204VOZ.tosslk.xyz/a711fe8fcce29d2888ed79a7da5b7915)
+  - **v2ray**: [*https://204VOZ.tosslk.xyz/a711fe8fcce29d2888ed79a7da5b7915*](https://204VOZ.tosslk.xyz/a711fe8fcce29d2888ed79a7da5b7915)
+  - **ios**: [*https://204VOZ.tosslk.xyz/a711fe8fcce29d2888ed79a7da5b7915*](https://204VOZ.tosslk.xyz/a711fe8fcce29d2888ed79a7da5b7915)
 - **abshare**
   - **clash**: [*https://c5nbBg.absslk.xyz/b39c847b92e74af2457f4fd1a091efcd*](https://c5nbBg.absslk.xyz/b39c847b92e74af2457f4fd1a091efcd)
   - **v2ray**: [*https://c5nbBg.absslk.xyz/b39c847b92e74af2457f4fd1a091efcd*](https://c5nbBg.absslk.xyz/b39c847b92e74af2457f4fd1a091efcd)
