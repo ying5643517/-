@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-24 17:47:05
+> Updated Time: 2024-12-24 17:57:48
 
 - **tolinkshare2**
-  - **clash**: [*https://r6LAOF.tosslk.xyz/cc8a941df40cc9b755f6590bfbcc1e2f*](https://r6LAOF.tosslk.xyz/cc8a941df40cc9b755f6590bfbcc1e2f)
-  - **v2ray**: [*https://r6LAOF.tosslk.xyz/cc8a941df40cc9b755f6590bfbcc1e2f*](https://r6LAOF.tosslk.xyz/cc8a941df40cc9b755f6590bfbcc1e2f)
-  - **ios**: [*https://r6LAOF.tosslk.xyz/cc8a941df40cc9b755f6590bfbcc1e2f*](https://r6LAOF.tosslk.xyz/cc8a941df40cc9b755f6590bfbcc1e2f)
+  - **clash**: [*https://CO53WU.tosslk.xyz/c1503b9bfc07bf3fdb689762306c4aa8*](https://CO53WU.tosslk.xyz/c1503b9bfc07bf3fdb689762306c4aa8)
+  - **v2ray**: [*https://CO53WU.tosslk.xyz/c1503b9bfc07bf3fdb689762306c4aa8*](https://CO53WU.tosslk.xyz/c1503b9bfc07bf3fdb689762306c4aa8)
+  - **ios**: [*https://CO53WU.tosslk.xyz/c1503b9bfc07bf3fdb689762306c4aa8*](https://CO53WU.tosslk.xyz/c1503b9bfc07bf3fdb689762306c4aa8)
 - **abshare**
   - **clash**: [*https://ZIanI8.absslk.xyz/182340e59857f588cac9589f9fdf6c4a*](https://ZIanI8.absslk.xyz/182340e59857f588cac9589f9fdf6c4a)
   - **v2ray**: [*https://ZIanI8.absslk.xyz/182340e59857f588cac9589f9fdf6c4a*](https://ZIanI8.absslk.xyz/182340e59857f588cac9589f9fdf6c4a)
