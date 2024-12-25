@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-25 14:48:28
+> Updated Time: 2024-12-25 14:59:03
 
 - **tolinkshare2**
-  - **clash**: [*https://bWbqE7.tosslk.xyz/8288469202d5266f6c5f069b33bebc86*](https://bWbqE7.tosslk.xyz/8288469202d5266f6c5f069b33bebc86)
-  - **v2ray**: [*https://bWbqE7.tosslk.xyz/8288469202d5266f6c5f069b33bebc86*](https://bWbqE7.tosslk.xyz/8288469202d5266f6c5f069b33bebc86)
-  - **ios**: [*https://bWbqE7.tosslk.xyz/8288469202d5266f6c5f069b33bebc86*](https://bWbqE7.tosslk.xyz/8288469202d5266f6c5f069b33bebc86)
+  - **clash**: [*https://ONCxto.tosslk.xyz/b1d5e167d0e37bfc084157b0f83b024a*](https://ONCxto.tosslk.xyz/b1d5e167d0e37bfc084157b0f83b024a)
+  - **v2ray**: [*https://ONCxto.tosslk.xyz/b1d5e167d0e37bfc084157b0f83b024a*](https://ONCxto.tosslk.xyz/b1d5e167d0e37bfc084157b0f83b024a)
+  - **ios**: [*https://ONCxto.tosslk.xyz/b1d5e167d0e37bfc084157b0f83b024a*](https://ONCxto.tosslk.xyz/b1d5e167d0e37bfc084157b0f83b024a)
 - **abshare**
   - **clash**: [*https://qrt6TX.absslk.xyz/3bbeb7fe3197448d5fabdae7bb112255*](https://qrt6TX.absslk.xyz/3bbeb7fe3197448d5fabdae7bb112255)
   - **v2ray**: [*https://qrt6TX.absslk.xyz/3bbeb7fe3197448d5fabdae7bb112255*](https://qrt6TX.absslk.xyz/3bbeb7fe3197448d5fabdae7bb112255)
