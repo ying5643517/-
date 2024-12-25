@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-25 17:18:37
+> Updated Time: 2024-12-25 17:52:38
 
 - **tolinkshare2**
   - **clash**: [*https://aFyOeG.tosslk.xyz/ce3f0a5e61bf199ce081e4206b86a8bc*](https://aFyOeG.tosslk.xyz/ce3f0a5e61bf199ce081e4206b86a8bc)
   - **v2ray**: [*https://aFyOeG.tosslk.xyz/ce3f0a5e61bf199ce081e4206b86a8bc*](https://aFyOeG.tosslk.xyz/ce3f0a5e61bf199ce081e4206b86a8bc)
   - **ios**: [*https://aFyOeG.tosslk.xyz/ce3f0a5e61bf199ce081e4206b86a8bc*](https://aFyOeG.tosslk.xyz/ce3f0a5e61bf199ce081e4206b86a8bc)
 - **abshare**
-  - **clash**: [*https://rINaSF.absslk.xyz/cb82e18fb106145567836514c191cbd2*](https://rINaSF.absslk.xyz/cb82e18fb106145567836514c191cbd2)
-  - **v2ray**: [*https://rINaSF.absslk.xyz/cb82e18fb106145567836514c191cbd2*](https://rINaSF.absslk.xyz/cb82e18fb106145567836514c191cbd2)
-  - **ios**: [*https://rINaSF.absslk.xyz/cb82e18fb106145567836514c191cbd2*](https://rINaSF.absslk.xyz/cb82e18fb106145567836514c191cbd2)
+  - **clash**: [*https://AJ5g0a.absslk.xyz/eff429b2d5da1537a2c20e0745d6924f*](https://AJ5g0a.absslk.xyz/eff429b2d5da1537a2c20e0745d6924f)
+  - **v2ray**: [*https://AJ5g0a.absslk.xyz/eff429b2d5da1537a2c20e0745d6924f*](https://AJ5g0a.absslk.xyz/eff429b2d5da1537a2c20e0745d6924f)
+  - **ios**: [*https://AJ5g0a.absslk.xyz/eff429b2d5da1537a2c20e0745d6924f*](https://AJ5g0a.absslk.xyz/eff429b2d5da1537a2c20e0745d6924f)
 - **mksshare**
   - **clash**: [*https://InKima.mcsslk.xyz/ea7cb114c18f1ffdc32d2349de6b6228*](https://InKima.mcsslk.xyz/ea7cb114c18f1ffdc32d2349de6b6228)
   - **v2ray**: [*https://InKima.mcsslk.xyz/ea7cb114c18f1ffdc32d2349de6b6228*](https://InKima.mcsslk.xyz/ea7cb114c18f1ffdc32d2349de6b6228)
