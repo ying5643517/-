@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-25 18:40:08
+> Updated Time: 2024-12-25 18:45:19
 
 - **tolinkshare2**
-  - **clash**: [*https://RIcrXZ.tosslk.xyz/79ce37683f47b1459fa4b31fe4e545a3*](https://RIcrXZ.tosslk.xyz/79ce37683f47b1459fa4b31fe4e545a3)
-  - **v2ray**: [*https://RIcrXZ.tosslk.xyz/79ce37683f47b1459fa4b31fe4e545a3*](https://RIcrXZ.tosslk.xyz/79ce37683f47b1459fa4b31fe4e545a3)
-  - **ios**: [*https://RIcrXZ.tosslk.xyz/79ce37683f47b1459fa4b31fe4e545a3*](https://RIcrXZ.tosslk.xyz/79ce37683f47b1459fa4b31fe4e545a3)
+  - **clash**: [*https://7JL62B.tosslk.xyz/1a17213a05f3b99f61a2e6e3a2ae2ae6*](https://7JL62B.tosslk.xyz/1a17213a05f3b99f61a2e6e3a2ae2ae6)
+  - **v2ray**: [*https://7JL62B.tosslk.xyz/1a17213a05f3b99f61a2e6e3a2ae2ae6*](https://7JL62B.tosslk.xyz/1a17213a05f3b99f61a2e6e3a2ae2ae6)
+  - **ios**: [*https://7JL62B.tosslk.xyz/1a17213a05f3b99f61a2e6e3a2ae2ae6*](https://7JL62B.tosslk.xyz/1a17213a05f3b99f61a2e6e3a2ae2ae6)
 - **abshare**
   - **clash**: [*https://1aPyzv.absslk.xyz/fbc8fb148b76ca5aef461497dbde72dd*](https://1aPyzv.absslk.xyz/fbc8fb148b76ca5aef461497dbde72dd)
   - **v2ray**: [*https://1aPyzv.absslk.xyz/fbc8fb148b76ca5aef461497dbde72dd*](https://1aPyzv.absslk.xyz/fbc8fb148b76ca5aef461497dbde72dd)
