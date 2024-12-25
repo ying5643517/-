@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 01:54:57
+> Updated Time: 2024-12-26 02:00:15
 
 - **tolinkshare2**
-  - **clash**: [*https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273*](https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273)
-  - **v2ray**: [*https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273*](https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273)
-  - **ios**: [*https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273*](https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273)
+  - **clash**: [*https://QnUPM3.tosslk.xyz/9f5aefd65852faea65a28d7083b5b370*](https://QnUPM3.tosslk.xyz/9f5aefd65852faea65a28d7083b5b370)
+  - **v2ray**: [*https://QnUPM3.tosslk.xyz/9f5aefd65852faea65a28d7083b5b370*](https://QnUPM3.tosslk.xyz/9f5aefd65852faea65a28d7083b5b370)
+  - **ios**: [*https://QnUPM3.tosslk.xyz/9f5aefd65852faea65a28d7083b5b370*](https://QnUPM3.tosslk.xyz/9f5aefd65852faea65a28d7083b5b370)
 - **abshare**
   - **clash**: [*https://m5o19s.absslk.xyz/acf4368e2e3fa4e58e0724525059ea43*](https://m5o19s.absslk.xyz/acf4368e2e3fa4e58e0724525059ea43)
   - **v2ray**: [*https://m5o19s.absslk.xyz/acf4368e2e3fa4e58e0724525059ea43*](https://m5o19s.absslk.xyz/acf4368e2e3fa4e58e0724525059ea43)
