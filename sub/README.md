@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 01:38:47
+> Updated Time: 2024-12-26 01:44:01
 
 - **tolinkshare2**
-  - **clash**: [*https://YGQR1O.tosslk.xyz/897c759f35a26fb7f3d12ab6e7289453*](https://YGQR1O.tosslk.xyz/897c759f35a26fb7f3d12ab6e7289453)
-  - **v2ray**: [*https://YGQR1O.tosslk.xyz/897c759f35a26fb7f3d12ab6e7289453*](https://YGQR1O.tosslk.xyz/897c759f35a26fb7f3d12ab6e7289453)
-  - **ios**: [*https://YGQR1O.tosslk.xyz/897c759f35a26fb7f3d12ab6e7289453*](https://YGQR1O.tosslk.xyz/897c759f35a26fb7f3d12ab6e7289453)
+  - **clash**: [*https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273*](https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273)
+  - **v2ray**: [*https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273*](https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273)
+  - **ios**: [*https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273*](https://amHCWK.tosslk.xyz/a6fb4fe33eefc951e1c094bcfa020273)
 - **abshare**
   - **clash**: [*https://1WW2b2.absslk.xyz/3239b625bf3c640dffe29dc356021c06*](https://1WW2b2.absslk.xyz/3239b625bf3c640dffe29dc356021c06)
   - **v2ray**: [*https://1WW2b2.absslk.xyz/3239b625bf3c640dffe29dc356021c06*](https://1WW2b2.absslk.xyz/3239b625bf3c640dffe29dc356021c06)
