@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 05:22:17
+> Updated Time: 2024-12-26 06:26:14
 
 - **tolinkshare2**
-  - **clash**: [*https://qa1KRQ.tosslk.xyz/ec813400d645205bd6006c7736f55492*](https://qa1KRQ.tosslk.xyz/ec813400d645205bd6006c7736f55492)
-  - **v2ray**: [*https://qa1KRQ.tosslk.xyz/ec813400d645205bd6006c7736f55492*](https://qa1KRQ.tosslk.xyz/ec813400d645205bd6006c7736f55492)
-  - **ios**: [*https://qa1KRQ.tosslk.xyz/ec813400d645205bd6006c7736f55492*](https://qa1KRQ.tosslk.xyz/ec813400d645205bd6006c7736f55492)
+  - **clash**: [*https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b*](https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b)
+  - **v2ray**: [*https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b*](https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b)
+  - **ios**: [*https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b*](https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b)
 - **abshare**
-  - **clash**: [*https://V9Dcs9.absslk.xyz/725507c21ea19f6710f0272d365233ff*](https://V9Dcs9.absslk.xyz/725507c21ea19f6710f0272d365233ff)
-  - **v2ray**: [*https://V9Dcs9.absslk.xyz/725507c21ea19f6710f0272d365233ff*](https://V9Dcs9.absslk.xyz/725507c21ea19f6710f0272d365233ff)
-  - **ios**: [*https://V9Dcs9.absslk.xyz/725507c21ea19f6710f0272d365233ff*](https://V9Dcs9.absslk.xyz/725507c21ea19f6710f0272d365233ff)
+  - **clash**: [*https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502*](https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502)
+  - **v2ray**: [*https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502*](https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502)
+  - **ios**: [*https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502*](https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502)
 - **mksshare**
   - **clash**: [*https://ppDnn8.mcsslk.xyz/745a862ec99447144e507bf2ae25f1ba*](https://ppDnn8.mcsslk.xyz/745a862ec99447144e507bf2ae25f1ba)
   - **v2ray**: [*https://ppDnn8.mcsslk.xyz/745a862ec99447144e507bf2ae25f1ba*](https://ppDnn8.mcsslk.xyz/745a862ec99447144e507bf2ae25f1ba)
