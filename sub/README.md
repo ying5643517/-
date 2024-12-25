@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 06:26:14
+> Updated Time: 2024-12-26 06:35:17
 
 - **tolinkshare2**
-  - **clash**: [*https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b*](https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b)
-  - **v2ray**: [*https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b*](https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b)
-  - **ios**: [*https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b*](https://FINyu1.tosslk.xyz/4e9117b5bd35bf2f4c983e048815c84b)
+  - **clash**: [*https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317*](https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317)
+  - **v2ray**: [*https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317*](https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317)
+  - **ios**: [*https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317*](https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317)
 - **abshare**
   - **clash**: [*https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502*](https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502)
   - **v2ray**: [*https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502*](https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502)
