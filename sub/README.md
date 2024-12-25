@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 07:35:53
+> Updated Time: 2024-12-26 07:41:10
 
 - **tolinkshare2**
   - **clash**: [*https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317*](https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317)
   - **v2ray**: [*https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317*](https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317)
   - **ios**: [*https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317*](https://jCxrBS.tosslk.xyz/efe7a397c892bb7a38ad411b0d0f3317)
 - **abshare**
-  - **clash**: [*https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502*](https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502)
-  - **v2ray**: [*https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502*](https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502)
-  - **ios**: [*https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502*](https://uKpbZK.absslk.xyz/d486c36684cac959f816bd8775f14502)
+  - **clash**: [*https://rmFRLH.absslk.xyz/084fd5a389b3dc8346175b401c453abb*](https://rmFRLH.absslk.xyz/084fd5a389b3dc8346175b401c453abb)
+  - **v2ray**: [*https://rmFRLH.absslk.xyz/084fd5a389b3dc8346175b401c453abb*](https://rmFRLH.absslk.xyz/084fd5a389b3dc8346175b401c453abb)
+  - **ios**: [*https://rmFRLH.absslk.xyz/084fd5a389b3dc8346175b401c453abb*](https://rmFRLH.absslk.xyz/084fd5a389b3dc8346175b401c453abb)
 - **mksshare**
   - **clash**: [*https://fxEPdx.mcsslk.xyz/b9d38b8a6822624fa99bc309bf81de9a*](https://fxEPdx.mcsslk.xyz/b9d38b8a6822624fa99bc309bf81de9a)
   - **v2ray**: [*https://fxEPdx.mcsslk.xyz/b9d38b8a6822624fa99bc309bf81de9a*](https://fxEPdx.mcsslk.xyz/b9d38b8a6822624fa99bc309bf81de9a)
