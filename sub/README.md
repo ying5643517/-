@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-25 19:37:16
+> Updated Time: 2024-12-25 19:58:11
 
 - **tolinkshare2**
-  - **clash**: [*https://GSpKgm.tosslk.xyz/1370809d585f7356973da18851f2b482*](https://GSpKgm.tosslk.xyz/1370809d585f7356973da18851f2b482)
-  - **v2ray**: [*https://GSpKgm.tosslk.xyz/1370809d585f7356973da18851f2b482*](https://GSpKgm.tosslk.xyz/1370809d585f7356973da18851f2b482)
-  - **ios**: [*https://GSpKgm.tosslk.xyz/1370809d585f7356973da18851f2b482*](https://GSpKgm.tosslk.xyz/1370809d585f7356973da18851f2b482)
+  - **clash**: [*https://FngTT5.tosslk.xyz/3fe017119f0eec72a4dccd18f4b9d2bf*](https://FngTT5.tosslk.xyz/3fe017119f0eec72a4dccd18f4b9d2bf)
+  - **v2ray**: [*https://FngTT5.tosslk.xyz/3fe017119f0eec72a4dccd18f4b9d2bf*](https://FngTT5.tosslk.xyz/3fe017119f0eec72a4dccd18f4b9d2bf)
+  - **ios**: [*https://FngTT5.tosslk.xyz/3fe017119f0eec72a4dccd18f4b9d2bf*](https://FngTT5.tosslk.xyz/3fe017119f0eec72a4dccd18f4b9d2bf)
 - **abshare**
-  - **clash**: [*https://gCCuhj.absslk.xyz/f89e3ed7110dd5dfabcf5b933ec7267e*](https://gCCuhj.absslk.xyz/f89e3ed7110dd5dfabcf5b933ec7267e)
-  - **v2ray**: [*https://gCCuhj.absslk.xyz/f89e3ed7110dd5dfabcf5b933ec7267e*](https://gCCuhj.absslk.xyz/f89e3ed7110dd5dfabcf5b933ec7267e)
-  - **ios**: [*https://gCCuhj.absslk.xyz/f89e3ed7110dd5dfabcf5b933ec7267e*](https://gCCuhj.absslk.xyz/f89e3ed7110dd5dfabcf5b933ec7267e)
+  - **clash**: [*https://sU222A.absslk.xyz/b1b3f31273f6242dda63a2691e87fedc*](https://sU222A.absslk.xyz/b1b3f31273f6242dda63a2691e87fedc)
+  - **v2ray**: [*https://sU222A.absslk.xyz/b1b3f31273f6242dda63a2691e87fedc*](https://sU222A.absslk.xyz/b1b3f31273f6242dda63a2691e87fedc)
+  - **ios**: [*https://sU222A.absslk.xyz/b1b3f31273f6242dda63a2691e87fedc*](https://sU222A.absslk.xyz/b1b3f31273f6242dda63a2691e87fedc)
 - **mksshare**
   - **clash**: [*https://InKima.mcsslk.xyz/ea7cb114c18f1ffdc32d2349de6b6228*](https://InKima.mcsslk.xyz/ea7cb114c18f1ffdc32d2349de6b6228)
   - **v2ray**: [*https://InKima.mcsslk.xyz/ea7cb114c18f1ffdc32d2349de6b6228*](https://InKima.mcsslk.xyz/ea7cb114c18f1ffdc32d2349de6b6228)
