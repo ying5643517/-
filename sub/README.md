@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 18:41:18
+> Updated Time: 2024-12-26 18:46:44
 
 - **tolinkshare2**
-  - **clash**: [*https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e*](https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e)
-  - **v2ray**: [*https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e*](https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e)
-  - **ios**: [*https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e*](https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e)
+  - **clash**: [*https://DzPTe1.tosslk.xyz/5ba82d319cdce013f3f4702ca20ab207*](https://DzPTe1.tosslk.xyz/5ba82d319cdce013f3f4702ca20ab207)
+  - **v2ray**: [*https://DzPTe1.tosslk.xyz/5ba82d319cdce013f3f4702ca20ab207*](https://DzPTe1.tosslk.xyz/5ba82d319cdce013f3f4702ca20ab207)
+  - **ios**: [*https://DzPTe1.tosslk.xyz/5ba82d319cdce013f3f4702ca20ab207*](https://DzPTe1.tosslk.xyz/5ba82d319cdce013f3f4702ca20ab207)
 - **abshare**
   - **clash**: [*https://wDw7Rg.absslk.xyz/7c228c656c75858a3568e9591e923572*](https://wDw7Rg.absslk.xyz/7c228c656c75858a3568e9591e923572)
   - **v2ray**: [*https://wDw7Rg.absslk.xyz/7c228c656c75858a3568e9591e923572*](https://wDw7Rg.absslk.xyz/7c228c656c75858a3568e9591e923572)
