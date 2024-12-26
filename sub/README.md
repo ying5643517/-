@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 17:29:37
+> Updated Time: 2024-12-26 17:36:40
 
 - **tolinkshare2**
-  - **clash**: [*https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b*](https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b)
-  - **v2ray**: [*https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b*](https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b)
-  - **ios**: [*https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b*](https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b)
+  - **clash**: [*https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e*](https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e)
+  - **v2ray**: [*https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e*](https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e)
+  - **ios**: [*https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e*](https://D299MB.tosslk.xyz/90e647ea2e84a5f6a55109c31b17c57e)
 - **abshare**
   - **clash**: [*https://dOWzcs.absslk.xyz/55fee22c26e101b8bea36ea3684b46c2*](https://dOWzcs.absslk.xyz/55fee22c26e101b8bea36ea3684b46c2)
   - **v2ray**: [*https://dOWzcs.absslk.xyz/55fee22c26e101b8bea36ea3684b46c2*](https://dOWzcs.absslk.xyz/55fee22c26e101b8bea36ea3684b46c2)
