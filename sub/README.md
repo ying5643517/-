@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 16:43:35
+> Updated Time: 2024-12-26 16:49:37
 
 - **tolinkshare2**
-  - **clash**: [*https://qZNjRU.tosslk.xyz/47bb45f198db9e8e0d1edc47d0b113d3*](https://qZNjRU.tosslk.xyz/47bb45f198db9e8e0d1edc47d0b113d3)
-  - **v2ray**: [*https://qZNjRU.tosslk.xyz/47bb45f198db9e8e0d1edc47d0b113d3*](https://qZNjRU.tosslk.xyz/47bb45f198db9e8e0d1edc47d0b113d3)
-  - **ios**: [*https://qZNjRU.tosslk.xyz/47bb45f198db9e8e0d1edc47d0b113d3*](https://qZNjRU.tosslk.xyz/47bb45f198db9e8e0d1edc47d0b113d3)
+  - **clash**: [*https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b*](https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b)
+  - **v2ray**: [*https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b*](https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b)
+  - **ios**: [*https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b*](https://bu6GSL.tosslk.xyz/a46ff567f478e1357f4b7c022cc9fa6b)
 - **abshare**
   - **clash**: [*https://aValwp.absslk.xyz/c9cd0f7beafdc3c0513a0ede3125d2a4*](https://aValwp.absslk.xyz/c9cd0f7beafdc3c0513a0ede3125d2a4)
   - **v2ray**: [*https://aValwp.absslk.xyz/c9cd0f7beafdc3c0513a0ede3125d2a4*](https://aValwp.absslk.xyz/c9cd0f7beafdc3c0513a0ede3125d2a4)
