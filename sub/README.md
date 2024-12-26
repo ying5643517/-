@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 21:39:37
+> Updated Time: 2024-12-26 21:50:13
 
 - **tolinkshare2**
-  - **clash**: [*https://aRIpPU.tosslk.xyz/e8dee838ce983ac5f81a3b5f066eebe7*](https://aRIpPU.tosslk.xyz/e8dee838ce983ac5f81a3b5f066eebe7)
-  - **v2ray**: [*https://aRIpPU.tosslk.xyz/e8dee838ce983ac5f81a3b5f066eebe7*](https://aRIpPU.tosslk.xyz/e8dee838ce983ac5f81a3b5f066eebe7)
-  - **ios**: [*https://aRIpPU.tosslk.xyz/e8dee838ce983ac5f81a3b5f066eebe7*](https://aRIpPU.tosslk.xyz/e8dee838ce983ac5f81a3b5f066eebe7)
+  - **clash**: [*https://bOQiBT.tosslk.xyz/17e2e871602d24c38335a9a3693f09c7*](https://bOQiBT.tosslk.xyz/17e2e871602d24c38335a9a3693f09c7)
+  - **v2ray**: [*https://bOQiBT.tosslk.xyz/17e2e871602d24c38335a9a3693f09c7*](https://bOQiBT.tosslk.xyz/17e2e871602d24c38335a9a3693f09c7)
+  - **ios**: [*https://bOQiBT.tosslk.xyz/17e2e871602d24c38335a9a3693f09c7*](https://bOQiBT.tosslk.xyz/17e2e871602d24c38335a9a3693f09c7)
 - **abshare**
   - **clash**: [*https://dF5xmM.absslk.xyz/523eee18d356372920aa0df4d43b7b1b*](https://dF5xmM.absslk.xyz/523eee18d356372920aa0df4d43b7b1b)
   - **v2ray**: [*https://dF5xmM.absslk.xyz/523eee18d356372920aa0df4d43b7b1b*](https://dF5xmM.absslk.xyz/523eee18d356372920aa0df4d43b7b1b)
