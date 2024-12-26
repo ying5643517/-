@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-26 11:32:10
+> Updated Time: 2024-12-26 11:48:12
 
 - **tolinkshare2**
-  - **clash**: [*https://j8Kb2f.tosslk.xyz/1b0559d6a4187ceb050e3dfb130a8b4b*](https://j8Kb2f.tosslk.xyz/1b0559d6a4187ceb050e3dfb130a8b4b)
-  - **v2ray**: [*https://j8Kb2f.tosslk.xyz/1b0559d6a4187ceb050e3dfb130a8b4b*](https://j8Kb2f.tosslk.xyz/1b0559d6a4187ceb050e3dfb130a8b4b)
-  - **ios**: [*https://j8Kb2f.tosslk.xyz/1b0559d6a4187ceb050e3dfb130a8b4b*](https://j8Kb2f.tosslk.xyz/1b0559d6a4187ceb050e3dfb130a8b4b)
+  - **clash**: [*https://UGyJjb.tosslk.xyz/1d39807547a40868e5797e8a89700d46*](https://UGyJjb.tosslk.xyz/1d39807547a40868e5797e8a89700d46)
+  - **v2ray**: [*https://UGyJjb.tosslk.xyz/1d39807547a40868e5797e8a89700d46*](https://UGyJjb.tosslk.xyz/1d39807547a40868e5797e8a89700d46)
+  - **ios**: [*https://UGyJjb.tosslk.xyz/1d39807547a40868e5797e8a89700d46*](https://UGyJjb.tosslk.xyz/1d39807547a40868e5797e8a89700d46)
 - **abshare**
   - **clash**: [*https://2qvJBx.absslk.xyz/69c0b103aa7ab738e25e58ab88ea61c4*](https://2qvJBx.absslk.xyz/69c0b103aa7ab738e25e58ab88ea61c4)
   - **v2ray**: [*https://2qvJBx.absslk.xyz/69c0b103aa7ab738e25e58ab88ea61c4*](https://2qvJBx.absslk.xyz/69c0b103aa7ab738e25e58ab88ea61c4)
