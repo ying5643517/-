@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-27 23:34:29
+> Updated Time: 2024-12-27 23:45:12
 
 - **tolinkshare2**
   - **clash**: [*https://IlJuHQ.tosslk.xyz/116763ff80bde69c9f66badf37c1618a*](https://IlJuHQ.tosslk.xyz/116763ff80bde69c9f66badf37c1618a)
   - **v2ray**: [*https://IlJuHQ.tosslk.xyz/116763ff80bde69c9f66badf37c1618a*](https://IlJuHQ.tosslk.xyz/116763ff80bde69c9f66badf37c1618a)
   - **ios**: [*https://IlJuHQ.tosslk.xyz/116763ff80bde69c9f66badf37c1618a*](https://IlJuHQ.tosslk.xyz/116763ff80bde69c9f66badf37c1618a)
 - **abshare**
-  - **clash**: [*https://bEwZDJ.absslk.xyz/7899b7a3dcc2c169092b5c29f3e7d8c9*](https://bEwZDJ.absslk.xyz/7899b7a3dcc2c169092b5c29f3e7d8c9)
-  - **v2ray**: [*https://bEwZDJ.absslk.xyz/7899b7a3dcc2c169092b5c29f3e7d8c9*](https://bEwZDJ.absslk.xyz/7899b7a3dcc2c169092b5c29f3e7d8c9)
-  - **ios**: [*https://bEwZDJ.absslk.xyz/7899b7a3dcc2c169092b5c29f3e7d8c9*](https://bEwZDJ.absslk.xyz/7899b7a3dcc2c169092b5c29f3e7d8c9)
+  - **clash**: [*https://JCFXII.absslk.xyz/d91be46e5ed3ba0b80d0945ae957c937*](https://JCFXII.absslk.xyz/d91be46e5ed3ba0b80d0945ae957c937)
+  - **v2ray**: [*https://JCFXII.absslk.xyz/d91be46e5ed3ba0b80d0945ae957c937*](https://JCFXII.absslk.xyz/d91be46e5ed3ba0b80d0945ae957c937)
+  - **ios**: [*https://JCFXII.absslk.xyz/d91be46e5ed3ba0b80d0945ae957c937*](https://JCFXII.absslk.xyz/d91be46e5ed3ba0b80d0945ae957c937)
 - **mksshare**
   - **clash**: [*https://rxU5LX.mcsslk.xyz/8007fd2abcce9e29c2f3dc1679ec4ef7*](https://rxU5LX.mcsslk.xyz/8007fd2abcce9e29c2f3dc1679ec4ef7)
   - **v2ray**: [*https://rxU5LX.mcsslk.xyz/8007fd2abcce9e29c2f3dc1679ec4ef7*](https://rxU5LX.mcsslk.xyz/8007fd2abcce9e29c2f3dc1679ec4ef7)
