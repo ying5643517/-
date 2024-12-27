@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-27 11:31:49
+> Updated Time: 2024-12-27 11:42:59
 
 - **tolinkshare2**
-  - **clash**: [*https://C4Fw3g.tosslk.xyz/a19c787acbe0dadfc8924edf0ca8ef54*](https://C4Fw3g.tosslk.xyz/a19c787acbe0dadfc8924edf0ca8ef54)
-  - **v2ray**: [*https://C4Fw3g.tosslk.xyz/a19c787acbe0dadfc8924edf0ca8ef54*](https://C4Fw3g.tosslk.xyz/a19c787acbe0dadfc8924edf0ca8ef54)
-  - **ios**: [*https://C4Fw3g.tosslk.xyz/a19c787acbe0dadfc8924edf0ca8ef54*](https://C4Fw3g.tosslk.xyz/a19c787acbe0dadfc8924edf0ca8ef54)
+  - **clash**: [*https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e*](https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e)
+  - **v2ray**: [*https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e*](https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e)
+  - **ios**: [*https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e*](https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e)
 - **abshare**
-  - **clash**: [*https://XgPvmV.absslk.xyz/ce2cc3c02e8cd15047bc5808a2c633e9*](https://XgPvmV.absslk.xyz/ce2cc3c02e8cd15047bc5808a2c633e9)
-  - **v2ray**: [*https://XgPvmV.absslk.xyz/ce2cc3c02e8cd15047bc5808a2c633e9*](https://XgPvmV.absslk.xyz/ce2cc3c02e8cd15047bc5808a2c633e9)
-  - **ios**: [*https://XgPvmV.absslk.xyz/ce2cc3c02e8cd15047bc5808a2c633e9*](https://XgPvmV.absslk.xyz/ce2cc3c02e8cd15047bc5808a2c633e9)
+  - **clash**: [*https://k1ICvZ.absslk.xyz/1f89b84e79a5c9b3b734ae6de88e448a*](https://k1ICvZ.absslk.xyz/1f89b84e79a5c9b3b734ae6de88e448a)
+  - **v2ray**: [*https://k1ICvZ.absslk.xyz/1f89b84e79a5c9b3b734ae6de88e448a*](https://k1ICvZ.absslk.xyz/1f89b84e79a5c9b3b734ae6de88e448a)
+  - **ios**: [*https://k1ICvZ.absslk.xyz/1f89b84e79a5c9b3b734ae6de88e448a*](https://k1ICvZ.absslk.xyz/1f89b84e79a5c9b3b734ae6de88e448a)
 - **mksshare**
   - **clash**: [*https://00sm72.mcsslk.xyz/2fb4aa49bced45d9ec83f7a51e75abd9*](https://00sm72.mcsslk.xyz/2fb4aa49bced45d9ec83f7a51e75abd9)
   - **v2ray**: [*https://00sm72.mcsslk.xyz/2fb4aa49bced45d9ec83f7a51e75abd9*](https://00sm72.mcsslk.xyz/2fb4aa49bced45d9ec83f7a51e75abd9)
