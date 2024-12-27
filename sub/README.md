@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-28 03:26:30
+> Updated Time: 2024-12-28 03:32:10
 
 - **tolinkshare2**
-  - **clash**: [*https://PQ452l.tosslk.xyz/e86facddcc7a47b916aee9b0cd23b9dc*](https://PQ452l.tosslk.xyz/e86facddcc7a47b916aee9b0cd23b9dc)
-  - **v2ray**: [*https://PQ452l.tosslk.xyz/e86facddcc7a47b916aee9b0cd23b9dc*](https://PQ452l.tosslk.xyz/e86facddcc7a47b916aee9b0cd23b9dc)
-  - **ios**: [*https://PQ452l.tosslk.xyz/e86facddcc7a47b916aee9b0cd23b9dc*](https://PQ452l.tosslk.xyz/e86facddcc7a47b916aee9b0cd23b9dc)
+  - **clash**: [*https://cLUClw.tosslk.xyz/6003aad5961fe22499e5dcbca82a40b3*](https://cLUClw.tosslk.xyz/6003aad5961fe22499e5dcbca82a40b3)
+  - **v2ray**: [*https://cLUClw.tosslk.xyz/6003aad5961fe22499e5dcbca82a40b3*](https://cLUClw.tosslk.xyz/6003aad5961fe22499e5dcbca82a40b3)
+  - **ios**: [*https://cLUClw.tosslk.xyz/6003aad5961fe22499e5dcbca82a40b3*](https://cLUClw.tosslk.xyz/6003aad5961fe22499e5dcbca82a40b3)
 - **abshare**
   - **clash**: [*https://xm5WRc.absslk.xyz/c668b531858638a298faa212bef7fd7d*](https://xm5WRc.absslk.xyz/c668b531858638a298faa212bef7fd7d)
   - **v2ray**: [*https://xm5WRc.absslk.xyz/c668b531858638a298faa212bef7fd7d*](https://xm5WRc.absslk.xyz/c668b531858638a298faa212bef7fd7d)
