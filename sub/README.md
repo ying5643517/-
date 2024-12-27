@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-27 13:15:40
+> Updated Time: 2024-12-27 13:30:43
 
 - **tolinkshare2**
-  - **clash**: [*https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2*](https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2)
-  - **v2ray**: [*https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2*](https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2)
-  - **ios**: [*https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2*](https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2)
+  - **clash**: [*https://PYNBAb.tosslk.xyz/49d70b9ebd6d735f489c963258552a04*](https://PYNBAb.tosslk.xyz/49d70b9ebd6d735f489c963258552a04)
+  - **v2ray**: [*https://PYNBAb.tosslk.xyz/49d70b9ebd6d735f489c963258552a04*](https://PYNBAb.tosslk.xyz/49d70b9ebd6d735f489c963258552a04)
+  - **ios**: [*https://PYNBAb.tosslk.xyz/49d70b9ebd6d735f489c963258552a04*](https://PYNBAb.tosslk.xyz/49d70b9ebd6d735f489c963258552a04)
 - **abshare**
-  - **clash**: [*https://IRC5ny.absslk.xyz/1ffe8eccd6bd9c646664f562b05b863c*](https://IRC5ny.absslk.xyz/1ffe8eccd6bd9c646664f562b05b863c)
-  - **v2ray**: [*https://IRC5ny.absslk.xyz/1ffe8eccd6bd9c646664f562b05b863c*](https://IRC5ny.absslk.xyz/1ffe8eccd6bd9c646664f562b05b863c)
-  - **ios**: [*https://IRC5ny.absslk.xyz/1ffe8eccd6bd9c646664f562b05b863c*](https://IRC5ny.absslk.xyz/1ffe8eccd6bd9c646664f562b05b863c)
+  - **clash**: [*https://0yuOih.absslk.xyz/55809865e88ce3c949ddc9edbba27779*](https://0yuOih.absslk.xyz/55809865e88ce3c949ddc9edbba27779)
+  - **v2ray**: [*https://0yuOih.absslk.xyz/55809865e88ce3c949ddc9edbba27779*](https://0yuOih.absslk.xyz/55809865e88ce3c949ddc9edbba27779)
+  - **ios**: [*https://0yuOih.absslk.xyz/55809865e88ce3c949ddc9edbba27779*](https://0yuOih.absslk.xyz/55809865e88ce3c949ddc9edbba27779)
 - **mksshare**
   - **clash**: [*https://cbNP0C.mcsslk.xyz/6b1d1ee146c475be355b9c28f5b37e4d*](https://cbNP0C.mcsslk.xyz/6b1d1ee146c475be355b9c28f5b37e4d)
   - **v2ray**: [*https://cbNP0C.mcsslk.xyz/6b1d1ee146c475be355b9c28f5b37e4d*](https://cbNP0C.mcsslk.xyz/6b1d1ee146c475be355b9c28f5b37e4d)
