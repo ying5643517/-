@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-28 01:24:59
+> Updated Time: 2024-12-28 01:37:16
 
 - **tolinkshare2**
-  - **clash**: [*https://7OvksE.tosslk.xyz/c3178578450f37e977f9f1c906f1f257*](https://7OvksE.tosslk.xyz/c3178578450f37e977f9f1c906f1f257)
-  - **v2ray**: [*https://7OvksE.tosslk.xyz/c3178578450f37e977f9f1c906f1f257*](https://7OvksE.tosslk.xyz/c3178578450f37e977f9f1c906f1f257)
-  - **ios**: [*https://7OvksE.tosslk.xyz/c3178578450f37e977f9f1c906f1f257*](https://7OvksE.tosslk.xyz/c3178578450f37e977f9f1c906f1f257)
+  - **clash**: [*https://TncY4f.tosslk.xyz/411e4ca6a6a692293da3f2fce9220fae*](https://TncY4f.tosslk.xyz/411e4ca6a6a692293da3f2fce9220fae)
+  - **v2ray**: [*https://TncY4f.tosslk.xyz/411e4ca6a6a692293da3f2fce9220fae*](https://TncY4f.tosslk.xyz/411e4ca6a6a692293da3f2fce9220fae)
+  - **ios**: [*https://TncY4f.tosslk.xyz/411e4ca6a6a692293da3f2fce9220fae*](https://TncY4f.tosslk.xyz/411e4ca6a6a692293da3f2fce9220fae)
 - **abshare**
-  - **clash**: [*https://HkBcTv.absslk.xyz/ecff7f01df793b9ea1e5b0b3d3decabe*](https://HkBcTv.absslk.xyz/ecff7f01df793b9ea1e5b0b3d3decabe)
-  - **v2ray**: [*https://HkBcTv.absslk.xyz/ecff7f01df793b9ea1e5b0b3d3decabe*](https://HkBcTv.absslk.xyz/ecff7f01df793b9ea1e5b0b3d3decabe)
-  - **ios**: [*https://HkBcTv.absslk.xyz/ecff7f01df793b9ea1e5b0b3d3decabe*](https://HkBcTv.absslk.xyz/ecff7f01df793b9ea1e5b0b3d3decabe)
+  - **clash**: [*https://mVsQh1.absslk.xyz/0a341740b1127173b944bc4f5ebae718*](https://mVsQh1.absslk.xyz/0a341740b1127173b944bc4f5ebae718)
+  - **v2ray**: [*https://mVsQh1.absslk.xyz/0a341740b1127173b944bc4f5ebae718*](https://mVsQh1.absslk.xyz/0a341740b1127173b944bc4f5ebae718)
+  - **ios**: [*https://mVsQh1.absslk.xyz/0a341740b1127173b944bc4f5ebae718*](https://mVsQh1.absslk.xyz/0a341740b1127173b944bc4f5ebae718)
 - **mksshare**
   - **clash**: [*https://WsssnE.mcsslk.xyz/aff216990821a47104b0ff9f9569e969*](https://WsssnE.mcsslk.xyz/aff216990821a47104b0ff9f9569e969)
   - **v2ray**: [*https://WsssnE.mcsslk.xyz/aff216990821a47104b0ff9f9569e969*](https://WsssnE.mcsslk.xyz/aff216990821a47104b0ff9f9569e969)
