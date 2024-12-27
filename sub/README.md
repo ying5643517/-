@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-27 17:32:02
+> Updated Time: 2024-12-27 17:38:38
 
 - **tolinkshare2**
-  - **clash**: [*https://QdlB7f.tosslk.xyz/d8ff5ab917ab6ef531b976c32a7212c3*](https://QdlB7f.tosslk.xyz/d8ff5ab917ab6ef531b976c32a7212c3)
-  - **v2ray**: [*https://QdlB7f.tosslk.xyz/d8ff5ab917ab6ef531b976c32a7212c3*](https://QdlB7f.tosslk.xyz/d8ff5ab917ab6ef531b976c32a7212c3)
-  - **ios**: [*https://QdlB7f.tosslk.xyz/d8ff5ab917ab6ef531b976c32a7212c3*](https://QdlB7f.tosslk.xyz/d8ff5ab917ab6ef531b976c32a7212c3)
+  - **clash**: [*https://NvGSAa.tosslk.xyz/55ad84a65b3abb4007185b971048b01a*](https://NvGSAa.tosslk.xyz/55ad84a65b3abb4007185b971048b01a)
+  - **v2ray**: [*https://NvGSAa.tosslk.xyz/55ad84a65b3abb4007185b971048b01a*](https://NvGSAa.tosslk.xyz/55ad84a65b3abb4007185b971048b01a)
+  - **ios**: [*https://NvGSAa.tosslk.xyz/55ad84a65b3abb4007185b971048b01a*](https://NvGSAa.tosslk.xyz/55ad84a65b3abb4007185b971048b01a)
 - **abshare**
   - **clash**: [*https://eKA3dG.absslk.xyz/64e5e36cd14846553efd3d24a8ed2bbd*](https://eKA3dG.absslk.xyz/64e5e36cd14846553efd3d24a8ed2bbd)
   - **v2ray**: [*https://eKA3dG.absslk.xyz/64e5e36cd14846553efd3d24a8ed2bbd*](https://eKA3dG.absslk.xyz/64e5e36cd14846553efd3d24a8ed2bbd)
