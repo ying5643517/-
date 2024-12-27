@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-27 12:43:25
+> Updated Time: 2024-12-27 12:54:52
 
 - **tolinkshare2**
-  - **clash**: [*https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e*](https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e)
-  - **v2ray**: [*https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e*](https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e)
-  - **ios**: [*https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e*](https://drXINl.tosslk.xyz/53b596771895d7977ae5943322a3db7e)
+  - **clash**: [*https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2*](https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2)
+  - **v2ray**: [*https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2*](https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2)
+  - **ios**: [*https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2*](https://2cZ01t.tosslk.xyz/6c57e3dc9e183eebad4d1fd78051c5c2)
 - **abshare**
   - **clash**: [*https://tB1K5X.absslk.xyz/904dcdf5a1b62972182370b71aa53c94*](https://tB1K5X.absslk.xyz/904dcdf5a1b62972182370b71aa53c94)
   - **v2ray**: [*https://tB1K5X.absslk.xyz/904dcdf5a1b62972182370b71aa53c94*](https://tB1K5X.absslk.xyz/904dcdf5a1b62972182370b71aa53c94)
