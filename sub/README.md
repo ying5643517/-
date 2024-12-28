@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-28 22:10:21
+> Updated Time: 2024-12-28 22:25:37
 
 - **tolinkshare2**
-  - **clash**: [*https://PDFmiW.tosslk.xyz/ad03273aa0cd29f5fb66dc893f5c7d87*](https://PDFmiW.tosslk.xyz/ad03273aa0cd29f5fb66dc893f5c7d87)
-  - **v2ray**: [*https://PDFmiW.tosslk.xyz/ad03273aa0cd29f5fb66dc893f5c7d87*](https://PDFmiW.tosslk.xyz/ad03273aa0cd29f5fb66dc893f5c7d87)
-  - **ios**: [*https://PDFmiW.tosslk.xyz/ad03273aa0cd29f5fb66dc893f5c7d87*](https://PDFmiW.tosslk.xyz/ad03273aa0cd29f5fb66dc893f5c7d87)
+  - **clash**: [*https://uNktzG.tosslk.xyz/b5def611b64650904942a78f5be9ff0a*](https://uNktzG.tosslk.xyz/b5def611b64650904942a78f5be9ff0a)
+  - **v2ray**: [*https://uNktzG.tosslk.xyz/b5def611b64650904942a78f5be9ff0a*](https://uNktzG.tosslk.xyz/b5def611b64650904942a78f5be9ff0a)
+  - **ios**: [*https://uNktzG.tosslk.xyz/b5def611b64650904942a78f5be9ff0a*](https://uNktzG.tosslk.xyz/b5def611b64650904942a78f5be9ff0a)
 - **abshare**
-  - **clash**: [*https://Bp24Ar.absslk.xyz/0d5794e2115ed1633234ffcfba262412*](https://Bp24Ar.absslk.xyz/0d5794e2115ed1633234ffcfba262412)
-  - **v2ray**: [*https://Bp24Ar.absslk.xyz/0d5794e2115ed1633234ffcfba262412*](https://Bp24Ar.absslk.xyz/0d5794e2115ed1633234ffcfba262412)
-  - **ios**: [*https://Bp24Ar.absslk.xyz/0d5794e2115ed1633234ffcfba262412*](https://Bp24Ar.absslk.xyz/0d5794e2115ed1633234ffcfba262412)
+  - **clash**: [*https://nrqwPw.absslk.xyz/6cfbf823a19b2ced31edfbceeff1ac00*](https://nrqwPw.absslk.xyz/6cfbf823a19b2ced31edfbceeff1ac00)
+  - **v2ray**: [*https://nrqwPw.absslk.xyz/6cfbf823a19b2ced31edfbceeff1ac00*](https://nrqwPw.absslk.xyz/6cfbf823a19b2ced31edfbceeff1ac00)
+  - **ios**: [*https://nrqwPw.absslk.xyz/6cfbf823a19b2ced31edfbceeff1ac00*](https://nrqwPw.absslk.xyz/6cfbf823a19b2ced31edfbceeff1ac00)
 - **mksshare**
   - **clash**: [*https://EZCDO9.mcsslk.xyz/164ca7f2cd712b3721b1d3ba02355645*](https://EZCDO9.mcsslk.xyz/164ca7f2cd712b3721b1d3ba02355645)
   - **v2ray**: [*https://EZCDO9.mcsslk.xyz/164ca7f2cd712b3721b1d3ba02355645*](https://EZCDO9.mcsslk.xyz/164ca7f2cd712b3721b1d3ba02355645)
