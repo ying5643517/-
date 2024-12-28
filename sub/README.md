@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 01:47:04
+> Updated Time: 2024-12-29 01:52:11
 
 - **tolinkshare2**
-  - **clash**: [*https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8*](https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8)
-  - **v2ray**: [*https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8*](https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8)
-  - **ios**: [*https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8*](https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8)
+  - **clash**: [*https://hUo180.tosslk.xyz/093d07ad492513870adc274d7eed4e7a*](https://hUo180.tosslk.xyz/093d07ad492513870adc274d7eed4e7a)
+  - **v2ray**: [*https://hUo180.tosslk.xyz/093d07ad492513870adc274d7eed4e7a*](https://hUo180.tosslk.xyz/093d07ad492513870adc274d7eed4e7a)
+  - **ios**: [*https://hUo180.tosslk.xyz/093d07ad492513870adc274d7eed4e7a*](https://hUo180.tosslk.xyz/093d07ad492513870adc274d7eed4e7a)
 - **abshare**
-  - **clash**: [*https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828*](https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828)
-  - **v2ray**: [*https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828*](https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828)
-  - **ios**: [*https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828*](https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828)
+  - **clash**: [*https://f0eUIY.absslk.xyz/f23901b9a41d55209be46cd614e1953a*](https://f0eUIY.absslk.xyz/f23901b9a41d55209be46cd614e1953a)
+  - **v2ray**: [*https://f0eUIY.absslk.xyz/f23901b9a41d55209be46cd614e1953a*](https://f0eUIY.absslk.xyz/f23901b9a41d55209be46cd614e1953a)
+  - **ios**: [*https://f0eUIY.absslk.xyz/f23901b9a41d55209be46cd614e1953a*](https://f0eUIY.absslk.xyz/f23901b9a41d55209be46cd614e1953a)
 - **mksshare**
   - **clash**: [*https://NjrwpT.mcsslk.xyz/3a2f6a9ef271b50a7c52adb8e197c6a2*](https://NjrwpT.mcsslk.xyz/3a2f6a9ef271b50a7c52adb8e197c6a2)
   - **v2ray**: [*https://NjrwpT.mcsslk.xyz/3a2f6a9ef271b50a7c52adb8e197c6a2*](https://NjrwpT.mcsslk.xyz/3a2f6a9ef271b50a7c52adb8e197c6a2)
