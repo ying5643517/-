@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 01:35:57
+> Updated Time: 2024-12-29 01:41:28
 
 - **tolinkshare2**
-  - **clash**: [*https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5*](https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5)
-  - **v2ray**: [*https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5*](https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5)
-  - **ios**: [*https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5*](https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5)
+  - **clash**: [*https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8*](https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8)
+  - **v2ray**: [*https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8*](https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8)
+  - **ios**: [*https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8*](https://VlyIAH.tosslk.xyz/c555ef182ae60cacefe1b03e8e3954e8)
 - **abshare**
   - **clash**: [*https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828*](https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828)
   - **v2ray**: [*https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828*](https://GqZHG4.absslk.xyz/6eaf65d0d385f2691dea34253adc9828)
