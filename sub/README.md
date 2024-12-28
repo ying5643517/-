@@ -21,20 +21,20 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 02:47:39
+> Updated Time: 2024-12-29 02:53:04
 
 - **tolinkshare2**
   - **clash**: [*https://fv5Ue6.tosslk.xyz/648489846eeddda9f0ab8046eeb08127*](https://fv5Ue6.tosslk.xyz/648489846eeddda9f0ab8046eeb08127)
   - **v2ray**: [*https://fv5Ue6.tosslk.xyz/648489846eeddda9f0ab8046eeb08127*](https://fv5Ue6.tosslk.xyz/648489846eeddda9f0ab8046eeb08127)
   - **ios**: [*https://fv5Ue6.tosslk.xyz/648489846eeddda9f0ab8046eeb08127*](https://fv5Ue6.tosslk.xyz/648489846eeddda9f0ab8046eeb08127)
 - **abshare**
-  - **clash**: [*https://OYdYvl.absslk.xyz/583b1046e7a947e3c17c8857767e6220*](https://OYdYvl.absslk.xyz/583b1046e7a947e3c17c8857767e6220)
-  - **v2ray**: [*https://OYdYvl.absslk.xyz/583b1046e7a947e3c17c8857767e6220*](https://OYdYvl.absslk.xyz/583b1046e7a947e3c17c8857767e6220)
-  - **ios**: [*https://OYdYvl.absslk.xyz/583b1046e7a947e3c17c8857767e6220*](https://OYdYvl.absslk.xyz/583b1046e7a947e3c17c8857767e6220)
+  - **clash**: [*https://EbAuUn.absslk.xyz/cdca7771a99d83d925dc4d0531a3bb8d*](https://EbAuUn.absslk.xyz/cdca7771a99d83d925dc4d0531a3bb8d)
+  - **v2ray**: [*https://EbAuUn.absslk.xyz/cdca7771a99d83d925dc4d0531a3bb8d*](https://EbAuUn.absslk.xyz/cdca7771a99d83d925dc4d0531a3bb8d)
+  - **ios**: [*https://EbAuUn.absslk.xyz/cdca7771a99d83d925dc4d0531a3bb8d*](https://EbAuUn.absslk.xyz/cdca7771a99d83d925dc4d0531a3bb8d)
 - **mksshare**
-  - **clash**: [*https://4jyAmB.mcsslk.xyz/628af08b4ed6be7c098ca21b81956b86*](https://4jyAmB.mcsslk.xyz/628af08b4ed6be7c098ca21b81956b86)
-  - **v2ray**: [*https://4jyAmB.mcsslk.xyz/628af08b4ed6be7c098ca21b81956b86*](https://4jyAmB.mcsslk.xyz/628af08b4ed6be7c098ca21b81956b86)
-  - **ios**: [*https://4jyAmB.mcsslk.xyz/628af08b4ed6be7c098ca21b81956b86*](https://4jyAmB.mcsslk.xyz/628af08b4ed6be7c098ca21b81956b86)
+  - **clash**: [*https://EmgIKU.mcsslk.xyz/0a7b5d5b9f20279a781ddda8bf819dad*](https://EmgIKU.mcsslk.xyz/0a7b5d5b9f20279a781ddda8bf819dad)
+  - **v2ray**: [*https://EmgIKU.mcsslk.xyz/0a7b5d5b9f20279a781ddda8bf819dad*](https://EmgIKU.mcsslk.xyz/0a7b5d5b9f20279a781ddda8bf819dad)
+  - **ios**: [*https://EmgIKU.mcsslk.xyz/0a7b5d5b9f20279a781ddda8bf819dad*](https://EmgIKU.mcsslk.xyz/0a7b5d5b9f20279a781ddda8bf819dad)
 - **mkshare3**
   - **clash**: [*https://pbkm0x.mcsslk.xyz/8c5a59a69f922e5faba79ea1dfa01a31*](https://pbkm0x.mcsslk.xyz/8c5a59a69f922e5faba79ea1dfa01a31)
   - **v2ray**: [*https://pbkm0x.mcsslk.xyz/8c5a59a69f922e5faba79ea1dfa01a31*](https://pbkm0x.mcsslk.xyz/8c5a59a69f922e5faba79ea1dfa01a31)
