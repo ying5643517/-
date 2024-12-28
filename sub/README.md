@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 01:10:29
+> Updated Time: 2024-12-29 01:24:18
 
 - **tolinkshare2**
-  - **clash**: [*https://G4Ug1B.tosslk.xyz/3ed7d6298b62f6959660ed329e3652f1*](https://G4Ug1B.tosslk.xyz/3ed7d6298b62f6959660ed329e3652f1)
-  - **v2ray**: [*https://G4Ug1B.tosslk.xyz/3ed7d6298b62f6959660ed329e3652f1*](https://G4Ug1B.tosslk.xyz/3ed7d6298b62f6959660ed329e3652f1)
-  - **ios**: [*https://G4Ug1B.tosslk.xyz/3ed7d6298b62f6959660ed329e3652f1*](https://G4Ug1B.tosslk.xyz/3ed7d6298b62f6959660ed329e3652f1)
+  - **clash**: [*https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5*](https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5)
+  - **v2ray**: [*https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5*](https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5)
+  - **ios**: [*https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5*](https://7r1EDY.tosslk.xyz/e5441565b5dc8c5b75330a4d36bf91c5)
 - **abshare**
-  - **clash**: [*https://rGrpbg.absslk.xyz/431242e1854dacbb039b5f5faf1bdb25*](https://rGrpbg.absslk.xyz/431242e1854dacbb039b5f5faf1bdb25)
-  - **v2ray**: [*https://rGrpbg.absslk.xyz/431242e1854dacbb039b5f5faf1bdb25*](https://rGrpbg.absslk.xyz/431242e1854dacbb039b5f5faf1bdb25)
-  - **ios**: [*https://rGrpbg.absslk.xyz/431242e1854dacbb039b5f5faf1bdb25*](https://rGrpbg.absslk.xyz/431242e1854dacbb039b5f5faf1bdb25)
+  - **clash**: [*https://iu4lqr.absslk.xyz/a61a13065615fcc69fedadc1e8aee496*](https://iu4lqr.absslk.xyz/a61a13065615fcc69fedadc1e8aee496)
+  - **v2ray**: [*https://iu4lqr.absslk.xyz/a61a13065615fcc69fedadc1e8aee496*](https://iu4lqr.absslk.xyz/a61a13065615fcc69fedadc1e8aee496)
+  - **ios**: [*https://iu4lqr.absslk.xyz/a61a13065615fcc69fedadc1e8aee496*](https://iu4lqr.absslk.xyz/a61a13065615fcc69fedadc1e8aee496)
 - **mksshare**
   - **clash**: [*https://8z2PS4.mcsslk.xyz/e215d48397d1eb43926b6fe1ecc81e74*](https://8z2PS4.mcsslk.xyz/e215d48397d1eb43926b6fe1ecc81e74)
   - **v2ray**: [*https://8z2PS4.mcsslk.xyz/e215d48397d1eb43926b6fe1ecc81e74*](https://8z2PS4.mcsslk.xyz/e215d48397d1eb43926b6fe1ecc81e74)
