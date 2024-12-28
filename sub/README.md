@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 06:39:07
+> Updated Time: 2024-12-29 07:15:30
 
 - **tolinkshare2**
   - **clash**: [*https://bDznFA.tosslk.xyz/68e79b008f0c7d6a5eccdc6d6cdca2e3*](https://bDznFA.tosslk.xyz/68e79b008f0c7d6a5eccdc6d6cdca2e3)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://JNzoyF.mcsslk.xyz/215191f5407c2d4f777239058cb3764b*](https://JNzoyF.mcsslk.xyz/215191f5407c2d4f777239058cb3764b)
   - **ios**: [*https://JNzoyF.mcsslk.xyz/215191f5407c2d4f777239058cb3764b*](https://JNzoyF.mcsslk.xyz/215191f5407c2d4f777239058cb3764b)
 - **toshare5**
-  - **clash**: [*https://pajiHI.tosslk.xyz/53b21acf7b4951b5ce594f54fcff567f*](https://pajiHI.tosslk.xyz/53b21acf7b4951b5ce594f54fcff567f)
-  - **v2ray**: [*https://pajiHI.tosslk.xyz/53b21acf7b4951b5ce594f54fcff567f*](https://pajiHI.tosslk.xyz/53b21acf7b4951b5ce594f54fcff567f)
-  - **ios**: [*https://pajiHI.tosslk.xyz/53b21acf7b4951b5ce594f54fcff567f*](https://pajiHI.tosslk.xyz/53b21acf7b4951b5ce594f54fcff567f)
+  - **clash**: [*https://mTIvMU.tosslk.xyz/f98fcf26e31f6ceafaf2f31c07f8e9b9*](https://mTIvMU.tosslk.xyz/f98fcf26e31f6ceafaf2f31c07f8e9b9)
+  - **v2ray**: [*https://mTIvMU.tosslk.xyz/f98fcf26e31f6ceafaf2f31c07f8e9b9*](https://mTIvMU.tosslk.xyz/f98fcf26e31f6ceafaf2f31c07f8e9b9)
+  - **ios**: [*https://mTIvMU.tosslk.xyz/f98fcf26e31f6ceafaf2f31c07f8e9b9*](https://mTIvMU.tosslk.xyz/f98fcf26e31f6ceafaf2f31c07f8e9b9)
 - **abshare3**
   - **clash**: [*https://xbs38z.absslk.xyz/8ed8c58cd042c386e10eb561b7bce1a0*](https://xbs38z.absslk.xyz/8ed8c58cd042c386e10eb561b7bce1a0)
   - **v2ray**: [*https://xbs38z.absslk.xyz/8ed8c58cd042c386e10eb561b7bce1a0*](https://xbs38z.absslk.xyz/8ed8c58cd042c386e10eb561b7bce1a0)
