@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 16:30:10
+> Updated Time: 2024-12-29 16:39:28
 
 - **tolinkshare2**
-  - **clash**: [*https://tgRmo2.tosslk.xyz/17654ddd5d93f3c6c61e2c54ac1961d3*](https://tgRmo2.tosslk.xyz/17654ddd5d93f3c6c61e2c54ac1961d3)
-  - **v2ray**: [*https://tgRmo2.tosslk.xyz/17654ddd5d93f3c6c61e2c54ac1961d3*](https://tgRmo2.tosslk.xyz/17654ddd5d93f3c6c61e2c54ac1961d3)
-  - **ios**: [*https://tgRmo2.tosslk.xyz/17654ddd5d93f3c6c61e2c54ac1961d3*](https://tgRmo2.tosslk.xyz/17654ddd5d93f3c6c61e2c54ac1961d3)
+  - **clash**: [*https://BWqVXt.tosslk.xyz/f240f59d62afc8126bef585e005c69ea*](https://BWqVXt.tosslk.xyz/f240f59d62afc8126bef585e005c69ea)
+  - **v2ray**: [*https://BWqVXt.tosslk.xyz/f240f59d62afc8126bef585e005c69ea*](https://BWqVXt.tosslk.xyz/f240f59d62afc8126bef585e005c69ea)
+  - **ios**: [*https://BWqVXt.tosslk.xyz/f240f59d62afc8126bef585e005c69ea*](https://BWqVXt.tosslk.xyz/f240f59d62afc8126bef585e005c69ea)
 - **abshare**
-  - **clash**: [*https://KYGGre.absslk.xyz/ea8620b4189c87ae28e1bb248784debd*](https://KYGGre.absslk.xyz/ea8620b4189c87ae28e1bb248784debd)
-  - **v2ray**: [*https://KYGGre.absslk.xyz/ea8620b4189c87ae28e1bb248784debd*](https://KYGGre.absslk.xyz/ea8620b4189c87ae28e1bb248784debd)
-  - **ios**: [*https://KYGGre.absslk.xyz/ea8620b4189c87ae28e1bb248784debd*](https://KYGGre.absslk.xyz/ea8620b4189c87ae28e1bb248784debd)
+  - **clash**: [*https://iGrBmA.absslk.xyz/83f18baa9eca5af671764c87f50575b2*](https://iGrBmA.absslk.xyz/83f18baa9eca5af671764c87f50575b2)
+  - **v2ray**: [*https://iGrBmA.absslk.xyz/83f18baa9eca5af671764c87f50575b2*](https://iGrBmA.absslk.xyz/83f18baa9eca5af671764c87f50575b2)
+  - **ios**: [*https://iGrBmA.absslk.xyz/83f18baa9eca5af671764c87f50575b2*](https://iGrBmA.absslk.xyz/83f18baa9eca5af671764c87f50575b2)
 - **mksshare**
   - **clash**: [*https://0wPrAS.mcsslk.xyz/a142cc7da6b8218102856f631cee36d1*](https://0wPrAS.mcsslk.xyz/a142cc7da6b8218102856f631cee36d1)
   - **v2ray**: [*https://0wPrAS.mcsslk.xyz/a142cc7da6b8218102856f631cee36d1*](https://0wPrAS.mcsslk.xyz/a142cc7da6b8218102856f631cee36d1)
