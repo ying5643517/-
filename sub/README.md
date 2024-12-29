@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 23:41:56
+> Updated Time: 2024-12-29 23:52:41
 
 - **tolinkshare2**
-  - **clash**: [*https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a*](https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a)
-  - **v2ray**: [*https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a*](https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a)
-  - **ios**: [*https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a*](https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a)
+  - **clash**: [*https://iZ5vlh.tosslk.xyz/e3a30b50635fe26d6ab8fba4d97b3104*](https://iZ5vlh.tosslk.xyz/e3a30b50635fe26d6ab8fba4d97b3104)
+  - **v2ray**: [*https://iZ5vlh.tosslk.xyz/e3a30b50635fe26d6ab8fba4d97b3104*](https://iZ5vlh.tosslk.xyz/e3a30b50635fe26d6ab8fba4d97b3104)
+  - **ios**: [*https://iZ5vlh.tosslk.xyz/e3a30b50635fe26d6ab8fba4d97b3104*](https://iZ5vlh.tosslk.xyz/e3a30b50635fe26d6ab8fba4d97b3104)
 - **abshare**
-  - **clash**: [*https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9*](https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9)
-  - **v2ray**: [*https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9*](https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9)
-  - **ios**: [*https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9*](https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9)
+  - **clash**: [*https://ritrRX.absslk.xyz/e186642cc5468e2c5bbe9cf4dc8ba865*](https://ritrRX.absslk.xyz/e186642cc5468e2c5bbe9cf4dc8ba865)
+  - **v2ray**: [*https://ritrRX.absslk.xyz/e186642cc5468e2c5bbe9cf4dc8ba865*](https://ritrRX.absslk.xyz/e186642cc5468e2c5bbe9cf4dc8ba865)
+  - **ios**: [*https://ritrRX.absslk.xyz/e186642cc5468e2c5bbe9cf4dc8ba865*](https://ritrRX.absslk.xyz/e186642cc5468e2c5bbe9cf4dc8ba865)
 - **mksshare**
   - **clash**: [*https://GvvYqh.mcsslk.xyz/6e97690fb9ffe99a2ff0dcb9342c9248*](https://GvvYqh.mcsslk.xyz/6e97690fb9ffe99a2ff0dcb9342c9248)
   - **v2ray**: [*https://GvvYqh.mcsslk.xyz/6e97690fb9ffe99a2ff0dcb9342c9248*](https://GvvYqh.mcsslk.xyz/6e97690fb9ffe99a2ff0dcb9342c9248)
