@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 22:42:49
+> Updated Time: 2024-12-29 22:48:22
 
 - **tolinkshare2**
   - **clash**: [*https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f*](https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://ZOIEr8.absslk.xyz/84267aaa046da04d12cb376122610796*](https://ZOIEr8.absslk.xyz/84267aaa046da04d12cb376122610796)
   - **ios**: [*https://ZOIEr8.absslk.xyz/84267aaa046da04d12cb376122610796*](https://ZOIEr8.absslk.xyz/84267aaa046da04d12cb376122610796)
 - **mksshare**
-  - **clash**: [*https://XeIV21.mcsslk.xyz/c8339ac3cb2f474ddf5a52b6d5b4512e*](https://XeIV21.mcsslk.xyz/c8339ac3cb2f474ddf5a52b6d5b4512e)
-  - **v2ray**: [*https://XeIV21.mcsslk.xyz/c8339ac3cb2f474ddf5a52b6d5b4512e*](https://XeIV21.mcsslk.xyz/c8339ac3cb2f474ddf5a52b6d5b4512e)
-  - **ios**: [*https://XeIV21.mcsslk.xyz/c8339ac3cb2f474ddf5a52b6d5b4512e*](https://XeIV21.mcsslk.xyz/c8339ac3cb2f474ddf5a52b6d5b4512e)
+  - **clash**: [*https://x2GbGZ.mcsslk.xyz/b473079330c646abd7cf1f33e1114856*](https://x2GbGZ.mcsslk.xyz/b473079330c646abd7cf1f33e1114856)
+  - **v2ray**: [*https://x2GbGZ.mcsslk.xyz/b473079330c646abd7cf1f33e1114856*](https://x2GbGZ.mcsslk.xyz/b473079330c646abd7cf1f33e1114856)
+  - **ios**: [*https://x2GbGZ.mcsslk.xyz/b473079330c646abd7cf1f33e1114856*](https://x2GbGZ.mcsslk.xyz/b473079330c646abd7cf1f33e1114856)
 - **mkshare3**
   - **clash**: [*https://msrj7V.mcsslk.xyz/e28998f895fd25a6d531fd03b9457cf0*](https://msrj7V.mcsslk.xyz/e28998f895fd25a6d531fd03b9457cf0)
   - **v2ray**: [*https://msrj7V.mcsslk.xyz/e28998f895fd25a6d531fd03b9457cf0*](https://msrj7V.mcsslk.xyz/e28998f895fd25a6d531fd03b9457cf0)
