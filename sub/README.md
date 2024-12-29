@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 15:24:33
+> Updated Time: 2024-12-29 15:29:38
 
 - **tolinkshare2**
-  - **clash**: [*https://Wskyjp.tosslk.xyz/f5b7fd8cb697a44bf3c3291b6d33592c*](https://Wskyjp.tosslk.xyz/f5b7fd8cb697a44bf3c3291b6d33592c)
-  - **v2ray**: [*https://Wskyjp.tosslk.xyz/f5b7fd8cb697a44bf3c3291b6d33592c*](https://Wskyjp.tosslk.xyz/f5b7fd8cb697a44bf3c3291b6d33592c)
-  - **ios**: [*https://Wskyjp.tosslk.xyz/f5b7fd8cb697a44bf3c3291b6d33592c*](https://Wskyjp.tosslk.xyz/f5b7fd8cb697a44bf3c3291b6d33592c)
+  - **clash**: [*https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030*](https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030)
+  - **v2ray**: [*https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030*](https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030)
+  - **ios**: [*https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030*](https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030)
 - **abshare**
-  - **clash**: [*https://Kf4wrA.absslk.xyz/be3ee9837bdd8983ba98770a321b7fe3*](https://Kf4wrA.absslk.xyz/be3ee9837bdd8983ba98770a321b7fe3)
-  - **v2ray**: [*https://Kf4wrA.absslk.xyz/be3ee9837bdd8983ba98770a321b7fe3*](https://Kf4wrA.absslk.xyz/be3ee9837bdd8983ba98770a321b7fe3)
-  - **ios**: [*https://Kf4wrA.absslk.xyz/be3ee9837bdd8983ba98770a321b7fe3*](https://Kf4wrA.absslk.xyz/be3ee9837bdd8983ba98770a321b7fe3)
+  - **clash**: [*https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d*](https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d)
+  - **v2ray**: [*https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d*](https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d)
+  - **ios**: [*https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d*](https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d)
 - **mksshare**
   - **clash**: [*https://b9snEg.mcsslk.xyz/ced5a27697ed6ec9000d0bab1a497a7e*](https://b9snEg.mcsslk.xyz/ced5a27697ed6ec9000d0bab1a497a7e)
   - **v2ray**: [*https://b9snEg.mcsslk.xyz/ced5a27697ed6ec9000d0bab1a497a7e*](https://b9snEg.mcsslk.xyz/ced5a27697ed6ec9000d0bab1a497a7e)
