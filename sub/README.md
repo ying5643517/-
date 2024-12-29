@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 15:50:57
+> Updated Time: 2024-12-29 15:56:28
 
 - **tolinkshare2**
-  - **clash**: [*https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d*](https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d)
-  - **v2ray**: [*https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d*](https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d)
-  - **ios**: [*https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d*](https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d)
+  - **clash**: [*https://6CZH3p.tosslk.xyz/97321b6ec3deac578c07781e573437de*](https://6CZH3p.tosslk.xyz/97321b6ec3deac578c07781e573437de)
+  - **v2ray**: [*https://6CZH3p.tosslk.xyz/97321b6ec3deac578c07781e573437de*](https://6CZH3p.tosslk.xyz/97321b6ec3deac578c07781e573437de)
+  - **ios**: [*https://6CZH3p.tosslk.xyz/97321b6ec3deac578c07781e573437de*](https://6CZH3p.tosslk.xyz/97321b6ec3deac578c07781e573437de)
 - **abshare**
-  - **clash**: [*https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88*](https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88)
-  - **v2ray**: [*https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88*](https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88)
-  - **ios**: [*https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88*](https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88)
+  - **clash**: [*https://keJQv5.absslk.xyz/1633eb758037cb76a91596cced6d7b45*](https://keJQv5.absslk.xyz/1633eb758037cb76a91596cced6d7b45)
+  - **v2ray**: [*https://keJQv5.absslk.xyz/1633eb758037cb76a91596cced6d7b45*](https://keJQv5.absslk.xyz/1633eb758037cb76a91596cced6d7b45)
+  - **ios**: [*https://keJQv5.absslk.xyz/1633eb758037cb76a91596cced6d7b45*](https://keJQv5.absslk.xyz/1633eb758037cb76a91596cced6d7b45)
 - **mksshare**
   - **clash**: [*https://OBNgLn.mcsslk.xyz/4bc3ef151f9d3589e52d246c16f2639a*](https://OBNgLn.mcsslk.xyz/4bc3ef151f9d3589e52d246c16f2639a)
   - **v2ray**: [*https://OBNgLn.mcsslk.xyz/4bc3ef151f9d3589e52d246c16f2639a*](https://OBNgLn.mcsslk.xyz/4bc3ef151f9d3589e52d246c16f2639a)
