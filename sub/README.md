@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-30 05:34:02
+> Updated Time: 2024-12-30 05:45:27
 
 - **tolinkshare2**
   - **clash**: [*https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14*](https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://v8w0p3.tosslk.xyz/3a43e61140a83be1ee4ca7e3e3f4dab7*](https://v8w0p3.tosslk.xyz/3a43e61140a83be1ee4ca7e3e3f4dab7)
   - **ios**: [*https://v8w0p3.tosslk.xyz/3a43e61140a83be1ee4ca7e3e3f4dab7*](https://v8w0p3.tosslk.xyz/3a43e61140a83be1ee4ca7e3e3f4dab7)
 - **abshare3**
-  - **clash**: [*https://NK1823.absslk.xyz/8630b6d849a168475738746c0361e18f*](https://NK1823.absslk.xyz/8630b6d849a168475738746c0361e18f)
-  - **v2ray**: [*https://NK1823.absslk.xyz/8630b6d849a168475738746c0361e18f*](https://NK1823.absslk.xyz/8630b6d849a168475738746c0361e18f)
-  - **ios**: [*https://NK1823.absslk.xyz/8630b6d849a168475738746c0361e18f*](https://NK1823.absslk.xyz/8630b6d849a168475738746c0361e18f)
+  - **clash**: [*https://CTszJU.absslk.xyz/87b882ddda5715df3fc94876755e9ba5*](https://CTszJU.absslk.xyz/87b882ddda5715df3fc94876755e9ba5)
+  - **v2ray**: [*https://CTszJU.absslk.xyz/87b882ddda5715df3fc94876755e9ba5*](https://CTszJU.absslk.xyz/87b882ddda5715df3fc94876755e9ba5)
+  - **ios**: [*https://CTszJU.absslk.xyz/87b882ddda5715df3fc94876755e9ba5*](https://CTszJU.absslk.xyz/87b882ddda5715df3fc94876755e9ba5)
