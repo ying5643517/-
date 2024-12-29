@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 23:36:41
+> Updated Time: 2024-12-29 23:41:56
 
 - **tolinkshare2**
-  - **clash**: [*https://LKIPNa.tosslk.xyz/3f6a23b6c83687f1233b0ddd1dd3bdba*](https://LKIPNa.tosslk.xyz/3f6a23b6c83687f1233b0ddd1dd3bdba)
-  - **v2ray**: [*https://LKIPNa.tosslk.xyz/3f6a23b6c83687f1233b0ddd1dd3bdba*](https://LKIPNa.tosslk.xyz/3f6a23b6c83687f1233b0ddd1dd3bdba)
-  - **ios**: [*https://LKIPNa.tosslk.xyz/3f6a23b6c83687f1233b0ddd1dd3bdba*](https://LKIPNa.tosslk.xyz/3f6a23b6c83687f1233b0ddd1dd3bdba)
+  - **clash**: [*https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a*](https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a)
+  - **v2ray**: [*https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a*](https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a)
+  - **ios**: [*https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a*](https://I6vWw6.tosslk.xyz/10277dc532a0b47920225b890faeeb2a)
 - **abshare**
   - **clash**: [*https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9*](https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9)
   - **v2ray**: [*https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9*](https://iSBlNM.absslk.xyz/5414914c1f2b51deb1de4aeefbbe68e9)
