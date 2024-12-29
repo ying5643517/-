@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 22:48:22
+> Updated Time: 2024-12-29 22:53:46
 
 - **tolinkshare2**
   - **clash**: [*https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f*](https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://msrj7V.mcsslk.xyz/e28998f895fd25a6d531fd03b9457cf0*](https://msrj7V.mcsslk.xyz/e28998f895fd25a6d531fd03b9457cf0)
   - **ios**: [*https://msrj7V.mcsslk.xyz/e28998f895fd25a6d531fd03b9457cf0*](https://msrj7V.mcsslk.xyz/e28998f895fd25a6d531fd03b9457cf0)
 - **toshare5**
-  - **clash**: [*https://dhKOVi.tosslk.xyz/3a7913c6c2c4f214744d7663a4740d94*](https://dhKOVi.tosslk.xyz/3a7913c6c2c4f214744d7663a4740d94)
-  - **v2ray**: [*https://dhKOVi.tosslk.xyz/3a7913c6c2c4f214744d7663a4740d94*](https://dhKOVi.tosslk.xyz/3a7913c6c2c4f214744d7663a4740d94)
-  - **ios**: [*https://dhKOVi.tosslk.xyz/3a7913c6c2c4f214744d7663a4740d94*](https://dhKOVi.tosslk.xyz/3a7913c6c2c4f214744d7663a4740d94)
+  - **clash**: [*https://1VzaPI.tosslk.xyz/38ebdb196546048ee20f3c3f45a64c2b*](https://1VzaPI.tosslk.xyz/38ebdb196546048ee20f3c3f45a64c2b)
+  - **v2ray**: [*https://1VzaPI.tosslk.xyz/38ebdb196546048ee20f3c3f45a64c2b*](https://1VzaPI.tosslk.xyz/38ebdb196546048ee20f3c3f45a64c2b)
+  - **ios**: [*https://1VzaPI.tosslk.xyz/38ebdb196546048ee20f3c3f45a64c2b*](https://1VzaPI.tosslk.xyz/38ebdb196546048ee20f3c3f45a64c2b)
 - **abshare3**
   - **clash**: [*https://hMXjBM.absslk.xyz/375c5873a57515e17ec27d26fc3f06f2*](https://hMXjBM.absslk.xyz/375c5873a57515e17ec27d26fc3f06f2)
   - **v2ray**: [*https://hMXjBM.absslk.xyz/375c5873a57515e17ec27d26fc3f06f2*](https://hMXjBM.absslk.xyz/375c5873a57515e17ec27d26fc3f06f2)
