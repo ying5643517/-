@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 21:46:22
+> Updated Time: 2024-12-29 21:51:34
 
 - **tolinkshare2**
-  - **clash**: [*https://rQf1OM.tosslk.xyz/dcd879c3a919c5253171bc5d322ab236*](https://rQf1OM.tosslk.xyz/dcd879c3a919c5253171bc5d322ab236)
-  - **v2ray**: [*https://rQf1OM.tosslk.xyz/dcd879c3a919c5253171bc5d322ab236*](https://rQf1OM.tosslk.xyz/dcd879c3a919c5253171bc5d322ab236)
-  - **ios**: [*https://rQf1OM.tosslk.xyz/dcd879c3a919c5253171bc5d322ab236*](https://rQf1OM.tosslk.xyz/dcd879c3a919c5253171bc5d322ab236)
+  - **clash**: [*https://vOFJIA.tosslk.xyz/96ef79935ad6e39319cd1a63ec2ca13b*](https://vOFJIA.tosslk.xyz/96ef79935ad6e39319cd1a63ec2ca13b)
+  - **v2ray**: [*https://vOFJIA.tosslk.xyz/96ef79935ad6e39319cd1a63ec2ca13b*](https://vOFJIA.tosslk.xyz/96ef79935ad6e39319cd1a63ec2ca13b)
+  - **ios**: [*https://vOFJIA.tosslk.xyz/96ef79935ad6e39319cd1a63ec2ca13b*](https://vOFJIA.tosslk.xyz/96ef79935ad6e39319cd1a63ec2ca13b)
 - **abshare**
-  - **clash**: [*https://pvgU2E.absslk.xyz/aefd8e96f9eb89093265db34b9ad47ca*](https://pvgU2E.absslk.xyz/aefd8e96f9eb89093265db34b9ad47ca)
-  - **v2ray**: [*https://pvgU2E.absslk.xyz/aefd8e96f9eb89093265db34b9ad47ca*](https://pvgU2E.absslk.xyz/aefd8e96f9eb89093265db34b9ad47ca)
-  - **ios**: [*https://pvgU2E.absslk.xyz/aefd8e96f9eb89093265db34b9ad47ca*](https://pvgU2E.absslk.xyz/aefd8e96f9eb89093265db34b9ad47ca)
+  - **clash**: [*https://iLjir8.absslk.xyz/c2127cf4a553542ca376733c88700d33*](https://iLjir8.absslk.xyz/c2127cf4a553542ca376733c88700d33)
+  - **v2ray**: [*https://iLjir8.absslk.xyz/c2127cf4a553542ca376733c88700d33*](https://iLjir8.absslk.xyz/c2127cf4a553542ca376733c88700d33)
+  - **ios**: [*https://iLjir8.absslk.xyz/c2127cf4a553542ca376733c88700d33*](https://iLjir8.absslk.xyz/c2127cf4a553542ca376733c88700d33)
 - **mksshare**
   - **clash**: [*https://IP9606.mcsslk.xyz/cfe31997995e497acf2319686ebcb62f*](https://IP9606.mcsslk.xyz/cfe31997995e497acf2319686ebcb62f)
   - **v2ray**: [*https://IP9606.mcsslk.xyz/cfe31997995e497acf2319686ebcb62f*](https://IP9606.mcsslk.xyz/cfe31997995e497acf2319686ebcb62f)
