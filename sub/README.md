@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 15:35:34
+> Updated Time: 2024-12-29 15:40:43
 
 - **tolinkshare2**
-  - **clash**: [*https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030*](https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030)
-  - **v2ray**: [*https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030*](https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030)
-  - **ios**: [*https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030*](https://mM2VUj.tosslk.xyz/f2179f39ae5305f0cb75c113b6aa7030)
+  - **clash**: [*https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d*](https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d)
+  - **v2ray**: [*https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d*](https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d)
+  - **ios**: [*https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d*](https://xFjS2D.tosslk.xyz/48368b2353c9859e853015b790b3080d)
 - **abshare**
-  - **clash**: [*https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d*](https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d)
-  - **v2ray**: [*https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d*](https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d)
-  - **ios**: [*https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d*](https://spkRWl.absslk.xyz/1c456405cc800e6a96a76dae6ebe976d)
+  - **clash**: [*https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88*](https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88)
+  - **v2ray**: [*https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88*](https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88)
+  - **ios**: [*https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88*](https://hF2Eie.absslk.xyz/65e01d7d584f8298d3196fd8b103df88)
 - **mksshare**
   - **clash**: [*https://xLyzAo.mcsslk.xyz/7c879c5c6ac8de1ca6a2a0e652811ced*](https://xLyzAo.mcsslk.xyz/7c879c5c6ac8de1ca6a2a0e652811ced)
   - **v2ray**: [*https://xLyzAo.mcsslk.xyz/7c879c5c6ac8de1ca6a2a0e652811ced*](https://xLyzAo.mcsslk.xyz/7c879c5c6ac8de1ca6a2a0e652811ced)
