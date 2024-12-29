@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-30 03:18:46
+> Updated Time: 2024-12-30 03:35:26
 
 - **tolinkshare2**
-  - **clash**: [*https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201*](https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201)
-  - **v2ray**: [*https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201*](https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201)
-  - **ios**: [*https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201*](https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201)
+  - **clash**: [*https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14*](https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14)
+  - **v2ray**: [*https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14*](https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14)
+  - **ios**: [*https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14*](https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14)
 - **abshare**
   - **clash**: [*https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1*](https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1)
   - **v2ray**: [*https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1*](https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1)
