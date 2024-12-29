@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 22:59:12
+> Updated Time: 2024-12-29 23:12:55
 
 - **tolinkshare2**
-  - **clash**: [*https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f*](https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f)
-  - **v2ray**: [*https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f*](https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f)
-  - **ios**: [*https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f*](https://UeKB4S.tosslk.xyz/a93e45a9411530640c0175bb52de793f)
+  - **clash**: [*https://mzYaZ5.tosslk.xyz/0f2d87095b784f508279d197a3194d9b*](https://mzYaZ5.tosslk.xyz/0f2d87095b784f508279d197a3194d9b)
+  - **v2ray**: [*https://mzYaZ5.tosslk.xyz/0f2d87095b784f508279d197a3194d9b*](https://mzYaZ5.tosslk.xyz/0f2d87095b784f508279d197a3194d9b)
+  - **ios**: [*https://mzYaZ5.tosslk.xyz/0f2d87095b784f508279d197a3194d9b*](https://mzYaZ5.tosslk.xyz/0f2d87095b784f508279d197a3194d9b)
 - **abshare**
-  - **clash**: [*https://oEkKhv.absslk.xyz/4f010418410fec0f14202f391f4746fa*](https://oEkKhv.absslk.xyz/4f010418410fec0f14202f391f4746fa)
-  - **v2ray**: [*https://oEkKhv.absslk.xyz/4f010418410fec0f14202f391f4746fa*](https://oEkKhv.absslk.xyz/4f010418410fec0f14202f391f4746fa)
-  - **ios**: [*https://oEkKhv.absslk.xyz/4f010418410fec0f14202f391f4746fa*](https://oEkKhv.absslk.xyz/4f010418410fec0f14202f391f4746fa)
+  - **clash**: [*https://lQiE04.absslk.xyz/9b6d7d54f6ffd071200a19cc39eadde9*](https://lQiE04.absslk.xyz/9b6d7d54f6ffd071200a19cc39eadde9)
+  - **v2ray**: [*https://lQiE04.absslk.xyz/9b6d7d54f6ffd071200a19cc39eadde9*](https://lQiE04.absslk.xyz/9b6d7d54f6ffd071200a19cc39eadde9)
+  - **ios**: [*https://lQiE04.absslk.xyz/9b6d7d54f6ffd071200a19cc39eadde9*](https://lQiE04.absslk.xyz/9b6d7d54f6ffd071200a19cc39eadde9)
 - **mksshare**
   - **clash**: [*https://WkDImW.mcsslk.xyz/1bfc22f94aa9983fe270e5baa2df1d82*](https://WkDImW.mcsslk.xyz/1bfc22f94aa9983fe270e5baa2df1d82)
   - **v2ray**: [*https://WkDImW.mcsslk.xyz/1bfc22f94aa9983fe270e5baa2df1d82*](https://WkDImW.mcsslk.xyz/1bfc22f94aa9983fe270e5baa2df1d82)
