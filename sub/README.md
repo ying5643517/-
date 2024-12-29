@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 17:28:53
+> Updated Time: 2024-12-29 17:40:40
 
 - **tolinkshare2**
-  - **clash**: [*https://XTUeIG.tosslk.xyz/327e1cd3ae089b4072f91a633487ef60*](https://XTUeIG.tosslk.xyz/327e1cd3ae089b4072f91a633487ef60)
-  - **v2ray**: [*https://XTUeIG.tosslk.xyz/327e1cd3ae089b4072f91a633487ef60*](https://XTUeIG.tosslk.xyz/327e1cd3ae089b4072f91a633487ef60)
-  - **ios**: [*https://XTUeIG.tosslk.xyz/327e1cd3ae089b4072f91a633487ef60*](https://XTUeIG.tosslk.xyz/327e1cd3ae089b4072f91a633487ef60)
+  - **clash**: [*https://4dG8Nu.tosslk.xyz/5e68df2a21d90189991cbc7e80005c9a*](https://4dG8Nu.tosslk.xyz/5e68df2a21d90189991cbc7e80005c9a)
+  - **v2ray**: [*https://4dG8Nu.tosslk.xyz/5e68df2a21d90189991cbc7e80005c9a*](https://4dG8Nu.tosslk.xyz/5e68df2a21d90189991cbc7e80005c9a)
+  - **ios**: [*https://4dG8Nu.tosslk.xyz/5e68df2a21d90189991cbc7e80005c9a*](https://4dG8Nu.tosslk.xyz/5e68df2a21d90189991cbc7e80005c9a)
 - **abshare**
-  - **clash**: [*https://fQGOSz.absslk.xyz/95ebf00347ac392b412ae6a44eae1b8c*](https://fQGOSz.absslk.xyz/95ebf00347ac392b412ae6a44eae1b8c)
-  - **v2ray**: [*https://fQGOSz.absslk.xyz/95ebf00347ac392b412ae6a44eae1b8c*](https://fQGOSz.absslk.xyz/95ebf00347ac392b412ae6a44eae1b8c)
-  - **ios**: [*https://fQGOSz.absslk.xyz/95ebf00347ac392b412ae6a44eae1b8c*](https://fQGOSz.absslk.xyz/95ebf00347ac392b412ae6a44eae1b8c)
+  - **clash**: [*https://ViAEZS.absslk.xyz/3b4293bcd8af5953cd6cc944c964dcce*](https://ViAEZS.absslk.xyz/3b4293bcd8af5953cd6cc944c964dcce)
+  - **v2ray**: [*https://ViAEZS.absslk.xyz/3b4293bcd8af5953cd6cc944c964dcce*](https://ViAEZS.absslk.xyz/3b4293bcd8af5953cd6cc944c964dcce)
+  - **ios**: [*https://ViAEZS.absslk.xyz/3b4293bcd8af5953cd6cc944c964dcce*](https://ViAEZS.absslk.xyz/3b4293bcd8af5953cd6cc944c964dcce)
 - **mksshare**
   - **clash**: [*https://DLhaYN.mcsslk.xyz/aa8852d44152c38757db6e17a3f31125*](https://DLhaYN.mcsslk.xyz/aa8852d44152c38757db6e17a3f31125)
   - **v2ray**: [*https://DLhaYN.mcsslk.xyz/aa8852d44152c38757db6e17a3f31125*](https://DLhaYN.mcsslk.xyz/aa8852d44152c38757db6e17a3f31125)
