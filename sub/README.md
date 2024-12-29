@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-30 01:48:18
+> Updated Time: 2024-12-30 01:59:08
 
 - **tolinkshare2**
-  - **clash**: [*https://eIwW2o.tosslk.xyz/b81c30a60addc963e06c0e484f934d13*](https://eIwW2o.tosslk.xyz/b81c30a60addc963e06c0e484f934d13)
-  - **v2ray**: [*https://eIwW2o.tosslk.xyz/b81c30a60addc963e06c0e484f934d13*](https://eIwW2o.tosslk.xyz/b81c30a60addc963e06c0e484f934d13)
-  - **ios**: [*https://eIwW2o.tosslk.xyz/b81c30a60addc963e06c0e484f934d13*](https://eIwW2o.tosslk.xyz/b81c30a60addc963e06c0e484f934d13)
+  - **clash**: [*https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201*](https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201)
+  - **v2ray**: [*https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201*](https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201)
+  - **ios**: [*https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201*](https://Jw2SHZ.tosslk.xyz/531ca7e12821edf26793fce4d8056201)
 - **abshare**
   - **clash**: [*https://sSvMgJ.absslk.xyz/3e19d0886aeed31835969bcc5784e689*](https://sSvMgJ.absslk.xyz/3e19d0886aeed31835969bcc5784e689)
   - **v2ray**: [*https://sSvMgJ.absslk.xyz/3e19d0886aeed31835969bcc5784e689*](https://sSvMgJ.absslk.xyz/3e19d0886aeed31835969bcc5784e689)
