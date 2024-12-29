@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 19:46:59
+> Updated Time: 2024-12-29 19:52:33
 
 - **tolinkshare2**
-  - **clash**: [*https://nRuJM2.tosslk.xyz/6e47b477c51f068ff9e38023ad7366df*](https://nRuJM2.tosslk.xyz/6e47b477c51f068ff9e38023ad7366df)
-  - **v2ray**: [*https://nRuJM2.tosslk.xyz/6e47b477c51f068ff9e38023ad7366df*](https://nRuJM2.tosslk.xyz/6e47b477c51f068ff9e38023ad7366df)
-  - **ios**: [*https://nRuJM2.tosslk.xyz/6e47b477c51f068ff9e38023ad7366df*](https://nRuJM2.tosslk.xyz/6e47b477c51f068ff9e38023ad7366df)
+  - **clash**: [*https://rr6hZ8.tosslk.xyz/34ebef5a2358899b1eb9b371bf106b12*](https://rr6hZ8.tosslk.xyz/34ebef5a2358899b1eb9b371bf106b12)
+  - **v2ray**: [*https://rr6hZ8.tosslk.xyz/34ebef5a2358899b1eb9b371bf106b12*](https://rr6hZ8.tosslk.xyz/34ebef5a2358899b1eb9b371bf106b12)
+  - **ios**: [*https://rr6hZ8.tosslk.xyz/34ebef5a2358899b1eb9b371bf106b12*](https://rr6hZ8.tosslk.xyz/34ebef5a2358899b1eb9b371bf106b12)
 - **abshare**
   - **clash**: [*https://0it7j3.absslk.xyz/d9f7750917b7b7ca8e64a43bd91aae29*](https://0it7j3.absslk.xyz/d9f7750917b7b7ca8e64a43bd91aae29)
   - **v2ray**: [*https://0it7j3.absslk.xyz/d9f7750917b7b7ca8e64a43bd91aae29*](https://0it7j3.absslk.xyz/d9f7750917b7b7ca8e64a43bd91aae29)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://hc1gYs.tosslk.xyz/e9d3819d23c09a8ae05a54fb50977d97*](https://hc1gYs.tosslk.xyz/e9d3819d23c09a8ae05a54fb50977d97)
   - **ios**: [*https://hc1gYs.tosslk.xyz/e9d3819d23c09a8ae05a54fb50977d97*](https://hc1gYs.tosslk.xyz/e9d3819d23c09a8ae05a54fb50977d97)
 - **abshare3**
-  - **clash**: [*https://ZEdVIe.absslk.xyz/44ed682a308c52228729069549a2a3b8*](https://ZEdVIe.absslk.xyz/44ed682a308c52228729069549a2a3b8)
-  - **v2ray**: [*https://ZEdVIe.absslk.xyz/44ed682a308c52228729069549a2a3b8*](https://ZEdVIe.absslk.xyz/44ed682a308c52228729069549a2a3b8)
-  - **ios**: [*https://ZEdVIe.absslk.xyz/44ed682a308c52228729069549a2a3b8*](https://ZEdVIe.absslk.xyz/44ed682a308c52228729069549a2a3b8)
+  - **clash**: [*https://ZmdqIM.absslk.xyz/d19b5c372b869f5bcf14a72b5ee13ca7*](https://ZmdqIM.absslk.xyz/d19b5c372b869f5bcf14a72b5ee13ca7)
+  - **v2ray**: [*https://ZmdqIM.absslk.xyz/d19b5c372b869f5bcf14a72b5ee13ca7*](https://ZmdqIM.absslk.xyz/d19b5c372b869f5bcf14a72b5ee13ca7)
+  - **ios**: [*https://ZmdqIM.absslk.xyz/d19b5c372b869f5bcf14a72b5ee13ca7*](https://ZmdqIM.absslk.xyz/d19b5c372b869f5bcf14a72b5ee13ca7)
