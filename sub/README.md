@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-29 19:19:16
+> Updated Time: 2024-12-29 19:24:41
 
 - **tolinkshare2**
-  - **clash**: [*https://MniUOd.tosslk.xyz/b815b567478306fcf4a3e3ab84e7d43c*](https://MniUOd.tosslk.xyz/b815b567478306fcf4a3e3ab84e7d43c)
-  - **v2ray**: [*https://MniUOd.tosslk.xyz/b815b567478306fcf4a3e3ab84e7d43c*](https://MniUOd.tosslk.xyz/b815b567478306fcf4a3e3ab84e7d43c)
-  - **ios**: [*https://MniUOd.tosslk.xyz/b815b567478306fcf4a3e3ab84e7d43c*](https://MniUOd.tosslk.xyz/b815b567478306fcf4a3e3ab84e7d43c)
+  - **clash**: [*https://T6JhhE.tosslk.xyz/8a2f1aa8f110a90cf8a7e1b85409790e*](https://T6JhhE.tosslk.xyz/8a2f1aa8f110a90cf8a7e1b85409790e)
+  - **v2ray**: [*https://T6JhhE.tosslk.xyz/8a2f1aa8f110a90cf8a7e1b85409790e*](https://T6JhhE.tosslk.xyz/8a2f1aa8f110a90cf8a7e1b85409790e)
+  - **ios**: [*https://T6JhhE.tosslk.xyz/8a2f1aa8f110a90cf8a7e1b85409790e*](https://T6JhhE.tosslk.xyz/8a2f1aa8f110a90cf8a7e1b85409790e)
 - **abshare**
   - **clash**: [*https://iQ6DGN.absslk.xyz/7a59450ab934a0066312187469322d08*](https://iQ6DGN.absslk.xyz/7a59450ab934a0066312187469322d08)
   - **v2ray**: [*https://iQ6DGN.absslk.xyz/7a59450ab934a0066312187469322d08*](https://iQ6DGN.absslk.xyz/7a59450ab934a0066312187469322d08)
