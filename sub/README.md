@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-30 03:35:26
+> Updated Time: 2024-12-30 03:56:52
 
 - **tolinkshare2**
   - **clash**: [*https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14*](https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14)
   - **v2ray**: [*https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14*](https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14)
   - **ios**: [*https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14*](https://LGoa4o.tosslk.xyz/74ab87bd10e9f7166df4f5a887d3bd14)
 - **abshare**
-  - **clash**: [*https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1*](https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1)
-  - **v2ray**: [*https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1*](https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1)
-  - **ios**: [*https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1*](https://TWAhyo.absslk.xyz/2cd1de4d6bec08c5427b24326c7c58c1)
+  - **clash**: [*https://Fp3WoB.absslk.xyz/17322919bced56340955e80a56afa2d0*](https://Fp3WoB.absslk.xyz/17322919bced56340955e80a56afa2d0)
+  - **v2ray**: [*https://Fp3WoB.absslk.xyz/17322919bced56340955e80a56afa2d0*](https://Fp3WoB.absslk.xyz/17322919bced56340955e80a56afa2d0)
+  - **ios**: [*https://Fp3WoB.absslk.xyz/17322919bced56340955e80a56afa2d0*](https://Fp3WoB.absslk.xyz/17322919bced56340955e80a56afa2d0)
 - **mksshare**
   - **clash**: [*https://Yt3LIK.mcsslk.xyz/ae8c8a5981cfbbc5a8620657f87e6384*](https://Yt3LIK.mcsslk.xyz/ae8c8a5981cfbbc5a8620657f87e6384)
   - **v2ray**: [*https://Yt3LIK.mcsslk.xyz/ae8c8a5981cfbbc5a8620657f87e6384*](https://Yt3LIK.mcsslk.xyz/ae8c8a5981cfbbc5a8620657f87e6384)
