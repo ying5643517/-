@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-31 04:33:37
+> Updated Time: 2024-12-31 04:40:06
 
 - **tolinkshare2**
-  - **clash**: [*https://vDsYSO.tosslk.xyz/0877da13acecc6b646bacd2f1fe284a6*](https://vDsYSO.tosslk.xyz/0877da13acecc6b646bacd2f1fe284a6)
-  - **v2ray**: [*https://vDsYSO.tosslk.xyz/0877da13acecc6b646bacd2f1fe284a6*](https://vDsYSO.tosslk.xyz/0877da13acecc6b646bacd2f1fe284a6)
-  - **ios**: [*https://vDsYSO.tosslk.xyz/0877da13acecc6b646bacd2f1fe284a6*](https://vDsYSO.tosslk.xyz/0877da13acecc6b646bacd2f1fe284a6)
+  - **clash**: [*https://ZabyUr.tosslk.xyz/03edd490ad1df29e25ecbca105168fbd*](https://ZabyUr.tosslk.xyz/03edd490ad1df29e25ecbca105168fbd)
+  - **v2ray**: [*https://ZabyUr.tosslk.xyz/03edd490ad1df29e25ecbca105168fbd*](https://ZabyUr.tosslk.xyz/03edd490ad1df29e25ecbca105168fbd)
+  - **ios**: [*https://ZabyUr.tosslk.xyz/03edd490ad1df29e25ecbca105168fbd*](https://ZabyUr.tosslk.xyz/03edd490ad1df29e25ecbca105168fbd)
 - **abshare**
   - **clash**: [*https://VGlDRD.absslk.xyz/c608590712d16c1890b061179cbedaf4*](https://VGlDRD.absslk.xyz/c608590712d16c1890b061179cbedaf4)
   - **v2ray**: [*https://VGlDRD.absslk.xyz/c608590712d16c1890b061179cbedaf4*](https://VGlDRD.absslk.xyz/c608590712d16c1890b061179cbedaf4)
