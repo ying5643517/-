@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2024-12-31 21:36:41
+> Updated Time: 2024-12-31 21:47:30
 
 - **tolinkshare2**
-  - **clash**: [*https://y2ROvn.tosslk.xyz/cb11dbb92d40c9c49fe62f7c6048979e*](https://y2ROvn.tosslk.xyz/cb11dbb92d40c9c49fe62f7c6048979e)
-  - **v2ray**: [*https://y2ROvn.tosslk.xyz/cb11dbb92d40c9c49fe62f7c6048979e*](https://y2ROvn.tosslk.xyz/cb11dbb92d40c9c49fe62f7c6048979e)
-  - **ios**: [*https://y2ROvn.tosslk.xyz/cb11dbb92d40c9c49fe62f7c6048979e*](https://y2ROvn.tosslk.xyz/cb11dbb92d40c9c49fe62f7c6048979e)
+  - **clash**: [*https://B4QIfS.tosslk.xyz/8a70514384c87889d76c4ac4cdb7926a*](https://B4QIfS.tosslk.xyz/8a70514384c87889d76c4ac4cdb7926a)
+  - **v2ray**: [*https://B4QIfS.tosslk.xyz/8a70514384c87889d76c4ac4cdb7926a*](https://B4QIfS.tosslk.xyz/8a70514384c87889d76c4ac4cdb7926a)
+  - **ios**: [*https://B4QIfS.tosslk.xyz/8a70514384c87889d76c4ac4cdb7926a*](https://B4QIfS.tosslk.xyz/8a70514384c87889d76c4ac4cdb7926a)
 - **abshare**
-  - **clash**: [*https://xA4Cdv.absslk.xyz/d4269cc12a1a30dab746bf3d80344386*](https://xA4Cdv.absslk.xyz/d4269cc12a1a30dab746bf3d80344386)
-  - **v2ray**: [*https://xA4Cdv.absslk.xyz/d4269cc12a1a30dab746bf3d80344386*](https://xA4Cdv.absslk.xyz/d4269cc12a1a30dab746bf3d80344386)
-  - **ios**: [*https://xA4Cdv.absslk.xyz/d4269cc12a1a30dab746bf3d80344386*](https://xA4Cdv.absslk.xyz/d4269cc12a1a30dab746bf3d80344386)
+  - **clash**: [*https://9qqKEP.absslk.xyz/e66472742e850eed829cd02211323796*](https://9qqKEP.absslk.xyz/e66472742e850eed829cd02211323796)
+  - **v2ray**: [*https://9qqKEP.absslk.xyz/e66472742e850eed829cd02211323796*](https://9qqKEP.absslk.xyz/e66472742e850eed829cd02211323796)
+  - **ios**: [*https://9qqKEP.absslk.xyz/e66472742e850eed829cd02211323796*](https://9qqKEP.absslk.xyz/e66472742e850eed829cd02211323796)
 - **mksshare**
   - **clash**: [*https://etG0mK.mcsslk.xyz/d3053b5c4560ea9f6d310ac7606679a7*](https://etG0mK.mcsslk.xyz/d3053b5c4560ea9f6d310ac7606679a7)
   - **v2ray**: [*https://etG0mK.mcsslk.xyz/d3053b5c4560ea9f6d310ac7606679a7*](https://etG0mK.mcsslk.xyz/d3053b5c4560ea9f6d310ac7606679a7)
