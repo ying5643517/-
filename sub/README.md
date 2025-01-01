@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-02 00:49:33
+> Updated Time: 2025-01-02 00:59:54
 
 - **tolinkshare2**
-  - **clash**: [*https://I8BzA8.tosslk.xyz/dc86c8c5fa37ce25f1b2fc12ee4ebff7*](https://I8BzA8.tosslk.xyz/dc86c8c5fa37ce25f1b2fc12ee4ebff7)
-  - **v2ray**: [*https://I8BzA8.tosslk.xyz/dc86c8c5fa37ce25f1b2fc12ee4ebff7*](https://I8BzA8.tosslk.xyz/dc86c8c5fa37ce25f1b2fc12ee4ebff7)
-  - **ios**: [*https://I8BzA8.tosslk.xyz/dc86c8c5fa37ce25f1b2fc12ee4ebff7*](https://I8BzA8.tosslk.xyz/dc86c8c5fa37ce25f1b2fc12ee4ebff7)
+  - **clash**: [*https://vR1MsF.tosslk.xyz/d24f27f81fc848ca3c785be235d62499*](https://vR1MsF.tosslk.xyz/d24f27f81fc848ca3c785be235d62499)
+  - **v2ray**: [*https://vR1MsF.tosslk.xyz/d24f27f81fc848ca3c785be235d62499*](https://vR1MsF.tosslk.xyz/d24f27f81fc848ca3c785be235d62499)
+  - **ios**: [*https://vR1MsF.tosslk.xyz/d24f27f81fc848ca3c785be235d62499*](https://vR1MsF.tosslk.xyz/d24f27f81fc848ca3c785be235d62499)
 - **abshare**
   - **clash**: [*https://sV1x1Q.absslk.xyz/4393dbe4ebed6bba2f496333d9823224*](https://sV1x1Q.absslk.xyz/4393dbe4ebed6bba2f496333d9823224)
   - **v2ray**: [*https://sV1x1Q.absslk.xyz/4393dbe4ebed6bba2f496333d9823224*](https://sV1x1Q.absslk.xyz/4393dbe4ebed6bba2f496333d9823224)
