@@ -21,20 +21,20 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-01 12:15:17
+> Updated Time: 2025-01-01 12:32:20
 
 - **tolinkshare2**
-  - **clash**: [*https://MvmRYt.tosslk.xyz/afbf3ae2a0d6694079c03750559227aa*](https://MvmRYt.tosslk.xyz/afbf3ae2a0d6694079c03750559227aa)
-  - **v2ray**: [*https://MvmRYt.tosslk.xyz/afbf3ae2a0d6694079c03750559227aa*](https://MvmRYt.tosslk.xyz/afbf3ae2a0d6694079c03750559227aa)
-  - **ios**: [*https://MvmRYt.tosslk.xyz/afbf3ae2a0d6694079c03750559227aa*](https://MvmRYt.tosslk.xyz/afbf3ae2a0d6694079c03750559227aa)
+  - **clash**: [*https://4GqZrz.tosslk.xyz/7367ff8e250b49db1139f588da3beef2*](https://4GqZrz.tosslk.xyz/7367ff8e250b49db1139f588da3beef2)
+  - **v2ray**: [*https://4GqZrz.tosslk.xyz/7367ff8e250b49db1139f588da3beef2*](https://4GqZrz.tosslk.xyz/7367ff8e250b49db1139f588da3beef2)
+  - **ios**: [*https://4GqZrz.tosslk.xyz/7367ff8e250b49db1139f588da3beef2*](https://4GqZrz.tosslk.xyz/7367ff8e250b49db1139f588da3beef2)
 - **abshare**
   - **clash**: [*https://I7gbej.absslk.xyz/d2bdc195a5a9182fa54649d32d6d612c*](https://I7gbej.absslk.xyz/d2bdc195a5a9182fa54649d32d6d612c)
   - **v2ray**: [*https://I7gbej.absslk.xyz/d2bdc195a5a9182fa54649d32d6d612c*](https://I7gbej.absslk.xyz/d2bdc195a5a9182fa54649d32d6d612c)
   - **ios**: [*https://I7gbej.absslk.xyz/d2bdc195a5a9182fa54649d32d6d612c*](https://I7gbej.absslk.xyz/d2bdc195a5a9182fa54649d32d6d612c)
 - **mksshare**
-  - **clash**: [*https://H4KYsL.mcsslk.xyz/a8553a87c43b74ef9824ab947c68065f*](https://H4KYsL.mcsslk.xyz/a8553a87c43b74ef9824ab947c68065f)
-  - **v2ray**: [*https://H4KYsL.mcsslk.xyz/a8553a87c43b74ef9824ab947c68065f*](https://H4KYsL.mcsslk.xyz/a8553a87c43b74ef9824ab947c68065f)
-  - **ios**: [*https://H4KYsL.mcsslk.xyz/a8553a87c43b74ef9824ab947c68065f*](https://H4KYsL.mcsslk.xyz/a8553a87c43b74ef9824ab947c68065f)
+  - **clash**: [*https://NVGD94.mcsslk.xyz/66fcebb38cae8dbf9aa520a4bef60b5b*](https://NVGD94.mcsslk.xyz/66fcebb38cae8dbf9aa520a4bef60b5b)
+  - **v2ray**: [*https://NVGD94.mcsslk.xyz/66fcebb38cae8dbf9aa520a4bef60b5b*](https://NVGD94.mcsslk.xyz/66fcebb38cae8dbf9aa520a4bef60b5b)
+  - **ios**: [*https://NVGD94.mcsslk.xyz/66fcebb38cae8dbf9aa520a4bef60b5b*](https://NVGD94.mcsslk.xyz/66fcebb38cae8dbf9aa520a4bef60b5b)
 - **mkshare3**
   - **clash**: [*https://NAPiOL.mcsslk.xyz/a3a3e8f87de6bcdc68b0c372d43679aa*](https://NAPiOL.mcsslk.xyz/a3a3e8f87de6bcdc68b0c372d43679aa)
   - **v2ray**: [*https://NAPiOL.mcsslk.xyz/a3a3e8f87de6bcdc68b0c372d43679aa*](https://NAPiOL.mcsslk.xyz/a3a3e8f87de6bcdc68b0c372d43679aa)
