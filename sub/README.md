@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-01 23:56:20
+> Updated Time: 2025-01-02 00:10:22
 
 - **tolinkshare2**
-  - **clash**: [*https://csXOGT.tosslk.xyz/57b83c13006905c6c3a2afc771bb1628*](https://csXOGT.tosslk.xyz/57b83c13006905c6c3a2afc771bb1628)
-  - **v2ray**: [*https://csXOGT.tosslk.xyz/57b83c13006905c6c3a2afc771bb1628*](https://csXOGT.tosslk.xyz/57b83c13006905c6c3a2afc771bb1628)
-  - **ios**: [*https://csXOGT.tosslk.xyz/57b83c13006905c6c3a2afc771bb1628*](https://csXOGT.tosslk.xyz/57b83c13006905c6c3a2afc771bb1628)
+  - **clash**: [*https://58IIg5.tosslk.xyz/92af06b02eb164ac21936ab6e935814b*](https://58IIg5.tosslk.xyz/92af06b02eb164ac21936ab6e935814b)
+  - **v2ray**: [*https://58IIg5.tosslk.xyz/92af06b02eb164ac21936ab6e935814b*](https://58IIg5.tosslk.xyz/92af06b02eb164ac21936ab6e935814b)
+  - **ios**: [*https://58IIg5.tosslk.xyz/92af06b02eb164ac21936ab6e935814b*](https://58IIg5.tosslk.xyz/92af06b02eb164ac21936ab6e935814b)
 - **abshare**
   - **clash**: [*https://1JMvZj.absslk.xyz/eb58c2bf599d66745397d6071ed82617*](https://1JMvZj.absslk.xyz/eb58c2bf599d66745397d6071ed82617)
   - **v2ray**: [*https://1JMvZj.absslk.xyz/eb58c2bf599d66745397d6071ed82617*](https://1JMvZj.absslk.xyz/eb58c2bf599d66745397d6071ed82617)
