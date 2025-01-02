@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-03 03:41:25
+> Updated Time: 2025-01-03 03:46:46
 
 - **tolinkshare2**
-  - **clash**: [*https://2DM1dp.tosslk.xyz/8b816f0446042c1d9df9da6db3cf29fc*](https://2DM1dp.tosslk.xyz/8b816f0446042c1d9df9da6db3cf29fc)
-  - **v2ray**: [*https://2DM1dp.tosslk.xyz/8b816f0446042c1d9df9da6db3cf29fc*](https://2DM1dp.tosslk.xyz/8b816f0446042c1d9df9da6db3cf29fc)
-  - **ios**: [*https://2DM1dp.tosslk.xyz/8b816f0446042c1d9df9da6db3cf29fc*](https://2DM1dp.tosslk.xyz/8b816f0446042c1d9df9da6db3cf29fc)
+  - **clash**: [*https://EpMVio.tosslk.xyz/920d88ef263cb8c41518bbeea70a6ab6*](https://EpMVio.tosslk.xyz/920d88ef263cb8c41518bbeea70a6ab6)
+  - **v2ray**: [*https://EpMVio.tosslk.xyz/920d88ef263cb8c41518bbeea70a6ab6*](https://EpMVio.tosslk.xyz/920d88ef263cb8c41518bbeea70a6ab6)
+  - **ios**: [*https://EpMVio.tosslk.xyz/920d88ef263cb8c41518bbeea70a6ab6*](https://EpMVio.tosslk.xyz/920d88ef263cb8c41518bbeea70a6ab6)
 - **abshare**
   - **clash**: [*https://ar8Hmc.absslk.xyz/1d36d9edf92d2d03fb7ed2e6642c0fee*](https://ar8Hmc.absslk.xyz/1d36d9edf92d2d03fb7ed2e6642c0fee)
   - **v2ray**: [*https://ar8Hmc.absslk.xyz/1d36d9edf92d2d03fb7ed2e6642c0fee*](https://ar8Hmc.absslk.xyz/1d36d9edf92d2d03fb7ed2e6642c0fee)
