@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-02 21:49:19
+> Updated Time: 2025-01-02 21:59:28
 
 - **tolinkshare2**
-  - **clash**: [*https://c3dhlI.tosslk.xyz/b2583cadbc72ed425b02ace0f4a32f9d*](https://c3dhlI.tosslk.xyz/b2583cadbc72ed425b02ace0f4a32f9d)
-  - **v2ray**: [*https://c3dhlI.tosslk.xyz/b2583cadbc72ed425b02ace0f4a32f9d*](https://c3dhlI.tosslk.xyz/b2583cadbc72ed425b02ace0f4a32f9d)
-  - **ios**: [*https://c3dhlI.tosslk.xyz/b2583cadbc72ed425b02ace0f4a32f9d*](https://c3dhlI.tosslk.xyz/b2583cadbc72ed425b02ace0f4a32f9d)
+  - **clash**: [*https://iVBl6B.tosslk.xyz/332dbcb8bc62dece9f1fd1da35f3c144*](https://iVBl6B.tosslk.xyz/332dbcb8bc62dece9f1fd1da35f3c144)
+  - **v2ray**: [*https://iVBl6B.tosslk.xyz/332dbcb8bc62dece9f1fd1da35f3c144*](https://iVBl6B.tosslk.xyz/332dbcb8bc62dece9f1fd1da35f3c144)
+  - **ios**: [*https://iVBl6B.tosslk.xyz/332dbcb8bc62dece9f1fd1da35f3c144*](https://iVBl6B.tosslk.xyz/332dbcb8bc62dece9f1fd1da35f3c144)
 - **abshare**
-  - **clash**: [*https://KQZtLq.absslk.xyz/912fa128464fe2cb6543ada80aea5091*](https://KQZtLq.absslk.xyz/912fa128464fe2cb6543ada80aea5091)
-  - **v2ray**: [*https://KQZtLq.absslk.xyz/912fa128464fe2cb6543ada80aea5091*](https://KQZtLq.absslk.xyz/912fa128464fe2cb6543ada80aea5091)
-  - **ios**: [*https://KQZtLq.absslk.xyz/912fa128464fe2cb6543ada80aea5091*](https://KQZtLq.absslk.xyz/912fa128464fe2cb6543ada80aea5091)
+  - **clash**: [*https://fysZ1R.absslk.xyz/b4f71c57a6e141e4e1ef0e989061dfc4*](https://fysZ1R.absslk.xyz/b4f71c57a6e141e4e1ef0e989061dfc4)
+  - **v2ray**: [*https://fysZ1R.absslk.xyz/b4f71c57a6e141e4e1ef0e989061dfc4*](https://fysZ1R.absslk.xyz/b4f71c57a6e141e4e1ef0e989061dfc4)
+  - **ios**: [*https://fysZ1R.absslk.xyz/b4f71c57a6e141e4e1ef0e989061dfc4*](https://fysZ1R.absslk.xyz/b4f71c57a6e141e4e1ef0e989061dfc4)
 - **mksshare**
   - **clash**: [*https://5c7RNa.mcsslk.xyz/35309407eed7045a35c77bbecbb97d9c*](https://5c7RNa.mcsslk.xyz/35309407eed7045a35c77bbecbb97d9c)
   - **v2ray**: [*https://5c7RNa.mcsslk.xyz/35309407eed7045a35c77bbecbb97d9c*](https://5c7RNa.mcsslk.xyz/35309407eed7045a35c77bbecbb97d9c)
