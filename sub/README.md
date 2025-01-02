@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-02 18:31:47
+> Updated Time: 2025-01-02 18:41:25
 
 - **tolinkshare2**
-  - **clash**: [*https://VVIo2c.tosslk.xyz/0715363333b41b5578c0b127daf464c9*](https://VVIo2c.tosslk.xyz/0715363333b41b5578c0b127daf464c9)
-  - **v2ray**: [*https://VVIo2c.tosslk.xyz/0715363333b41b5578c0b127daf464c9*](https://VVIo2c.tosslk.xyz/0715363333b41b5578c0b127daf464c9)
-  - **ios**: [*https://VVIo2c.tosslk.xyz/0715363333b41b5578c0b127daf464c9*](https://VVIo2c.tosslk.xyz/0715363333b41b5578c0b127daf464c9)
+  - **clash**: [*https://v4zrKf.tosslk.xyz/def9114204df47437b0d2ab6ba93a6b1*](https://v4zrKf.tosslk.xyz/def9114204df47437b0d2ab6ba93a6b1)
+  - **v2ray**: [*https://v4zrKf.tosslk.xyz/def9114204df47437b0d2ab6ba93a6b1*](https://v4zrKf.tosslk.xyz/def9114204df47437b0d2ab6ba93a6b1)
+  - **ios**: [*https://v4zrKf.tosslk.xyz/def9114204df47437b0d2ab6ba93a6b1*](https://v4zrKf.tosslk.xyz/def9114204df47437b0d2ab6ba93a6b1)
 - **abshare**
-  - **clash**: [*https://CFjlfL.absslk.xyz/782e3872f1b7f9a16e6371e686a00b23*](https://CFjlfL.absslk.xyz/782e3872f1b7f9a16e6371e686a00b23)
-  - **v2ray**: [*https://CFjlfL.absslk.xyz/782e3872f1b7f9a16e6371e686a00b23*](https://CFjlfL.absslk.xyz/782e3872f1b7f9a16e6371e686a00b23)
-  - **ios**: [*https://CFjlfL.absslk.xyz/782e3872f1b7f9a16e6371e686a00b23*](https://CFjlfL.absslk.xyz/782e3872f1b7f9a16e6371e686a00b23)
+  - **clash**: [*https://KQSKPw.absslk.xyz/9e4cb53bd69603d179bfaf930eebb84c*](https://KQSKPw.absslk.xyz/9e4cb53bd69603d179bfaf930eebb84c)
+  - **v2ray**: [*https://KQSKPw.absslk.xyz/9e4cb53bd69603d179bfaf930eebb84c*](https://KQSKPw.absslk.xyz/9e4cb53bd69603d179bfaf930eebb84c)
+  - **ios**: [*https://KQSKPw.absslk.xyz/9e4cb53bd69603d179bfaf930eebb84c*](https://KQSKPw.absslk.xyz/9e4cb53bd69603d179bfaf930eebb84c)
 - **mksshare**
   - **clash**: [*https://Boi4Jq.mcsslk.xyz/4d35f353c777c4c745016b6392470fea*](https://Boi4Jq.mcsslk.xyz/4d35f353c777c4c745016b6392470fea)
   - **v2ray**: [*https://Boi4Jq.mcsslk.xyz/4d35f353c777c4c745016b6392470fea*](https://Boi4Jq.mcsslk.xyz/4d35f353c777c4c745016b6392470fea)
