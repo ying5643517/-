@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-02 19:43:45
+> Updated Time: 2025-01-02 19:54:21
 
 - **tolinkshare2**
-  - **clash**: [*https://3uySd1.tosslk.xyz/f0c9cc876015ae232fc11dc3aa34a7cf*](https://3uySd1.tosslk.xyz/f0c9cc876015ae232fc11dc3aa34a7cf)
-  - **v2ray**: [*https://3uySd1.tosslk.xyz/f0c9cc876015ae232fc11dc3aa34a7cf*](https://3uySd1.tosslk.xyz/f0c9cc876015ae232fc11dc3aa34a7cf)
-  - **ios**: [*https://3uySd1.tosslk.xyz/f0c9cc876015ae232fc11dc3aa34a7cf*](https://3uySd1.tosslk.xyz/f0c9cc876015ae232fc11dc3aa34a7cf)
+  - **clash**: [*https://j5JEt7.tosslk.xyz/7b6b69a972c3b6a2f917f8a91faac3c1*](https://j5JEt7.tosslk.xyz/7b6b69a972c3b6a2f917f8a91faac3c1)
+  - **v2ray**: [*https://j5JEt7.tosslk.xyz/7b6b69a972c3b6a2f917f8a91faac3c1*](https://j5JEt7.tosslk.xyz/7b6b69a972c3b6a2f917f8a91faac3c1)
+  - **ios**: [*https://j5JEt7.tosslk.xyz/7b6b69a972c3b6a2f917f8a91faac3c1*](https://j5JEt7.tosslk.xyz/7b6b69a972c3b6a2f917f8a91faac3c1)
 - **abshare**
-  - **clash**: [*https://1vf4AF.absslk.xyz/3373bd67cfd613b0b506dddd27353605*](https://1vf4AF.absslk.xyz/3373bd67cfd613b0b506dddd27353605)
-  - **v2ray**: [*https://1vf4AF.absslk.xyz/3373bd67cfd613b0b506dddd27353605*](https://1vf4AF.absslk.xyz/3373bd67cfd613b0b506dddd27353605)
-  - **ios**: [*https://1vf4AF.absslk.xyz/3373bd67cfd613b0b506dddd27353605*](https://1vf4AF.absslk.xyz/3373bd67cfd613b0b506dddd27353605)
+  - **clash**: [*https://GSvVsV.absslk.xyz/f30b1d6644d50961a80e23f152485fc8*](https://GSvVsV.absslk.xyz/f30b1d6644d50961a80e23f152485fc8)
+  - **v2ray**: [*https://GSvVsV.absslk.xyz/f30b1d6644d50961a80e23f152485fc8*](https://GSvVsV.absslk.xyz/f30b1d6644d50961a80e23f152485fc8)
+  - **ios**: [*https://GSvVsV.absslk.xyz/f30b1d6644d50961a80e23f152485fc8*](https://GSvVsV.absslk.xyz/f30b1d6644d50961a80e23f152485fc8)
 - **mksshare**
   - **clash**: [*https://n4jMB3.mcsslk.xyz/ddde68ca2525061c66881cac0db469a7*](https://n4jMB3.mcsslk.xyz/ddde68ca2525061c66881cac0db469a7)
   - **v2ray**: [*https://n4jMB3.mcsslk.xyz/ddde68ca2525061c66881cac0db469a7*](https://n4jMB3.mcsslk.xyz/ddde68ca2525061c66881cac0db469a7)
