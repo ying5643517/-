@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-02 15:47:40
+> Updated Time: 2025-01-02 15:52:45
 
 - **tolinkshare2**
-  - **clash**: [*https://a4aRu3.tosslk.xyz/acfa37fede13de56bb6b9dc3bc84039e*](https://a4aRu3.tosslk.xyz/acfa37fede13de56bb6b9dc3bc84039e)
-  - **v2ray**: [*https://a4aRu3.tosslk.xyz/acfa37fede13de56bb6b9dc3bc84039e*](https://a4aRu3.tosslk.xyz/acfa37fede13de56bb6b9dc3bc84039e)
-  - **ios**: [*https://a4aRu3.tosslk.xyz/acfa37fede13de56bb6b9dc3bc84039e*](https://a4aRu3.tosslk.xyz/acfa37fede13de56bb6b9dc3bc84039e)
+  - **clash**: [*https://uNN3qA.tosslk.xyz/bde93952a341a116795296e5f3437df7*](https://uNN3qA.tosslk.xyz/bde93952a341a116795296e5f3437df7)
+  - **v2ray**: [*https://uNN3qA.tosslk.xyz/bde93952a341a116795296e5f3437df7*](https://uNN3qA.tosslk.xyz/bde93952a341a116795296e5f3437df7)
+  - **ios**: [*https://uNN3qA.tosslk.xyz/bde93952a341a116795296e5f3437df7*](https://uNN3qA.tosslk.xyz/bde93952a341a116795296e5f3437df7)
 - **abshare**
-  - **clash**: [*https://aa0Xcm.absslk.xyz/8d3036403c433b8df0d1a27398e262a5*](https://aa0Xcm.absslk.xyz/8d3036403c433b8df0d1a27398e262a5)
-  - **v2ray**: [*https://aa0Xcm.absslk.xyz/8d3036403c433b8df0d1a27398e262a5*](https://aa0Xcm.absslk.xyz/8d3036403c433b8df0d1a27398e262a5)
-  - **ios**: [*https://aa0Xcm.absslk.xyz/8d3036403c433b8df0d1a27398e262a5*](https://aa0Xcm.absslk.xyz/8d3036403c433b8df0d1a27398e262a5)
+  - **clash**: [*https://uO5LUV.absslk.xyz/1b6b09f071345720061b9155d9eb2f24*](https://uO5LUV.absslk.xyz/1b6b09f071345720061b9155d9eb2f24)
+  - **v2ray**: [*https://uO5LUV.absslk.xyz/1b6b09f071345720061b9155d9eb2f24*](https://uO5LUV.absslk.xyz/1b6b09f071345720061b9155d9eb2f24)
+  - **ios**: [*https://uO5LUV.absslk.xyz/1b6b09f071345720061b9155d9eb2f24*](https://uO5LUV.absslk.xyz/1b6b09f071345720061b9155d9eb2f24)
 - **mksshare**
   - **clash**: [*https://Bn6uUb.mcsslk.xyz/e890c21232b95635272db8bd995f2ede*](https://Bn6uUb.mcsslk.xyz/e890c21232b95635272db8bd995f2ede)
   - **v2ray**: [*https://Bn6uUb.mcsslk.xyz/e890c21232b95635272db8bd995f2ede*](https://Bn6uUb.mcsslk.xyz/e890c21232b95635272db8bd995f2ede)
