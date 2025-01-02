@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-02 17:25:37
+> Updated Time: 2025-01-02 17:37:00
 
 - **tolinkshare2**
-  - **clash**: [*https://qyZGbe.tosslk.xyz/dd863f03fcaed6fa19d00377c58e4d72*](https://qyZGbe.tosslk.xyz/dd863f03fcaed6fa19d00377c58e4d72)
-  - **v2ray**: [*https://qyZGbe.tosslk.xyz/dd863f03fcaed6fa19d00377c58e4d72*](https://qyZGbe.tosslk.xyz/dd863f03fcaed6fa19d00377c58e4d72)
-  - **ios**: [*https://qyZGbe.tosslk.xyz/dd863f03fcaed6fa19d00377c58e4d72*](https://qyZGbe.tosslk.xyz/dd863f03fcaed6fa19d00377c58e4d72)
+  - **clash**: [*https://FRzEIk.tosslk.xyz/ac90bd3cbb468554659784e44b77cdf3*](https://FRzEIk.tosslk.xyz/ac90bd3cbb468554659784e44b77cdf3)
+  - **v2ray**: [*https://FRzEIk.tosslk.xyz/ac90bd3cbb468554659784e44b77cdf3*](https://FRzEIk.tosslk.xyz/ac90bd3cbb468554659784e44b77cdf3)
+  - **ios**: [*https://FRzEIk.tosslk.xyz/ac90bd3cbb468554659784e44b77cdf3*](https://FRzEIk.tosslk.xyz/ac90bd3cbb468554659784e44b77cdf3)
 - **abshare**
-  - **clash**: [*https://5MHDfm.absslk.xyz/beccda97c2a8a20cad026b03071251ee*](https://5MHDfm.absslk.xyz/beccda97c2a8a20cad026b03071251ee)
-  - **v2ray**: [*https://5MHDfm.absslk.xyz/beccda97c2a8a20cad026b03071251ee*](https://5MHDfm.absslk.xyz/beccda97c2a8a20cad026b03071251ee)
-  - **ios**: [*https://5MHDfm.absslk.xyz/beccda97c2a8a20cad026b03071251ee*](https://5MHDfm.absslk.xyz/beccda97c2a8a20cad026b03071251ee)
+  - **clash**: [*https://cQMIXP.absslk.xyz/05678c57e5396afb41cb88ee7613557b*](https://cQMIXP.absslk.xyz/05678c57e5396afb41cb88ee7613557b)
+  - **v2ray**: [*https://cQMIXP.absslk.xyz/05678c57e5396afb41cb88ee7613557b*](https://cQMIXP.absslk.xyz/05678c57e5396afb41cb88ee7613557b)
+  - **ios**: [*https://cQMIXP.absslk.xyz/05678c57e5396afb41cb88ee7613557b*](https://cQMIXP.absslk.xyz/05678c57e5396afb41cb88ee7613557b)
 - **mksshare**
   - **clash**: [*https://FXMI5a.mcsslk.xyz/6a158c816146bed2581fab8323ffeb51*](https://FXMI5a.mcsslk.xyz/6a158c816146bed2581fab8323ffeb51)
   - **v2ray**: [*https://FXMI5a.mcsslk.xyz/6a158c816146bed2581fab8323ffeb51*](https://FXMI5a.mcsslk.xyz/6a158c816146bed2581fab8323ffeb51)
