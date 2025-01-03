@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-03 21:50:05
+> Updated Time: 2025-01-03 21:55:15
 
 - **tolinkshare2**
-  - **clash**: [*https://y9Jtw1.tosslk.xyz/2c9d25097db6988fbf3fa60dca66274a*](https://y9Jtw1.tosslk.xyz/2c9d25097db6988fbf3fa60dca66274a)
-  - **v2ray**: [*https://y9Jtw1.tosslk.xyz/2c9d25097db6988fbf3fa60dca66274a*](https://y9Jtw1.tosslk.xyz/2c9d25097db6988fbf3fa60dca66274a)
-  - **ios**: [*https://y9Jtw1.tosslk.xyz/2c9d25097db6988fbf3fa60dca66274a*](https://y9Jtw1.tosslk.xyz/2c9d25097db6988fbf3fa60dca66274a)
+  - **clash**: [*https://dKAGJH.tosslk.xyz/94b194b4c8cb0a21d66beb4be7a51653*](https://dKAGJH.tosslk.xyz/94b194b4c8cb0a21d66beb4be7a51653)
+  - **v2ray**: [*https://dKAGJH.tosslk.xyz/94b194b4c8cb0a21d66beb4be7a51653*](https://dKAGJH.tosslk.xyz/94b194b4c8cb0a21d66beb4be7a51653)
+  - **ios**: [*https://dKAGJH.tosslk.xyz/94b194b4c8cb0a21d66beb4be7a51653*](https://dKAGJH.tosslk.xyz/94b194b4c8cb0a21d66beb4be7a51653)
 - **abshare**
   - **clash**: [*https://Vpwnc5.absslk.xyz/ee1ac62dd7d566dec92958cfadadc2a9*](https://Vpwnc5.absslk.xyz/ee1ac62dd7d566dec92958cfadadc2a9)
   - **v2ray**: [*https://Vpwnc5.absslk.xyz/ee1ac62dd7d566dec92958cfadadc2a9*](https://Vpwnc5.absslk.xyz/ee1ac62dd7d566dec92958cfadadc2a9)
