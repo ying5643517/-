@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-03 23:53:25
+> Updated Time: 2025-01-03 23:58:31
 
 - **tolinkshare2**
-  - **clash**: [*https://pBPULe.tosslk.xyz/ca9a237a14b354334edc3c6e01a79462*](https://pBPULe.tosslk.xyz/ca9a237a14b354334edc3c6e01a79462)
-  - **v2ray**: [*https://pBPULe.tosslk.xyz/ca9a237a14b354334edc3c6e01a79462*](https://pBPULe.tosslk.xyz/ca9a237a14b354334edc3c6e01a79462)
-  - **ios**: [*https://pBPULe.tosslk.xyz/ca9a237a14b354334edc3c6e01a79462*](https://pBPULe.tosslk.xyz/ca9a237a14b354334edc3c6e01a79462)
+  - **clash**: [*https://2hwiRV.tosslk.xyz/8d7d849d8d7af7c21daeea7d793efccc*](https://2hwiRV.tosslk.xyz/8d7d849d8d7af7c21daeea7d793efccc)
+  - **v2ray**: [*https://2hwiRV.tosslk.xyz/8d7d849d8d7af7c21daeea7d793efccc*](https://2hwiRV.tosslk.xyz/8d7d849d8d7af7c21daeea7d793efccc)
+  - **ios**: [*https://2hwiRV.tosslk.xyz/8d7d849d8d7af7c21daeea7d793efccc*](https://2hwiRV.tosslk.xyz/8d7d849d8d7af7c21daeea7d793efccc)
 - **abshare**
   - **clash**: [*https://DsqVu8.absslk.xyz/bc8dd6f8b5329706efcbf8a0677d79a3*](https://DsqVu8.absslk.xyz/bc8dd6f8b5329706efcbf8a0677d79a3)
   - **v2ray**: [*https://DsqVu8.absslk.xyz/bc8dd6f8b5329706efcbf8a0677d79a3*](https://DsqVu8.absslk.xyz/bc8dd6f8b5329706efcbf8a0677d79a3)
