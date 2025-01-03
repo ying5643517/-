@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-03 17:41:54
+> Updated Time: 2025-01-03 17:58:11
 
 - **tolinkshare2**
   - **clash**: [*https://eJuTQl.tosslk.xyz/cfb33694ebf1f91ed57c64219a895ca3*](https://eJuTQl.tosslk.xyz/cfb33694ebf1f91ed57c64219a895ca3)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://iBLhq9.absslk.xyz/dff355bc0017ae9e7c616483c0846798*](https://iBLhq9.absslk.xyz/dff355bc0017ae9e7c616483c0846798)
   - **ios**: [*https://iBLhq9.absslk.xyz/dff355bc0017ae9e7c616483c0846798*](https://iBLhq9.absslk.xyz/dff355bc0017ae9e7c616483c0846798)
 - **mksshare**
-  - **clash**: [*https://gitm0h.mcsslk.xyz/b8fb39f819e3c86bae19694c4801dd75*](https://gitm0h.mcsslk.xyz/b8fb39f819e3c86bae19694c4801dd75)
-  - **v2ray**: [*https://gitm0h.mcsslk.xyz/b8fb39f819e3c86bae19694c4801dd75*](https://gitm0h.mcsslk.xyz/b8fb39f819e3c86bae19694c4801dd75)
-  - **ios**: [*https://gitm0h.mcsslk.xyz/b8fb39f819e3c86bae19694c4801dd75*](https://gitm0h.mcsslk.xyz/b8fb39f819e3c86bae19694c4801dd75)
+  - **clash**: [*https://OGL5IE.mcsslk.xyz/6f2e88bb864d8860cd210665bb895db7*](https://OGL5IE.mcsslk.xyz/6f2e88bb864d8860cd210665bb895db7)
+  - **v2ray**: [*https://OGL5IE.mcsslk.xyz/6f2e88bb864d8860cd210665bb895db7*](https://OGL5IE.mcsslk.xyz/6f2e88bb864d8860cd210665bb895db7)
+  - **ios**: [*https://OGL5IE.mcsslk.xyz/6f2e88bb864d8860cd210665bb895db7*](https://OGL5IE.mcsslk.xyz/6f2e88bb864d8860cd210665bb895db7)
 - **mkshare3**
   - **clash**: [*https://pdzh2w.mcsslk.xyz/e4fa8b804f29bf6f3d39e8eb7078d687*](https://pdzh2w.mcsslk.xyz/e4fa8b804f29bf6f3d39e8eb7078d687)
   - **v2ray**: [*https://pdzh2w.mcsslk.xyz/e4fa8b804f29bf6f3d39e8eb7078d687*](https://pdzh2w.mcsslk.xyz/e4fa8b804f29bf6f3d39e8eb7078d687)
