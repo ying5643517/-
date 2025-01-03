@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-04 05:29:03
+> Updated Time: 2025-01-04 05:35:29
 
 - **tolinkshare2**
-  - **clash**: [*https://aUvyen.tosslk.xyz/3caf4d6f41f627e2eecb8620f611bc5c*](https://aUvyen.tosslk.xyz/3caf4d6f41f627e2eecb8620f611bc5c)
-  - **v2ray**: [*https://aUvyen.tosslk.xyz/3caf4d6f41f627e2eecb8620f611bc5c*](https://aUvyen.tosslk.xyz/3caf4d6f41f627e2eecb8620f611bc5c)
-  - **ios**: [*https://aUvyen.tosslk.xyz/3caf4d6f41f627e2eecb8620f611bc5c*](https://aUvyen.tosslk.xyz/3caf4d6f41f627e2eecb8620f611bc5c)
+  - **clash**: [*https://iPvyYK.tosslk.xyz/b1a42b62de1fdc1d321b32be0e407584*](https://iPvyYK.tosslk.xyz/b1a42b62de1fdc1d321b32be0e407584)
+  - **v2ray**: [*https://iPvyYK.tosslk.xyz/b1a42b62de1fdc1d321b32be0e407584*](https://iPvyYK.tosslk.xyz/b1a42b62de1fdc1d321b32be0e407584)
+  - **ios**: [*https://iPvyYK.tosslk.xyz/b1a42b62de1fdc1d321b32be0e407584*](https://iPvyYK.tosslk.xyz/b1a42b62de1fdc1d321b32be0e407584)
 - **abshare**
   - **clash**: [*https://PFGiky.absslk.xyz/c4f50098168112c3094153e234378f72*](https://PFGiky.absslk.xyz/c4f50098168112c3094153e234378f72)
   - **v2ray**: [*https://PFGiky.absslk.xyz/c4f50098168112c3094153e234378f72*](https://PFGiky.absslk.xyz/c4f50098168112c3094153e234378f72)
