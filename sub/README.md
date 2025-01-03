@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-03 13:38:32
+> Updated Time: 2025-01-03 13:49:06
 
 - **tolinkshare2**
-  - **clash**: [*https://h7kRva.tosslk.xyz/ec3ab7e2b69b7bf26eccc2ae5ecc99b1*](https://h7kRva.tosslk.xyz/ec3ab7e2b69b7bf26eccc2ae5ecc99b1)
-  - **v2ray**: [*https://h7kRva.tosslk.xyz/ec3ab7e2b69b7bf26eccc2ae5ecc99b1*](https://h7kRva.tosslk.xyz/ec3ab7e2b69b7bf26eccc2ae5ecc99b1)
-  - **ios**: [*https://h7kRva.tosslk.xyz/ec3ab7e2b69b7bf26eccc2ae5ecc99b1*](https://h7kRva.tosslk.xyz/ec3ab7e2b69b7bf26eccc2ae5ecc99b1)
+  - **clash**: [*https://53nGwL.tosslk.xyz/91a0e5cf2e07fe9af02920a18e377dc7*](https://53nGwL.tosslk.xyz/91a0e5cf2e07fe9af02920a18e377dc7)
+  - **v2ray**: [*https://53nGwL.tosslk.xyz/91a0e5cf2e07fe9af02920a18e377dc7*](https://53nGwL.tosslk.xyz/91a0e5cf2e07fe9af02920a18e377dc7)
+  - **ios**: [*https://53nGwL.tosslk.xyz/91a0e5cf2e07fe9af02920a18e377dc7*](https://53nGwL.tosslk.xyz/91a0e5cf2e07fe9af02920a18e377dc7)
 - **abshare**
-  - **clash**: [*https://A7G3Dy.absslk.xyz/e8254bf19fc9c7c52155b313532dc214*](https://A7G3Dy.absslk.xyz/e8254bf19fc9c7c52155b313532dc214)
-  - **v2ray**: [*https://A7G3Dy.absslk.xyz/e8254bf19fc9c7c52155b313532dc214*](https://A7G3Dy.absslk.xyz/e8254bf19fc9c7c52155b313532dc214)
-  - **ios**: [*https://A7G3Dy.absslk.xyz/e8254bf19fc9c7c52155b313532dc214*](https://A7G3Dy.absslk.xyz/e8254bf19fc9c7c52155b313532dc214)
+  - **clash**: [*https://2l0xNB.absslk.xyz/1965fce0ba60521ab7780285d35244ec*](https://2l0xNB.absslk.xyz/1965fce0ba60521ab7780285d35244ec)
+  - **v2ray**: [*https://2l0xNB.absslk.xyz/1965fce0ba60521ab7780285d35244ec*](https://2l0xNB.absslk.xyz/1965fce0ba60521ab7780285d35244ec)
+  - **ios**: [*https://2l0xNB.absslk.xyz/1965fce0ba60521ab7780285d35244ec*](https://2l0xNB.absslk.xyz/1965fce0ba60521ab7780285d35244ec)
 - **mksshare**
   - **clash**: [*https://LfpWmv.mcsslk.xyz/790c2748006fb36f06a10e81a7529f55*](https://LfpWmv.mcsslk.xyz/790c2748006fb36f06a10e81a7529f55)
   - **v2ray**: [*https://LfpWmv.mcsslk.xyz/790c2748006fb36f06a10e81a7529f55*](https://LfpWmv.mcsslk.xyz/790c2748006fb36f06a10e81a7529f55)
