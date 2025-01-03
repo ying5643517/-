@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-04 07:41:40
+> Updated Time: 2025-01-04 07:52:20
 
 - **tolinkshare2**
-  - **clash**: [*https://DT7Wi1.tosslk.xyz/504f663250b6da598a5a0effebdb8004*](https://DT7Wi1.tosslk.xyz/504f663250b6da598a5a0effebdb8004)
-  - **v2ray**: [*https://DT7Wi1.tosslk.xyz/504f663250b6da598a5a0effebdb8004*](https://DT7Wi1.tosslk.xyz/504f663250b6da598a5a0effebdb8004)
-  - **ios**: [*https://DT7Wi1.tosslk.xyz/504f663250b6da598a5a0effebdb8004*](https://DT7Wi1.tosslk.xyz/504f663250b6da598a5a0effebdb8004)
+  - **clash**: [*https://dekuoG.tosslk.xyz/d2c0554701a47066298338872e23ce25*](https://dekuoG.tosslk.xyz/d2c0554701a47066298338872e23ce25)
+  - **v2ray**: [*https://dekuoG.tosslk.xyz/d2c0554701a47066298338872e23ce25*](https://dekuoG.tosslk.xyz/d2c0554701a47066298338872e23ce25)
+  - **ios**: [*https://dekuoG.tosslk.xyz/d2c0554701a47066298338872e23ce25*](https://dekuoG.tosslk.xyz/d2c0554701a47066298338872e23ce25)
 - **abshare**
   - **clash**: [*https://NoG05L.absslk.xyz/0de788fa400e1bb6642b40c1cdb10321*](https://NoG05L.absslk.xyz/0de788fa400e1bb6642b40c1cdb10321)
   - **v2ray**: [*https://NoG05L.absslk.xyz/0de788fa400e1bb6642b40c1cdb10321*](https://NoG05L.absslk.xyz/0de788fa400e1bb6642b40c1cdb10321)
