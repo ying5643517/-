@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-03 19:49:52
+> Updated Time: 2025-01-03 19:55:15
 
 - **tolinkshare2**
-  - **clash**: [*https://vrgJyS.tosslk.xyz/0d68a4d7c6a968784a48f105923e420c*](https://vrgJyS.tosslk.xyz/0d68a4d7c6a968784a48f105923e420c)
-  - **v2ray**: [*https://vrgJyS.tosslk.xyz/0d68a4d7c6a968784a48f105923e420c*](https://vrgJyS.tosslk.xyz/0d68a4d7c6a968784a48f105923e420c)
-  - **ios**: [*https://vrgJyS.tosslk.xyz/0d68a4d7c6a968784a48f105923e420c*](https://vrgJyS.tosslk.xyz/0d68a4d7c6a968784a48f105923e420c)
+  - **clash**: [*https://qFg4am.tosslk.xyz/ac9bc629a10419a2a7f95eb4dd4efc0a*](https://qFg4am.tosslk.xyz/ac9bc629a10419a2a7f95eb4dd4efc0a)
+  - **v2ray**: [*https://qFg4am.tosslk.xyz/ac9bc629a10419a2a7f95eb4dd4efc0a*](https://qFg4am.tosslk.xyz/ac9bc629a10419a2a7f95eb4dd4efc0a)
+  - **ios**: [*https://qFg4am.tosslk.xyz/ac9bc629a10419a2a7f95eb4dd4efc0a*](https://qFg4am.tosslk.xyz/ac9bc629a10419a2a7f95eb4dd4efc0a)
 - **abshare**
   - **clash**: [*https://Siwa16.absslk.xyz/2a6a01ebdd80c37df5d3b00046affa1c*](https://Siwa16.absslk.xyz/2a6a01ebdd80c37df5d3b00046affa1c)
   - **v2ray**: [*https://Siwa16.absslk.xyz/2a6a01ebdd80c37df5d3b00046affa1c*](https://Siwa16.absslk.xyz/2a6a01ebdd80c37df5d3b00046affa1c)
