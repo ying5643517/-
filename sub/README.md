@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-03 11:43:19
+> Updated Time: 2025-01-03 11:54:18
 
 - **tolinkshare2**
-  - **clash**: [*https://KZr2fZ.tosslk.xyz/adaa96e6d5d1fb302d544bb3238e12c6*](https://KZr2fZ.tosslk.xyz/adaa96e6d5d1fb302d544bb3238e12c6)
-  - **v2ray**: [*https://KZr2fZ.tosslk.xyz/adaa96e6d5d1fb302d544bb3238e12c6*](https://KZr2fZ.tosslk.xyz/adaa96e6d5d1fb302d544bb3238e12c6)
-  - **ios**: [*https://KZr2fZ.tosslk.xyz/adaa96e6d5d1fb302d544bb3238e12c6*](https://KZr2fZ.tosslk.xyz/adaa96e6d5d1fb302d544bb3238e12c6)
+  - **clash**: [*https://bC35Ia.tosslk.xyz/bc6eae6c5ed00ed106255701c969e862*](https://bC35Ia.tosslk.xyz/bc6eae6c5ed00ed106255701c969e862)
+  - **v2ray**: [*https://bC35Ia.tosslk.xyz/bc6eae6c5ed00ed106255701c969e862*](https://bC35Ia.tosslk.xyz/bc6eae6c5ed00ed106255701c969e862)
+  - **ios**: [*https://bC35Ia.tosslk.xyz/bc6eae6c5ed00ed106255701c969e862*](https://bC35Ia.tosslk.xyz/bc6eae6c5ed00ed106255701c969e862)
 - **abshare**
   - **clash**: [*https://Xr5igu.absslk.xyz/e663736e2c44e3627f2ff31f7183dfc6*](https://Xr5igu.absslk.xyz/e663736e2c44e3627f2ff31f7183dfc6)
   - **v2ray**: [*https://Xr5igu.absslk.xyz/e663736e2c44e3627f2ff31f7183dfc6*](https://Xr5igu.absslk.xyz/e663736e2c44e3627f2ff31f7183dfc6)
