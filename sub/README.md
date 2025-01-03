@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-04 06:52:09
+> Updated Time: 2025-01-04 07:10:49
 
 - **tolinkshare2**
   - **clash**: [*https://DT7Wi1.tosslk.xyz/504f663250b6da598a5a0effebdb8004*](https://DT7Wi1.tosslk.xyz/504f663250b6da598a5a0effebdb8004)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://yQLelU.absslk.xyz/14d00c7ac2f71769f88bbc0ad59d7fc8*](https://yQLelU.absslk.xyz/14d00c7ac2f71769f88bbc0ad59d7fc8)
   - **ios**: [*https://yQLelU.absslk.xyz/14d00c7ac2f71769f88bbc0ad59d7fc8*](https://yQLelU.absslk.xyz/14d00c7ac2f71769f88bbc0ad59d7fc8)
 - **mksshare**
-  - **clash**: [*https://TWDrTt.mcsslk.xyz/40390ac7bb4d9c756eb3e4367a01d44e*](https://TWDrTt.mcsslk.xyz/40390ac7bb4d9c756eb3e4367a01d44e)
-  - **v2ray**: [*https://TWDrTt.mcsslk.xyz/40390ac7bb4d9c756eb3e4367a01d44e*](https://TWDrTt.mcsslk.xyz/40390ac7bb4d9c756eb3e4367a01d44e)
-  - **ios**: [*https://TWDrTt.mcsslk.xyz/40390ac7bb4d9c756eb3e4367a01d44e*](https://TWDrTt.mcsslk.xyz/40390ac7bb4d9c756eb3e4367a01d44e)
+  - **clash**: [*https://8i6ITM.mcsslk.xyz/19776afbeee17e33e8133c481db240fd*](https://8i6ITM.mcsslk.xyz/19776afbeee17e33e8133c481db240fd)
+  - **v2ray**: [*https://8i6ITM.mcsslk.xyz/19776afbeee17e33e8133c481db240fd*](https://8i6ITM.mcsslk.xyz/19776afbeee17e33e8133c481db240fd)
+  - **ios**: [*https://8i6ITM.mcsslk.xyz/19776afbeee17e33e8133c481db240fd*](https://8i6ITM.mcsslk.xyz/19776afbeee17e33e8133c481db240fd)
 - **mkshare3**
   - **clash**: [*https://ahroRW.mcsslk.xyz/19c72321e6e08c7af484b42cc4759a1d*](https://ahroRW.mcsslk.xyz/19c72321e6e08c7af484b42cc4759a1d)
   - **v2ray**: [*https://ahroRW.mcsslk.xyz/19c72321e6e08c7af484b42cc4759a1d*](https://ahroRW.mcsslk.xyz/19c72321e6e08c7af484b42cc4759a1d)
