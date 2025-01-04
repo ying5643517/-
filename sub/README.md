@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-04 19:21:06
+> Updated Time: 2025-01-04 19:26:46
 
 - **tolinkshare2**
   - **clash**: [*https://6RliCe.tosslk.xyz/685e0705ac0b09e6d667a83c2ea79f26*](https://6RliCe.tosslk.xyz/685e0705ac0b09e6d667a83c2ea79f26)
   - **v2ray**: [*https://6RliCe.tosslk.xyz/685e0705ac0b09e6d667a83c2ea79f26*](https://6RliCe.tosslk.xyz/685e0705ac0b09e6d667a83c2ea79f26)
   - **ios**: [*https://6RliCe.tosslk.xyz/685e0705ac0b09e6d667a83c2ea79f26*](https://6RliCe.tosslk.xyz/685e0705ac0b09e6d667a83c2ea79f26)
 - **abshare**
-  - **clash**: [*https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095*](https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095)
-  - **v2ray**: [*https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095*](https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095)
-  - **ios**: [*https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095*](https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095)
+  - **clash**: [*https://STLEIF.absslk.xyz/175408d330633f2291435a8e9106ca3b*](https://STLEIF.absslk.xyz/175408d330633f2291435a8e9106ca3b)
+  - **v2ray**: [*https://STLEIF.absslk.xyz/175408d330633f2291435a8e9106ca3b*](https://STLEIF.absslk.xyz/175408d330633f2291435a8e9106ca3b)
+  - **ios**: [*https://STLEIF.absslk.xyz/175408d330633f2291435a8e9106ca3b*](https://STLEIF.absslk.xyz/175408d330633f2291435a8e9106ca3b)
 - **mksshare**
   - **clash**: [*https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16*](https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16)
   - **v2ray**: [*https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16*](https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16)
