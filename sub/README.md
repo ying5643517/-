@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-04 19:11:29
+> Updated Time: 2025-01-04 19:21:06
 
 - **tolinkshare2**
   - **clash**: [*https://6RliCe.tosslk.xyz/685e0705ac0b09e6d667a83c2ea79f26*](https://6RliCe.tosslk.xyz/685e0705ac0b09e6d667a83c2ea79f26)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095*](https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095)
   - **ios**: [*https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095*](https://5y45xt.absslk.xyz/2f5cfee27fdf7dfbb7db194cb970d095)
 - **mksshare**
-  - **clash**: [*https://MoUpmQ.mcsslk.xyz/aff2575e71e30b11c4313d0792dba00b*](https://MoUpmQ.mcsslk.xyz/aff2575e71e30b11c4313d0792dba00b)
-  - **v2ray**: [*https://MoUpmQ.mcsslk.xyz/aff2575e71e30b11c4313d0792dba00b*](https://MoUpmQ.mcsslk.xyz/aff2575e71e30b11c4313d0792dba00b)
-  - **ios**: [*https://MoUpmQ.mcsslk.xyz/aff2575e71e30b11c4313d0792dba00b*](https://MoUpmQ.mcsslk.xyz/aff2575e71e30b11c4313d0792dba00b)
+  - **clash**: [*https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16*](https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16)
+  - **v2ray**: [*https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16*](https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16)
+  - **ios**: [*https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16*](https://eLIE8l.mcsslk.xyz/172c03de15db203f2371f6e578336d16)
 - **mkshare3**
   - **clash**: [*https://l2RkzQ.mcsslk.xyz/8832ecf9ed3d825193b872bb2313585d*](https://l2RkzQ.mcsslk.xyz/8832ecf9ed3d825193b872bb2313585d)
   - **v2ray**: [*https://l2RkzQ.mcsslk.xyz/8832ecf9ed3d825193b872bb2313585d*](https://l2RkzQ.mcsslk.xyz/8832ecf9ed3d825193b872bb2313585d)
