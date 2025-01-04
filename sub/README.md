@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-05 06:35:16
+> Updated Time: 2025-01-05 06:40:31
 
 - **tolinkshare2**
   - **clash**: [*https://7CqFiB.tosslk.xyz/b81c389bd6806f0175a9778a23ddd114*](https://7CqFiB.tosslk.xyz/b81c389bd6806f0175a9778a23ddd114)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://w6xqmE.mcsslk.xyz/ade063e0f894a11417fc5fdd7692c872*](https://w6xqmE.mcsslk.xyz/ade063e0f894a11417fc5fdd7692c872)
   - **ios**: [*https://w6xqmE.mcsslk.xyz/ade063e0f894a11417fc5fdd7692c872*](https://w6xqmE.mcsslk.xyz/ade063e0f894a11417fc5fdd7692c872)
 - **toshare5**
-  - **clash**: [*https://JDnmMd.tosslk.xyz/b96be950692274f92e16bfc09d649c36*](https://JDnmMd.tosslk.xyz/b96be950692274f92e16bfc09d649c36)
-  - **v2ray**: [*https://JDnmMd.tosslk.xyz/b96be950692274f92e16bfc09d649c36*](https://JDnmMd.tosslk.xyz/b96be950692274f92e16bfc09d649c36)
-  - **ios**: [*https://JDnmMd.tosslk.xyz/b96be950692274f92e16bfc09d649c36*](https://JDnmMd.tosslk.xyz/b96be950692274f92e16bfc09d649c36)
+  - **clash**: [*https://L5UYcC.tosslk.xyz/5afc95900216b80a583159dee203887d*](https://L5UYcC.tosslk.xyz/5afc95900216b80a583159dee203887d)
+  - **v2ray**: [*https://L5UYcC.tosslk.xyz/5afc95900216b80a583159dee203887d*](https://L5UYcC.tosslk.xyz/5afc95900216b80a583159dee203887d)
+  - **ios**: [*https://L5UYcC.tosslk.xyz/5afc95900216b80a583159dee203887d*](https://L5UYcC.tosslk.xyz/5afc95900216b80a583159dee203887d)
 - **abshare3**
   - **clash**: [*https://GNlass.absslk.xyz/78fd00401d0e5022f57b2596c1b23266*](https://GNlass.absslk.xyz/78fd00401d0e5022f57b2596c1b23266)
   - **v2ray**: [*https://GNlass.absslk.xyz/78fd00401d0e5022f57b2596c1b23266*](https://GNlass.absslk.xyz/78fd00401d0e5022f57b2596c1b23266)
