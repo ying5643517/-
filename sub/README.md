@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-05 15:35:19
+> Updated Time: 2025-01-05 15:40:32
 
 - **tolinkshare2**
-  - **clash**: [*https://3nIDRw.tosslk.xyz/dd2a5d207b650b51c9caa626b8d3c923*](https://3nIDRw.tosslk.xyz/dd2a5d207b650b51c9caa626b8d3c923)
-  - **v2ray**: [*https://3nIDRw.tosslk.xyz/dd2a5d207b650b51c9caa626b8d3c923*](https://3nIDRw.tosslk.xyz/dd2a5d207b650b51c9caa626b8d3c923)
-  - **ios**: [*https://3nIDRw.tosslk.xyz/dd2a5d207b650b51c9caa626b8d3c923*](https://3nIDRw.tosslk.xyz/dd2a5d207b650b51c9caa626b8d3c923)
+  - **clash**: [*https://MfuMnh.tosslk.xyz/209f5819ea9acd4d5bd7036f1525d4ed*](https://MfuMnh.tosslk.xyz/209f5819ea9acd4d5bd7036f1525d4ed)
+  - **v2ray**: [*https://MfuMnh.tosslk.xyz/209f5819ea9acd4d5bd7036f1525d4ed*](https://MfuMnh.tosslk.xyz/209f5819ea9acd4d5bd7036f1525d4ed)
+  - **ios**: [*https://MfuMnh.tosslk.xyz/209f5819ea9acd4d5bd7036f1525d4ed*](https://MfuMnh.tosslk.xyz/209f5819ea9acd4d5bd7036f1525d4ed)
 - **abshare**
-  - **clash**: [*https://Dc2C87.absslk.xyz/360b6e330574e207471e9f9af726adda*](https://Dc2C87.absslk.xyz/360b6e330574e207471e9f9af726adda)
-  - **v2ray**: [*https://Dc2C87.absslk.xyz/360b6e330574e207471e9f9af726adda*](https://Dc2C87.absslk.xyz/360b6e330574e207471e9f9af726adda)
-  - **ios**: [*https://Dc2C87.absslk.xyz/360b6e330574e207471e9f9af726adda*](https://Dc2C87.absslk.xyz/360b6e330574e207471e9f9af726adda)
+  - **clash**: [*https://tiNEhd.absslk.xyz/429f78a2b8a18afe21ba37d1f6d62638*](https://tiNEhd.absslk.xyz/429f78a2b8a18afe21ba37d1f6d62638)
+  - **v2ray**: [*https://tiNEhd.absslk.xyz/429f78a2b8a18afe21ba37d1f6d62638*](https://tiNEhd.absslk.xyz/429f78a2b8a18afe21ba37d1f6d62638)
+  - **ios**: [*https://tiNEhd.absslk.xyz/429f78a2b8a18afe21ba37d1f6d62638*](https://tiNEhd.absslk.xyz/429f78a2b8a18afe21ba37d1f6d62638)
 - **mksshare**
   - **clash**: [*https://rfDs0p.mcsslk.xyz/7016f069860817942771e91e72e64996*](https://rfDs0p.mcsslk.xyz/7016f069860817942771e91e72e64996)
   - **v2ray**: [*https://rfDs0p.mcsslk.xyz/7016f069860817942771e91e72e64996*](https://rfDs0p.mcsslk.xyz/7016f069860817942771e91e72e64996)
