@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-06 03:35:18
+> Updated Time: 2025-01-06 04:25:00
 
 - **tolinkshare2**
   - **clash**: [*https://q3hFAb.tosslk.xyz/686f3f5e232fcedaa33013c4bb30b55d*](https://q3hFAb.tosslk.xyz/686f3f5e232fcedaa33013c4bb30b55d)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://BO4TDA.tosslk.xyz/bab4f2da90c4ce0b973e4e9d59867133*](https://BO4TDA.tosslk.xyz/bab4f2da90c4ce0b973e4e9d59867133)
   - **ios**: [*https://BO4TDA.tosslk.xyz/bab4f2da90c4ce0b973e4e9d59867133*](https://BO4TDA.tosslk.xyz/bab4f2da90c4ce0b973e4e9d59867133)
 - **abshare3**
-  - **clash**: [*https://GEjfos.absslk.xyz/f2180c30e59af1780b2f0d7de0e46870*](https://GEjfos.absslk.xyz/f2180c30e59af1780b2f0d7de0e46870)
-  - **v2ray**: [*https://GEjfos.absslk.xyz/f2180c30e59af1780b2f0d7de0e46870*](https://GEjfos.absslk.xyz/f2180c30e59af1780b2f0d7de0e46870)
-  - **ios**: [*https://GEjfos.absslk.xyz/f2180c30e59af1780b2f0d7de0e46870*](https://GEjfos.absslk.xyz/f2180c30e59af1780b2f0d7de0e46870)
+  - **clash**: [*https://RBtf9R.absslk.xyz/855db78075764acc76576f64cfe60a21*](https://RBtf9R.absslk.xyz/855db78075764acc76576f64cfe60a21)
+  - **v2ray**: [*https://RBtf9R.absslk.xyz/855db78075764acc76576f64cfe60a21*](https://RBtf9R.absslk.xyz/855db78075764acc76576f64cfe60a21)
+  - **ios**: [*https://RBtf9R.absslk.xyz/855db78075764acc76576f64cfe60a21*](https://RBtf9R.absslk.xyz/855db78075764acc76576f64cfe60a21)
