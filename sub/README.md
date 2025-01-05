@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-06 02:47:31
+> Updated Time: 2025-01-06 02:52:47
 
 - **tolinkshare2**
-  - **clash**: [*https://vzxi1H.tosslk.xyz/385d2d0500c51b5965e126b006c38fcf*](https://vzxi1H.tosslk.xyz/385d2d0500c51b5965e126b006c38fcf)
-  - **v2ray**: [*https://vzxi1H.tosslk.xyz/385d2d0500c51b5965e126b006c38fcf*](https://vzxi1H.tosslk.xyz/385d2d0500c51b5965e126b006c38fcf)
-  - **ios**: [*https://vzxi1H.tosslk.xyz/385d2d0500c51b5965e126b006c38fcf*](https://vzxi1H.tosslk.xyz/385d2d0500c51b5965e126b006c38fcf)
+  - **clash**: [*https://q3hFAb.tosslk.xyz/686f3f5e232fcedaa33013c4bb30b55d*](https://q3hFAb.tosslk.xyz/686f3f5e232fcedaa33013c4bb30b55d)
+  - **v2ray**: [*https://q3hFAb.tosslk.xyz/686f3f5e232fcedaa33013c4bb30b55d*](https://q3hFAb.tosslk.xyz/686f3f5e232fcedaa33013c4bb30b55d)
+  - **ios**: [*https://q3hFAb.tosslk.xyz/686f3f5e232fcedaa33013c4bb30b55d*](https://q3hFAb.tosslk.xyz/686f3f5e232fcedaa33013c4bb30b55d)
 - **abshare**
-  - **clash**: [*https://hxlT9H.absslk.xyz/70d8e4de8a2a71a025c5eaf801549ec5*](https://hxlT9H.absslk.xyz/70d8e4de8a2a71a025c5eaf801549ec5)
-  - **v2ray**: [*https://hxlT9H.absslk.xyz/70d8e4de8a2a71a025c5eaf801549ec5*](https://hxlT9H.absslk.xyz/70d8e4de8a2a71a025c5eaf801549ec5)
-  - **ios**: [*https://hxlT9H.absslk.xyz/70d8e4de8a2a71a025c5eaf801549ec5*](https://hxlT9H.absslk.xyz/70d8e4de8a2a71a025c5eaf801549ec5)
+  - **clash**: [*https://k5hcic.absslk.xyz/cdf749bc14cec61b165371a370c9eb2d*](https://k5hcic.absslk.xyz/cdf749bc14cec61b165371a370c9eb2d)
+  - **v2ray**: [*https://k5hcic.absslk.xyz/cdf749bc14cec61b165371a370c9eb2d*](https://k5hcic.absslk.xyz/cdf749bc14cec61b165371a370c9eb2d)
+  - **ios**: [*https://k5hcic.absslk.xyz/cdf749bc14cec61b165371a370c9eb2d*](https://k5hcic.absslk.xyz/cdf749bc14cec61b165371a370c9eb2d)
 - **mksshare**
   - **clash**: [*https://DW2tGJ.mcsslk.xyz/b73947f71e36f55fdd680bb4b6464122*](https://DW2tGJ.mcsslk.xyz/b73947f71e36f55fdd680bb4b6464122)
   - **v2ray**: [*https://DW2tGJ.mcsslk.xyz/b73947f71e36f55fdd680bb4b6464122*](https://DW2tGJ.mcsslk.xyz/b73947f71e36f55fdd680bb4b6464122)
