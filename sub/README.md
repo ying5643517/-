@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-06 21:57:10
+> Updated Time: 2025-01-06 22:10:05
 
 - **tolinkshare2**
-  - **clash**: [*https://X0lKF4.tosslk.xyz/edbeb19b672c910ba3ea5fc604155c2f*](https://X0lKF4.tosslk.xyz/edbeb19b672c910ba3ea5fc604155c2f)
-  - **v2ray**: [*https://X0lKF4.tosslk.xyz/edbeb19b672c910ba3ea5fc604155c2f*](https://X0lKF4.tosslk.xyz/edbeb19b672c910ba3ea5fc604155c2f)
-  - **ios**: [*https://X0lKF4.tosslk.xyz/edbeb19b672c910ba3ea5fc604155c2f*](https://X0lKF4.tosslk.xyz/edbeb19b672c910ba3ea5fc604155c2f)
+  - **clash**: [*https://6axKZI.tosslk.xyz/b3fc8d445d9faffceceeb98930d375b2*](https://6axKZI.tosslk.xyz/b3fc8d445d9faffceceeb98930d375b2)
+  - **v2ray**: [*https://6axKZI.tosslk.xyz/b3fc8d445d9faffceceeb98930d375b2*](https://6axKZI.tosslk.xyz/b3fc8d445d9faffceceeb98930d375b2)
+  - **ios**: [*https://6axKZI.tosslk.xyz/b3fc8d445d9faffceceeb98930d375b2*](https://6axKZI.tosslk.xyz/b3fc8d445d9faffceceeb98930d375b2)
 - **abshare**
-  - **clash**: [*https://jUfT4r.absslk.xyz/92f580d387043e30ce9064d46ce3b551*](https://jUfT4r.absslk.xyz/92f580d387043e30ce9064d46ce3b551)
-  - **v2ray**: [*https://jUfT4r.absslk.xyz/92f580d387043e30ce9064d46ce3b551*](https://jUfT4r.absslk.xyz/92f580d387043e30ce9064d46ce3b551)
-  - **ios**: [*https://jUfT4r.absslk.xyz/92f580d387043e30ce9064d46ce3b551*](https://jUfT4r.absslk.xyz/92f580d387043e30ce9064d46ce3b551)
+  - **clash**: [*https://q9BY3B.absslk.xyz/743f75a10e94b97fdefedcfa00730743*](https://q9BY3B.absslk.xyz/743f75a10e94b97fdefedcfa00730743)
+  - **v2ray**: [*https://q9BY3B.absslk.xyz/743f75a10e94b97fdefedcfa00730743*](https://q9BY3B.absslk.xyz/743f75a10e94b97fdefedcfa00730743)
+  - **ios**: [*https://q9BY3B.absslk.xyz/743f75a10e94b97fdefedcfa00730743*](https://q9BY3B.absslk.xyz/743f75a10e94b97fdefedcfa00730743)
 - **mksshare**
   - **clash**: [*https://cMWTF3.mcsslk.xyz/655e44fe19b425e2c2b3fd3abdc7e118*](https://cMWTF3.mcsslk.xyz/655e44fe19b425e2c2b3fd3abdc7e118)
   - **v2ray**: [*https://cMWTF3.mcsslk.xyz/655e44fe19b425e2c2b3fd3abdc7e118*](https://cMWTF3.mcsslk.xyz/655e44fe19b425e2c2b3fd3abdc7e118)
