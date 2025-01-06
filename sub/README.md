@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-07 05:41:36
+> Updated Time: 2025-01-07 06:42:47
 
 - **tolinkshare2**
   - **clash**: [*https://Yf8F1H.tosslk.xyz/9616575fd27f1052323726112fbd5803*](https://Yf8F1H.tosslk.xyz/9616575fd27f1052323726112fbd5803)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://E3lgcc.mcsslk.xyz/ca980159399cadffbca50c242ce808df*](https://E3lgcc.mcsslk.xyz/ca980159399cadffbca50c242ce808df)
   - **ios**: [*https://E3lgcc.mcsslk.xyz/ca980159399cadffbca50c242ce808df*](https://E3lgcc.mcsslk.xyz/ca980159399cadffbca50c242ce808df)
 - **toshare5**
-  - **clash**: [*https://XdXGmY.tosslk.xyz/7e544e176d16d3a7fa5d6203f5fc5f04*](https://XdXGmY.tosslk.xyz/7e544e176d16d3a7fa5d6203f5fc5f04)
-  - **v2ray**: [*https://XdXGmY.tosslk.xyz/7e544e176d16d3a7fa5d6203f5fc5f04*](https://XdXGmY.tosslk.xyz/7e544e176d16d3a7fa5d6203f5fc5f04)
-  - **ios**: [*https://XdXGmY.tosslk.xyz/7e544e176d16d3a7fa5d6203f5fc5f04*](https://XdXGmY.tosslk.xyz/7e544e176d16d3a7fa5d6203f5fc5f04)
+  - **clash**: [*https://TyTGWS.tosslk.xyz/a0eeb3a9ad2999b2921b53cd3d8916c3*](https://TyTGWS.tosslk.xyz/a0eeb3a9ad2999b2921b53cd3d8916c3)
+  - **v2ray**: [*https://TyTGWS.tosslk.xyz/a0eeb3a9ad2999b2921b53cd3d8916c3*](https://TyTGWS.tosslk.xyz/a0eeb3a9ad2999b2921b53cd3d8916c3)
+  - **ios**: [*https://TyTGWS.tosslk.xyz/a0eeb3a9ad2999b2921b53cd3d8916c3*](https://TyTGWS.tosslk.xyz/a0eeb3a9ad2999b2921b53cd3d8916c3)
 - **abshare3**
   - **clash**: [*https://EGTJi0.absslk.xyz/ff56bd235c92729027066f2a8f112f5c*](https://EGTJi0.absslk.xyz/ff56bd235c92729027066f2a8f112f5c)
   - **v2ray**: [*https://EGTJi0.absslk.xyz/ff56bd235c92729027066f2a8f112f5c*](https://EGTJi0.absslk.xyz/ff56bd235c92729027066f2a8f112f5c)
