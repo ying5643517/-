@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-07 07:38:07
+> Updated Time: 2025-01-07 07:53:51
 
 - **tolinkshare2**
-  - **clash**: [*https://aPXTg9.tosslk.xyz/810fef14efddc251017e9c5300f17b8a*](https://aPXTg9.tosslk.xyz/810fef14efddc251017e9c5300f17b8a)
-  - **v2ray**: [*https://aPXTg9.tosslk.xyz/810fef14efddc251017e9c5300f17b8a*](https://aPXTg9.tosslk.xyz/810fef14efddc251017e9c5300f17b8a)
-  - **ios**: [*https://aPXTg9.tosslk.xyz/810fef14efddc251017e9c5300f17b8a*](https://aPXTg9.tosslk.xyz/810fef14efddc251017e9c5300f17b8a)
+  - **clash**: [*https://liP3vJ.tosslk.xyz/a144918f948e30d534494dcac6a7c226*](https://liP3vJ.tosslk.xyz/a144918f948e30d534494dcac6a7c226)
+  - **v2ray**: [*https://liP3vJ.tosslk.xyz/a144918f948e30d534494dcac6a7c226*](https://liP3vJ.tosslk.xyz/a144918f948e30d534494dcac6a7c226)
+  - **ios**: [*https://liP3vJ.tosslk.xyz/a144918f948e30d534494dcac6a7c226*](https://liP3vJ.tosslk.xyz/a144918f948e30d534494dcac6a7c226)
 - **abshare**
   - **clash**: [*https://wvAOWG.absslk.xyz/3742144bb05d6097d45a9f6a184b6f52*](https://wvAOWG.absslk.xyz/3742144bb05d6097d45a9f6a184b6f52)
   - **v2ray**: [*https://wvAOWG.absslk.xyz/3742144bb05d6097d45a9f6a184b6f52*](https://wvAOWG.absslk.xyz/3742144bb05d6097d45a9f6a184b6f52)
