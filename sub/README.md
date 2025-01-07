@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-08 02:56:45
+> Updated Time: 2025-01-08 03:07:55
 
 - **tolinkshare2**
-  - **clash**: [*https://rIowMv.tosslk.xyz/b174d883a5061e9c11022c3e548de9ff*](https://rIowMv.tosslk.xyz/b174d883a5061e9c11022c3e548de9ff)
-  - **v2ray**: [*https://rIowMv.tosslk.xyz/b174d883a5061e9c11022c3e548de9ff*](https://rIowMv.tosslk.xyz/b174d883a5061e9c11022c3e548de9ff)
-  - **ios**: [*https://rIowMv.tosslk.xyz/b174d883a5061e9c11022c3e548de9ff*](https://rIowMv.tosslk.xyz/b174d883a5061e9c11022c3e548de9ff)
+  - **clash**: [*https://4qQGuv.tosslk.xyz/42a6d6ee7048ca1cc213faf2f9da6a25*](https://4qQGuv.tosslk.xyz/42a6d6ee7048ca1cc213faf2f9da6a25)
+  - **v2ray**: [*https://4qQGuv.tosslk.xyz/42a6d6ee7048ca1cc213faf2f9da6a25*](https://4qQGuv.tosslk.xyz/42a6d6ee7048ca1cc213faf2f9da6a25)
+  - **ios**: [*https://4qQGuv.tosslk.xyz/42a6d6ee7048ca1cc213faf2f9da6a25*](https://4qQGuv.tosslk.xyz/42a6d6ee7048ca1cc213faf2f9da6a25)
 - **abshare**
   - **clash**: [*https://zNsCis.absslk.xyz/6ed6f00efda76f9d647d7ebbbab79c09*](https://zNsCis.absslk.xyz/6ed6f00efda76f9d647d7ebbbab79c09)
   - **v2ray**: [*https://zNsCis.absslk.xyz/6ed6f00efda76f9d647d7ebbbab79c09*](https://zNsCis.absslk.xyz/6ed6f00efda76f9d647d7ebbbab79c09)
