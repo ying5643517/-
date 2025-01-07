@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-07 17:52:53
+> Updated Time: 2025-01-07 17:58:07
 
 - **tolinkshare2**
-  - **clash**: [*https://kdV5uD.tosslk.xyz/8d7a3e83f7acb3e959ef941c578d8234*](https://kdV5uD.tosslk.xyz/8d7a3e83f7acb3e959ef941c578d8234)
-  - **v2ray**: [*https://kdV5uD.tosslk.xyz/8d7a3e83f7acb3e959ef941c578d8234*](https://kdV5uD.tosslk.xyz/8d7a3e83f7acb3e959ef941c578d8234)
-  - **ios**: [*https://kdV5uD.tosslk.xyz/8d7a3e83f7acb3e959ef941c578d8234*](https://kdV5uD.tosslk.xyz/8d7a3e83f7acb3e959ef941c578d8234)
+  - **clash**: [*https://PvIn7c.tosslk.xyz/3a94ef4ed30794e9b8b581d9fce8074e*](https://PvIn7c.tosslk.xyz/3a94ef4ed30794e9b8b581d9fce8074e)
+  - **v2ray**: [*https://PvIn7c.tosslk.xyz/3a94ef4ed30794e9b8b581d9fce8074e*](https://PvIn7c.tosslk.xyz/3a94ef4ed30794e9b8b581d9fce8074e)
+  - **ios**: [*https://PvIn7c.tosslk.xyz/3a94ef4ed30794e9b8b581d9fce8074e*](https://PvIn7c.tosslk.xyz/3a94ef4ed30794e9b8b581d9fce8074e)
 - **abshare**
   - **clash**: [*https://mviNLv.absslk.xyz/b0ac0950248eaa58974fa053b738f472*](https://mviNLv.absslk.xyz/b0ac0950248eaa58974fa053b738f472)
   - **v2ray**: [*https://mviNLv.absslk.xyz/b0ac0950248eaa58974fa053b738f472*](https://mviNLv.absslk.xyz/b0ac0950248eaa58974fa053b738f472)
