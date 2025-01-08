@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-09 05:32:01
+> Updated Time: 2025-01-09 05:58:54
 
 - **tolinkshare2**
-  - **clash**: [*https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce*](https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce)
-  - **v2ray**: [*https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce*](https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce)
-  - **ios**: [*https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce*](https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce)
+  - **clash**: [*https://SwIMOi.tosslk.xyz/57b3b46db5316d75c2711ae73ed3ab7d*](https://SwIMOi.tosslk.xyz/57b3b46db5316d75c2711ae73ed3ab7d)
+  - **v2ray**: [*https://SwIMOi.tosslk.xyz/57b3b46db5316d75c2711ae73ed3ab7d*](https://SwIMOi.tosslk.xyz/57b3b46db5316d75c2711ae73ed3ab7d)
+  - **ios**: [*https://SwIMOi.tosslk.xyz/57b3b46db5316d75c2711ae73ed3ab7d*](https://SwIMOi.tosslk.xyz/57b3b46db5316d75c2711ae73ed3ab7d)
 - **abshare**
   - **clash**: [*https://mRhZJ2.absslk.xyz/da2eb039e24a0dc0061e5beed2787d74*](https://mRhZJ2.absslk.xyz/da2eb039e24a0dc0061e5beed2787d74)
   - **v2ray**: [*https://mRhZJ2.absslk.xyz/da2eb039e24a0dc0061e5beed2787d74*](https://mRhZJ2.absslk.xyz/da2eb039e24a0dc0061e5beed2787d74)
