@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-08 15:47:03
+> Updated Time: 2025-01-08 15:52:20
 
 - **tolinkshare2**
   - **clash**: [*https://TIUb0w.tosslk.xyz/8b894d388c7a0e6bc995e01197605a78*](https://TIUb0w.tosslk.xyz/8b894d388c7a0e6bc995e01197605a78)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://HGEc7m.tosslk.xyz/8403ece44230dc08803f27b85b66f602*](https://HGEc7m.tosslk.xyz/8403ece44230dc08803f27b85b66f602)
   - **ios**: [*https://HGEc7m.tosslk.xyz/8403ece44230dc08803f27b85b66f602*](https://HGEc7m.tosslk.xyz/8403ece44230dc08803f27b85b66f602)
 - **abshare3**
-  - **clash**: [*https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81*](https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81)
-  - **v2ray**: [*https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81*](https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81)
-  - **ios**: [*https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81*](https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81)
+  - **clash**: [*https://mccOSh.absslk.xyz/b2632eb22886889684da6bf0f7701a2c*](https://mccOSh.absslk.xyz/b2632eb22886889684da6bf0f7701a2c)
+  - **v2ray**: [*https://mccOSh.absslk.xyz/b2632eb22886889684da6bf0f7701a2c*](https://mccOSh.absslk.xyz/b2632eb22886889684da6bf0f7701a2c)
+  - **ios**: [*https://mccOSh.absslk.xyz/b2632eb22886889684da6bf0f7701a2c*](https://mccOSh.absslk.xyz/b2632eb22886889684da6bf0f7701a2c)
