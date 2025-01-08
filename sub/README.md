@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-08 23:55:26
+> Updated Time: 2025-01-09 00:01:05
 
 - **tolinkshare2**
-  - **clash**: [*https://ov4SUe.tosslk.xyz/ff0c7f35a1854b72df3c8f4e8c0aa72d*](https://ov4SUe.tosslk.xyz/ff0c7f35a1854b72df3c8f4e8c0aa72d)
-  - **v2ray**: [*https://ov4SUe.tosslk.xyz/ff0c7f35a1854b72df3c8f4e8c0aa72d*](https://ov4SUe.tosslk.xyz/ff0c7f35a1854b72df3c8f4e8c0aa72d)
-  - **ios**: [*https://ov4SUe.tosslk.xyz/ff0c7f35a1854b72df3c8f4e8c0aa72d*](https://ov4SUe.tosslk.xyz/ff0c7f35a1854b72df3c8f4e8c0aa72d)
+  - **clash**: [*https://Up0C2Q.tosslk.xyz/86d4f7084691bc711f19790670bc6b34*](https://Up0C2Q.tosslk.xyz/86d4f7084691bc711f19790670bc6b34)
+  - **v2ray**: [*https://Up0C2Q.tosslk.xyz/86d4f7084691bc711f19790670bc6b34*](https://Up0C2Q.tosslk.xyz/86d4f7084691bc711f19790670bc6b34)
+  - **ios**: [*https://Up0C2Q.tosslk.xyz/86d4f7084691bc711f19790670bc6b34*](https://Up0C2Q.tosslk.xyz/86d4f7084691bc711f19790670bc6b34)
 - **abshare**
   - **clash**: [*https://mmqyzy.absslk.xyz/6a831f1f145429294b26349b5cd7a141*](https://mmqyzy.absslk.xyz/6a831f1f145429294b26349b5cd7a141)
   - **v2ray**: [*https://mmqyzy.absslk.xyz/6a831f1f145429294b26349b5cd7a141*](https://mmqyzy.absslk.xyz/6a831f1f145429294b26349b5cd7a141)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://MsHwcI.tosslk.xyz/b80734356beeab1c04b805bf3b9ea729*](https://MsHwcI.tosslk.xyz/b80734356beeab1c04b805bf3b9ea729)
   - **ios**: [*https://MsHwcI.tosslk.xyz/b80734356beeab1c04b805bf3b9ea729*](https://MsHwcI.tosslk.xyz/b80734356beeab1c04b805bf3b9ea729)
 - **abshare3**
-  - **clash**: [*https://6QMNnD.absslk.xyz/b90ce4c1f30a63d95169c446a3904ad1*](https://6QMNnD.absslk.xyz/b90ce4c1f30a63d95169c446a3904ad1)
-  - **v2ray**: [*https://6QMNnD.absslk.xyz/b90ce4c1f30a63d95169c446a3904ad1*](https://6QMNnD.absslk.xyz/b90ce4c1f30a63d95169c446a3904ad1)
-  - **ios**: [*https://6QMNnD.absslk.xyz/b90ce4c1f30a63d95169c446a3904ad1*](https://6QMNnD.absslk.xyz/b90ce4c1f30a63d95169c446a3904ad1)
+  - **clash**: [*https://Rd62uC.absslk.xyz/231cf9d30828218af2be065f96af1ff6*](https://Rd62uC.absslk.xyz/231cf9d30828218af2be065f96af1ff6)
+  - **v2ray**: [*https://Rd62uC.absslk.xyz/231cf9d30828218af2be065f96af1ff6*](https://Rd62uC.absslk.xyz/231cf9d30828218af2be065f96af1ff6)
+  - **ios**: [*https://Rd62uC.absslk.xyz/231cf9d30828218af2be065f96af1ff6*](https://Rd62uC.absslk.xyz/231cf9d30828218af2be065f96af1ff6)
