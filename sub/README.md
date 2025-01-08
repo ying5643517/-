@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-08 12:15:02
+> Updated Time: 2025-01-08 12:32:09
 
 - **tolinkshare2**
   - **clash**: [*https://NznFK2.tosslk.xyz/c7c53de12035ddc9380a9c3fe5e454ff*](https://NznFK2.tosslk.xyz/c7c53de12035ddc9380a9c3fe5e454ff)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://itUisg.tosslk.xyz/e6d1a0f6a6cc2ba3db3d36c9e1e3dc66*](https://itUisg.tosslk.xyz/e6d1a0f6a6cc2ba3db3d36c9e1e3dc66)
   - **ios**: [*https://itUisg.tosslk.xyz/e6d1a0f6a6cc2ba3db3d36c9e1e3dc66*](https://itUisg.tosslk.xyz/e6d1a0f6a6cc2ba3db3d36c9e1e3dc66)
 - **abshare3**
-  - **clash**: [*https://uTNhy5.absslk.xyz/72ac3a9ae175ade752452f4002154b1b*](https://uTNhy5.absslk.xyz/72ac3a9ae175ade752452f4002154b1b)
-  - **v2ray**: [*https://uTNhy5.absslk.xyz/72ac3a9ae175ade752452f4002154b1b*](https://uTNhy5.absslk.xyz/72ac3a9ae175ade752452f4002154b1b)
-  - **ios**: [*https://uTNhy5.absslk.xyz/72ac3a9ae175ade752452f4002154b1b*](https://uTNhy5.absslk.xyz/72ac3a9ae175ade752452f4002154b1b)
+  - **clash**: [*https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81*](https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81)
+  - **v2ray**: [*https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81*](https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81)
+  - **ios**: [*https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81*](https://IQ8IOU.absslk.xyz/0af253ca5d4a3bc03907e9dec5ed2e81)
