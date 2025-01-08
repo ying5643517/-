@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-08 16:34:04
+> Updated Time: 2025-01-08 16:45:26
 
 - **tolinkshare2**
   - **clash**: [*https://OF9gGd.tosslk.xyz/c52109b48d0cbe17172a7fdb28653925*](https://OF9gGd.tosslk.xyz/c52109b48d0cbe17172a7fdb28653925)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://VQMEG8.absslk.xyz/745066ef9e60981d9c2da218d1e1c1e4*](https://VQMEG8.absslk.xyz/745066ef9e60981d9c2da218d1e1c1e4)
   - **ios**: [*https://VQMEG8.absslk.xyz/745066ef9e60981d9c2da218d1e1c1e4*](https://VQMEG8.absslk.xyz/745066ef9e60981d9c2da218d1e1c1e4)
 - **mksshare**
-  - **clash**: [*https://EpuVSN.mcsslk.xyz/54f3eab15c3c04be573cbc707e0c5012*](https://EpuVSN.mcsslk.xyz/54f3eab15c3c04be573cbc707e0c5012)
-  - **v2ray**: [*https://EpuVSN.mcsslk.xyz/54f3eab15c3c04be573cbc707e0c5012*](https://EpuVSN.mcsslk.xyz/54f3eab15c3c04be573cbc707e0c5012)
-  - **ios**: [*https://EpuVSN.mcsslk.xyz/54f3eab15c3c04be573cbc707e0c5012*](https://EpuVSN.mcsslk.xyz/54f3eab15c3c04be573cbc707e0c5012)
+  - **clash**: [*https://2lxPhk.mcsslk.xyz/d122fb0f3026333a279a7e763dd11950*](https://2lxPhk.mcsslk.xyz/d122fb0f3026333a279a7e763dd11950)
+  - **v2ray**: [*https://2lxPhk.mcsslk.xyz/d122fb0f3026333a279a7e763dd11950*](https://2lxPhk.mcsslk.xyz/d122fb0f3026333a279a7e763dd11950)
+  - **ios**: [*https://2lxPhk.mcsslk.xyz/d122fb0f3026333a279a7e763dd11950*](https://2lxPhk.mcsslk.xyz/d122fb0f3026333a279a7e763dd11950)
 - **mkshare3**
   - **clash**: [*https://4A046Y.mcsslk.xyz/047ecd13686743737635a691123cc3c9*](https://4A046Y.mcsslk.xyz/047ecd13686743737635a691123cc3c9)
   - **v2ray**: [*https://4A046Y.mcsslk.xyz/047ecd13686743737635a691123cc3c9*](https://4A046Y.mcsslk.xyz/047ecd13686743737635a691123cc3c9)
