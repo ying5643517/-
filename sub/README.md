@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-09 04:58:38
+> Updated Time: 2025-01-09 05:12:27
 
 - **tolinkshare2**
-  - **clash**: [*https://B22khQ.tosslk.xyz/582511c7ccf7c3e3640b2afc5cfc76f8*](https://B22khQ.tosslk.xyz/582511c7ccf7c3e3640b2afc5cfc76f8)
-  - **v2ray**: [*https://B22khQ.tosslk.xyz/582511c7ccf7c3e3640b2afc5cfc76f8*](https://B22khQ.tosslk.xyz/582511c7ccf7c3e3640b2afc5cfc76f8)
-  - **ios**: [*https://B22khQ.tosslk.xyz/582511c7ccf7c3e3640b2afc5cfc76f8*](https://B22khQ.tosslk.xyz/582511c7ccf7c3e3640b2afc5cfc76f8)
+  - **clash**: [*https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce*](https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce)
+  - **v2ray**: [*https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce*](https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce)
+  - **ios**: [*https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce*](https://pgqpp1.tosslk.xyz/bd3f7de4ebd89072a535bdd42a73d1ce)
 - **abshare**
   - **clash**: [*https://hdnvkc.absslk.xyz/ebc9b6fbd7d741e17c0fe523d51690ab*](https://hdnvkc.absslk.xyz/ebc9b6fbd7d741e17c0fe523d51690ab)
   - **v2ray**: [*https://hdnvkc.absslk.xyz/ebc9b6fbd7d741e17c0fe523d51690ab*](https://hdnvkc.absslk.xyz/ebc9b6fbd7d741e17c0fe523d51690ab)
