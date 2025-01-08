@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-08 15:13:23
+> Updated Time: 2025-01-08 15:25:27
 
 - **tolinkshare2**
   - **clash**: [*https://yNkHnk.tosslk.xyz/f73db6097cc79637bb1dee89c75bdf50*](https://yNkHnk.tosslk.xyz/f73db6097cc79637bb1dee89c75bdf50)
   - **v2ray**: [*https://yNkHnk.tosslk.xyz/f73db6097cc79637bb1dee89c75bdf50*](https://yNkHnk.tosslk.xyz/f73db6097cc79637bb1dee89c75bdf50)
   - **ios**: [*https://yNkHnk.tosslk.xyz/f73db6097cc79637bb1dee89c75bdf50*](https://yNkHnk.tosslk.xyz/f73db6097cc79637bb1dee89c75bdf50)
 - **abshare**
-  - **clash**: [*https://nyRjIR.absslk.xyz/c9c47d18c9ecdbdd561f3befb9c3f38d*](https://nyRjIR.absslk.xyz/c9c47d18c9ecdbdd561f3befb9c3f38d)
-  - **v2ray**: [*https://nyRjIR.absslk.xyz/c9c47d18c9ecdbdd561f3befb9c3f38d*](https://nyRjIR.absslk.xyz/c9c47d18c9ecdbdd561f3befb9c3f38d)
-  - **ios**: [*https://nyRjIR.absslk.xyz/c9c47d18c9ecdbdd561f3befb9c3f38d*](https://nyRjIR.absslk.xyz/c9c47d18c9ecdbdd561f3befb9c3f38d)
+  - **clash**: [*https://uu3OX4.absslk.xyz/b3251c0a77ce944ca60565cd83c96bf0*](https://uu3OX4.absslk.xyz/b3251c0a77ce944ca60565cd83c96bf0)
+  - **v2ray**: [*https://uu3OX4.absslk.xyz/b3251c0a77ce944ca60565cd83c96bf0*](https://uu3OX4.absslk.xyz/b3251c0a77ce944ca60565cd83c96bf0)
+  - **ios**: [*https://uu3OX4.absslk.xyz/b3251c0a77ce944ca60565cd83c96bf0*](https://uu3OX4.absslk.xyz/b3251c0a77ce944ca60565cd83c96bf0)
 - **mksshare**
   - **clash**: [*https://oJSbIG.mcsslk.xyz/95a2aa5973b3ac4d9c365ea270a0e96d*](https://oJSbIG.mcsslk.xyz/95a2aa5973b3ac4d9c365ea270a0e96d)
   - **v2ray**: [*https://oJSbIG.mcsslk.xyz/95a2aa5973b3ac4d9c365ea270a0e96d*](https://oJSbIG.mcsslk.xyz/95a2aa5973b3ac4d9c365ea270a0e96d)
