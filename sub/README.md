@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-08 21:35:16
+> Updated Time: 2025-01-08 21:41:27
 
 - **tolinkshare2**
-  - **clash**: [*https://LqvuHF.tosslk.xyz/5ad169b79d6d2e46e55f7ff1c099dc37*](https://LqvuHF.tosslk.xyz/5ad169b79d6d2e46e55f7ff1c099dc37)
-  - **v2ray**: [*https://LqvuHF.tosslk.xyz/5ad169b79d6d2e46e55f7ff1c099dc37*](https://LqvuHF.tosslk.xyz/5ad169b79d6d2e46e55f7ff1c099dc37)
-  - **ios**: [*https://LqvuHF.tosslk.xyz/5ad169b79d6d2e46e55f7ff1c099dc37*](https://LqvuHF.tosslk.xyz/5ad169b79d6d2e46e55f7ff1c099dc37)
+  - **clash**: [*https://Lt3R6F.tosslk.xyz/96ea0a95db0aec519d90df5fd921cbc5*](https://Lt3R6F.tosslk.xyz/96ea0a95db0aec519d90df5fd921cbc5)
+  - **v2ray**: [*https://Lt3R6F.tosslk.xyz/96ea0a95db0aec519d90df5fd921cbc5*](https://Lt3R6F.tosslk.xyz/96ea0a95db0aec519d90df5fd921cbc5)
+  - **ios**: [*https://Lt3R6F.tosslk.xyz/96ea0a95db0aec519d90df5fd921cbc5*](https://Lt3R6F.tosslk.xyz/96ea0a95db0aec519d90df5fd921cbc5)
 - **abshare**
-  - **clash**: [*https://5IvKu5.absslk.xyz/2a65b887e7859c99c9b77b2a5e9f40e8*](https://5IvKu5.absslk.xyz/2a65b887e7859c99c9b77b2a5e9f40e8)
-  - **v2ray**: [*https://5IvKu5.absslk.xyz/2a65b887e7859c99c9b77b2a5e9f40e8*](https://5IvKu5.absslk.xyz/2a65b887e7859c99c9b77b2a5e9f40e8)
-  - **ios**: [*https://5IvKu5.absslk.xyz/2a65b887e7859c99c9b77b2a5e9f40e8*](https://5IvKu5.absslk.xyz/2a65b887e7859c99c9b77b2a5e9f40e8)
+  - **clash**: [*https://VJJczB.absslk.xyz/897c7bd142bcd18bcc5e6c4d4d181443*](https://VJJczB.absslk.xyz/897c7bd142bcd18bcc5e6c4d4d181443)
+  - **v2ray**: [*https://VJJczB.absslk.xyz/897c7bd142bcd18bcc5e6c4d4d181443*](https://VJJczB.absslk.xyz/897c7bd142bcd18bcc5e6c4d4d181443)
+  - **ios**: [*https://VJJczB.absslk.xyz/897c7bd142bcd18bcc5e6c4d4d181443*](https://VJJczB.absslk.xyz/897c7bd142bcd18bcc5e6c4d4d181443)
 - **mksshare**
   - **clash**: [*https://AA41en.mcsslk.xyz/9b64f869585c4ba6422ed715e4932952*](https://AA41en.mcsslk.xyz/9b64f869585c4ba6422ed715e4932952)
   - **v2ray**: [*https://AA41en.mcsslk.xyz/9b64f869585c4ba6422ed715e4932952*](https://AA41en.mcsslk.xyz/9b64f869585c4ba6422ed715e4932952)
