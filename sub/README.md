@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-09 16:33:44
+> Updated Time: 2025-01-09 16:44:20
 
 - **tolinkshare2**
-  - **clash**: [*https://IYFF0n.tosslk.xyz/6fa5239d879e0cc0748d3c9828d7fd88*](https://IYFF0n.tosslk.xyz/6fa5239d879e0cc0748d3c9828d7fd88)
-  - **v2ray**: [*https://IYFF0n.tosslk.xyz/6fa5239d879e0cc0748d3c9828d7fd88*](https://IYFF0n.tosslk.xyz/6fa5239d879e0cc0748d3c9828d7fd88)
-  - **ios**: [*https://IYFF0n.tosslk.xyz/6fa5239d879e0cc0748d3c9828d7fd88*](https://IYFF0n.tosslk.xyz/6fa5239d879e0cc0748d3c9828d7fd88)
+  - **clash**: [*https://7TYW4e.tosslk.xyz/c66ed522b65c88e95c1bbfa7dfc88670*](https://7TYW4e.tosslk.xyz/c66ed522b65c88e95c1bbfa7dfc88670)
+  - **v2ray**: [*https://7TYW4e.tosslk.xyz/c66ed522b65c88e95c1bbfa7dfc88670*](https://7TYW4e.tosslk.xyz/c66ed522b65c88e95c1bbfa7dfc88670)
+  - **ios**: [*https://7TYW4e.tosslk.xyz/c66ed522b65c88e95c1bbfa7dfc88670*](https://7TYW4e.tosslk.xyz/c66ed522b65c88e95c1bbfa7dfc88670)
 - **abshare**
   - **clash**: [*https://CWCMjS.absslk.xyz/129cd6e07eca8c8808fd794e9abf9d32*](https://CWCMjS.absslk.xyz/129cd6e07eca8c8808fd794e9abf9d32)
   - **v2ray**: [*https://CWCMjS.absslk.xyz/129cd6e07eca8c8808fd794e9abf9d32*](https://CWCMjS.absslk.xyz/129cd6e07eca8c8808fd794e9abf9d32)
