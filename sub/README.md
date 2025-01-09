@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-09 11:56:59
+> Updated Time: 2025-01-09 12:12:30
 
 - **tolinkshare2**
-  - **clash**: [*https://WzvcZi.tosslk.xyz/5b8173cd24abebc000416361562bfd0e*](https://WzvcZi.tosslk.xyz/5b8173cd24abebc000416361562bfd0e)
-  - **v2ray**: [*https://WzvcZi.tosslk.xyz/5b8173cd24abebc000416361562bfd0e*](https://WzvcZi.tosslk.xyz/5b8173cd24abebc000416361562bfd0e)
-  - **ios**: [*https://WzvcZi.tosslk.xyz/5b8173cd24abebc000416361562bfd0e*](https://WzvcZi.tosslk.xyz/5b8173cd24abebc000416361562bfd0e)
+  - **clash**: [*https://LZfwoG.tosslk.xyz/e2ca61131870b78e358b65f659db170f*](https://LZfwoG.tosslk.xyz/e2ca61131870b78e358b65f659db170f)
+  - **v2ray**: [*https://LZfwoG.tosslk.xyz/e2ca61131870b78e358b65f659db170f*](https://LZfwoG.tosslk.xyz/e2ca61131870b78e358b65f659db170f)
+  - **ios**: [*https://LZfwoG.tosslk.xyz/e2ca61131870b78e358b65f659db170f*](https://LZfwoG.tosslk.xyz/e2ca61131870b78e358b65f659db170f)
 - **abshare**
   - **clash**: [*https://tSkHYU.absslk.xyz/1961dc06b52957630f4d43bd5294b472*](https://tSkHYU.absslk.xyz/1961dc06b52957630f4d43bd5294b472)
   - **v2ray**: [*https://tSkHYU.absslk.xyz/1961dc06b52957630f4d43bd5294b472*](https://tSkHYU.absslk.xyz/1961dc06b52957630f4d43bd5294b472)
