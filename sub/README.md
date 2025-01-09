@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-09 14:57:12
+> Updated Time: 2025-01-09 15:10:58
 
 - **tolinkshare2**
-  - **clash**: [*https://cfy5tW.tosslk.xyz/cb20b109d41e05551ff6a75444851423*](https://cfy5tW.tosslk.xyz/cb20b109d41e05551ff6a75444851423)
-  - **v2ray**: [*https://cfy5tW.tosslk.xyz/cb20b109d41e05551ff6a75444851423*](https://cfy5tW.tosslk.xyz/cb20b109d41e05551ff6a75444851423)
-  - **ios**: [*https://cfy5tW.tosslk.xyz/cb20b109d41e05551ff6a75444851423*](https://cfy5tW.tosslk.xyz/cb20b109d41e05551ff6a75444851423)
+  - **clash**: [*https://hEW9aB.tosslk.xyz/6908b7278df62a42ea92de635d39de84*](https://hEW9aB.tosslk.xyz/6908b7278df62a42ea92de635d39de84)
+  - **v2ray**: [*https://hEW9aB.tosslk.xyz/6908b7278df62a42ea92de635d39de84*](https://hEW9aB.tosslk.xyz/6908b7278df62a42ea92de635d39de84)
+  - **ios**: [*https://hEW9aB.tosslk.xyz/6908b7278df62a42ea92de635d39de84*](https://hEW9aB.tosslk.xyz/6908b7278df62a42ea92de635d39de84)
 - **abshare**
-  - **clash**: [*https://KzyK9d.absslk.xyz/377ca7067aaf4f7d080db6e759168f69*](https://KzyK9d.absslk.xyz/377ca7067aaf4f7d080db6e759168f69)
-  - **v2ray**: [*https://KzyK9d.absslk.xyz/377ca7067aaf4f7d080db6e759168f69*](https://KzyK9d.absslk.xyz/377ca7067aaf4f7d080db6e759168f69)
-  - **ios**: [*https://KzyK9d.absslk.xyz/377ca7067aaf4f7d080db6e759168f69*](https://KzyK9d.absslk.xyz/377ca7067aaf4f7d080db6e759168f69)
+  - **clash**: [*https://kqgXGM.absslk.xyz/9308f46ec1be5deeaab33f1f59c30f8b*](https://kqgXGM.absslk.xyz/9308f46ec1be5deeaab33f1f59c30f8b)
+  - **v2ray**: [*https://kqgXGM.absslk.xyz/9308f46ec1be5deeaab33f1f59c30f8b*](https://kqgXGM.absslk.xyz/9308f46ec1be5deeaab33f1f59c30f8b)
+  - **ios**: [*https://kqgXGM.absslk.xyz/9308f46ec1be5deeaab33f1f59c30f8b*](https://kqgXGM.absslk.xyz/9308f46ec1be5deeaab33f1f59c30f8b)
 - **mksshare**
   - **clash**: [*https://Puiid4.mcsslk.xyz/c49d2f8c5b8391543f400dca3e566f3e*](https://Puiid4.mcsslk.xyz/c49d2f8c5b8391543f400dca3e566f3e)
   - **v2ray**: [*https://Puiid4.mcsslk.xyz/c49d2f8c5b8391543f400dca3e566f3e*](https://Puiid4.mcsslk.xyz/c49d2f8c5b8391543f400dca3e566f3e)
