@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-11 02:34:18
+> Updated Time: 2025-01-11 02:45:41
 
 - **tolinkshare2**
-  - **clash**: [*https://WwaHvw.tosslk.xyz/43fb259d360ac52c64f229e6f36470e8*](https://WwaHvw.tosslk.xyz/43fb259d360ac52c64f229e6f36470e8)
-  - **v2ray**: [*https://WwaHvw.tosslk.xyz/43fb259d360ac52c64f229e6f36470e8*](https://WwaHvw.tosslk.xyz/43fb259d360ac52c64f229e6f36470e8)
-  - **ios**: [*https://WwaHvw.tosslk.xyz/43fb259d360ac52c64f229e6f36470e8*](https://WwaHvw.tosslk.xyz/43fb259d360ac52c64f229e6f36470e8)
+  - **clash**: [*https://LYyCKF.tosslk.xyz/5c8fb71af3bf051bbb9f92e75c95321a*](https://LYyCKF.tosslk.xyz/5c8fb71af3bf051bbb9f92e75c95321a)
+  - **v2ray**: [*https://LYyCKF.tosslk.xyz/5c8fb71af3bf051bbb9f92e75c95321a*](https://LYyCKF.tosslk.xyz/5c8fb71af3bf051bbb9f92e75c95321a)
+  - **ios**: [*https://LYyCKF.tosslk.xyz/5c8fb71af3bf051bbb9f92e75c95321a*](https://LYyCKF.tosslk.xyz/5c8fb71af3bf051bbb9f92e75c95321a)
 - **abshare**
-  - **clash**: [*https://YFItHg.absslk.xyz/6a4cd12308a007ce939e1074f08a44ab*](https://YFItHg.absslk.xyz/6a4cd12308a007ce939e1074f08a44ab)
-  - **v2ray**: [*https://YFItHg.absslk.xyz/6a4cd12308a007ce939e1074f08a44ab*](https://YFItHg.absslk.xyz/6a4cd12308a007ce939e1074f08a44ab)
-  - **ios**: [*https://YFItHg.absslk.xyz/6a4cd12308a007ce939e1074f08a44ab*](https://YFItHg.absslk.xyz/6a4cd12308a007ce939e1074f08a44ab)
+  - **clash**: [*https://uuOhIf.absslk.xyz/57cc41f97095822a3217dbb1cad484ce*](https://uuOhIf.absslk.xyz/57cc41f97095822a3217dbb1cad484ce)
+  - **v2ray**: [*https://uuOhIf.absslk.xyz/57cc41f97095822a3217dbb1cad484ce*](https://uuOhIf.absslk.xyz/57cc41f97095822a3217dbb1cad484ce)
+  - **ios**: [*https://uuOhIf.absslk.xyz/57cc41f97095822a3217dbb1cad484ce*](https://uuOhIf.absslk.xyz/57cc41f97095822a3217dbb1cad484ce)
 - **mksshare**
   - **clash**: [*https://ypZlwy.mcsslk.xyz/d8fe7d648d56b338c630ab22cf67edad*](https://ypZlwy.mcsslk.xyz/d8fe7d648d56b338c630ab22cf67edad)
   - **v2ray**: [*https://ypZlwy.mcsslk.xyz/d8fe7d648d56b338c630ab22cf67edad*](https://ypZlwy.mcsslk.xyz/d8fe7d648d56b338c630ab22cf67edad)
