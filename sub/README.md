@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-10 11:27:15
+> Updated Time: 2025-01-10 11:41:16
 
 - **tolinkshare2**
   - **clash**: [*https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd*](https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd)
   - **v2ray**: [*https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd*](https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd)
   - **ios**: [*https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd*](https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd)
 - **abshare**
-  - **clash**: [*https://ZUelUh.absslk.xyz/fbb5d474c972c04b4797360d4c16dbd1*](https://ZUelUh.absslk.xyz/fbb5d474c972c04b4797360d4c16dbd1)
-  - **v2ray**: [*https://ZUelUh.absslk.xyz/fbb5d474c972c04b4797360d4c16dbd1*](https://ZUelUh.absslk.xyz/fbb5d474c972c04b4797360d4c16dbd1)
-  - **ios**: [*https://ZUelUh.absslk.xyz/fbb5d474c972c04b4797360d4c16dbd1*](https://ZUelUh.absslk.xyz/fbb5d474c972c04b4797360d4c16dbd1)
+  - **clash**: [*https://4cC2qi.absslk.xyz/0758b6d477a88ee1235ba987a56b27cd*](https://4cC2qi.absslk.xyz/0758b6d477a88ee1235ba987a56b27cd)
+  - **v2ray**: [*https://4cC2qi.absslk.xyz/0758b6d477a88ee1235ba987a56b27cd*](https://4cC2qi.absslk.xyz/0758b6d477a88ee1235ba987a56b27cd)
+  - **ios**: [*https://4cC2qi.absslk.xyz/0758b6d477a88ee1235ba987a56b27cd*](https://4cC2qi.absslk.xyz/0758b6d477a88ee1235ba987a56b27cd)
 - **mksshare**
   - **clash**: [*https://e2XoTF.mcsslk.xyz/b12f746c13f437b3895b4edc0a5850e7*](https://e2XoTF.mcsslk.xyz/b12f746c13f437b3895b4edc0a5850e7)
   - **v2ray**: [*https://e2XoTF.mcsslk.xyz/b12f746c13f437b3895b4edc0a5850e7*](https://e2XoTF.mcsslk.xyz/b12f746c13f437b3895b4edc0a5850e7)
