@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-10 12:42:49
+> Updated Time: 2025-01-10 12:53:21
 
 - **tolinkshare2**
-  - **clash**: [*https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd*](https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd)
-  - **v2ray**: [*https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd*](https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd)
-  - **ios**: [*https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd*](https://zn0ukD.tosslk.xyz/74cd3f39439bb7eb3f55e9eaf79196dd)
+  - **clash**: [*https://00BvEI.tosslk.xyz/6e91e3b9269cef961d2ac0bdcfc78e47*](https://00BvEI.tosslk.xyz/6e91e3b9269cef961d2ac0bdcfc78e47)
+  - **v2ray**: [*https://00BvEI.tosslk.xyz/6e91e3b9269cef961d2ac0bdcfc78e47*](https://00BvEI.tosslk.xyz/6e91e3b9269cef961d2ac0bdcfc78e47)
+  - **ios**: [*https://00BvEI.tosslk.xyz/6e91e3b9269cef961d2ac0bdcfc78e47*](https://00BvEI.tosslk.xyz/6e91e3b9269cef961d2ac0bdcfc78e47)
 - **abshare**
-  - **clash**: [*https://kkkCEw.absslk.xyz/7ec8878897f0eb67c9a118c3ec0dec8c*](https://kkkCEw.absslk.xyz/7ec8878897f0eb67c9a118c3ec0dec8c)
-  - **v2ray**: [*https://kkkCEw.absslk.xyz/7ec8878897f0eb67c9a118c3ec0dec8c*](https://kkkCEw.absslk.xyz/7ec8878897f0eb67c9a118c3ec0dec8c)
-  - **ios**: [*https://kkkCEw.absslk.xyz/7ec8878897f0eb67c9a118c3ec0dec8c*](https://kkkCEw.absslk.xyz/7ec8878897f0eb67c9a118c3ec0dec8c)
+  - **clash**: [*https://t9BrGP.absslk.xyz/7c4783d1dd207a18419c851d32d0e043*](https://t9BrGP.absslk.xyz/7c4783d1dd207a18419c851d32d0e043)
+  - **v2ray**: [*https://t9BrGP.absslk.xyz/7c4783d1dd207a18419c851d32d0e043*](https://t9BrGP.absslk.xyz/7c4783d1dd207a18419c851d32d0e043)
+  - **ios**: [*https://t9BrGP.absslk.xyz/7c4783d1dd207a18419c851d32d0e043*](https://t9BrGP.absslk.xyz/7c4783d1dd207a18419c851d32d0e043)
 - **mksshare**
   - **clash**: [*https://ppRDVJ.mcsslk.xyz/cdebe5c19c624eda6555db6c93fae1b1*](https://ppRDVJ.mcsslk.xyz/cdebe5c19c624eda6555db6c93fae1b1)
   - **v2ray**: [*https://ppRDVJ.mcsslk.xyz/cdebe5c19c624eda6555db6c93fae1b1*](https://ppRDVJ.mcsslk.xyz/cdebe5c19c624eda6555db6c93fae1b1)
