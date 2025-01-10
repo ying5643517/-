@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-10 23:25:42
+> Updated Time: 2025-01-10 23:33:59
 
 - **tolinkshare2**
-  - **clash**: [*https://1nglk6.tosslk.xyz/928f677cd76c28ec67eecf11bf9b3959*](https://1nglk6.tosslk.xyz/928f677cd76c28ec67eecf11bf9b3959)
-  - **v2ray**: [*https://1nglk6.tosslk.xyz/928f677cd76c28ec67eecf11bf9b3959*](https://1nglk6.tosslk.xyz/928f677cd76c28ec67eecf11bf9b3959)
-  - **ios**: [*https://1nglk6.tosslk.xyz/928f677cd76c28ec67eecf11bf9b3959*](https://1nglk6.tosslk.xyz/928f677cd76c28ec67eecf11bf9b3959)
+  - **clash**: [*https://xwQif0.tosslk.xyz/d786510598f084b30d38952eb09c3518*](https://xwQif0.tosslk.xyz/d786510598f084b30d38952eb09c3518)
+  - **v2ray**: [*https://xwQif0.tosslk.xyz/d786510598f084b30d38952eb09c3518*](https://xwQif0.tosslk.xyz/d786510598f084b30d38952eb09c3518)
+  - **ios**: [*https://xwQif0.tosslk.xyz/d786510598f084b30d38952eb09c3518*](https://xwQif0.tosslk.xyz/d786510598f084b30d38952eb09c3518)
 - **abshare**
   - **clash**: [*https://pdnHIi.absslk.xyz/bcead9a0fa52310eb57cbab4532967e1*](https://pdnHIi.absslk.xyz/bcead9a0fa52310eb57cbab4532967e1)
   - **v2ray**: [*https://pdnHIi.absslk.xyz/bcead9a0fa52310eb57cbab4532967e1*](https://pdnHIi.absslk.xyz/bcead9a0fa52310eb57cbab4532967e1)
