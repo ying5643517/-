@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-10 15:00:47
+> Updated Time: 2025-01-10 15:17:08
 
 - **tolinkshare2**
   - **clash**: [*https://I4b9aQ.tosslk.xyz/c05d5a5325006ca2e6087f9242b711d8*](https://I4b9aQ.tosslk.xyz/c05d5a5325006ca2e6087f9242b711d8)
   - **v2ray**: [*https://I4b9aQ.tosslk.xyz/c05d5a5325006ca2e6087f9242b711d8*](https://I4b9aQ.tosslk.xyz/c05d5a5325006ca2e6087f9242b711d8)
   - **ios**: [*https://I4b9aQ.tosslk.xyz/c05d5a5325006ca2e6087f9242b711d8*](https://I4b9aQ.tosslk.xyz/c05d5a5325006ca2e6087f9242b711d8)
 - **abshare**
-  - **clash**: [*https://WocnaK.absslk.xyz/6f79fdd25c8784d835c270fec2a11b7d*](https://WocnaK.absslk.xyz/6f79fdd25c8784d835c270fec2a11b7d)
-  - **v2ray**: [*https://WocnaK.absslk.xyz/6f79fdd25c8784d835c270fec2a11b7d*](https://WocnaK.absslk.xyz/6f79fdd25c8784d835c270fec2a11b7d)
-  - **ios**: [*https://WocnaK.absslk.xyz/6f79fdd25c8784d835c270fec2a11b7d*](https://WocnaK.absslk.xyz/6f79fdd25c8784d835c270fec2a11b7d)
+  - **clash**: [*https://QYGPhi.absslk.xyz/a3ab5a312e6b372839ccb01ef5d12bcd*](https://QYGPhi.absslk.xyz/a3ab5a312e6b372839ccb01ef5d12bcd)
+  - **v2ray**: [*https://QYGPhi.absslk.xyz/a3ab5a312e6b372839ccb01ef5d12bcd*](https://QYGPhi.absslk.xyz/a3ab5a312e6b372839ccb01ef5d12bcd)
+  - **ios**: [*https://QYGPhi.absslk.xyz/a3ab5a312e6b372839ccb01ef5d12bcd*](https://QYGPhi.absslk.xyz/a3ab5a312e6b372839ccb01ef5d12bcd)
 - **mksshare**
   - **clash**: [*https://gkjj5i.mcsslk.xyz/c02a16950dedb6ca7291a565c3f16335*](https://gkjj5i.mcsslk.xyz/c02a16950dedb6ca7291a565c3f16335)
   - **v2ray**: [*https://gkjj5i.mcsslk.xyz/c02a16950dedb6ca7291a565c3f16335*](https://gkjj5i.mcsslk.xyz/c02a16950dedb6ca7291a565c3f16335)
