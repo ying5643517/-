@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-11 23:35:42
+> Updated Time: 2025-01-11 23:41:13
 
 - **tolinkshare2**
-  - **clash**: [*https://mjZuZS.tosslk.xyz/044428104679a3dbf31192f6480a8bd9*](https://mjZuZS.tosslk.xyz/044428104679a3dbf31192f6480a8bd9)
-  - **v2ray**: [*https://mjZuZS.tosslk.xyz/044428104679a3dbf31192f6480a8bd9*](https://mjZuZS.tosslk.xyz/044428104679a3dbf31192f6480a8bd9)
-  - **ios**: [*https://mjZuZS.tosslk.xyz/044428104679a3dbf31192f6480a8bd9*](https://mjZuZS.tosslk.xyz/044428104679a3dbf31192f6480a8bd9)
+  - **clash**: [*https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5*](https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5)
+  - **v2ray**: [*https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5*](https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5)
+  - **ios**: [*https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5*](https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5)
 - **abshare**
-  - **clash**: [*https://H8vddT.absslk.xyz/a23d3424463f4a84267e8283d529d7f1*](https://H8vddT.absslk.xyz/a23d3424463f4a84267e8283d529d7f1)
-  - **v2ray**: [*https://H8vddT.absslk.xyz/a23d3424463f4a84267e8283d529d7f1*](https://H8vddT.absslk.xyz/a23d3424463f4a84267e8283d529d7f1)
-  - **ios**: [*https://H8vddT.absslk.xyz/a23d3424463f4a84267e8283d529d7f1*](https://H8vddT.absslk.xyz/a23d3424463f4a84267e8283d529d7f1)
+  - **clash**: [*https://CldRti.absslk.xyz/5f23346148bda418e6d577408815b8b1*](https://CldRti.absslk.xyz/5f23346148bda418e6d577408815b8b1)
+  - **v2ray**: [*https://CldRti.absslk.xyz/5f23346148bda418e6d577408815b8b1*](https://CldRti.absslk.xyz/5f23346148bda418e6d577408815b8b1)
+  - **ios**: [*https://CldRti.absslk.xyz/5f23346148bda418e6d577408815b8b1*](https://CldRti.absslk.xyz/5f23346148bda418e6d577408815b8b1)
 - **mksshare**
   - **clash**: [*https://eDVtcF.mcsslk.xyz/c49b90c25bdd52f795aaa32d3c96e125*](https://eDVtcF.mcsslk.xyz/c49b90c25bdd52f795aaa32d3c96e125)
   - **v2ray**: [*https://eDVtcF.mcsslk.xyz/c49b90c25bdd52f795aaa32d3c96e125*](https://eDVtcF.mcsslk.xyz/c49b90c25bdd52f795aaa32d3c96e125)
