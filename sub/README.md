@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-11 11:52:53
+> Updated Time: 2025-01-11 12:14:28
 
 - **tolinkshare2**
-  - **clash**: [*https://LaSZPO.tosslk.xyz/8cc21fa470e51866b66f2c2bcccc78ce*](https://LaSZPO.tosslk.xyz/8cc21fa470e51866b66f2c2bcccc78ce)
-  - **v2ray**: [*https://LaSZPO.tosslk.xyz/8cc21fa470e51866b66f2c2bcccc78ce*](https://LaSZPO.tosslk.xyz/8cc21fa470e51866b66f2c2bcccc78ce)
-  - **ios**: [*https://LaSZPO.tosslk.xyz/8cc21fa470e51866b66f2c2bcccc78ce*](https://LaSZPO.tosslk.xyz/8cc21fa470e51866b66f2c2bcccc78ce)
+  - **clash**: [*https://sGw8hQ.tosslk.xyz/9e463fbd9b316ff30647ac1ecd29d12e*](https://sGw8hQ.tosslk.xyz/9e463fbd9b316ff30647ac1ecd29d12e)
+  - **v2ray**: [*https://sGw8hQ.tosslk.xyz/9e463fbd9b316ff30647ac1ecd29d12e*](https://sGw8hQ.tosslk.xyz/9e463fbd9b316ff30647ac1ecd29d12e)
+  - **ios**: [*https://sGw8hQ.tosslk.xyz/9e463fbd9b316ff30647ac1ecd29d12e*](https://sGw8hQ.tosslk.xyz/9e463fbd9b316ff30647ac1ecd29d12e)
 - **abshare**
-  - **clash**: [*https://86ri9S.absslk.xyz/ea5103f3528798efdecd7adbbd206ade*](https://86ri9S.absslk.xyz/ea5103f3528798efdecd7adbbd206ade)
-  - **v2ray**: [*https://86ri9S.absslk.xyz/ea5103f3528798efdecd7adbbd206ade*](https://86ri9S.absslk.xyz/ea5103f3528798efdecd7adbbd206ade)
-  - **ios**: [*https://86ri9S.absslk.xyz/ea5103f3528798efdecd7adbbd206ade*](https://86ri9S.absslk.xyz/ea5103f3528798efdecd7adbbd206ade)
+  - **clash**: [*https://kTa1ng.absslk.xyz/95c90af0b945e459b47933a08d799e46*](https://kTa1ng.absslk.xyz/95c90af0b945e459b47933a08d799e46)
+  - **v2ray**: [*https://kTa1ng.absslk.xyz/95c90af0b945e459b47933a08d799e46*](https://kTa1ng.absslk.xyz/95c90af0b945e459b47933a08d799e46)
+  - **ios**: [*https://kTa1ng.absslk.xyz/95c90af0b945e459b47933a08d799e46*](https://kTa1ng.absslk.xyz/95c90af0b945e459b47933a08d799e46)
 - **mksshare**
   - **clash**: [*https://aYR31P.mcsslk.xyz/f8919f4704fc4a7316002852229a0180*](https://aYR31P.mcsslk.xyz/f8919f4704fc4a7316002852229a0180)
   - **v2ray**: [*https://aYR31P.mcsslk.xyz/f8919f4704fc4a7316002852229a0180*](https://aYR31P.mcsslk.xyz/f8919f4704fc4a7316002852229a0180)
