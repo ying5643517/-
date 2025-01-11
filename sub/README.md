@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-12 03:19:08
+> Updated Time: 2025-01-12 03:24:16
 
 - **tolinkshare2**
   - **clash**: [*https://b7XSal.tosslk.xyz/1143adaae5a8d78a666d6645907be1cb*](https://b7XSal.tosslk.xyz/1143adaae5a8d78a666d6645907be1cb)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://3RI7j8.mcsslk.xyz/5c92c76d331347b39e23e1e51c02f083*](https://3RI7j8.mcsslk.xyz/5c92c76d331347b39e23e1e51c02f083)
   - **ios**: [*https://3RI7j8.mcsslk.xyz/5c92c76d331347b39e23e1e51c02f083*](https://3RI7j8.mcsslk.xyz/5c92c76d331347b39e23e1e51c02f083)
 - **toshare5**
-  - **clash**: [*https://kzGozu.tosslk.xyz/b3f8511db97581142910fb1d1a38d0ce*](https://kzGozu.tosslk.xyz/b3f8511db97581142910fb1d1a38d0ce)
-  - **v2ray**: [*https://kzGozu.tosslk.xyz/b3f8511db97581142910fb1d1a38d0ce*](https://kzGozu.tosslk.xyz/b3f8511db97581142910fb1d1a38d0ce)
-  - **ios**: [*https://kzGozu.tosslk.xyz/b3f8511db97581142910fb1d1a38d0ce*](https://kzGozu.tosslk.xyz/b3f8511db97581142910fb1d1a38d0ce)
+  - **clash**: [*https://uZmIOi.tosslk.xyz/43db5140fc27f84264f9fd9e5e31fd44*](https://uZmIOi.tosslk.xyz/43db5140fc27f84264f9fd9e5e31fd44)
+  - **v2ray**: [*https://uZmIOi.tosslk.xyz/43db5140fc27f84264f9fd9e5e31fd44*](https://uZmIOi.tosslk.xyz/43db5140fc27f84264f9fd9e5e31fd44)
+  - **ios**: [*https://uZmIOi.tosslk.xyz/43db5140fc27f84264f9fd9e5e31fd44*](https://uZmIOi.tosslk.xyz/43db5140fc27f84264f9fd9e5e31fd44)
 - **abshare3**
   - **clash**: [*https://54nxLz.absslk.xyz/5749e33750d34af66310df889e013c3f*](https://54nxLz.absslk.xyz/5749e33750d34af66310df889e013c3f)
   - **v2ray**: [*https://54nxLz.absslk.xyz/5749e33750d34af66310df889e013c3f*](https://54nxLz.absslk.xyz/5749e33750d34af66310df889e013c3f)
