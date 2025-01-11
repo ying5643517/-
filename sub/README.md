@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-11 23:57:15
+> Updated Time: 2025-01-12 00:11:53
 
 - **tolinkshare2**
-  - **clash**: [*https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5*](https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5)
-  - **v2ray**: [*https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5*](https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5)
-  - **ios**: [*https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5*](https://ncmU0Z.tosslk.xyz/07dd12f797ff2b2c0c2f1057219706c5)
+  - **clash**: [*https://MzJr3n.tosslk.xyz/1017d259abbef2d070d4db06edf79168*](https://MzJr3n.tosslk.xyz/1017d259abbef2d070d4db06edf79168)
+  - **v2ray**: [*https://MzJr3n.tosslk.xyz/1017d259abbef2d070d4db06edf79168*](https://MzJr3n.tosslk.xyz/1017d259abbef2d070d4db06edf79168)
+  - **ios**: [*https://MzJr3n.tosslk.xyz/1017d259abbef2d070d4db06edf79168*](https://MzJr3n.tosslk.xyz/1017d259abbef2d070d4db06edf79168)
 - **abshare**
-  - **clash**: [*https://XfzYHc.absslk.xyz/48d9e5d0d83d3d0287e3f30a94e4e44e*](https://XfzYHc.absslk.xyz/48d9e5d0d83d3d0287e3f30a94e4e44e)
-  - **v2ray**: [*https://XfzYHc.absslk.xyz/48d9e5d0d83d3d0287e3f30a94e4e44e*](https://XfzYHc.absslk.xyz/48d9e5d0d83d3d0287e3f30a94e4e44e)
-  - **ios**: [*https://XfzYHc.absslk.xyz/48d9e5d0d83d3d0287e3f30a94e4e44e*](https://XfzYHc.absslk.xyz/48d9e5d0d83d3d0287e3f30a94e4e44e)
+  - **clash**: [*https://fd8SJs.absslk.xyz/bd82bdbccdaa28c27e792ff0f105d85d*](https://fd8SJs.absslk.xyz/bd82bdbccdaa28c27e792ff0f105d85d)
+  - **v2ray**: [*https://fd8SJs.absslk.xyz/bd82bdbccdaa28c27e792ff0f105d85d*](https://fd8SJs.absslk.xyz/bd82bdbccdaa28c27e792ff0f105d85d)
+  - **ios**: [*https://fd8SJs.absslk.xyz/bd82bdbccdaa28c27e792ff0f105d85d*](https://fd8SJs.absslk.xyz/bd82bdbccdaa28c27e792ff0f105d85d)
 - **mksshare**
   - **clash**: [*https://GVQIaj.mcsslk.xyz/9b1f373e2fae2a4c137017dfec9225b7*](https://GVQIaj.mcsslk.xyz/9b1f373e2fae2a4c137017dfec9225b7)
   - **v2ray**: [*https://GVQIaj.mcsslk.xyz/9b1f373e2fae2a4c137017dfec9225b7*](https://GVQIaj.mcsslk.xyz/9b1f373e2fae2a4c137017dfec9225b7)
