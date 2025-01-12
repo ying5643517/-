@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-12 19:33:02
+> Updated Time: 2025-01-12 19:54:39
 
 - **tolinkshare2**
-  - **clash**: [*https://A1xSzF.tosslk.xyz/906bbd0d6d0b151e25a3250ea82894d2*](https://A1xSzF.tosslk.xyz/906bbd0d6d0b151e25a3250ea82894d2)
-  - **v2ray**: [*https://A1xSzF.tosslk.xyz/906bbd0d6d0b151e25a3250ea82894d2*](https://A1xSzF.tosslk.xyz/906bbd0d6d0b151e25a3250ea82894d2)
-  - **ios**: [*https://A1xSzF.tosslk.xyz/906bbd0d6d0b151e25a3250ea82894d2*](https://A1xSzF.tosslk.xyz/906bbd0d6d0b151e25a3250ea82894d2)
+  - **clash**: [*https://Jjcpeq.tosslk.xyz/caa8158102a08f5dd13f7a92a40d0f57*](https://Jjcpeq.tosslk.xyz/caa8158102a08f5dd13f7a92a40d0f57)
+  - **v2ray**: [*https://Jjcpeq.tosslk.xyz/caa8158102a08f5dd13f7a92a40d0f57*](https://Jjcpeq.tosslk.xyz/caa8158102a08f5dd13f7a92a40d0f57)
+  - **ios**: [*https://Jjcpeq.tosslk.xyz/caa8158102a08f5dd13f7a92a40d0f57*](https://Jjcpeq.tosslk.xyz/caa8158102a08f5dd13f7a92a40d0f57)
 - **abshare**
   - **clash**: [*https://7kQYfD.absslk.xyz/5be667998c84310ba24c36d17e16de9b*](https://7kQYfD.absslk.xyz/5be667998c84310ba24c36d17e16de9b)
   - **v2ray**: [*https://7kQYfD.absslk.xyz/5be667998c84310ba24c36d17e16de9b*](https://7kQYfD.absslk.xyz/5be667998c84310ba24c36d17e16de9b)
