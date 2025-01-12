@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-12 21:42:50
+> Updated Time: 2025-01-12 21:48:31
 
 - **tolinkshare2**
-  - **clash**: [*https://14DfxA.tosslk.xyz/487f273534740b7b34145d3bcc830e71*](https://14DfxA.tosslk.xyz/487f273534740b7b34145d3bcc830e71)
-  - **v2ray**: [*https://14DfxA.tosslk.xyz/487f273534740b7b34145d3bcc830e71*](https://14DfxA.tosslk.xyz/487f273534740b7b34145d3bcc830e71)
-  - **ios**: [*https://14DfxA.tosslk.xyz/487f273534740b7b34145d3bcc830e71*](https://14DfxA.tosslk.xyz/487f273534740b7b34145d3bcc830e71)
+  - **clash**: [*https://CBGdUN.tosslk.xyz/a98c5c056bd9650b2b0a01cef97c4b5c*](https://CBGdUN.tosslk.xyz/a98c5c056bd9650b2b0a01cef97c4b5c)
+  - **v2ray**: [*https://CBGdUN.tosslk.xyz/a98c5c056bd9650b2b0a01cef97c4b5c*](https://CBGdUN.tosslk.xyz/a98c5c056bd9650b2b0a01cef97c4b5c)
+  - **ios**: [*https://CBGdUN.tosslk.xyz/a98c5c056bd9650b2b0a01cef97c4b5c*](https://CBGdUN.tosslk.xyz/a98c5c056bd9650b2b0a01cef97c4b5c)
 - **abshare**
   - **clash**: [*https://nNNPCF.absslk.xyz/bcbc8d285eb5d837889bb88f674b6465*](https://nNNPCF.absslk.xyz/bcbc8d285eb5d837889bb88f674b6465)
   - **v2ray**: [*https://nNNPCF.absslk.xyz/bcbc8d285eb5d837889bb88f674b6465*](https://nNNPCF.absslk.xyz/bcbc8d285eb5d837889bb88f674b6465)
