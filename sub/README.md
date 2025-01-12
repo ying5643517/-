@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-12 14:51:29
+> Updated Time: 2025-01-12 14:57:00
 
 - **tolinkshare2**
-  - **clash**: [*https://m2mcli.tosslk.xyz/44e0893f7c6b2f3a55c7d6599172e8e5*](https://m2mcli.tosslk.xyz/44e0893f7c6b2f3a55c7d6599172e8e5)
-  - **v2ray**: [*https://m2mcli.tosslk.xyz/44e0893f7c6b2f3a55c7d6599172e8e5*](https://m2mcli.tosslk.xyz/44e0893f7c6b2f3a55c7d6599172e8e5)
-  - **ios**: [*https://m2mcli.tosslk.xyz/44e0893f7c6b2f3a55c7d6599172e8e5*](https://m2mcli.tosslk.xyz/44e0893f7c6b2f3a55c7d6599172e8e5)
+  - **clash**: [*https://QhlIsI.tosslk.xyz/7ab39223b47109f8f6614499cae811b7*](https://QhlIsI.tosslk.xyz/7ab39223b47109f8f6614499cae811b7)
+  - **v2ray**: [*https://QhlIsI.tosslk.xyz/7ab39223b47109f8f6614499cae811b7*](https://QhlIsI.tosslk.xyz/7ab39223b47109f8f6614499cae811b7)
+  - **ios**: [*https://QhlIsI.tosslk.xyz/7ab39223b47109f8f6614499cae811b7*](https://QhlIsI.tosslk.xyz/7ab39223b47109f8f6614499cae811b7)
 - **abshare**
   - **clash**: [*https://JGGSAv.absslk.xyz/612fbe979629f1a8b36bec437b922a7e*](https://JGGSAv.absslk.xyz/612fbe979629f1a8b36bec437b922a7e)
   - **v2ray**: [*https://JGGSAv.absslk.xyz/612fbe979629f1a8b36bec437b922a7e*](https://JGGSAv.absslk.xyz/612fbe979629f1a8b36bec437b922a7e)
