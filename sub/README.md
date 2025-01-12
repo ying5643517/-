@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-13 05:40:38
+> Updated Time: 2025-01-13 05:46:14
 
 - **tolinkshare2**
-  - **clash**: [*https://wBR3F5.tosslk.xyz/cd75a6a73393477ef970ce67f04c14e6*](https://wBR3F5.tosslk.xyz/cd75a6a73393477ef970ce67f04c14e6)
-  - **v2ray**: [*https://wBR3F5.tosslk.xyz/cd75a6a73393477ef970ce67f04c14e6*](https://wBR3F5.tosslk.xyz/cd75a6a73393477ef970ce67f04c14e6)
-  - **ios**: [*https://wBR3F5.tosslk.xyz/cd75a6a73393477ef970ce67f04c14e6*](https://wBR3F5.tosslk.xyz/cd75a6a73393477ef970ce67f04c14e6)
+  - **clash**: [*https://AKL53B.tosslk.xyz/b991710e47ebc6599926054cfeb3b400*](https://AKL53B.tosslk.xyz/b991710e47ebc6599926054cfeb3b400)
+  - **v2ray**: [*https://AKL53B.tosslk.xyz/b991710e47ebc6599926054cfeb3b400*](https://AKL53B.tosslk.xyz/b991710e47ebc6599926054cfeb3b400)
+  - **ios**: [*https://AKL53B.tosslk.xyz/b991710e47ebc6599926054cfeb3b400*](https://AKL53B.tosslk.xyz/b991710e47ebc6599926054cfeb3b400)
 - **abshare**
   - **clash**: [*https://MXGu37.absslk.xyz/a399d43a742716d21699e46da97d7842*](https://MXGu37.absslk.xyz/a399d43a742716d21699e46da97d7842)
   - **v2ray**: [*https://MXGu37.absslk.xyz/a399d43a742716d21699e46da97d7842*](https://MXGu37.absslk.xyz/a399d43a742716d21699e46da97d7842)
