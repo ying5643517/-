@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-13 12:42:47
+> Updated Time: 2025-01-13 12:53:55
 
 - **tolinkshare2**
-  - **clash**: [*https://1cabqi.tosslk.xyz/7bd9e39ed470daa81715155edd08d0dc*](https://1cabqi.tosslk.xyz/7bd9e39ed470daa81715155edd08d0dc)
-  - **v2ray**: [*https://1cabqi.tosslk.xyz/7bd9e39ed470daa81715155edd08d0dc*](https://1cabqi.tosslk.xyz/7bd9e39ed470daa81715155edd08d0dc)
-  - **ios**: [*https://1cabqi.tosslk.xyz/7bd9e39ed470daa81715155edd08d0dc*](https://1cabqi.tosslk.xyz/7bd9e39ed470daa81715155edd08d0dc)
+  - **clash**: [*https://AarSVV.tosslk.xyz/9432098d769eb6cd335f49b94296d7c4*](https://AarSVV.tosslk.xyz/9432098d769eb6cd335f49b94296d7c4)
+  - **v2ray**: [*https://AarSVV.tosslk.xyz/9432098d769eb6cd335f49b94296d7c4*](https://AarSVV.tosslk.xyz/9432098d769eb6cd335f49b94296d7c4)
+  - **ios**: [*https://AarSVV.tosslk.xyz/9432098d769eb6cd335f49b94296d7c4*](https://AarSVV.tosslk.xyz/9432098d769eb6cd335f49b94296d7c4)
 - **abshare**
   - **clash**: [*https://gsPRdn.absslk.xyz/1f31cc5d51d54d0dccc872c501be435f*](https://gsPRdn.absslk.xyz/1f31cc5d51d54d0dccc872c501be435f)
   - **v2ray**: [*https://gsPRdn.absslk.xyz/1f31cc5d51d54d0dccc872c501be435f*](https://gsPRdn.absslk.xyz/1f31cc5d51d54d0dccc872c501be435f)
