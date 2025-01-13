@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-14 01:52:59
+> Updated Time: 2025-01-14 02:17:57
 
 - **tolinkshare2**
-  - **clash**: [*https://ms1grN.tosslk.xyz/02b69d907be09b69cb402694d84a5b72*](https://ms1grN.tosslk.xyz/02b69d907be09b69cb402694d84a5b72)
-  - **v2ray**: [*https://ms1grN.tosslk.xyz/02b69d907be09b69cb402694d84a5b72*](https://ms1grN.tosslk.xyz/02b69d907be09b69cb402694d84a5b72)
-  - **ios**: [*https://ms1grN.tosslk.xyz/02b69d907be09b69cb402694d84a5b72*](https://ms1grN.tosslk.xyz/02b69d907be09b69cb402694d84a5b72)
+  - **clash**: [*https://uKSbWo.tosslk.xyz/c89c2850c41f31535b8292fa6bcf8de3*](https://uKSbWo.tosslk.xyz/c89c2850c41f31535b8292fa6bcf8de3)
+  - **v2ray**: [*https://uKSbWo.tosslk.xyz/c89c2850c41f31535b8292fa6bcf8de3*](https://uKSbWo.tosslk.xyz/c89c2850c41f31535b8292fa6bcf8de3)
+  - **ios**: [*https://uKSbWo.tosslk.xyz/c89c2850c41f31535b8292fa6bcf8de3*](https://uKSbWo.tosslk.xyz/c89c2850c41f31535b8292fa6bcf8de3)
 - **abshare**
-  - **clash**: [*https://17Mh5H.absslk.xyz/d5d4fa9a2ec55d36e5606014ef6355fb*](https://17Mh5H.absslk.xyz/d5d4fa9a2ec55d36e5606014ef6355fb)
-  - **v2ray**: [*https://17Mh5H.absslk.xyz/d5d4fa9a2ec55d36e5606014ef6355fb*](https://17Mh5H.absslk.xyz/d5d4fa9a2ec55d36e5606014ef6355fb)
-  - **ios**: [*https://17Mh5H.absslk.xyz/d5d4fa9a2ec55d36e5606014ef6355fb*](https://17Mh5H.absslk.xyz/d5d4fa9a2ec55d36e5606014ef6355fb)
+  - **clash**: [*https://HQOG78.absslk.xyz/b93dafa961ca4ae329d3faa2dd1d75ce*](https://HQOG78.absslk.xyz/b93dafa961ca4ae329d3faa2dd1d75ce)
+  - **v2ray**: [*https://HQOG78.absslk.xyz/b93dafa961ca4ae329d3faa2dd1d75ce*](https://HQOG78.absslk.xyz/b93dafa961ca4ae329d3faa2dd1d75ce)
+  - **ios**: [*https://HQOG78.absslk.xyz/b93dafa961ca4ae329d3faa2dd1d75ce*](https://HQOG78.absslk.xyz/b93dafa961ca4ae329d3faa2dd1d75ce)
 - **mksshare**
   - **clash**: [*https://bwTVUZ.mcsslk.xyz/1603d65d7a2ee57af298dc9c6f00f3c1*](https://bwTVUZ.mcsslk.xyz/1603d65d7a2ee57af298dc9c6f00f3c1)
   - **v2ray**: [*https://bwTVUZ.mcsslk.xyz/1603d65d7a2ee57af298dc9c6f00f3c1*](https://bwTVUZ.mcsslk.xyz/1603d65d7a2ee57af298dc9c6f00f3c1)
