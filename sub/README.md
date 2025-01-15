@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-16 02:31:20
+> Updated Time: 2025-01-16 02:42:20
 
 - **tolinkshare2**
-  - **clash**: [*https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba*](https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba)
-  - **v2ray**: [*https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba*](https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba)
-  - **ios**: [*https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba*](https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba)
+  - **clash**: [*https://7SUHfE.tosslk.xyz/c0c7aa928627e17dd6a08cc615a5340e*](https://7SUHfE.tosslk.xyz/c0c7aa928627e17dd6a08cc615a5340e)
+  - **v2ray**: [*https://7SUHfE.tosslk.xyz/c0c7aa928627e17dd6a08cc615a5340e*](https://7SUHfE.tosslk.xyz/c0c7aa928627e17dd6a08cc615a5340e)
+  - **ios**: [*https://7SUHfE.tosslk.xyz/c0c7aa928627e17dd6a08cc615a5340e*](https://7SUHfE.tosslk.xyz/c0c7aa928627e17dd6a08cc615a5340e)
 - **abshare**
   - **clash**: [*https://TRtAK9.absslk.xyz/a175c91e7525ea9a1c1d75ec4c795042*](https://TRtAK9.absslk.xyz/a175c91e7525ea9a1c1d75ec4c795042)
   - **v2ray**: [*https://TRtAK9.absslk.xyz/a175c91e7525ea9a1c1d75ec4c795042*](https://TRtAK9.absslk.xyz/a175c91e7525ea9a1c1d75ec4c795042)
