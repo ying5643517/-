@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-15 23:16:14
+> Updated Time: 2025-01-15 23:29:06
 
 - **tolinkshare2**
-  - **clash**: [*https://TpIPyS.tosslk.xyz/9022902ae3379d81e58aa5aa6ec60327*](https://TpIPyS.tosslk.xyz/9022902ae3379d81e58aa5aa6ec60327)
-  - **v2ray**: [*https://TpIPyS.tosslk.xyz/9022902ae3379d81e58aa5aa6ec60327*](https://TpIPyS.tosslk.xyz/9022902ae3379d81e58aa5aa6ec60327)
-  - **ios**: [*https://TpIPyS.tosslk.xyz/9022902ae3379d81e58aa5aa6ec60327*](https://TpIPyS.tosslk.xyz/9022902ae3379d81e58aa5aa6ec60327)
+  - **clash**: [*https://2te6tS.tosslk.xyz/30f3af27da334c1d634029c69dfa6aa9*](https://2te6tS.tosslk.xyz/30f3af27da334c1d634029c69dfa6aa9)
+  - **v2ray**: [*https://2te6tS.tosslk.xyz/30f3af27da334c1d634029c69dfa6aa9*](https://2te6tS.tosslk.xyz/30f3af27da334c1d634029c69dfa6aa9)
+  - **ios**: [*https://2te6tS.tosslk.xyz/30f3af27da334c1d634029c69dfa6aa9*](https://2te6tS.tosslk.xyz/30f3af27da334c1d634029c69dfa6aa9)
 - **abshare**
   - **clash**: [*https://rvOTwH.absslk.xyz/be4e2a166e81ecf286000ef21a0fff66*](https://rvOTwH.absslk.xyz/be4e2a166e81ecf286000ef21a0fff66)
   - **v2ray**: [*https://rvOTwH.absslk.xyz/be4e2a166e81ecf286000ef21a0fff66*](https://rvOTwH.absslk.xyz/be4e2a166e81ecf286000ef21a0fff66)
