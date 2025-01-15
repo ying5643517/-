@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-16 01:27:03
+> Updated Time: 2025-01-16 01:39:48
 
 - **tolinkshare2**
-  - **clash**: [*https://BhftBl.tosslk.xyz/039158828115028246e209e5e6b0d959*](https://BhftBl.tosslk.xyz/039158828115028246e209e5e6b0d959)
-  - **v2ray**: [*https://BhftBl.tosslk.xyz/039158828115028246e209e5e6b0d959*](https://BhftBl.tosslk.xyz/039158828115028246e209e5e6b0d959)
-  - **ios**: [*https://BhftBl.tosslk.xyz/039158828115028246e209e5e6b0d959*](https://BhftBl.tosslk.xyz/039158828115028246e209e5e6b0d959)
+  - **clash**: [*https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba*](https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba)
+  - **v2ray**: [*https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba*](https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba)
+  - **ios**: [*https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba*](https://rNfhBR.tosslk.xyz/9e3346a023e47252226b2d1e8f23daba)
 - **abshare**
   - **clash**: [*https://BfK6Xn.absslk.xyz/bae425e96d6323b2274b5a0f0584396d*](https://BfK6Xn.absslk.xyz/bae425e96d6323b2274b5a0f0584396d)
   - **v2ray**: [*https://BfK6Xn.absslk.xyz/bae425e96d6323b2274b5a0f0584396d*](https://BfK6Xn.absslk.xyz/bae425e96d6323b2274b5a0f0584396d)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://MTxvLj.tosslk.xyz/e8bb5aed42c9eb679b99892dc768c660*](https://MTxvLj.tosslk.xyz/e8bb5aed42c9eb679b99892dc768c660)
   - **ios**: [*https://MTxvLj.tosslk.xyz/e8bb5aed42c9eb679b99892dc768c660*](https://MTxvLj.tosslk.xyz/e8bb5aed42c9eb679b99892dc768c660)
 - **abshare3**
-  - **clash**: [*https://W5XISb.absslk.xyz/565db785a675edd9d3d8e88d8cf06e21*](https://W5XISb.absslk.xyz/565db785a675edd9d3d8e88d8cf06e21)
-  - **v2ray**: [*https://W5XISb.absslk.xyz/565db785a675edd9d3d8e88d8cf06e21*](https://W5XISb.absslk.xyz/565db785a675edd9d3d8e88d8cf06e21)
-  - **ios**: [*https://W5XISb.absslk.xyz/565db785a675edd9d3d8e88d8cf06e21*](https://W5XISb.absslk.xyz/565db785a675edd9d3d8e88d8cf06e21)
+  - **clash**: [*https://8mtazq.absslk.xyz/d1fa7657856d7a79d95a8e859aecf185*](https://8mtazq.absslk.xyz/d1fa7657856d7a79d95a8e859aecf185)
+  - **v2ray**: [*https://8mtazq.absslk.xyz/d1fa7657856d7a79d95a8e859aecf185*](https://8mtazq.absslk.xyz/d1fa7657856d7a79d95a8e859aecf185)
+  - **ios**: [*https://8mtazq.absslk.xyz/d1fa7657856d7a79d95a8e859aecf185*](https://8mtazq.absslk.xyz/d1fa7657856d7a79d95a8e859aecf185)
