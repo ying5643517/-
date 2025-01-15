@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-15 21:28:58
+> Updated Time: 2025-01-15 21:37:32
 
 - **tolinkshare2**
-  - **clash**: [*https://n3PkKR.tosslk.xyz/98f8a739cc428ccb44b2f53847ad565e*](https://n3PkKR.tosslk.xyz/98f8a739cc428ccb44b2f53847ad565e)
-  - **v2ray**: [*https://n3PkKR.tosslk.xyz/98f8a739cc428ccb44b2f53847ad565e*](https://n3PkKR.tosslk.xyz/98f8a739cc428ccb44b2f53847ad565e)
-  - **ios**: [*https://n3PkKR.tosslk.xyz/98f8a739cc428ccb44b2f53847ad565e*](https://n3PkKR.tosslk.xyz/98f8a739cc428ccb44b2f53847ad565e)
+  - **clash**: [*https://BZNoZP.tosslk.xyz/a20b3c4a95966e50b65c19fd92f3e116*](https://BZNoZP.tosslk.xyz/a20b3c4a95966e50b65c19fd92f3e116)
+  - **v2ray**: [*https://BZNoZP.tosslk.xyz/a20b3c4a95966e50b65c19fd92f3e116*](https://BZNoZP.tosslk.xyz/a20b3c4a95966e50b65c19fd92f3e116)
+  - **ios**: [*https://BZNoZP.tosslk.xyz/a20b3c4a95966e50b65c19fd92f3e116*](https://BZNoZP.tosslk.xyz/a20b3c4a95966e50b65c19fd92f3e116)
 - **abshare**
-  - **clash**: [*https://N8roL0.absslk.xyz/e56322ea83c4f488255a0fcf34e09069*](https://N8roL0.absslk.xyz/e56322ea83c4f488255a0fcf34e09069)
-  - **v2ray**: [*https://N8roL0.absslk.xyz/e56322ea83c4f488255a0fcf34e09069*](https://N8roL0.absslk.xyz/e56322ea83c4f488255a0fcf34e09069)
-  - **ios**: [*https://N8roL0.absslk.xyz/e56322ea83c4f488255a0fcf34e09069*](https://N8roL0.absslk.xyz/e56322ea83c4f488255a0fcf34e09069)
+  - **clash**: [*https://MUGmiT.absslk.xyz/c1998661b7df1ed0c73de20f4bc676a0*](https://MUGmiT.absslk.xyz/c1998661b7df1ed0c73de20f4bc676a0)
+  - **v2ray**: [*https://MUGmiT.absslk.xyz/c1998661b7df1ed0c73de20f4bc676a0*](https://MUGmiT.absslk.xyz/c1998661b7df1ed0c73de20f4bc676a0)
+  - **ios**: [*https://MUGmiT.absslk.xyz/c1998661b7df1ed0c73de20f4bc676a0*](https://MUGmiT.absslk.xyz/c1998661b7df1ed0c73de20f4bc676a0)
 - **mksshare**
   - **clash**: [*https://C19ZWr.mcsslk.xyz/70f9dabe3c9512d8519fed07c5c53554*](https://C19ZWr.mcsslk.xyz/70f9dabe3c9512d8519fed07c5c53554)
   - **v2ray**: [*https://C19ZWr.mcsslk.xyz/70f9dabe3c9512d8519fed07c5c53554*](https://C19ZWr.mcsslk.xyz/70f9dabe3c9512d8519fed07c5c53554)
