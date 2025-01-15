@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-16 03:10:07
+> Updated Time: 2025-01-16 03:30:00
 
 - **tolinkshare2**
-  - **clash**: [*https://iCorni.tosslk.xyz/0c95c4533fcfdc9a9e58473106b2e3ae*](https://iCorni.tosslk.xyz/0c95c4533fcfdc9a9e58473106b2e3ae)
-  - **v2ray**: [*https://iCorni.tosslk.xyz/0c95c4533fcfdc9a9e58473106b2e3ae*](https://iCorni.tosslk.xyz/0c95c4533fcfdc9a9e58473106b2e3ae)
-  - **ios**: [*https://iCorni.tosslk.xyz/0c95c4533fcfdc9a9e58473106b2e3ae*](https://iCorni.tosslk.xyz/0c95c4533fcfdc9a9e58473106b2e3ae)
+  - **clash**: [*https://jHE6y4.tosslk.xyz/426f3da799320c9098dd7c3d2a9c2171*](https://jHE6y4.tosslk.xyz/426f3da799320c9098dd7c3d2a9c2171)
+  - **v2ray**: [*https://jHE6y4.tosslk.xyz/426f3da799320c9098dd7c3d2a9c2171*](https://jHE6y4.tosslk.xyz/426f3da799320c9098dd7c3d2a9c2171)
+  - **ios**: [*https://jHE6y4.tosslk.xyz/426f3da799320c9098dd7c3d2a9c2171*](https://jHE6y4.tosslk.xyz/426f3da799320c9098dd7c3d2a9c2171)
 - **abshare**
   - **clash**: [*https://TRtAK9.absslk.xyz/a175c91e7525ea9a1c1d75ec4c795042*](https://TRtAK9.absslk.xyz/a175c91e7525ea9a1c1d75ec4c795042)
   - **v2ray**: [*https://TRtAK9.absslk.xyz/a175c91e7525ea9a1c1d75ec4c795042*](https://TRtAK9.absslk.xyz/a175c91e7525ea9a1c1d75ec4c795042)
