@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-17 02:44:09
+> Updated Time: 2025-01-17 02:49:31
 
 - **tolinkshare2**
   - **clash**: [*https://Ss6aUW.tosslk.xyz/f74f4f6cab9bbe38711cdf02c88212db*](https://Ss6aUW.tosslk.xyz/f74f4f6cab9bbe38711cdf02c88212db)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://rpiDOg.tosslk.xyz/335ab62368b3f9472d66f33ee9752bef*](https://rpiDOg.tosslk.xyz/335ab62368b3f9472d66f33ee9752bef)
   - **ios**: [*https://rpiDOg.tosslk.xyz/335ab62368b3f9472d66f33ee9752bef*](https://rpiDOg.tosslk.xyz/335ab62368b3f9472d66f33ee9752bef)
 - **abshare3**
-  - **clash**: [*https://vaQ76S.absslk.xyz/1f8ad2d90473290d67b365ef9d4d55f2*](https://vaQ76S.absslk.xyz/1f8ad2d90473290d67b365ef9d4d55f2)
-  - **v2ray**: [*https://vaQ76S.absslk.xyz/1f8ad2d90473290d67b365ef9d4d55f2*](https://vaQ76S.absslk.xyz/1f8ad2d90473290d67b365ef9d4d55f2)
-  - **ios**: [*https://vaQ76S.absslk.xyz/1f8ad2d90473290d67b365ef9d4d55f2*](https://vaQ76S.absslk.xyz/1f8ad2d90473290d67b365ef9d4d55f2)
+  - **clash**: [*https://vLzwBz.absslk.xyz/fbfc3d614077429628b91c853bf9febf*](https://vLzwBz.absslk.xyz/fbfc3d614077429628b91c853bf9febf)
+  - **v2ray**: [*https://vLzwBz.absslk.xyz/fbfc3d614077429628b91c853bf9febf*](https://vLzwBz.absslk.xyz/fbfc3d614077429628b91c853bf9febf)
+  - **ios**: [*https://vLzwBz.absslk.xyz/fbfc3d614077429628b91c853bf9febf*](https://vLzwBz.absslk.xyz/fbfc3d614077429628b91c853bf9febf)
