@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-16 13:47:57
+> Updated Time: 2025-01-16 13:53:35
 
 - **tolinkshare2**
-  - **clash**: [*https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7*](https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7)
-  - **v2ray**: [*https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7*](https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7)
-  - **ios**: [*https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7*](https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7)
+  - **clash**: [*https://3MwSAr.tosslk.xyz/a19eded625f5a21608b94d5d8f20e233*](https://3MwSAr.tosslk.xyz/a19eded625f5a21608b94d5d8f20e233)
+  - **v2ray**: [*https://3MwSAr.tosslk.xyz/a19eded625f5a21608b94d5d8f20e233*](https://3MwSAr.tosslk.xyz/a19eded625f5a21608b94d5d8f20e233)
+  - **ios**: [*https://3MwSAr.tosslk.xyz/a19eded625f5a21608b94d5d8f20e233*](https://3MwSAr.tosslk.xyz/a19eded625f5a21608b94d5d8f20e233)
 - **abshare**
   - **clash**: [*https://XHV3S4.absslk.xyz/0419d95c082515d26a5c007a11546316*](https://XHV3S4.absslk.xyz/0419d95c082515d26a5c007a11546316)
   - **v2ray**: [*https://XHV3S4.absslk.xyz/0419d95c082515d26a5c007a11546316*](https://XHV3S4.absslk.xyz/0419d95c082515d26a5c007a11546316)
