@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-16 12:38:01
+> Updated Time: 2025-01-16 13:14:12
 
 - **tolinkshare2**
-  - **clash**: [*https://Xo4kKO.tosslk.xyz/8ea3d1e75ef90f37d6f280973d350f4f*](https://Xo4kKO.tosslk.xyz/8ea3d1e75ef90f37d6f280973d350f4f)
-  - **v2ray**: [*https://Xo4kKO.tosslk.xyz/8ea3d1e75ef90f37d6f280973d350f4f*](https://Xo4kKO.tosslk.xyz/8ea3d1e75ef90f37d6f280973d350f4f)
-  - **ios**: [*https://Xo4kKO.tosslk.xyz/8ea3d1e75ef90f37d6f280973d350f4f*](https://Xo4kKO.tosslk.xyz/8ea3d1e75ef90f37d6f280973d350f4f)
+  - **clash**: [*https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7*](https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7)
+  - **v2ray**: [*https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7*](https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7)
+  - **ios**: [*https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7*](https://uYo4KI.tosslk.xyz/a8f0d76585315ba0967acdd37d41d4a7)
 - **abshare**
   - **clash**: [*https://lEfrfj.absslk.xyz/630ee0c37aa4937d6ff597c6c91343df*](https://lEfrfj.absslk.xyz/630ee0c37aa4937d6ff597c6c91343df)
   - **v2ray**: [*https://lEfrfj.absslk.xyz/630ee0c37aa4937d6ff597c6c91343df*](https://lEfrfj.absslk.xyz/630ee0c37aa4937d6ff597c6c91343df)
