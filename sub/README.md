@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-17 22:27:28
+> Updated Time: 2025-01-17 22:41:39
 
 - **tolinkshare2**
-  - **clash**: [*https://aQGSwc.tosslk.xyz/9bd020ce5b8ca188077ac105bb544dd0*](https://aQGSwc.tosslk.xyz/9bd020ce5b8ca188077ac105bb544dd0)
-  - **v2ray**: [*https://aQGSwc.tosslk.xyz/9bd020ce5b8ca188077ac105bb544dd0*](https://aQGSwc.tosslk.xyz/9bd020ce5b8ca188077ac105bb544dd0)
-  - **ios**: [*https://aQGSwc.tosslk.xyz/9bd020ce5b8ca188077ac105bb544dd0*](https://aQGSwc.tosslk.xyz/9bd020ce5b8ca188077ac105bb544dd0)
+  - **clash**: [*https://3zf2AH.tosslk.xyz/821d3cd1ba396d02ddeb52b89069ccdf*](https://3zf2AH.tosslk.xyz/821d3cd1ba396d02ddeb52b89069ccdf)
+  - **v2ray**: [*https://3zf2AH.tosslk.xyz/821d3cd1ba396d02ddeb52b89069ccdf*](https://3zf2AH.tosslk.xyz/821d3cd1ba396d02ddeb52b89069ccdf)
+  - **ios**: [*https://3zf2AH.tosslk.xyz/821d3cd1ba396d02ddeb52b89069ccdf*](https://3zf2AH.tosslk.xyz/821d3cd1ba396d02ddeb52b89069ccdf)
 - **abshare**
-  - **clash**: [*https://SQNEbY.absslk.xyz/b3fdfeeb6a6f8a79a285547d628a8b59*](https://SQNEbY.absslk.xyz/b3fdfeeb6a6f8a79a285547d628a8b59)
-  - **v2ray**: [*https://SQNEbY.absslk.xyz/b3fdfeeb6a6f8a79a285547d628a8b59*](https://SQNEbY.absslk.xyz/b3fdfeeb6a6f8a79a285547d628a8b59)
-  - **ios**: [*https://SQNEbY.absslk.xyz/b3fdfeeb6a6f8a79a285547d628a8b59*](https://SQNEbY.absslk.xyz/b3fdfeeb6a6f8a79a285547d628a8b59)
+  - **clash**: [*https://AT4Enl.absslk.xyz/b31e49479c67dd78697496547d34be44*](https://AT4Enl.absslk.xyz/b31e49479c67dd78697496547d34be44)
+  - **v2ray**: [*https://AT4Enl.absslk.xyz/b31e49479c67dd78697496547d34be44*](https://AT4Enl.absslk.xyz/b31e49479c67dd78697496547d34be44)
+  - **ios**: [*https://AT4Enl.absslk.xyz/b31e49479c67dd78697496547d34be44*](https://AT4Enl.absslk.xyz/b31e49479c67dd78697496547d34be44)
 - **mksshare**
   - **clash**: [*https://Yr9UI1.mcsslk.xyz/e0119a30b2589318e346856acc05afee*](https://Yr9UI1.mcsslk.xyz/e0119a30b2589318e346856acc05afee)
   - **v2ray**: [*https://Yr9UI1.mcsslk.xyz/e0119a30b2589318e346856acc05afee*](https://Yr9UI1.mcsslk.xyz/e0119a30b2589318e346856acc05afee)
