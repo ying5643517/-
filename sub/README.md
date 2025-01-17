@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-18 03:32:17
+> Updated Time: 2025-01-18 03:38:05
 
 - **tolinkshare2**
-  - **clash**: [*https://X3Dwi0.tosslk.xyz/f081eacbae4780596624b8499f387416*](https://X3Dwi0.tosslk.xyz/f081eacbae4780596624b8499f387416)
-  - **v2ray**: [*https://X3Dwi0.tosslk.xyz/f081eacbae4780596624b8499f387416*](https://X3Dwi0.tosslk.xyz/f081eacbae4780596624b8499f387416)
-  - **ios**: [*https://X3Dwi0.tosslk.xyz/f081eacbae4780596624b8499f387416*](https://X3Dwi0.tosslk.xyz/f081eacbae4780596624b8499f387416)
+  - **clash**: [*https://TEZFay.tosslk.xyz/6d24bb8ddeab51decfde4b124f75dfc1*](https://TEZFay.tosslk.xyz/6d24bb8ddeab51decfde4b124f75dfc1)
+  - **v2ray**: [*https://TEZFay.tosslk.xyz/6d24bb8ddeab51decfde4b124f75dfc1*](https://TEZFay.tosslk.xyz/6d24bb8ddeab51decfde4b124f75dfc1)
+  - **ios**: [*https://TEZFay.tosslk.xyz/6d24bb8ddeab51decfde4b124f75dfc1*](https://TEZFay.tosslk.xyz/6d24bb8ddeab51decfde4b124f75dfc1)
 - **abshare**
   - **clash**: [*https://NEK4Uo.absslk.xyz/8b260d174d346dec9fa74785dab5bffe*](https://NEK4Uo.absslk.xyz/8b260d174d346dec9fa74785dab5bffe)
   - **v2ray**: [*https://NEK4Uo.absslk.xyz/8b260d174d346dec9fa74785dab5bffe*](https://NEK4Uo.absslk.xyz/8b260d174d346dec9fa74785dab5bffe)
