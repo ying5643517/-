@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-17 13:57:41
+> Updated Time: 2025-01-17 14:15:48
 
 - **tolinkshare2**
   - **clash**: [*https://aYqeJu.tosslk.xyz/3759ab665f837c5b42f379997b3bda43*](https://aYqeJu.tosslk.xyz/3759ab665f837c5b42f379997b3bda43)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://p6zCTQ.absslk.xyz/acaf1d76f4158653ee750b7b3cf935d0*](https://p6zCTQ.absslk.xyz/acaf1d76f4158653ee750b7b3cf935d0)
   - **ios**: [*https://p6zCTQ.absslk.xyz/acaf1d76f4158653ee750b7b3cf935d0*](https://p6zCTQ.absslk.xyz/acaf1d76f4158653ee750b7b3cf935d0)
 - **mksshare**
-  - **clash**: [*https://jpNNaW.mcsslk.xyz/37bbbe57bad3bbf5e2a854afeb9b602e*](https://jpNNaW.mcsslk.xyz/37bbbe57bad3bbf5e2a854afeb9b602e)
-  - **v2ray**: [*https://jpNNaW.mcsslk.xyz/37bbbe57bad3bbf5e2a854afeb9b602e*](https://jpNNaW.mcsslk.xyz/37bbbe57bad3bbf5e2a854afeb9b602e)
-  - **ios**: [*https://jpNNaW.mcsslk.xyz/37bbbe57bad3bbf5e2a854afeb9b602e*](https://jpNNaW.mcsslk.xyz/37bbbe57bad3bbf5e2a854afeb9b602e)
+  - **clash**: [*https://PkNO76.mcsslk.xyz/59497a17552dc362cd07fed296c24f28*](https://PkNO76.mcsslk.xyz/59497a17552dc362cd07fed296c24f28)
+  - **v2ray**: [*https://PkNO76.mcsslk.xyz/59497a17552dc362cd07fed296c24f28*](https://PkNO76.mcsslk.xyz/59497a17552dc362cd07fed296c24f28)
+  - **ios**: [*https://PkNO76.mcsslk.xyz/59497a17552dc362cd07fed296c24f28*](https://PkNO76.mcsslk.xyz/59497a17552dc362cd07fed296c24f28)
 - **mkshare3**
   - **clash**: [*https://xrvuMv.mcsslk.xyz/a4497474ec651a0c891ede1bdbdee8c9*](https://xrvuMv.mcsslk.xyz/a4497474ec651a0c891ede1bdbdee8c9)
   - **v2ray**: [*https://xrvuMv.mcsslk.xyz/a4497474ec651a0c891ede1bdbdee8c9*](https://xrvuMv.mcsslk.xyz/a4497474ec651a0c891ede1bdbdee8c9)
