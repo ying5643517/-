@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 00:37:53
+> Updated Time: 2025-01-19 00:43:14
 
 - **tolinkshare2**
-  - **clash**: [*https://WCyNlQ.tosslk.xyz/53bea0b30262e2e3a3dcaddc3be7d963*](https://WCyNlQ.tosslk.xyz/53bea0b30262e2e3a3dcaddc3be7d963)
-  - **v2ray**: [*https://WCyNlQ.tosslk.xyz/53bea0b30262e2e3a3dcaddc3be7d963*](https://WCyNlQ.tosslk.xyz/53bea0b30262e2e3a3dcaddc3be7d963)
-  - **ios**: [*https://WCyNlQ.tosslk.xyz/53bea0b30262e2e3a3dcaddc3be7d963*](https://WCyNlQ.tosslk.xyz/53bea0b30262e2e3a3dcaddc3be7d963)
+  - **clash**: [*https://oQS1GA.tosslk.xyz/7244389cf9bcd23200c8b54664b9a04d*](https://oQS1GA.tosslk.xyz/7244389cf9bcd23200c8b54664b9a04d)
+  - **v2ray**: [*https://oQS1GA.tosslk.xyz/7244389cf9bcd23200c8b54664b9a04d*](https://oQS1GA.tosslk.xyz/7244389cf9bcd23200c8b54664b9a04d)
+  - **ios**: [*https://oQS1GA.tosslk.xyz/7244389cf9bcd23200c8b54664b9a04d*](https://oQS1GA.tosslk.xyz/7244389cf9bcd23200c8b54664b9a04d)
 - **abshare**
   - **clash**: [*https://ENuwmw.absslk.xyz/517a149a30e176c5ab51b6822bde0775*](https://ENuwmw.absslk.xyz/517a149a30e176c5ab51b6822bde0775)
   - **v2ray**: [*https://ENuwmw.absslk.xyz/517a149a30e176c5ab51b6822bde0775*](https://ENuwmw.absslk.xyz/517a149a30e176c5ab51b6822bde0775)
