@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 07:06:35
+> Updated Time: 2025-01-19 07:22:19
 
 - **tolinkshare2**
-  - **clash**: [*https://RpgPwg.tosslk.xyz/c03f415aa269c0e4dae6f34b69c129d2*](https://RpgPwg.tosslk.xyz/c03f415aa269c0e4dae6f34b69c129d2)
-  - **v2ray**: [*https://RpgPwg.tosslk.xyz/c03f415aa269c0e4dae6f34b69c129d2*](https://RpgPwg.tosslk.xyz/c03f415aa269c0e4dae6f34b69c129d2)
-  - **ios**: [*https://RpgPwg.tosslk.xyz/c03f415aa269c0e4dae6f34b69c129d2*](https://RpgPwg.tosslk.xyz/c03f415aa269c0e4dae6f34b69c129d2)
+  - **clash**: [*https://kgfNE0.tosslk.xyz/742b146d7aaac9c8bb55926e323d307f*](https://kgfNE0.tosslk.xyz/742b146d7aaac9c8bb55926e323d307f)
+  - **v2ray**: [*https://kgfNE0.tosslk.xyz/742b146d7aaac9c8bb55926e323d307f*](https://kgfNE0.tosslk.xyz/742b146d7aaac9c8bb55926e323d307f)
+  - **ios**: [*https://kgfNE0.tosslk.xyz/742b146d7aaac9c8bb55926e323d307f*](https://kgfNE0.tosslk.xyz/742b146d7aaac9c8bb55926e323d307f)
 - **abshare**
-  - **clash**: [*https://Kh0L9m.absslk.xyz/d6d43f8394ecfad46000cb35b7e81350*](https://Kh0L9m.absslk.xyz/d6d43f8394ecfad46000cb35b7e81350)
-  - **v2ray**: [*https://Kh0L9m.absslk.xyz/d6d43f8394ecfad46000cb35b7e81350*](https://Kh0L9m.absslk.xyz/d6d43f8394ecfad46000cb35b7e81350)
-  - **ios**: [*https://Kh0L9m.absslk.xyz/d6d43f8394ecfad46000cb35b7e81350*](https://Kh0L9m.absslk.xyz/d6d43f8394ecfad46000cb35b7e81350)
+  - **clash**: [*https://VgpfcZ.absslk.xyz/8daa1e52217ef74ec0dc03826c47c59d*](https://VgpfcZ.absslk.xyz/8daa1e52217ef74ec0dc03826c47c59d)
+  - **v2ray**: [*https://VgpfcZ.absslk.xyz/8daa1e52217ef74ec0dc03826c47c59d*](https://VgpfcZ.absslk.xyz/8daa1e52217ef74ec0dc03826c47c59d)
+  - **ios**: [*https://VgpfcZ.absslk.xyz/8daa1e52217ef74ec0dc03826c47c59d*](https://VgpfcZ.absslk.xyz/8daa1e52217ef74ec0dc03826c47c59d)
 - **mksshare**
   - **clash**: [*https://2Tqtsp.mcsslk.xyz/2dbf910c9487ada7dd64b9ac0ad7d5a0*](https://2Tqtsp.mcsslk.xyz/2dbf910c9487ada7dd64b9ac0ad7d5a0)
   - **v2ray**: [*https://2Tqtsp.mcsslk.xyz/2dbf910c9487ada7dd64b9ac0ad7d5a0*](https://2Tqtsp.mcsslk.xyz/2dbf910c9487ada7dd64b9ac0ad7d5a0)
