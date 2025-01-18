@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-18 13:23:38
+> Updated Time: 2025-01-18 13:31:10
 
 - **tolinkshare2**
   - **clash**: [*https://iWulCk.tosslk.xyz/0b246c470c288af0d2b1c26b0df548b5*](https://iWulCk.tosslk.xyz/0b246c470c288af0d2b1c26b0df548b5)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://TmyWSh.mcsslk.xyz/756b61390a8746df8675ee9d0527fad3*](https://TmyWSh.mcsslk.xyz/756b61390a8746df8675ee9d0527fad3)
   - **ios**: [*https://TmyWSh.mcsslk.xyz/756b61390a8746df8675ee9d0527fad3*](https://TmyWSh.mcsslk.xyz/756b61390a8746df8675ee9d0527fad3)
 - **toshare5**
-  - **clash**: [*https://nuql2y.tosslk.xyz/4fa4d4fae2b8968ec48ab0e7001fedee*](https://nuql2y.tosslk.xyz/4fa4d4fae2b8968ec48ab0e7001fedee)
-  - **v2ray**: [*https://nuql2y.tosslk.xyz/4fa4d4fae2b8968ec48ab0e7001fedee*](https://nuql2y.tosslk.xyz/4fa4d4fae2b8968ec48ab0e7001fedee)
-  - **ios**: [*https://nuql2y.tosslk.xyz/4fa4d4fae2b8968ec48ab0e7001fedee*](https://nuql2y.tosslk.xyz/4fa4d4fae2b8968ec48ab0e7001fedee)
+  - **clash**: [*https://bHRcBx.tosslk.xyz/001af89f164f7b0729db90210d3b44b5*](https://bHRcBx.tosslk.xyz/001af89f164f7b0729db90210d3b44b5)
+  - **v2ray**: [*https://bHRcBx.tosslk.xyz/001af89f164f7b0729db90210d3b44b5*](https://bHRcBx.tosslk.xyz/001af89f164f7b0729db90210d3b44b5)
+  - **ios**: [*https://bHRcBx.tosslk.xyz/001af89f164f7b0729db90210d3b44b5*](https://bHRcBx.tosslk.xyz/001af89f164f7b0729db90210d3b44b5)
 - **abshare3**
   - **clash**: [*https://LOWz0a.absslk.xyz/ceab9b66721fe5bbafd9a4bab236eead*](https://LOWz0a.absslk.xyz/ceab9b66721fe5bbafd9a4bab236eead)
   - **v2ray**: [*https://LOWz0a.absslk.xyz/ceab9b66721fe5bbafd9a4bab236eead*](https://LOWz0a.absslk.xyz/ceab9b66721fe5bbafd9a4bab236eead)
