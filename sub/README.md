@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-18 17:35:31
+> Updated Time: 2025-01-18 17:40:54
 
 - **tolinkshare2**
-  - **clash**: [*https://VPChoG.tosslk.xyz/c542e4211f80f597c957797c517d40fb*](https://VPChoG.tosslk.xyz/c542e4211f80f597c957797c517d40fb)
-  - **v2ray**: [*https://VPChoG.tosslk.xyz/c542e4211f80f597c957797c517d40fb*](https://VPChoG.tosslk.xyz/c542e4211f80f597c957797c517d40fb)
-  - **ios**: [*https://VPChoG.tosslk.xyz/c542e4211f80f597c957797c517d40fb*](https://VPChoG.tosslk.xyz/c542e4211f80f597c957797c517d40fb)
+  - **clash**: [*https://esYVJF.tosslk.xyz/a2607af3ecf0bec7079220f880582364*](https://esYVJF.tosslk.xyz/a2607af3ecf0bec7079220f880582364)
+  - **v2ray**: [*https://esYVJF.tosslk.xyz/a2607af3ecf0bec7079220f880582364*](https://esYVJF.tosslk.xyz/a2607af3ecf0bec7079220f880582364)
+  - **ios**: [*https://esYVJF.tosslk.xyz/a2607af3ecf0bec7079220f880582364*](https://esYVJF.tosslk.xyz/a2607af3ecf0bec7079220f880582364)
 - **abshare**
   - **clash**: [*https://a4Mihb.absslk.xyz/33e3dfa143a71563df102ef6aecf81e0*](https://a4Mihb.absslk.xyz/33e3dfa143a71563df102ef6aecf81e0)
   - **v2ray**: [*https://a4Mihb.absslk.xyz/33e3dfa143a71563df102ef6aecf81e0*](https://a4Mihb.absslk.xyz/33e3dfa143a71563df102ef6aecf81e0)
