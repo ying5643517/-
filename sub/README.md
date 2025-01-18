@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-18 15:32:32
+> Updated Time: 2025-01-18 15:37:46
 
 - **tolinkshare2**
   - **clash**: [*https://Xl759V.tosslk.xyz/91be5dc86f30e34359d247daee1921ca*](https://Xl759V.tosslk.xyz/91be5dc86f30e34359d247daee1921ca)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://m8D5Dg.tosslk.xyz/4ddc53586bff52150900949dc562066b*](https://m8D5Dg.tosslk.xyz/4ddc53586bff52150900949dc562066b)
   - **ios**: [*https://m8D5Dg.tosslk.xyz/4ddc53586bff52150900949dc562066b*](https://m8D5Dg.tosslk.xyz/4ddc53586bff52150900949dc562066b)
 - **abshare3**
-  - **clash**: [*https://QOO3Dp.absslk.xyz/1e9aca900c9e32f74e9e2a9be1076c45*](https://QOO3Dp.absslk.xyz/1e9aca900c9e32f74e9e2a9be1076c45)
-  - **v2ray**: [*https://QOO3Dp.absslk.xyz/1e9aca900c9e32f74e9e2a9be1076c45*](https://QOO3Dp.absslk.xyz/1e9aca900c9e32f74e9e2a9be1076c45)
-  - **ios**: [*https://QOO3Dp.absslk.xyz/1e9aca900c9e32f74e9e2a9be1076c45*](https://QOO3Dp.absslk.xyz/1e9aca900c9e32f74e9e2a9be1076c45)
+  - **clash**: [*https://I64pst.absslk.xyz/5c0fa299311cf9d5e136369d3328b7fa*](https://I64pst.absslk.xyz/5c0fa299311cf9d5e136369d3328b7fa)
+  - **v2ray**: [*https://I64pst.absslk.xyz/5c0fa299311cf9d5e136369d3328b7fa*](https://I64pst.absslk.xyz/5c0fa299311cf9d5e136369d3328b7fa)
+  - **ios**: [*https://I64pst.absslk.xyz/5c0fa299311cf9d5e136369d3328b7fa*](https://I64pst.absslk.xyz/5c0fa299311cf9d5e136369d3328b7fa)
