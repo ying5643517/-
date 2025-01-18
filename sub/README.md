@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-18 13:31:10
+> Updated Time: 2025-01-18 13:37:23
 
 - **tolinkshare2**
-  - **clash**: [*https://iWulCk.tosslk.xyz/0b246c470c288af0d2b1c26b0df548b5*](https://iWulCk.tosslk.xyz/0b246c470c288af0d2b1c26b0df548b5)
-  - **v2ray**: [*https://iWulCk.tosslk.xyz/0b246c470c288af0d2b1c26b0df548b5*](https://iWulCk.tosslk.xyz/0b246c470c288af0d2b1c26b0df548b5)
-  - **ios**: [*https://iWulCk.tosslk.xyz/0b246c470c288af0d2b1c26b0df548b5*](https://iWulCk.tosslk.xyz/0b246c470c288af0d2b1c26b0df548b5)
+  - **clash**: [*https://lP9xsu.tosslk.xyz/070d87048b797153d88d972a2bed332e*](https://lP9xsu.tosslk.xyz/070d87048b797153d88d972a2bed332e)
+  - **v2ray**: [*https://lP9xsu.tosslk.xyz/070d87048b797153d88d972a2bed332e*](https://lP9xsu.tosslk.xyz/070d87048b797153d88d972a2bed332e)
+  - **ios**: [*https://lP9xsu.tosslk.xyz/070d87048b797153d88d972a2bed332e*](https://lP9xsu.tosslk.xyz/070d87048b797153d88d972a2bed332e)
 - **abshare**
   - **clash**: [*https://S17NxO.absslk.xyz/4a5ee6356be36a68dec0bd969242b609*](https://S17NxO.absslk.xyz/4a5ee6356be36a68dec0bd969242b609)
   - **v2ray**: [*https://S17NxO.absslk.xyz/4a5ee6356be36a68dec0bd969242b609*](https://S17NxO.absslk.xyz/4a5ee6356be36a68dec0bd969242b609)
