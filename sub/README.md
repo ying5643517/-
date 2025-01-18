@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-18 10:39:14
+> Updated Time: 2025-01-18 10:55:54
 
 - **tolinkshare2**
-  - **clash**: [*https://6ieGBB.tosslk.xyz/ef2842b577e47602a070bac71874b341*](https://6ieGBB.tosslk.xyz/ef2842b577e47602a070bac71874b341)
-  - **v2ray**: [*https://6ieGBB.tosslk.xyz/ef2842b577e47602a070bac71874b341*](https://6ieGBB.tosslk.xyz/ef2842b577e47602a070bac71874b341)
-  - **ios**: [*https://6ieGBB.tosslk.xyz/ef2842b577e47602a070bac71874b341*](https://6ieGBB.tosslk.xyz/ef2842b577e47602a070bac71874b341)
+  - **clash**: [*https://Ud5kjp.tosslk.xyz/7e09ad5e32b282edebc2bd3aab1f4040*](https://Ud5kjp.tosslk.xyz/7e09ad5e32b282edebc2bd3aab1f4040)
+  - **v2ray**: [*https://Ud5kjp.tosslk.xyz/7e09ad5e32b282edebc2bd3aab1f4040*](https://Ud5kjp.tosslk.xyz/7e09ad5e32b282edebc2bd3aab1f4040)
+  - **ios**: [*https://Ud5kjp.tosslk.xyz/7e09ad5e32b282edebc2bd3aab1f4040*](https://Ud5kjp.tosslk.xyz/7e09ad5e32b282edebc2bd3aab1f4040)
 - **abshare**
-  - **clash**: [*https://asoz6N.absslk.xyz/93980289d07688333dc2099c8eccb351*](https://asoz6N.absslk.xyz/93980289d07688333dc2099c8eccb351)
-  - **v2ray**: [*https://asoz6N.absslk.xyz/93980289d07688333dc2099c8eccb351*](https://asoz6N.absslk.xyz/93980289d07688333dc2099c8eccb351)
-  - **ios**: [*https://asoz6N.absslk.xyz/93980289d07688333dc2099c8eccb351*](https://asoz6N.absslk.xyz/93980289d07688333dc2099c8eccb351)
+  - **clash**: [*https://rTJdcS.absslk.xyz/5c1d8a488b37497a5a503f396d3a943c*](https://rTJdcS.absslk.xyz/5c1d8a488b37497a5a503f396d3a943c)
+  - **v2ray**: [*https://rTJdcS.absslk.xyz/5c1d8a488b37497a5a503f396d3a943c*](https://rTJdcS.absslk.xyz/5c1d8a488b37497a5a503f396d3a943c)
+  - **ios**: [*https://rTJdcS.absslk.xyz/5c1d8a488b37497a5a503f396d3a943c*](https://rTJdcS.absslk.xyz/5c1d8a488b37497a5a503f396d3a943c)
 - **mksshare**
   - **clash**: [*https://QAn2HQ.mcsslk.xyz/7ff0e250644f96bbdd430bd20d2b40c9*](https://QAn2HQ.mcsslk.xyz/7ff0e250644f96bbdd430bd20d2b40c9)
   - **v2ray**: [*https://QAn2HQ.mcsslk.xyz/7ff0e250644f96bbdd430bd20d2b40c9*](https://QAn2HQ.mcsslk.xyz/7ff0e250644f96bbdd430bd20d2b40c9)
