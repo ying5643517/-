@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-18 21:42:54
+> Updated Time: 2025-01-18 21:48:21
 
 - **tolinkshare2**
-  - **clash**: [*https://edp7We.tosslk.xyz/761a217c2637f1465fd7e3a4cf12d44d*](https://edp7We.tosslk.xyz/761a217c2637f1465fd7e3a4cf12d44d)
-  - **v2ray**: [*https://edp7We.tosslk.xyz/761a217c2637f1465fd7e3a4cf12d44d*](https://edp7We.tosslk.xyz/761a217c2637f1465fd7e3a4cf12d44d)
-  - **ios**: [*https://edp7We.tosslk.xyz/761a217c2637f1465fd7e3a4cf12d44d*](https://edp7We.tosslk.xyz/761a217c2637f1465fd7e3a4cf12d44d)
+  - **clash**: [*https://KgcuPm.tosslk.xyz/cd937e8e3692e8c089d0817bf0edc336*](https://KgcuPm.tosslk.xyz/cd937e8e3692e8c089d0817bf0edc336)
+  - **v2ray**: [*https://KgcuPm.tosslk.xyz/cd937e8e3692e8c089d0817bf0edc336*](https://KgcuPm.tosslk.xyz/cd937e8e3692e8c089d0817bf0edc336)
+  - **ios**: [*https://KgcuPm.tosslk.xyz/cd937e8e3692e8c089d0817bf0edc336*](https://KgcuPm.tosslk.xyz/cd937e8e3692e8c089d0817bf0edc336)
 - **abshare**
   - **clash**: [*https://7Rzaml.absslk.xyz/8161407d94675b951f7f76d422a8300a*](https://7Rzaml.absslk.xyz/8161407d94675b951f7f76d422a8300a)
   - **v2ray**: [*https://7Rzaml.absslk.xyz/8161407d94675b951f7f76d422a8300a*](https://7Rzaml.absslk.xyz/8161407d94675b951f7f76d422a8300a)
