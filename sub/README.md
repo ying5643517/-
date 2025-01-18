@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 04:57:13
+> Updated Time: 2025-01-19 05:09:50
 
 - **tolinkshare2**
-  - **clash**: [*https://I6Ky1e.tosslk.xyz/f6bb5995a2b0c4cf508b827b29668bdf*](https://I6Ky1e.tosslk.xyz/f6bb5995a2b0c4cf508b827b29668bdf)
-  - **v2ray**: [*https://I6Ky1e.tosslk.xyz/f6bb5995a2b0c4cf508b827b29668bdf*](https://I6Ky1e.tosslk.xyz/f6bb5995a2b0c4cf508b827b29668bdf)
-  - **ios**: [*https://I6Ky1e.tosslk.xyz/f6bb5995a2b0c4cf508b827b29668bdf*](https://I6Ky1e.tosslk.xyz/f6bb5995a2b0c4cf508b827b29668bdf)
+  - **clash**: [*https://JKKtyK.tosslk.xyz/275a732d15219f450c6c5ae3fe887914*](https://JKKtyK.tosslk.xyz/275a732d15219f450c6c5ae3fe887914)
+  - **v2ray**: [*https://JKKtyK.tosslk.xyz/275a732d15219f450c6c5ae3fe887914*](https://JKKtyK.tosslk.xyz/275a732d15219f450c6c5ae3fe887914)
+  - **ios**: [*https://JKKtyK.tosslk.xyz/275a732d15219f450c6c5ae3fe887914*](https://JKKtyK.tosslk.xyz/275a732d15219f450c6c5ae3fe887914)
 - **abshare**
   - **clash**: [*https://4ZWTUe.absslk.xyz/fb8f09fabf7d6879ec1c77e0f48796f8*](https://4ZWTUe.absslk.xyz/fb8f09fabf7d6879ec1c77e0f48796f8)
   - **v2ray**: [*https://4ZWTUe.absslk.xyz/fb8f09fabf7d6879ec1c77e0f48796f8*](https://4ZWTUe.absslk.xyz/fb8f09fabf7d6879ec1c77e0f48796f8)
