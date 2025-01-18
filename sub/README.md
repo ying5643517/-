@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 02:30:09
+> Updated Time: 2025-01-19 02:39:44
 
 - **tolinkshare2**
-  - **clash**: [*https://TxFKRm.tosslk.xyz/5f3e5792b530e3035f11889c9e59c50c*](https://TxFKRm.tosslk.xyz/5f3e5792b530e3035f11889c9e59c50c)
-  - **v2ray**: [*https://TxFKRm.tosslk.xyz/5f3e5792b530e3035f11889c9e59c50c*](https://TxFKRm.tosslk.xyz/5f3e5792b530e3035f11889c9e59c50c)
-  - **ios**: [*https://TxFKRm.tosslk.xyz/5f3e5792b530e3035f11889c9e59c50c*](https://TxFKRm.tosslk.xyz/5f3e5792b530e3035f11889c9e59c50c)
+  - **clash**: [*https://N7WjeB.tosslk.xyz/539359bcd68d9efba699e94828252a91*](https://N7WjeB.tosslk.xyz/539359bcd68d9efba699e94828252a91)
+  - **v2ray**: [*https://N7WjeB.tosslk.xyz/539359bcd68d9efba699e94828252a91*](https://N7WjeB.tosslk.xyz/539359bcd68d9efba699e94828252a91)
+  - **ios**: [*https://N7WjeB.tosslk.xyz/539359bcd68d9efba699e94828252a91*](https://N7WjeB.tosslk.xyz/539359bcd68d9efba699e94828252a91)
 - **abshare**
-  - **clash**: [*https://rtQUfj.absslk.xyz/eaa37cb83cfd06ec26dea533f2bfb564*](https://rtQUfj.absslk.xyz/eaa37cb83cfd06ec26dea533f2bfb564)
-  - **v2ray**: [*https://rtQUfj.absslk.xyz/eaa37cb83cfd06ec26dea533f2bfb564*](https://rtQUfj.absslk.xyz/eaa37cb83cfd06ec26dea533f2bfb564)
-  - **ios**: [*https://rtQUfj.absslk.xyz/eaa37cb83cfd06ec26dea533f2bfb564*](https://rtQUfj.absslk.xyz/eaa37cb83cfd06ec26dea533f2bfb564)
+  - **clash**: [*https://Zomm0o.absslk.xyz/f93b0f95e7ec688e7399e82b73b90fa6*](https://Zomm0o.absslk.xyz/f93b0f95e7ec688e7399e82b73b90fa6)
+  - **v2ray**: [*https://Zomm0o.absslk.xyz/f93b0f95e7ec688e7399e82b73b90fa6*](https://Zomm0o.absslk.xyz/f93b0f95e7ec688e7399e82b73b90fa6)
+  - **ios**: [*https://Zomm0o.absslk.xyz/f93b0f95e7ec688e7399e82b73b90fa6*](https://Zomm0o.absslk.xyz/f93b0f95e7ec688e7399e82b73b90fa6)
 - **mksshare**
   - **clash**: [*https://0vvBWo.mcsslk.xyz/8cb019161f17c6fc2d6042ea24c8226b*](https://0vvBWo.mcsslk.xyz/8cb019161f17c6fc2d6042ea24c8226b)
   - **v2ray**: [*https://0vvBWo.mcsslk.xyz/8cb019161f17c6fc2d6042ea24c8226b*](https://0vvBWo.mcsslk.xyz/8cb019161f17c6fc2d6042ea24c8226b)
