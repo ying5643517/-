@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 14:57:54
+> Updated Time: 2025-01-19 15:10:42
 
 - **tolinkshare2**
-  - **clash**: [*https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0*](https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0)
-  - **v2ray**: [*https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0*](https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0)
-  - **ios**: [*https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0*](https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0)
+  - **clash**: [*https://UPrgBZ.tosslk.xyz/3e4e0d2bae0abcccf168a9e5ddaf5507*](https://UPrgBZ.tosslk.xyz/3e4e0d2bae0abcccf168a9e5ddaf5507)
+  - **v2ray**: [*https://UPrgBZ.tosslk.xyz/3e4e0d2bae0abcccf168a9e5ddaf5507*](https://UPrgBZ.tosslk.xyz/3e4e0d2bae0abcccf168a9e5ddaf5507)
+  - **ios**: [*https://UPrgBZ.tosslk.xyz/3e4e0d2bae0abcccf168a9e5ddaf5507*](https://UPrgBZ.tosslk.xyz/3e4e0d2bae0abcccf168a9e5ddaf5507)
 - **abshare**
-  - **clash**: [*https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8*](https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8)
-  - **v2ray**: [*https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8*](https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8)
-  - **ios**: [*https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8*](https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8)
+  - **clash**: [*https://QRtiF9.absslk.xyz/aa1f326de3194912192ed8ecbcc29383*](https://QRtiF9.absslk.xyz/aa1f326de3194912192ed8ecbcc29383)
+  - **v2ray**: [*https://QRtiF9.absslk.xyz/aa1f326de3194912192ed8ecbcc29383*](https://QRtiF9.absslk.xyz/aa1f326de3194912192ed8ecbcc29383)
+  - **ios**: [*https://QRtiF9.absslk.xyz/aa1f326de3194912192ed8ecbcc29383*](https://QRtiF9.absslk.xyz/aa1f326de3194912192ed8ecbcc29383)
 - **mksshare**
   - **clash**: [*https://OQyUs4.mcsslk.xyz/19b1e1abaf07166a08794943da5b3de3*](https://OQyUs4.mcsslk.xyz/19b1e1abaf07166a08794943da5b3de3)
   - **v2ray**: [*https://OQyUs4.mcsslk.xyz/19b1e1abaf07166a08794943da5b3de3*](https://OQyUs4.mcsslk.xyz/19b1e1abaf07166a08794943da5b3de3)
