@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 15:55:38
+> Updated Time: 2025-01-19 16:09:00
 
 - **tolinkshare2**
-  - **clash**: [*https://unkAlE.tosslk.xyz/ce348c22d5efb38d70e8222686da9afb*](https://unkAlE.tosslk.xyz/ce348c22d5efb38d70e8222686da9afb)
-  - **v2ray**: [*https://unkAlE.tosslk.xyz/ce348c22d5efb38d70e8222686da9afb*](https://unkAlE.tosslk.xyz/ce348c22d5efb38d70e8222686da9afb)
-  - **ios**: [*https://unkAlE.tosslk.xyz/ce348c22d5efb38d70e8222686da9afb*](https://unkAlE.tosslk.xyz/ce348c22d5efb38d70e8222686da9afb)
+  - **clash**: [*https://PfZb8T.tosslk.xyz/5c22354fc267eee798d5604e01018fc6*](https://PfZb8T.tosslk.xyz/5c22354fc267eee798d5604e01018fc6)
+  - **v2ray**: [*https://PfZb8T.tosslk.xyz/5c22354fc267eee798d5604e01018fc6*](https://PfZb8T.tosslk.xyz/5c22354fc267eee798d5604e01018fc6)
+  - **ios**: [*https://PfZb8T.tosslk.xyz/5c22354fc267eee798d5604e01018fc6*](https://PfZb8T.tosslk.xyz/5c22354fc267eee798d5604e01018fc6)
 - **abshare**
-  - **clash**: [*https://jcacfA.absslk.xyz/c15915bf8da48fabb9376411eef0ec45*](https://jcacfA.absslk.xyz/c15915bf8da48fabb9376411eef0ec45)
-  - **v2ray**: [*https://jcacfA.absslk.xyz/c15915bf8da48fabb9376411eef0ec45*](https://jcacfA.absslk.xyz/c15915bf8da48fabb9376411eef0ec45)
-  - **ios**: [*https://jcacfA.absslk.xyz/c15915bf8da48fabb9376411eef0ec45*](https://jcacfA.absslk.xyz/c15915bf8da48fabb9376411eef0ec45)
+  - **clash**: [*https://BFl2f2.absslk.xyz/298002e07fb357d749b87d165a86bf1c*](https://BFl2f2.absslk.xyz/298002e07fb357d749b87d165a86bf1c)
+  - **v2ray**: [*https://BFl2f2.absslk.xyz/298002e07fb357d749b87d165a86bf1c*](https://BFl2f2.absslk.xyz/298002e07fb357d749b87d165a86bf1c)
+  - **ios**: [*https://BFl2f2.absslk.xyz/298002e07fb357d749b87d165a86bf1c*](https://BFl2f2.absslk.xyz/298002e07fb357d749b87d165a86bf1c)
 - **mksshare**
   - **clash**: [*https://wWGzRj.mcsslk.xyz/b501d5fb3141673df0ec0f71d789ef22*](https://wWGzRj.mcsslk.xyz/b501d5fb3141673df0ec0f71d789ef22)
   - **v2ray**: [*https://wWGzRj.mcsslk.xyz/b501d5fb3141673df0ec0f71d789ef22*](https://wWGzRj.mcsslk.xyz/b501d5fb3141673df0ec0f71d789ef22)
