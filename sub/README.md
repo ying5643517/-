@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 14:52:38
+> Updated Time: 2025-01-19 14:57:54
 
 - **tolinkshare2**
-  - **clash**: [*https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a*](https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a)
-  - **v2ray**: [*https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a*](https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a)
-  - **ios**: [*https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a*](https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a)
+  - **clash**: [*https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0*](https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0)
+  - **v2ray**: [*https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0*](https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0)
+  - **ios**: [*https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0*](https://B4UEmg.tosslk.xyz/a7b27d59ead7a05717688a01fdd171d0)
 - **abshare**
   - **clash**: [*https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8*](https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8)
   - **v2ray**: [*https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8*](https://jdkQVG.absslk.xyz/878c9305664e43746043727d62f07ac8)
