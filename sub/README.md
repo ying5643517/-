@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 13:55:41
+> Updated Time: 2025-01-19 14:09:32
 
 - **tolinkshare2**
-  - **clash**: [*https://rS7O4y.tosslk.xyz/722cd8f62c1c0e33c77c1a13aee921c5*](https://rS7O4y.tosslk.xyz/722cd8f62c1c0e33c77c1a13aee921c5)
-  - **v2ray**: [*https://rS7O4y.tosslk.xyz/722cd8f62c1c0e33c77c1a13aee921c5*](https://rS7O4y.tosslk.xyz/722cd8f62c1c0e33c77c1a13aee921c5)
-  - **ios**: [*https://rS7O4y.tosslk.xyz/722cd8f62c1c0e33c77c1a13aee921c5*](https://rS7O4y.tosslk.xyz/722cd8f62c1c0e33c77c1a13aee921c5)
+  - **clash**: [*https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a*](https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a)
+  - **v2ray**: [*https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a*](https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a)
+  - **ios**: [*https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a*](https://iYVAEa.tosslk.xyz/1e40a4a085a9fc8acff6e11513f17c5a)
 - **abshare**
-  - **clash**: [*https://drBY3w.absslk.xyz/1fa298976db0cb0fa30c414ce7b8e759*](https://drBY3w.absslk.xyz/1fa298976db0cb0fa30c414ce7b8e759)
-  - **v2ray**: [*https://drBY3w.absslk.xyz/1fa298976db0cb0fa30c414ce7b8e759*](https://drBY3w.absslk.xyz/1fa298976db0cb0fa30c414ce7b8e759)
-  - **ios**: [*https://drBY3w.absslk.xyz/1fa298976db0cb0fa30c414ce7b8e759*](https://drBY3w.absslk.xyz/1fa298976db0cb0fa30c414ce7b8e759)
+  - **clash**: [*https://pnrc8O.absslk.xyz/e74f88bb7be888ec5ea9028e6a1b225f*](https://pnrc8O.absslk.xyz/e74f88bb7be888ec5ea9028e6a1b225f)
+  - **v2ray**: [*https://pnrc8O.absslk.xyz/e74f88bb7be888ec5ea9028e6a1b225f*](https://pnrc8O.absslk.xyz/e74f88bb7be888ec5ea9028e6a1b225f)
+  - **ios**: [*https://pnrc8O.absslk.xyz/e74f88bb7be888ec5ea9028e6a1b225f*](https://pnrc8O.absslk.xyz/e74f88bb7be888ec5ea9028e6a1b225f)
 - **mksshare**
   - **clash**: [*https://6HAbRI.mcsslk.xyz/daa3d72e3df3c20af76c9b42cde61ca8*](https://6HAbRI.mcsslk.xyz/daa3d72e3df3c20af76c9b42cde61ca8)
   - **v2ray**: [*https://6HAbRI.mcsslk.xyz/daa3d72e3df3c20af76c9b42cde61ca8*](https://6HAbRI.mcsslk.xyz/daa3d72e3df3c20af76c9b42cde61ca8)
