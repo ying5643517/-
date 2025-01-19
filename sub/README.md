@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 17:55:56
+> Updated Time: 2025-01-19 18:07:50
 
 - **tolinkshare2**
   - **clash**: [*https://oFCKZl.tosslk.xyz/0b1d15f3dda618f5ae9f672184eaedb3*](https://oFCKZl.tosslk.xyz/0b1d15f3dda618f5ae9f672184eaedb3)
   - **v2ray**: [*https://oFCKZl.tosslk.xyz/0b1d15f3dda618f5ae9f672184eaedb3*](https://oFCKZl.tosslk.xyz/0b1d15f3dda618f5ae9f672184eaedb3)
   - **ios**: [*https://oFCKZl.tosslk.xyz/0b1d15f3dda618f5ae9f672184eaedb3*](https://oFCKZl.tosslk.xyz/0b1d15f3dda618f5ae9f672184eaedb3)
 - **abshare**
-  - **clash**: [*https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab*](https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab)
-  - **v2ray**: [*https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab*](https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab)
-  - **ios**: [*https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab*](https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab)
+  - **clash**: [*https://Yu0j9P.absslk.xyz/0458d11061743d55067bb34905772fae*](https://Yu0j9P.absslk.xyz/0458d11061743d55067bb34905772fae)
+  - **v2ray**: [*https://Yu0j9P.absslk.xyz/0458d11061743d55067bb34905772fae*](https://Yu0j9P.absslk.xyz/0458d11061743d55067bb34905772fae)
+  - **ios**: [*https://Yu0j9P.absslk.xyz/0458d11061743d55067bb34905772fae*](https://Yu0j9P.absslk.xyz/0458d11061743d55067bb34905772fae)
 - **mksshare**
   - **clash**: [*https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd*](https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd)
   - **v2ray**: [*https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd*](https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd)
