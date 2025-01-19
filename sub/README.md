@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-20 02:30:59
+> Updated Time: 2025-01-20 02:40:42
 
 - **tolinkshare2**
-  - **clash**: [*https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27*](https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27)
-  - **v2ray**: [*https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27*](https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27)
-  - **ios**: [*https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27*](https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27)
+  - **clash**: [*https://idEOWF.tosslk.xyz/78bca54dba96bce488897207ee8f99e7*](https://idEOWF.tosslk.xyz/78bca54dba96bce488897207ee8f99e7)
+  - **v2ray**: [*https://idEOWF.tosslk.xyz/78bca54dba96bce488897207ee8f99e7*](https://idEOWF.tosslk.xyz/78bca54dba96bce488897207ee8f99e7)
+  - **ios**: [*https://idEOWF.tosslk.xyz/78bca54dba96bce488897207ee8f99e7*](https://idEOWF.tosslk.xyz/78bca54dba96bce488897207ee8f99e7)
 - **abshare**
   - **clash**: [*https://JAjriU.absslk.xyz/ef3439306297ec247e2b79200dd01798*](https://JAjriU.absslk.xyz/ef3439306297ec247e2b79200dd01798)
   - **v2ray**: [*https://JAjriU.absslk.xyz/ef3439306297ec247e2b79200dd01798*](https://JAjriU.absslk.xyz/ef3439306297ec247e2b79200dd01798)
