@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-20 04:54:01
+> Updated Time: 2025-01-20 04:59:15
 
 - **tolinkshare2**
-  - **clash**: [*https://xow1a6.tosslk.xyz/b2d27096b2d59c3ed4a96c44cf3ae791*](https://xow1a6.tosslk.xyz/b2d27096b2d59c3ed4a96c44cf3ae791)
-  - **v2ray**: [*https://xow1a6.tosslk.xyz/b2d27096b2d59c3ed4a96c44cf3ae791*](https://xow1a6.tosslk.xyz/b2d27096b2d59c3ed4a96c44cf3ae791)
-  - **ios**: [*https://xow1a6.tosslk.xyz/b2d27096b2d59c3ed4a96c44cf3ae791*](https://xow1a6.tosslk.xyz/b2d27096b2d59c3ed4a96c44cf3ae791)
+  - **clash**: [*https://fcUjcr.tosslk.xyz/5244ccc2b2be93c4141b7d2658ba113c*](https://fcUjcr.tosslk.xyz/5244ccc2b2be93c4141b7d2658ba113c)
+  - **v2ray**: [*https://fcUjcr.tosslk.xyz/5244ccc2b2be93c4141b7d2658ba113c*](https://fcUjcr.tosslk.xyz/5244ccc2b2be93c4141b7d2658ba113c)
+  - **ios**: [*https://fcUjcr.tosslk.xyz/5244ccc2b2be93c4141b7d2658ba113c*](https://fcUjcr.tosslk.xyz/5244ccc2b2be93c4141b7d2658ba113c)
 - **abshare**
   - **clash**: [*https://xcmCyV.absslk.xyz/9e6e9a6795fb6e98bd32bf50e0815e96*](https://xcmCyV.absslk.xyz/9e6e9a6795fb6e98bd32bf50e0815e96)
   - **v2ray**: [*https://xcmCyV.absslk.xyz/9e6e9a6795fb6e98bd32bf50e0815e96*](https://xcmCyV.absslk.xyz/9e6e9a6795fb6e98bd32bf50e0815e96)
