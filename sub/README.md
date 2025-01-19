@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-20 00:32:31
+> Updated Time: 2025-01-20 00:41:09
 
 - **tolinkshare2**
-  - **clash**: [*https://7T5RWH.tosslk.xyz/c2b76f903e89ae231b4892dc943a656b*](https://7T5RWH.tosslk.xyz/c2b76f903e89ae231b4892dc943a656b)
-  - **v2ray**: [*https://7T5RWH.tosslk.xyz/c2b76f903e89ae231b4892dc943a656b*](https://7T5RWH.tosslk.xyz/c2b76f903e89ae231b4892dc943a656b)
-  - **ios**: [*https://7T5RWH.tosslk.xyz/c2b76f903e89ae231b4892dc943a656b*](https://7T5RWH.tosslk.xyz/c2b76f903e89ae231b4892dc943a656b)
+  - **clash**: [*https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239*](https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239)
+  - **v2ray**: [*https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239*](https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239)
+  - **ios**: [*https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239*](https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239)
 - **abshare**
   - **clash**: [*https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3*](https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3)
   - **v2ray**: [*https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3*](https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3)
