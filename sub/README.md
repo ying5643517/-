@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-20 00:57:06
+> Updated Time: 2025-01-20 01:08:25
 
 - **tolinkshare2**
-  - **clash**: [*https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239*](https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239)
-  - **v2ray**: [*https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239*](https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239)
-  - **ios**: [*https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239*](https://KdWb8W.tosslk.xyz/d19cf19b5e85883375f5985972f92239)
+  - **clash**: [*https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27*](https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27)
+  - **v2ray**: [*https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27*](https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27)
+  - **ios**: [*https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27*](https://gJC1CP.tosslk.xyz/47dccae3fe32139497575c5355a47e27)
 - **abshare**
-  - **clash**: [*https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3*](https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3)
-  - **v2ray**: [*https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3*](https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3)
-  - **ios**: [*https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3*](https://cCgoMc.absslk.xyz/4a6148c7d7d92f07940751decbaf85c3)
+  - **clash**: [*https://LwpPdp.absslk.xyz/b27fa9c457ca364cceecf19c4d8568ce*](https://LwpPdp.absslk.xyz/b27fa9c457ca364cceecf19c4d8568ce)
+  - **v2ray**: [*https://LwpPdp.absslk.xyz/b27fa9c457ca364cceecf19c4d8568ce*](https://LwpPdp.absslk.xyz/b27fa9c457ca364cceecf19c4d8568ce)
+  - **ios**: [*https://LwpPdp.absslk.xyz/b27fa9c457ca364cceecf19c4d8568ce*](https://LwpPdp.absslk.xyz/b27fa9c457ca364cceecf19c4d8568ce)
 - **mksshare**
   - **clash**: [*https://IIJATf.mcsslk.xyz/2bc878f88d60a01514fe66053d5359f6*](https://IIJATf.mcsslk.xyz/2bc878f88d60a01514fe66053d5359f6)
   - **v2ray**: [*https://IIJATf.mcsslk.xyz/2bc878f88d60a01514fe66053d5359f6*](https://IIJATf.mcsslk.xyz/2bc878f88d60a01514fe66053d5359f6)
