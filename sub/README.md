@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-19 17:34:55
+> Updated Time: 2025-01-19 17:55:56
 
 - **tolinkshare2**
   - **clash**: [*https://oFCKZl.tosslk.xyz/0b1d15f3dda618f5ae9f672184eaedb3*](https://oFCKZl.tosslk.xyz/0b1d15f3dda618f5ae9f672184eaedb3)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab*](https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab)
   - **ios**: [*https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab*](https://GyCNOA.absslk.xyz/39cb15ba160af0706c4a08df971359ab)
 - **mksshare**
-  - **clash**: [*https://SOFdoy.mcsslk.xyz/e066cd10e03f5da8960ebcf02805e341*](https://SOFdoy.mcsslk.xyz/e066cd10e03f5da8960ebcf02805e341)
-  - **v2ray**: [*https://SOFdoy.mcsslk.xyz/e066cd10e03f5da8960ebcf02805e341*](https://SOFdoy.mcsslk.xyz/e066cd10e03f5da8960ebcf02805e341)
-  - **ios**: [*https://SOFdoy.mcsslk.xyz/e066cd10e03f5da8960ebcf02805e341*](https://SOFdoy.mcsslk.xyz/e066cd10e03f5da8960ebcf02805e341)
+  - **clash**: [*https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd*](https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd)
+  - **v2ray**: [*https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd*](https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd)
+  - **ios**: [*https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd*](https://NaUepG.mcsslk.xyz/1d92161e27aeae9679723ae5a36ad5dd)
 - **mkshare3**
   - **clash**: [*https://T3Gk3M.mcsslk.xyz/b0bcd4a8053a052549b717bb56969116*](https://T3Gk3M.mcsslk.xyz/b0bcd4a8053a052549b717bb56969116)
   - **v2ray**: [*https://T3Gk3M.mcsslk.xyz/b0bcd4a8053a052549b717bb56969116*](https://T3Gk3M.mcsslk.xyz/b0bcd4a8053a052549b717bb56969116)
