@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-20 06:30:26
+> Updated Time: 2025-01-20 06:42:55
 
 - **tolinkshare2**
   - **clash**: [*https://CsVQP3.tosslk.xyz/d163907c1e106d4bfd0808e633f34e92*](https://CsVQP3.tosslk.xyz/d163907c1e106d4bfd0808e633f34e92)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://2D2MU0.tosslk.xyz/7cc08f1ac6f5fd0b7b2dd2480b834ea6*](https://2D2MU0.tosslk.xyz/7cc08f1ac6f5fd0b7b2dd2480b834ea6)
   - **ios**: [*https://2D2MU0.tosslk.xyz/7cc08f1ac6f5fd0b7b2dd2480b834ea6*](https://2D2MU0.tosslk.xyz/7cc08f1ac6f5fd0b7b2dd2480b834ea6)
 - **abshare3**
-  - **clash**: [*https://Tuiz2P.absslk.xyz/73208792871eb2b5d42e2cd6118a558e*](https://Tuiz2P.absslk.xyz/73208792871eb2b5d42e2cd6118a558e)
-  - **v2ray**: [*https://Tuiz2P.absslk.xyz/73208792871eb2b5d42e2cd6118a558e*](https://Tuiz2P.absslk.xyz/73208792871eb2b5d42e2cd6118a558e)
-  - **ios**: [*https://Tuiz2P.absslk.xyz/73208792871eb2b5d42e2cd6118a558e*](https://Tuiz2P.absslk.xyz/73208792871eb2b5d42e2cd6118a558e)
+  - **clash**: [*https://BcJQmV.absslk.xyz/a6c330b2e37e155392ff13566f586de6*](https://BcJQmV.absslk.xyz/a6c330b2e37e155392ff13566f586de6)
+  - **v2ray**: [*https://BcJQmV.absslk.xyz/a6c330b2e37e155392ff13566f586de6*](https://BcJQmV.absslk.xyz/a6c330b2e37e155392ff13566f586de6)
+  - **ios**: [*https://BcJQmV.absslk.xyz/a6c330b2e37e155392ff13566f586de6*](https://BcJQmV.absslk.xyz/a6c330b2e37e155392ff13566f586de6)
