@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-20 21:50:37
+> Updated Time: 2025-01-20 21:55:53
 
 - **tolinkshare2**
-  - **clash**: [*https://Q3UPMJ.tosslk.xyz/363d3e32b9de92affabe3b469af5060c*](https://Q3UPMJ.tosslk.xyz/363d3e32b9de92affabe3b469af5060c)
-  - **v2ray**: [*https://Q3UPMJ.tosslk.xyz/363d3e32b9de92affabe3b469af5060c*](https://Q3UPMJ.tosslk.xyz/363d3e32b9de92affabe3b469af5060c)
-  - **ios**: [*https://Q3UPMJ.tosslk.xyz/363d3e32b9de92affabe3b469af5060c*](https://Q3UPMJ.tosslk.xyz/363d3e32b9de92affabe3b469af5060c)
+  - **clash**: [*https://Mos1zt.tosslk.xyz/8f6a75e7526db9e2aba9edc21929c08a*](https://Mos1zt.tosslk.xyz/8f6a75e7526db9e2aba9edc21929c08a)
+  - **v2ray**: [*https://Mos1zt.tosslk.xyz/8f6a75e7526db9e2aba9edc21929c08a*](https://Mos1zt.tosslk.xyz/8f6a75e7526db9e2aba9edc21929c08a)
+  - **ios**: [*https://Mos1zt.tosslk.xyz/8f6a75e7526db9e2aba9edc21929c08a*](https://Mos1zt.tosslk.xyz/8f6a75e7526db9e2aba9edc21929c08a)
 - **abshare**
-  - **clash**: [*https://d4J0lA.absslk.xyz/379d9fbcd65f973ef70802d81ef6859c*](https://d4J0lA.absslk.xyz/379d9fbcd65f973ef70802d81ef6859c)
-  - **v2ray**: [*https://d4J0lA.absslk.xyz/379d9fbcd65f973ef70802d81ef6859c*](https://d4J0lA.absslk.xyz/379d9fbcd65f973ef70802d81ef6859c)
-  - **ios**: [*https://d4J0lA.absslk.xyz/379d9fbcd65f973ef70802d81ef6859c*](https://d4J0lA.absslk.xyz/379d9fbcd65f973ef70802d81ef6859c)
+  - **clash**: [*https://gZgXH6.absslk.xyz/979d9c94144d6d32bef73661c4069104*](https://gZgXH6.absslk.xyz/979d9c94144d6d32bef73661c4069104)
+  - **v2ray**: [*https://gZgXH6.absslk.xyz/979d9c94144d6d32bef73661c4069104*](https://gZgXH6.absslk.xyz/979d9c94144d6d32bef73661c4069104)
+  - **ios**: [*https://gZgXH6.absslk.xyz/979d9c94144d6d32bef73661c4069104*](https://gZgXH6.absslk.xyz/979d9c94144d6d32bef73661c4069104)
 - **mksshare**
   - **clash**: [*https://Bnv6k0.mcsslk.xyz/7e3c3c40d6b42b27a4162fa6d1dc0e1c*](https://Bnv6k0.mcsslk.xyz/7e3c3c40d6b42b27a4162fa6d1dc0e1c)
   - **v2ray**: [*https://Bnv6k0.mcsslk.xyz/7e3c3c40d6b42b27a4162fa6d1dc0e1c*](https://Bnv6k0.mcsslk.xyz/7e3c3c40d6b42b27a4162fa6d1dc0e1c)
