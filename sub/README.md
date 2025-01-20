@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-20 19:21:11
+> Updated Time: 2025-01-20 19:26:38
 
 - **tolinkshare2**
-  - **clash**: [*https://HgnzyZ.tosslk.xyz/eb7afaddcda49e8712ae1beac938e851*](https://HgnzyZ.tosslk.xyz/eb7afaddcda49e8712ae1beac938e851)
-  - **v2ray**: [*https://HgnzyZ.tosslk.xyz/eb7afaddcda49e8712ae1beac938e851*](https://HgnzyZ.tosslk.xyz/eb7afaddcda49e8712ae1beac938e851)
-  - **ios**: [*https://HgnzyZ.tosslk.xyz/eb7afaddcda49e8712ae1beac938e851*](https://HgnzyZ.tosslk.xyz/eb7afaddcda49e8712ae1beac938e851)
+  - **clash**: [*https://Sis4FT.tosslk.xyz/f70df35f9a0f9cc657f061f89b468d47*](https://Sis4FT.tosslk.xyz/f70df35f9a0f9cc657f061f89b468d47)
+  - **v2ray**: [*https://Sis4FT.tosslk.xyz/f70df35f9a0f9cc657f061f89b468d47*](https://Sis4FT.tosslk.xyz/f70df35f9a0f9cc657f061f89b468d47)
+  - **ios**: [*https://Sis4FT.tosslk.xyz/f70df35f9a0f9cc657f061f89b468d47*](https://Sis4FT.tosslk.xyz/f70df35f9a0f9cc657f061f89b468d47)
 - **abshare**
-  - **clash**: [*https://EW1E0S.absslk.xyz/d41d98c9a2384d972dbff1b661da93e1*](https://EW1E0S.absslk.xyz/d41d98c9a2384d972dbff1b661da93e1)
-  - **v2ray**: [*https://EW1E0S.absslk.xyz/d41d98c9a2384d972dbff1b661da93e1*](https://EW1E0S.absslk.xyz/d41d98c9a2384d972dbff1b661da93e1)
-  - **ios**: [*https://EW1E0S.absslk.xyz/d41d98c9a2384d972dbff1b661da93e1*](https://EW1E0S.absslk.xyz/d41d98c9a2384d972dbff1b661da93e1)
+  - **clash**: [*https://pTTsMn.absslk.xyz/b8f7753bcde13ed6cd0f1c15535261c3*](https://pTTsMn.absslk.xyz/b8f7753bcde13ed6cd0f1c15535261c3)
+  - **v2ray**: [*https://pTTsMn.absslk.xyz/b8f7753bcde13ed6cd0f1c15535261c3*](https://pTTsMn.absslk.xyz/b8f7753bcde13ed6cd0f1c15535261c3)
+  - **ios**: [*https://pTTsMn.absslk.xyz/b8f7753bcde13ed6cd0f1c15535261c3*](https://pTTsMn.absslk.xyz/b8f7753bcde13ed6cd0f1c15535261c3)
 - **mksshare**
   - **clash**: [*https://3HfWF7.mcsslk.xyz/20cfc9f93767d28f354d14dacca0e860*](https://3HfWF7.mcsslk.xyz/20cfc9f93767d28f354d14dacca0e860)
   - **v2ray**: [*https://3HfWF7.mcsslk.xyz/20cfc9f93767d28f354d14dacca0e860*](https://3HfWF7.mcsslk.xyz/20cfc9f93767d28f354d14dacca0e860)
