@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-21 00:33:08
+> Updated Time: 2025-01-21 00:43:44
 
 - **tolinkshare2**
-  - **clash**: [*https://BRQ2G7.tosslk.xyz/1797f0f5bd87ecac049a6c1e2bc8bfc4*](https://BRQ2G7.tosslk.xyz/1797f0f5bd87ecac049a6c1e2bc8bfc4)
-  - **v2ray**: [*https://BRQ2G7.tosslk.xyz/1797f0f5bd87ecac049a6c1e2bc8bfc4*](https://BRQ2G7.tosslk.xyz/1797f0f5bd87ecac049a6c1e2bc8bfc4)
-  - **ios**: [*https://BRQ2G7.tosslk.xyz/1797f0f5bd87ecac049a6c1e2bc8bfc4*](https://BRQ2G7.tosslk.xyz/1797f0f5bd87ecac049a6c1e2bc8bfc4)
+  - **clash**: [*https://mnxOIP.tosslk.xyz/fe50c37e8810564ad4f7cfc291a16d1b*](https://mnxOIP.tosslk.xyz/fe50c37e8810564ad4f7cfc291a16d1b)
+  - **v2ray**: [*https://mnxOIP.tosslk.xyz/fe50c37e8810564ad4f7cfc291a16d1b*](https://mnxOIP.tosslk.xyz/fe50c37e8810564ad4f7cfc291a16d1b)
+  - **ios**: [*https://mnxOIP.tosslk.xyz/fe50c37e8810564ad4f7cfc291a16d1b*](https://mnxOIP.tosslk.xyz/fe50c37e8810564ad4f7cfc291a16d1b)
 - **abshare**
   - **clash**: [*https://5D2n8E.absslk.xyz/c3760ae1cae2e35bdcdb0ac37872deea*](https://5D2n8E.absslk.xyz/c3760ae1cae2e35bdcdb0ac37872deea)
   - **v2ray**: [*https://5D2n8E.absslk.xyz/c3760ae1cae2e35bdcdb0ac37872deea*](https://5D2n8E.absslk.xyz/c3760ae1cae2e35bdcdb0ac37872deea)
