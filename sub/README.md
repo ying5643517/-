@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-21 12:52:58
+> Updated Time: 2025-01-21 12:58:12
 
 - **tolinkshare2**
-  - **clash**: [*https://lCmwVl.tosslk.xyz/981f78d9979fbdfab4be8f120dc91ae4*](https://lCmwVl.tosslk.xyz/981f78d9979fbdfab4be8f120dc91ae4)
-  - **v2ray**: [*https://lCmwVl.tosslk.xyz/981f78d9979fbdfab4be8f120dc91ae4*](https://lCmwVl.tosslk.xyz/981f78d9979fbdfab4be8f120dc91ae4)
-  - **ios**: [*https://lCmwVl.tosslk.xyz/981f78d9979fbdfab4be8f120dc91ae4*](https://lCmwVl.tosslk.xyz/981f78d9979fbdfab4be8f120dc91ae4)
+  - **clash**: [*https://yy3PPH.tosslk.xyz/5cb54fc343fae0002a14d44edf1e2dc7*](https://yy3PPH.tosslk.xyz/5cb54fc343fae0002a14d44edf1e2dc7)
+  - **v2ray**: [*https://yy3PPH.tosslk.xyz/5cb54fc343fae0002a14d44edf1e2dc7*](https://yy3PPH.tosslk.xyz/5cb54fc343fae0002a14d44edf1e2dc7)
+  - **ios**: [*https://yy3PPH.tosslk.xyz/5cb54fc343fae0002a14d44edf1e2dc7*](https://yy3PPH.tosslk.xyz/5cb54fc343fae0002a14d44edf1e2dc7)
 - **abshare**
   - **clash**: [*https://VhL8wU.absslk.xyz/881a4acdce77d5e9b5929b625c15832e*](https://VhL8wU.absslk.xyz/881a4acdce77d5e9b5929b625c15832e)
   - **v2ray**: [*https://VhL8wU.absslk.xyz/881a4acdce77d5e9b5929b625c15832e*](https://VhL8wU.absslk.xyz/881a4acdce77d5e9b5929b625c15832e)
