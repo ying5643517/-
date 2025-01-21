@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-21 16:11:40
+> Updated Time: 2025-01-21 16:30:55
 
 - **tolinkshare2**
-  - **clash**: [*https://6HoHF7.tosslk.xyz/4a21fc3a2e7827f238c69c80a0398f46*](https://6HoHF7.tosslk.xyz/4a21fc3a2e7827f238c69c80a0398f46)
-  - **v2ray**: [*https://6HoHF7.tosslk.xyz/4a21fc3a2e7827f238c69c80a0398f46*](https://6HoHF7.tosslk.xyz/4a21fc3a2e7827f238c69c80a0398f46)
-  - **ios**: [*https://6HoHF7.tosslk.xyz/4a21fc3a2e7827f238c69c80a0398f46*](https://6HoHF7.tosslk.xyz/4a21fc3a2e7827f238c69c80a0398f46)
+  - **clash**: [*https://2LFSyf.tosslk.xyz/e423a7786221d1aed344bb2f0e1dfd7d*](https://2LFSyf.tosslk.xyz/e423a7786221d1aed344bb2f0e1dfd7d)
+  - **v2ray**: [*https://2LFSyf.tosslk.xyz/e423a7786221d1aed344bb2f0e1dfd7d*](https://2LFSyf.tosslk.xyz/e423a7786221d1aed344bb2f0e1dfd7d)
+  - **ios**: [*https://2LFSyf.tosslk.xyz/e423a7786221d1aed344bb2f0e1dfd7d*](https://2LFSyf.tosslk.xyz/e423a7786221d1aed344bb2f0e1dfd7d)
 - **abshare**
   - **clash**: [*https://NEVDVl.absslk.xyz/628b4954d92b88b833d9e3ed18f4fcd5*](https://NEVDVl.absslk.xyz/628b4954d92b88b833d9e3ed18f4fcd5)
   - **v2ray**: [*https://NEVDVl.absslk.xyz/628b4954d92b88b833d9e3ed18f4fcd5*](https://NEVDVl.absslk.xyz/628b4954d92b88b833d9e3ed18f4fcd5)
