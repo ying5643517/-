@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-21 18:40:54
+> Updated Time: 2025-01-21 18:51:53
 
 - **tolinkshare2**
-  - **clash**: [*https://taFwJg.tosslk.xyz/300dc344394408e05254ffc70b57f2e5*](https://taFwJg.tosslk.xyz/300dc344394408e05254ffc70b57f2e5)
-  - **v2ray**: [*https://taFwJg.tosslk.xyz/300dc344394408e05254ffc70b57f2e5*](https://taFwJg.tosslk.xyz/300dc344394408e05254ffc70b57f2e5)
-  - **ios**: [*https://taFwJg.tosslk.xyz/300dc344394408e05254ffc70b57f2e5*](https://taFwJg.tosslk.xyz/300dc344394408e05254ffc70b57f2e5)
+  - **clash**: [*https://0majMb.tosslk.xyz/08b94e56b726c4353c18e05e8bc9db5d*](https://0majMb.tosslk.xyz/08b94e56b726c4353c18e05e8bc9db5d)
+  - **v2ray**: [*https://0majMb.tosslk.xyz/08b94e56b726c4353c18e05e8bc9db5d*](https://0majMb.tosslk.xyz/08b94e56b726c4353c18e05e8bc9db5d)
+  - **ios**: [*https://0majMb.tosslk.xyz/08b94e56b726c4353c18e05e8bc9db5d*](https://0majMb.tosslk.xyz/08b94e56b726c4353c18e05e8bc9db5d)
 - **abshare**
-  - **clash**: [*https://RmszBO.absslk.xyz/4a974319206dbebdeb7512a6483fcab7*](https://RmszBO.absslk.xyz/4a974319206dbebdeb7512a6483fcab7)
-  - **v2ray**: [*https://RmszBO.absslk.xyz/4a974319206dbebdeb7512a6483fcab7*](https://RmszBO.absslk.xyz/4a974319206dbebdeb7512a6483fcab7)
-  - **ios**: [*https://RmszBO.absslk.xyz/4a974319206dbebdeb7512a6483fcab7*](https://RmszBO.absslk.xyz/4a974319206dbebdeb7512a6483fcab7)
+  - **clash**: [*https://Fq0XcD.absslk.xyz/0bb89d8d9b5851f600458c1bcccbf21b*](https://Fq0XcD.absslk.xyz/0bb89d8d9b5851f600458c1bcccbf21b)
+  - **v2ray**: [*https://Fq0XcD.absslk.xyz/0bb89d8d9b5851f600458c1bcccbf21b*](https://Fq0XcD.absslk.xyz/0bb89d8d9b5851f600458c1bcccbf21b)
+  - **ios**: [*https://Fq0XcD.absslk.xyz/0bb89d8d9b5851f600458c1bcccbf21b*](https://Fq0XcD.absslk.xyz/0bb89d8d9b5851f600458c1bcccbf21b)
 - **mksshare**
   - **clash**: [*https://i24IJh.mcsslk.xyz/26e1a660e96d99aa47146224e56e9d2f*](https://i24IJh.mcsslk.xyz/26e1a660e96d99aa47146224e56e9d2f)
   - **v2ray**: [*https://i24IJh.mcsslk.xyz/26e1a660e96d99aa47146224e56e9d2f*](https://i24IJh.mcsslk.xyz/26e1a660e96d99aa47146224e56e9d2f)
