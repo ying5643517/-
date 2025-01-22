@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-22 11:44:51
+> Updated Time: 2025-01-22 11:50:24
 
 - **tolinkshare2**
-  - **clash**: [*https://8Zrb85.tosslk.xyz/a49a0169b88a524c79b257db9afccc1f*](https://8Zrb85.tosslk.xyz/a49a0169b88a524c79b257db9afccc1f)
-  - **v2ray**: [*https://8Zrb85.tosslk.xyz/a49a0169b88a524c79b257db9afccc1f*](https://8Zrb85.tosslk.xyz/a49a0169b88a524c79b257db9afccc1f)
-  - **ios**: [*https://8Zrb85.tosslk.xyz/a49a0169b88a524c79b257db9afccc1f*](https://8Zrb85.tosslk.xyz/a49a0169b88a524c79b257db9afccc1f)
+  - **clash**: [*https://i5ipqF.tosslk.xyz/02cd08d5dd0724310a75538b11b31d56*](https://i5ipqF.tosslk.xyz/02cd08d5dd0724310a75538b11b31d56)
+  - **v2ray**: [*https://i5ipqF.tosslk.xyz/02cd08d5dd0724310a75538b11b31d56*](https://i5ipqF.tosslk.xyz/02cd08d5dd0724310a75538b11b31d56)
+  - **ios**: [*https://i5ipqF.tosslk.xyz/02cd08d5dd0724310a75538b11b31d56*](https://i5ipqF.tosslk.xyz/02cd08d5dd0724310a75538b11b31d56)
 - **abshare**
-  - **clash**: [*https://xMmg9r.absslk.xyz/e861142396e55aef176a84d9c1ab42a5*](https://xMmg9r.absslk.xyz/e861142396e55aef176a84d9c1ab42a5)
-  - **v2ray**: [*https://xMmg9r.absslk.xyz/e861142396e55aef176a84d9c1ab42a5*](https://xMmg9r.absslk.xyz/e861142396e55aef176a84d9c1ab42a5)
-  - **ios**: [*https://xMmg9r.absslk.xyz/e861142396e55aef176a84d9c1ab42a5*](https://xMmg9r.absslk.xyz/e861142396e55aef176a84d9c1ab42a5)
+  - **clash**: [*https://tymJ43.absslk.xyz/d9da6ae77e4c4ecaaecaf733b7935cdc*](https://tymJ43.absslk.xyz/d9da6ae77e4c4ecaaecaf733b7935cdc)
+  - **v2ray**: [*https://tymJ43.absslk.xyz/d9da6ae77e4c4ecaaecaf733b7935cdc*](https://tymJ43.absslk.xyz/d9da6ae77e4c4ecaaecaf733b7935cdc)
+  - **ios**: [*https://tymJ43.absslk.xyz/d9da6ae77e4c4ecaaecaf733b7935cdc*](https://tymJ43.absslk.xyz/d9da6ae77e4c4ecaaecaf733b7935cdc)
 - **mksshare**
   - **clash**: [*https://lgIAiL.mcsslk.xyz/8d3d69c081107412da3cf24e3de9d35b*](https://lgIAiL.mcsslk.xyz/8d3d69c081107412da3cf24e3de9d35b)
   - **v2ray**: [*https://lgIAiL.mcsslk.xyz/8d3d69c081107412da3cf24e3de9d35b*](https://lgIAiL.mcsslk.xyz/8d3d69c081107412da3cf24e3de9d35b)
