@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-22 22:13:26
+> Updated Time: 2025-01-22 22:29:53
 
 - **tolinkshare2**
   - **clash**: [*https://vfrE5W.tosslk.xyz/dff0ff980149fb0ac66fc8b2fffe429f*](https://vfrE5W.tosslk.xyz/dff0ff980149fb0ac66fc8b2fffe429f)
@@ -32,13 +32,13 @@
   - **v2ray**: [*https://Pwb0W6.absslk.xyz/1e857800e28cfcaf148dd96e25e7bf4c*](https://Pwb0W6.absslk.xyz/1e857800e28cfcaf148dd96e25e7bf4c)
   - **ios**: [*https://Pwb0W6.absslk.xyz/1e857800e28cfcaf148dd96e25e7bf4c*](https://Pwb0W6.absslk.xyz/1e857800e28cfcaf148dd96e25e7bf4c)
 - **mksshare**
-  - **clash**: [*https://1lYsJn.mcsslk.xyz/5dede3b104426a1998a5f2cd92641db7*](https://1lYsJn.mcsslk.xyz/5dede3b104426a1998a5f2cd92641db7)
-  - **v2ray**: [*https://1lYsJn.mcsslk.xyz/5dede3b104426a1998a5f2cd92641db7*](https://1lYsJn.mcsslk.xyz/5dede3b104426a1998a5f2cd92641db7)
-  - **ios**: [*https://1lYsJn.mcsslk.xyz/5dede3b104426a1998a5f2cd92641db7*](https://1lYsJn.mcsslk.xyz/5dede3b104426a1998a5f2cd92641db7)
+  - **clash**: [*https://mJxFZI.mcsslk.xyz/b157ea7b5529749e14432d73bc43d14b*](https://mJxFZI.mcsslk.xyz/b157ea7b5529749e14432d73bc43d14b)
+  - **v2ray**: [*https://mJxFZI.mcsslk.xyz/b157ea7b5529749e14432d73bc43d14b*](https://mJxFZI.mcsslk.xyz/b157ea7b5529749e14432d73bc43d14b)
+  - **ios**: [*https://mJxFZI.mcsslk.xyz/b157ea7b5529749e14432d73bc43d14b*](https://mJxFZI.mcsslk.xyz/b157ea7b5529749e14432d73bc43d14b)
 - **mkshare3**
-  - **clash**: [*https://NYsWSS.mcsslk.xyz/11a28fd94f5f6fc6f0356f17d25f9e8c*](https://NYsWSS.mcsslk.xyz/11a28fd94f5f6fc6f0356f17d25f9e8c)
-  - **v2ray**: [*https://NYsWSS.mcsslk.xyz/11a28fd94f5f6fc6f0356f17d25f9e8c*](https://NYsWSS.mcsslk.xyz/11a28fd94f5f6fc6f0356f17d25f9e8c)
-  - **ios**: [*https://NYsWSS.mcsslk.xyz/11a28fd94f5f6fc6f0356f17d25f9e8c*](https://NYsWSS.mcsslk.xyz/11a28fd94f5f6fc6f0356f17d25f9e8c)
+  - **clash**: [*https://FdGQlY.mcsslk.xyz/29e512bad86c6d074d39dfb022a8ae8f*](https://FdGQlY.mcsslk.xyz/29e512bad86c6d074d39dfb022a8ae8f)
+  - **v2ray**: [*https://FdGQlY.mcsslk.xyz/29e512bad86c6d074d39dfb022a8ae8f*](https://FdGQlY.mcsslk.xyz/29e512bad86c6d074d39dfb022a8ae8f)
+  - **ios**: [*https://FdGQlY.mcsslk.xyz/29e512bad86c6d074d39dfb022a8ae8f*](https://FdGQlY.mcsslk.xyz/29e512bad86c6d074d39dfb022a8ae8f)
 - **toshare5**
   - **clash**: [*https://Dwz104.tosslk.xyz/fcc2833820840636ca1fe458ce29ae8d*](https://Dwz104.tosslk.xyz/fcc2833820840636ca1fe458ce29ae8d)
   - **v2ray**: [*https://Dwz104.tosslk.xyz/fcc2833820840636ca1fe458ce29ae8d*](https://Dwz104.tosslk.xyz/fcc2833820840636ca1fe458ce29ae8d)
