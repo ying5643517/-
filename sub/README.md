@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-22 17:08:42
+> Updated Time: 2025-01-22 17:34:01
 
 - **tolinkshare2**
-  - **clash**: [*https://n6VPga.tosslk.xyz/d25c60f291de3505d66f3bf6c802ae8a*](https://n6VPga.tosslk.xyz/d25c60f291de3505d66f3bf6c802ae8a)
-  - **v2ray**: [*https://n6VPga.tosslk.xyz/d25c60f291de3505d66f3bf6c802ae8a*](https://n6VPga.tosslk.xyz/d25c60f291de3505d66f3bf6c802ae8a)
-  - **ios**: [*https://n6VPga.tosslk.xyz/d25c60f291de3505d66f3bf6c802ae8a*](https://n6VPga.tosslk.xyz/d25c60f291de3505d66f3bf6c802ae8a)
+  - **clash**: [*https://VkgjkH.tosslk.xyz/0c1d13c3cccc5e91ea1280cac77fbbee*](https://VkgjkH.tosslk.xyz/0c1d13c3cccc5e91ea1280cac77fbbee)
+  - **v2ray**: [*https://VkgjkH.tosslk.xyz/0c1d13c3cccc5e91ea1280cac77fbbee*](https://VkgjkH.tosslk.xyz/0c1d13c3cccc5e91ea1280cac77fbbee)
+  - **ios**: [*https://VkgjkH.tosslk.xyz/0c1d13c3cccc5e91ea1280cac77fbbee*](https://VkgjkH.tosslk.xyz/0c1d13c3cccc5e91ea1280cac77fbbee)
 - **abshare**
   - **clash**: [*https://OlXMZU.absslk.xyz/47f5a12749b9f489370605301d911753*](https://OlXMZU.absslk.xyz/47f5a12749b9f489370605301d911753)
   - **v2ray**: [*https://OlXMZU.absslk.xyz/47f5a12749b9f489370605301d911753*](https://OlXMZU.absslk.xyz/47f5a12749b9f489370605301d911753)
