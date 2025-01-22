@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-23 00:55:39
+> Updated Time: 2025-01-23 01:07:15
 
 - **tolinkshare2**
   - **clash**: [*https://ikZptK.tosslk.xyz/edab1a8fa02e886dd19ba8be58ec0d6c*](https://ikZptK.tosslk.xyz/edab1a8fa02e886dd19ba8be58ec0d6c)
@@ -40,10 +40,10 @@
   - **v2ray**: [*https://z5zqu7.mcsslk.xyz/dc4c2a81eb122f78e1907df24956e500*](https://z5zqu7.mcsslk.xyz/dc4c2a81eb122f78e1907df24956e500)
   - **ios**: [*https://z5zqu7.mcsslk.xyz/dc4c2a81eb122f78e1907df24956e500*](https://z5zqu7.mcsslk.xyz/dc4c2a81eb122f78e1907df24956e500)
 - **toshare5**
-  - **clash**: [*https://e18au7.tosslk.xyz/b6b58715d8feb33e4bcd6b2953a18271*](https://e18au7.tosslk.xyz/b6b58715d8feb33e4bcd6b2953a18271)
-  - **v2ray**: [*https://e18au7.tosslk.xyz/b6b58715d8feb33e4bcd6b2953a18271*](https://e18au7.tosslk.xyz/b6b58715d8feb33e4bcd6b2953a18271)
-  - **ios**: [*https://e18au7.tosslk.xyz/b6b58715d8feb33e4bcd6b2953a18271*](https://e18au7.tosslk.xyz/b6b58715d8feb33e4bcd6b2953a18271)
+  - **clash**: [*https://XnUFBt.tosslk.xyz/e4338d73cbe68d1c0e99696e9f4c0f37*](https://XnUFBt.tosslk.xyz/e4338d73cbe68d1c0e99696e9f4c0f37)
+  - **v2ray**: [*https://XnUFBt.tosslk.xyz/e4338d73cbe68d1c0e99696e9f4c0f37*](https://XnUFBt.tosslk.xyz/e4338d73cbe68d1c0e99696e9f4c0f37)
+  - **ios**: [*https://XnUFBt.tosslk.xyz/e4338d73cbe68d1c0e99696e9f4c0f37*](https://XnUFBt.tosslk.xyz/e4338d73cbe68d1c0e99696e9f4c0f37)
 - **abshare3**
-  - **clash**: [*https://cKZo3K.absslk.xyz/b836e414cf35d812f6b34a4d6529c120*](https://cKZo3K.absslk.xyz/b836e414cf35d812f6b34a4d6529c120)
-  - **v2ray**: [*https://cKZo3K.absslk.xyz/b836e414cf35d812f6b34a4d6529c120*](https://cKZo3K.absslk.xyz/b836e414cf35d812f6b34a4d6529c120)
-  - **ios**: [*https://cKZo3K.absslk.xyz/b836e414cf35d812f6b34a4d6529c120*](https://cKZo3K.absslk.xyz/b836e414cf35d812f6b34a4d6529c120)
+  - **clash**: [*https://E185jn.absslk.xyz/3a5eba2e54036d8e00e27379c36f420f*](https://E185jn.absslk.xyz/3a5eba2e54036d8e00e27379c36f420f)
+  - **v2ray**: [*https://E185jn.absslk.xyz/3a5eba2e54036d8e00e27379c36f420f*](https://E185jn.absslk.xyz/3a5eba2e54036d8e00e27379c36f420f)
+  - **ios**: [*https://E185jn.absslk.xyz/3a5eba2e54036d8e00e27379c36f420f*](https://E185jn.absslk.xyz/3a5eba2e54036d8e00e27379c36f420f)
