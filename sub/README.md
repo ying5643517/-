@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-23 16:42:52
+> Updated Time: 2025-01-23 16:48:16
 
 - **tolinkshare2**
-  - **clash**: [*https://9KIQJj.tosslk.xyz/3dfab27c1086b7c38245ce87fb77758a*](https://9KIQJj.tosslk.xyz/3dfab27c1086b7c38245ce87fb77758a)
-  - **v2ray**: [*https://9KIQJj.tosslk.xyz/3dfab27c1086b7c38245ce87fb77758a*](https://9KIQJj.tosslk.xyz/3dfab27c1086b7c38245ce87fb77758a)
-  - **ios**: [*https://9KIQJj.tosslk.xyz/3dfab27c1086b7c38245ce87fb77758a*](https://9KIQJj.tosslk.xyz/3dfab27c1086b7c38245ce87fb77758a)
+  - **clash**: [*https://q8jMpO.tosslk.xyz/f0b5819fa9fcf3fc6488507f09fb8689*](https://q8jMpO.tosslk.xyz/f0b5819fa9fcf3fc6488507f09fb8689)
+  - **v2ray**: [*https://q8jMpO.tosslk.xyz/f0b5819fa9fcf3fc6488507f09fb8689*](https://q8jMpO.tosslk.xyz/f0b5819fa9fcf3fc6488507f09fb8689)
+  - **ios**: [*https://q8jMpO.tosslk.xyz/f0b5819fa9fcf3fc6488507f09fb8689*](https://q8jMpO.tosslk.xyz/f0b5819fa9fcf3fc6488507f09fb8689)
 - **abshare**
   - **clash**: [*https://bHb8bO.absslk.xyz/c678783331a7cec6ca269101364bb935*](https://bHb8bO.absslk.xyz/c678783331a7cec6ca269101364bb935)
   - **v2ray**: [*https://bHb8bO.absslk.xyz/c678783331a7cec6ca269101364bb935*](https://bHb8bO.absslk.xyz/c678783331a7cec6ca269101364bb935)
