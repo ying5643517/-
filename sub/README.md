@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-23 18:15:20
+> Updated Time: 2025-01-23 18:34:00
 
 - **tolinkshare2**
-  - **clash**: [*https://cU3c6b.tosslk.xyz/6c3597db0f187129f63a074c286c6e28*](https://cU3c6b.tosslk.xyz/6c3597db0f187129f63a074c286c6e28)
-  - **v2ray**: [*https://cU3c6b.tosslk.xyz/6c3597db0f187129f63a074c286c6e28*](https://cU3c6b.tosslk.xyz/6c3597db0f187129f63a074c286c6e28)
-  - **ios**: [*https://cU3c6b.tosslk.xyz/6c3597db0f187129f63a074c286c6e28*](https://cU3c6b.tosslk.xyz/6c3597db0f187129f63a074c286c6e28)
+  - **clash**: [*https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae*](https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae)
+  - **v2ray**: [*https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae*](https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae)
+  - **ios**: [*https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae*](https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae)
 - **abshare**
-  - **clash**: [*https://SzVH3b.absslk.xyz/47500ee165ffc7f7d00fe9d186a5241f*](https://SzVH3b.absslk.xyz/47500ee165ffc7f7d00fe9d186a5241f)
-  - **v2ray**: [*https://SzVH3b.absslk.xyz/47500ee165ffc7f7d00fe9d186a5241f*](https://SzVH3b.absslk.xyz/47500ee165ffc7f7d00fe9d186a5241f)
-  - **ios**: [*https://SzVH3b.absslk.xyz/47500ee165ffc7f7d00fe9d186a5241f*](https://SzVH3b.absslk.xyz/47500ee165ffc7f7d00fe9d186a5241f)
+  - **clash**: [*https://GrvcZa.absslk.xyz/93994ccb4abfb455d4ff76cd02ad9f8f*](https://GrvcZa.absslk.xyz/93994ccb4abfb455d4ff76cd02ad9f8f)
+  - **v2ray**: [*https://GrvcZa.absslk.xyz/93994ccb4abfb455d4ff76cd02ad9f8f*](https://GrvcZa.absslk.xyz/93994ccb4abfb455d4ff76cd02ad9f8f)
+  - **ios**: [*https://GrvcZa.absslk.xyz/93994ccb4abfb455d4ff76cd02ad9f8f*](https://GrvcZa.absslk.xyz/93994ccb4abfb455d4ff76cd02ad9f8f)
 - **mksshare**
   - **clash**: [*https://VkGvSO.mcsslk.xyz/b6ed4266a49160225d7601b25ea5d190*](https://VkGvSO.mcsslk.xyz/b6ed4266a49160225d7601b25ea5d190)
   - **v2ray**: [*https://VkGvSO.mcsslk.xyz/b6ed4266a49160225d7601b25ea5d190*](https://VkGvSO.mcsslk.xyz/b6ed4266a49160225d7601b25ea5d190)
