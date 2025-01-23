@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-23 13:27:43
+> Updated Time: 2025-01-23 13:42:01
 
 - **tolinkshare2**
-  - **clash**: [*https://3hY7Gx.tosslk.xyz/5fd6b1a719670e2ed5f79313f506b072*](https://3hY7Gx.tosslk.xyz/5fd6b1a719670e2ed5f79313f506b072)
-  - **v2ray**: [*https://3hY7Gx.tosslk.xyz/5fd6b1a719670e2ed5f79313f506b072*](https://3hY7Gx.tosslk.xyz/5fd6b1a719670e2ed5f79313f506b072)
-  - **ios**: [*https://3hY7Gx.tosslk.xyz/5fd6b1a719670e2ed5f79313f506b072*](https://3hY7Gx.tosslk.xyz/5fd6b1a719670e2ed5f79313f506b072)
+  - **clash**: [*https://B15YX3.tosslk.xyz/92c6fdccc017c49344c5196f22d416ec*](https://B15YX3.tosslk.xyz/92c6fdccc017c49344c5196f22d416ec)
+  - **v2ray**: [*https://B15YX3.tosslk.xyz/92c6fdccc017c49344c5196f22d416ec*](https://B15YX3.tosslk.xyz/92c6fdccc017c49344c5196f22d416ec)
+  - **ios**: [*https://B15YX3.tosslk.xyz/92c6fdccc017c49344c5196f22d416ec*](https://B15YX3.tosslk.xyz/92c6fdccc017c49344c5196f22d416ec)
 - **abshare**
-  - **clash**: [*https://Sbgxpi.absslk.xyz/e268ca3d491aff79289e9b4470de8ba6*](https://Sbgxpi.absslk.xyz/e268ca3d491aff79289e9b4470de8ba6)
-  - **v2ray**: [*https://Sbgxpi.absslk.xyz/e268ca3d491aff79289e9b4470de8ba6*](https://Sbgxpi.absslk.xyz/e268ca3d491aff79289e9b4470de8ba6)
-  - **ios**: [*https://Sbgxpi.absslk.xyz/e268ca3d491aff79289e9b4470de8ba6*](https://Sbgxpi.absslk.xyz/e268ca3d491aff79289e9b4470de8ba6)
+  - **clash**: [*https://BUqV4x.absslk.xyz/271087cd94c08d0de79b1e6df9bd42dc*](https://BUqV4x.absslk.xyz/271087cd94c08d0de79b1e6df9bd42dc)
+  - **v2ray**: [*https://BUqV4x.absslk.xyz/271087cd94c08d0de79b1e6df9bd42dc*](https://BUqV4x.absslk.xyz/271087cd94c08d0de79b1e6df9bd42dc)
+  - **ios**: [*https://BUqV4x.absslk.xyz/271087cd94c08d0de79b1e6df9bd42dc*](https://BUqV4x.absslk.xyz/271087cd94c08d0de79b1e6df9bd42dc)
 - **mksshare**
   - **clash**: [*https://QDmg2M.mcsslk.xyz/225bf8263447ee8c8d4500100525ef97*](https://QDmg2M.mcsslk.xyz/225bf8263447ee8c8d4500100525ef97)
   - **v2ray**: [*https://QDmg2M.mcsslk.xyz/225bf8263447ee8c8d4500100525ef97*](https://QDmg2M.mcsslk.xyz/225bf8263447ee8c8d4500100525ef97)
