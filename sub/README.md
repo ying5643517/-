@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-23 19:12:43
+> Updated Time: 2025-01-23 19:22:57
 
 - **tolinkshare2**
-  - **clash**: [*https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae*](https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae)
-  - **v2ray**: [*https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae*](https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae)
-  - **ios**: [*https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae*](https://DEfico.tosslk.xyz/efc46d0a57992f46ccae8d39c039d9ae)
+  - **clash**: [*https://1e6yQZ.tosslk.xyz/2b8b7cf3345e36c0d25094c1a502f9b3*](https://1e6yQZ.tosslk.xyz/2b8b7cf3345e36c0d25094c1a502f9b3)
+  - **v2ray**: [*https://1e6yQZ.tosslk.xyz/2b8b7cf3345e36c0d25094c1a502f9b3*](https://1e6yQZ.tosslk.xyz/2b8b7cf3345e36c0d25094c1a502f9b3)
+  - **ios**: [*https://1e6yQZ.tosslk.xyz/2b8b7cf3345e36c0d25094c1a502f9b3*](https://1e6yQZ.tosslk.xyz/2b8b7cf3345e36c0d25094c1a502f9b3)
 - **abshare**
   - **clash**: [*https://9lSWDb.absslk.xyz/012ea44c111b23c99a5efc9b09c7cd81*](https://9lSWDb.absslk.xyz/012ea44c111b23c99a5efc9b09c7cd81)
   - **v2ray**: [*https://9lSWDb.absslk.xyz/012ea44c111b23c99a5efc9b09c7cd81*](https://9lSWDb.absslk.xyz/012ea44c111b23c99a5efc9b09c7cd81)
