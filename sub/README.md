@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-24 12:40:00
+> Updated Time: 2025-01-24 12:45:05
 
 - **tolinkshare2**
-  - **clash**: [*https://gs5ZK6.tosslk.xyz/872cb6fb75cda4b5073ab265c0730ecc*](https://gs5ZK6.tosslk.xyz/872cb6fb75cda4b5073ab265c0730ecc)
-  - **v2ray**: [*https://gs5ZK6.tosslk.xyz/872cb6fb75cda4b5073ab265c0730ecc*](https://gs5ZK6.tosslk.xyz/872cb6fb75cda4b5073ab265c0730ecc)
-  - **ios**: [*https://gs5ZK6.tosslk.xyz/872cb6fb75cda4b5073ab265c0730ecc*](https://gs5ZK6.tosslk.xyz/872cb6fb75cda4b5073ab265c0730ecc)
+  - **clash**: [*https://yDKmXL.tosslk.xyz/d8a9b911ae78818a9cae1ea788342d4f*](https://yDKmXL.tosslk.xyz/d8a9b911ae78818a9cae1ea788342d4f)
+  - **v2ray**: [*https://yDKmXL.tosslk.xyz/d8a9b911ae78818a9cae1ea788342d4f*](https://yDKmXL.tosslk.xyz/d8a9b911ae78818a9cae1ea788342d4f)
+  - **ios**: [*https://yDKmXL.tosslk.xyz/d8a9b911ae78818a9cae1ea788342d4f*](https://yDKmXL.tosslk.xyz/d8a9b911ae78818a9cae1ea788342d4f)
 - **abshare**
   - **clash**: [*https://4j1F42.absslk.xyz/4e643cd79eb8dd99e46498bc3aeebefa*](https://4j1F42.absslk.xyz/4e643cd79eb8dd99e46498bc3aeebefa)
   - **v2ray**: [*https://4j1F42.absslk.xyz/4e643cd79eb8dd99e46498bc3aeebefa*](https://4j1F42.absslk.xyz/4e643cd79eb8dd99e46498bc3aeebefa)
