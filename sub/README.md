@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-24 21:29:17
+> Updated Time: 2025-01-24 21:37:05
 
 - **tolinkshare2**
-  - **clash**: [*https://SEIHL3.tosslk.xyz/44cc9fa3a9108cec6227f387b54c92bf*](https://SEIHL3.tosslk.xyz/44cc9fa3a9108cec6227f387b54c92bf)
-  - **v2ray**: [*https://SEIHL3.tosslk.xyz/44cc9fa3a9108cec6227f387b54c92bf*](https://SEIHL3.tosslk.xyz/44cc9fa3a9108cec6227f387b54c92bf)
-  - **ios**: [*https://SEIHL3.tosslk.xyz/44cc9fa3a9108cec6227f387b54c92bf*](https://SEIHL3.tosslk.xyz/44cc9fa3a9108cec6227f387b54c92bf)
+  - **clash**: [*https://NoraGl.tosslk.xyz/ba5aecccd827057834e30c5230067e8c*](https://NoraGl.tosslk.xyz/ba5aecccd827057834e30c5230067e8c)
+  - **v2ray**: [*https://NoraGl.tosslk.xyz/ba5aecccd827057834e30c5230067e8c*](https://NoraGl.tosslk.xyz/ba5aecccd827057834e30c5230067e8c)
+  - **ios**: [*https://NoraGl.tosslk.xyz/ba5aecccd827057834e30c5230067e8c*](https://NoraGl.tosslk.xyz/ba5aecccd827057834e30c5230067e8c)
 - **abshare**
-  - **clash**: [*https://nCXO7K.absslk.xyz/7ca90f8b006862fa4809915ebfdc200e*](https://nCXO7K.absslk.xyz/7ca90f8b006862fa4809915ebfdc200e)
-  - **v2ray**: [*https://nCXO7K.absslk.xyz/7ca90f8b006862fa4809915ebfdc200e*](https://nCXO7K.absslk.xyz/7ca90f8b006862fa4809915ebfdc200e)
-  - **ios**: [*https://nCXO7K.absslk.xyz/7ca90f8b006862fa4809915ebfdc200e*](https://nCXO7K.absslk.xyz/7ca90f8b006862fa4809915ebfdc200e)
+  - **clash**: [*https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0*](https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0)
+  - **v2ray**: [*https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0*](https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0)
+  - **ios**: [*https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0*](https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0)
 - **mksshare**
   - **clash**: [*https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b*](https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b)
   - **v2ray**: [*https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b*](https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b)
