@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-24 23:41:17
+> Updated Time: 2025-01-24 23:46:40
 
 - **tolinkshare2**
-  - **clash**: [*https://A3hcLj.tosslk.xyz/5922c9bd42cf9cd23f1557bf0114fe6a*](https://A3hcLj.tosslk.xyz/5922c9bd42cf9cd23f1557bf0114fe6a)
-  - **v2ray**: [*https://A3hcLj.tosslk.xyz/5922c9bd42cf9cd23f1557bf0114fe6a*](https://A3hcLj.tosslk.xyz/5922c9bd42cf9cd23f1557bf0114fe6a)
-  - **ios**: [*https://A3hcLj.tosslk.xyz/5922c9bd42cf9cd23f1557bf0114fe6a*](https://A3hcLj.tosslk.xyz/5922c9bd42cf9cd23f1557bf0114fe6a)
+  - **clash**: [*https://HwoM2K.tosslk.xyz/052dbee110b85bc327b516da8d9452eb*](https://HwoM2K.tosslk.xyz/052dbee110b85bc327b516da8d9452eb)
+  - **v2ray**: [*https://HwoM2K.tosslk.xyz/052dbee110b85bc327b516da8d9452eb*](https://HwoM2K.tosslk.xyz/052dbee110b85bc327b516da8d9452eb)
+  - **ios**: [*https://HwoM2K.tosslk.xyz/052dbee110b85bc327b516da8d9452eb*](https://HwoM2K.tosslk.xyz/052dbee110b85bc327b516da8d9452eb)
 - **abshare**
-  - **clash**: [*https://INF6Up.absslk.xyz/2c71822c42667b28b861897f10a8b88e*](https://INF6Up.absslk.xyz/2c71822c42667b28b861897f10a8b88e)
-  - **v2ray**: [*https://INF6Up.absslk.xyz/2c71822c42667b28b861897f10a8b88e*](https://INF6Up.absslk.xyz/2c71822c42667b28b861897f10a8b88e)
-  - **ios**: [*https://INF6Up.absslk.xyz/2c71822c42667b28b861897f10a8b88e*](https://INF6Up.absslk.xyz/2c71822c42667b28b861897f10a8b88e)
+  - **clash**: [*https://pwEqsk.absslk.xyz/4c0771c1e4246d38ca8239ba2bf66bcb*](https://pwEqsk.absslk.xyz/4c0771c1e4246d38ca8239ba2bf66bcb)
+  - **v2ray**: [*https://pwEqsk.absslk.xyz/4c0771c1e4246d38ca8239ba2bf66bcb*](https://pwEqsk.absslk.xyz/4c0771c1e4246d38ca8239ba2bf66bcb)
+  - **ios**: [*https://pwEqsk.absslk.xyz/4c0771c1e4246d38ca8239ba2bf66bcb*](https://pwEqsk.absslk.xyz/4c0771c1e4246d38ca8239ba2bf66bcb)
 - **mksshare**
   - **clash**: [*https://1L2FWq.mcsslk.xyz/bdaebaa03f515ec9cb814b9ddfcce8c7*](https://1L2FWq.mcsslk.xyz/bdaebaa03f515ec9cb814b9ddfcce8c7)
   - **v2ray**: [*https://1L2FWq.mcsslk.xyz/bdaebaa03f515ec9cb814b9ddfcce8c7*](https://1L2FWq.mcsslk.xyz/bdaebaa03f515ec9cb814b9ddfcce8c7)
