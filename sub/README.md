@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-25 00:43:44
+> Updated Time: 2025-01-25 00:49:12
 
 - **tolinkshare2**
-  - **clash**: [*https://q03wnV.tosslk.xyz/cce43ccc8478523bbba284aa7be9bd2d*](https://q03wnV.tosslk.xyz/cce43ccc8478523bbba284aa7be9bd2d)
-  - **v2ray**: [*https://q03wnV.tosslk.xyz/cce43ccc8478523bbba284aa7be9bd2d*](https://q03wnV.tosslk.xyz/cce43ccc8478523bbba284aa7be9bd2d)
-  - **ios**: [*https://q03wnV.tosslk.xyz/cce43ccc8478523bbba284aa7be9bd2d*](https://q03wnV.tosslk.xyz/cce43ccc8478523bbba284aa7be9bd2d)
+  - **clash**: [*https://8hwBfu.tosslk.xyz/7a22e2ee4a5866dd3c4dfac7c5580fac*](https://8hwBfu.tosslk.xyz/7a22e2ee4a5866dd3c4dfac7c5580fac)
+  - **v2ray**: [*https://8hwBfu.tosslk.xyz/7a22e2ee4a5866dd3c4dfac7c5580fac*](https://8hwBfu.tosslk.xyz/7a22e2ee4a5866dd3c4dfac7c5580fac)
+  - **ios**: [*https://8hwBfu.tosslk.xyz/7a22e2ee4a5866dd3c4dfac7c5580fac*](https://8hwBfu.tosslk.xyz/7a22e2ee4a5866dd3c4dfac7c5580fac)
 - **abshare**
-  - **clash**: [*https://kCw0jQ.absslk.xyz/ce29f26f7de3c42359d45c0065860045*](https://kCw0jQ.absslk.xyz/ce29f26f7de3c42359d45c0065860045)
-  - **v2ray**: [*https://kCw0jQ.absslk.xyz/ce29f26f7de3c42359d45c0065860045*](https://kCw0jQ.absslk.xyz/ce29f26f7de3c42359d45c0065860045)
-  - **ios**: [*https://kCw0jQ.absslk.xyz/ce29f26f7de3c42359d45c0065860045*](https://kCw0jQ.absslk.xyz/ce29f26f7de3c42359d45c0065860045)
+  - **clash**: [*https://ASBfah.absslk.xyz/e68008934f52dc8e65492ed34cd59502*](https://ASBfah.absslk.xyz/e68008934f52dc8e65492ed34cd59502)
+  - **v2ray**: [*https://ASBfah.absslk.xyz/e68008934f52dc8e65492ed34cd59502*](https://ASBfah.absslk.xyz/e68008934f52dc8e65492ed34cd59502)
+  - **ios**: [*https://ASBfah.absslk.xyz/e68008934f52dc8e65492ed34cd59502*](https://ASBfah.absslk.xyz/e68008934f52dc8e65492ed34cd59502)
 - **mksshare**
   - **clash**: [*https://UrqreK.mcsslk.xyz/b1cc583217019879e6c4df97296928fb*](https://UrqreK.mcsslk.xyz/b1cc583217019879e6c4df97296928fb)
   - **v2ray**: [*https://UrqreK.mcsslk.xyz/b1cc583217019879e6c4df97296928fb*](https://UrqreK.mcsslk.xyz/b1cc583217019879e6c4df97296928fb)
