@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-25 02:44:38
+> Updated Time: 2025-01-25 02:49:36
 
 - **tolinkshare2**
   - **clash**: [*https://dyAJ1e.tosslk.xyz/ea1173e5a0b6f32730c34fdc895650ec*](https://dyAJ1e.tosslk.xyz/ea1173e5a0b6f32730c34fdc895650ec)
   - **v2ray**: [*https://dyAJ1e.tosslk.xyz/ea1173e5a0b6f32730c34fdc895650ec*](https://dyAJ1e.tosslk.xyz/ea1173e5a0b6f32730c34fdc895650ec)
   - **ios**: [*https://dyAJ1e.tosslk.xyz/ea1173e5a0b6f32730c34fdc895650ec*](https://dyAJ1e.tosslk.xyz/ea1173e5a0b6f32730c34fdc895650ec)
 - **abshare**
-  - **clash**: [*https://GROOua.absslk.xyz/075130a4bef49a1e3ea7dcbe8248af20*](https://GROOua.absslk.xyz/075130a4bef49a1e3ea7dcbe8248af20)
-  - **v2ray**: [*https://GROOua.absslk.xyz/075130a4bef49a1e3ea7dcbe8248af20*](https://GROOua.absslk.xyz/075130a4bef49a1e3ea7dcbe8248af20)
-  - **ios**: [*https://GROOua.absslk.xyz/075130a4bef49a1e3ea7dcbe8248af20*](https://GROOua.absslk.xyz/075130a4bef49a1e3ea7dcbe8248af20)
+  - **clash**: [*https://zqQ9Nx.absslk.xyz/4bd856185093f06556ba464a71636878*](https://zqQ9Nx.absslk.xyz/4bd856185093f06556ba464a71636878)
+  - **v2ray**: [*https://zqQ9Nx.absslk.xyz/4bd856185093f06556ba464a71636878*](https://zqQ9Nx.absslk.xyz/4bd856185093f06556ba464a71636878)
+  - **ios**: [*https://zqQ9Nx.absslk.xyz/4bd856185093f06556ba464a71636878*](https://zqQ9Nx.absslk.xyz/4bd856185093f06556ba464a71636878)
 - **mksshare**
   - **clash**: [*https://ltni7C.mcsslk.xyz/c1d11e9b58ce35a361f9b14dda5279aa*](https://ltni7C.mcsslk.xyz/c1d11e9b58ce35a361f9b14dda5279aa)
   - **v2ray**: [*https://ltni7C.mcsslk.xyz/c1d11e9b58ce35a361f9b14dda5279aa*](https://ltni7C.mcsslk.xyz/c1d11e9b58ce35a361f9b14dda5279aa)
