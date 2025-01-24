@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-24 21:37:05
+> Updated Time: 2025-01-24 21:42:33
 
 - **tolinkshare2**
   - **clash**: [*https://NoraGl.tosslk.xyz/ba5aecccd827057834e30c5230067e8c*](https://NoraGl.tosslk.xyz/ba5aecccd827057834e30c5230067e8c)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0*](https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0)
   - **ios**: [*https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0*](https://NV6E2p.absslk.xyz/4212165184bae42b475c8fc709a779d0)
 - **mksshare**
-  - **clash**: [*https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b*](https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b)
-  - **v2ray**: [*https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b*](https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b)
-  - **ios**: [*https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b*](https://awBAmj.mcsslk.xyz/8dc8f97bd2431b903dd2b98918dc500b)
+  - **clash**: [*https://1cK8bd.mcsslk.xyz/f1bd06cf83dd61ba2ce4c140d87e07f1*](https://1cK8bd.mcsslk.xyz/f1bd06cf83dd61ba2ce4c140d87e07f1)
+  - **v2ray**: [*https://1cK8bd.mcsslk.xyz/f1bd06cf83dd61ba2ce4c140d87e07f1*](https://1cK8bd.mcsslk.xyz/f1bd06cf83dd61ba2ce4c140d87e07f1)
+  - **ios**: [*https://1cK8bd.mcsslk.xyz/f1bd06cf83dd61ba2ce4c140d87e07f1*](https://1cK8bd.mcsslk.xyz/f1bd06cf83dd61ba2ce4c140d87e07f1)
 - **mkshare3**
   - **clash**: [*https://Ajyzwe.mcsslk.xyz/a71332ec2790054679e997597d993037*](https://Ajyzwe.mcsslk.xyz/a71332ec2790054679e997597d993037)
   - **v2ray**: [*https://Ajyzwe.mcsslk.xyz/a71332ec2790054679e997597d993037*](https://Ajyzwe.mcsslk.xyz/a71332ec2790054679e997597d993037)
