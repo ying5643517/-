@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-25 14:42:46
+> Updated Time: 2025-01-25 14:48:19
 
 - **tolinkshare2**
   - **clash**: [*https://5pHeAE.tosslk.xyz/581900303340bff6f0e4a5b4b84b3954*](https://5pHeAE.tosslk.xyz/581900303340bff6f0e4a5b4b84b3954)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://ltjO6S.absslk.xyz/6c45c0e7d23082e0cf35fb72bc9343f0*](https://ltjO6S.absslk.xyz/6c45c0e7d23082e0cf35fb72bc9343f0)
   - **ios**: [*https://ltjO6S.absslk.xyz/6c45c0e7d23082e0cf35fb72bc9343f0*](https://ltjO6S.absslk.xyz/6c45c0e7d23082e0cf35fb72bc9343f0)
 - **mksshare**
-  - **clash**: [*https://ZElIGM.mcsslk.xyz/3d0670fa0b4dbe7268bb525308d3790e*](https://ZElIGM.mcsslk.xyz/3d0670fa0b4dbe7268bb525308d3790e)
-  - **v2ray**: [*https://ZElIGM.mcsslk.xyz/3d0670fa0b4dbe7268bb525308d3790e*](https://ZElIGM.mcsslk.xyz/3d0670fa0b4dbe7268bb525308d3790e)
-  - **ios**: [*https://ZElIGM.mcsslk.xyz/3d0670fa0b4dbe7268bb525308d3790e*](https://ZElIGM.mcsslk.xyz/3d0670fa0b4dbe7268bb525308d3790e)
+  - **clash**: [*https://auYZr7.mcsslk.xyz/fe1354a56468fd10087853783beacad3*](https://auYZr7.mcsslk.xyz/fe1354a56468fd10087853783beacad3)
+  - **v2ray**: [*https://auYZr7.mcsslk.xyz/fe1354a56468fd10087853783beacad3*](https://auYZr7.mcsslk.xyz/fe1354a56468fd10087853783beacad3)
+  - **ios**: [*https://auYZr7.mcsslk.xyz/fe1354a56468fd10087853783beacad3*](https://auYZr7.mcsslk.xyz/fe1354a56468fd10087853783beacad3)
 - **mkshare3**
   - **clash**: [*https://yZlFCz.mcsslk.xyz/93dbada5c530b799cb19db657cc59749*](https://yZlFCz.mcsslk.xyz/93dbada5c530b799cb19db657cc59749)
   - **v2ray**: [*https://yZlFCz.mcsslk.xyz/93dbada5c530b799cb19db657cc59749*](https://yZlFCz.mcsslk.xyz/93dbada5c530b799cb19db657cc59749)
