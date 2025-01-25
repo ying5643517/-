@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-25 15:44:22
+> Updated Time: 2025-01-25 15:55:07
 
 - **tolinkshare2**
   - **clash**: [*https://Lf7bkN.tosslk.xyz/b76917aea2fb1a70b4d195205167e81f*](https://Lf7bkN.tosslk.xyz/b76917aea2fb1a70b4d195205167e81f)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://WhTQuX.tosslk.xyz/7c34934831150ae7bba158e72de8b566*](https://WhTQuX.tosslk.xyz/7c34934831150ae7bba158e72de8b566)
   - **ios**: [*https://WhTQuX.tosslk.xyz/7c34934831150ae7bba158e72de8b566*](https://WhTQuX.tosslk.xyz/7c34934831150ae7bba158e72de8b566)
 - **abshare3**
-  - **clash**: [*https://ukMpUR.absslk.xyz/1b1b84384c7b18c3ca6745ecb7dcc3e1*](https://ukMpUR.absslk.xyz/1b1b84384c7b18c3ca6745ecb7dcc3e1)
-  - **v2ray**: [*https://ukMpUR.absslk.xyz/1b1b84384c7b18c3ca6745ecb7dcc3e1*](https://ukMpUR.absslk.xyz/1b1b84384c7b18c3ca6745ecb7dcc3e1)
-  - **ios**: [*https://ukMpUR.absslk.xyz/1b1b84384c7b18c3ca6745ecb7dcc3e1*](https://ukMpUR.absslk.xyz/1b1b84384c7b18c3ca6745ecb7dcc3e1)
+  - **clash**: [*https://W4VNp4.absslk.xyz/9170aa538fa603bdc5946535cdaa5585*](https://W4VNp4.absslk.xyz/9170aa538fa603bdc5946535cdaa5585)
+  - **v2ray**: [*https://W4VNp4.absslk.xyz/9170aa538fa603bdc5946535cdaa5585*](https://W4VNp4.absslk.xyz/9170aa538fa603bdc5946535cdaa5585)
+  - **ios**: [*https://W4VNp4.absslk.xyz/9170aa538fa603bdc5946535cdaa5585*](https://W4VNp4.absslk.xyz/9170aa538fa603bdc5946535cdaa5585)
