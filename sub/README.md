@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-25 17:29:23
+> Updated Time: 2025-01-25 17:35:15
 
 - **tolinkshare2**
-  - **clash**: [*https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911*](https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911)
-  - **v2ray**: [*https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911*](https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911)
-  - **ios**: [*https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911*](https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911)
+  - **clash**: [*https://u8BmKc.tosslk.xyz/55d394b353d1c7fd7bf28e442935f39c*](https://u8BmKc.tosslk.xyz/55d394b353d1c7fd7bf28e442935f39c)
+  - **v2ray**: [*https://u8BmKc.tosslk.xyz/55d394b353d1c7fd7bf28e442935f39c*](https://u8BmKc.tosslk.xyz/55d394b353d1c7fd7bf28e442935f39c)
+  - **ios**: [*https://u8BmKc.tosslk.xyz/55d394b353d1c7fd7bf28e442935f39c*](https://u8BmKc.tosslk.xyz/55d394b353d1c7fd7bf28e442935f39c)
 - **abshare**
-  - **clash**: [*https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e*](https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e)
-  - **v2ray**: [*https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e*](https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e)
-  - **ios**: [*https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e*](https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e)
+  - **clash**: [*https://Ay8WIJ.absslk.xyz/187dda9ccc9675b5d382e73e81496632*](https://Ay8WIJ.absslk.xyz/187dda9ccc9675b5d382e73e81496632)
+  - **v2ray**: [*https://Ay8WIJ.absslk.xyz/187dda9ccc9675b5d382e73e81496632*](https://Ay8WIJ.absslk.xyz/187dda9ccc9675b5d382e73e81496632)
+  - **ios**: [*https://Ay8WIJ.absslk.xyz/187dda9ccc9675b5d382e73e81496632*](https://Ay8WIJ.absslk.xyz/187dda9ccc9675b5d382e73e81496632)
 - **mksshare**
   - **clash**: [*https://Yul5Sy.mcsslk.xyz/cc9f64238aba4f105db06f331bbf1696*](https://Yul5Sy.mcsslk.xyz/cc9f64238aba4f105db06f331bbf1696)
   - **v2ray**: [*https://Yul5Sy.mcsslk.xyz/cc9f64238aba4f105db06f331bbf1696*](https://Yul5Sy.mcsslk.xyz/cc9f64238aba4f105db06f331bbf1696)
