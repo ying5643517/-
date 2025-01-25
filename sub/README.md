@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-25 14:48:19
+> Updated Time: 2025-01-25 14:58:48
 
 - **tolinkshare2**
-  - **clash**: [*https://5pHeAE.tosslk.xyz/581900303340bff6f0e4a5b4b84b3954*](https://5pHeAE.tosslk.xyz/581900303340bff6f0e4a5b4b84b3954)
-  - **v2ray**: [*https://5pHeAE.tosslk.xyz/581900303340bff6f0e4a5b4b84b3954*](https://5pHeAE.tosslk.xyz/581900303340bff6f0e4a5b4b84b3954)
-  - **ios**: [*https://5pHeAE.tosslk.xyz/581900303340bff6f0e4a5b4b84b3954*](https://5pHeAE.tosslk.xyz/581900303340bff6f0e4a5b4b84b3954)
+  - **clash**: [*https://Lf7bkN.tosslk.xyz/b76917aea2fb1a70b4d195205167e81f*](https://Lf7bkN.tosslk.xyz/b76917aea2fb1a70b4d195205167e81f)
+  - **v2ray**: [*https://Lf7bkN.tosslk.xyz/b76917aea2fb1a70b4d195205167e81f*](https://Lf7bkN.tosslk.xyz/b76917aea2fb1a70b4d195205167e81f)
+  - **ios**: [*https://Lf7bkN.tosslk.xyz/b76917aea2fb1a70b4d195205167e81f*](https://Lf7bkN.tosslk.xyz/b76917aea2fb1a70b4d195205167e81f)
 - **abshare**
   - **clash**: [*https://ltjO6S.absslk.xyz/6c45c0e7d23082e0cf35fb72bc9343f0*](https://ltjO6S.absslk.xyz/6c45c0e7d23082e0cf35fb72bc9343f0)
   - **v2ray**: [*https://ltjO6S.absslk.xyz/6c45c0e7d23082e0cf35fb72bc9343f0*](https://ltjO6S.absslk.xyz/6c45c0e7d23082e0cf35fb72bc9343f0)
