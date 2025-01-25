@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-25 17:08:34
+> Updated Time: 2025-01-25 17:23:54
 
 - **tolinkshare2**
-  - **clash**: [*https://xxIXq4.tosslk.xyz/d30a684c47eeeaab191b4604e206ffc8*](https://xxIXq4.tosslk.xyz/d30a684c47eeeaab191b4604e206ffc8)
-  - **v2ray**: [*https://xxIXq4.tosslk.xyz/d30a684c47eeeaab191b4604e206ffc8*](https://xxIXq4.tosslk.xyz/d30a684c47eeeaab191b4604e206ffc8)
-  - **ios**: [*https://xxIXq4.tosslk.xyz/d30a684c47eeeaab191b4604e206ffc8*](https://xxIXq4.tosslk.xyz/d30a684c47eeeaab191b4604e206ffc8)
+  - **clash**: [*https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911*](https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911)
+  - **v2ray**: [*https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911*](https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911)
+  - **ios**: [*https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911*](https://1FsDUT.tosslk.xyz/fdfe96b67f1a57a6d37b38207ae0e911)
 - **abshare**
-  - **clash**: [*https://wn38Br.absslk.xyz/8bd94c3fded397f88b80a5151f694180*](https://wn38Br.absslk.xyz/8bd94c3fded397f88b80a5151f694180)
-  - **v2ray**: [*https://wn38Br.absslk.xyz/8bd94c3fded397f88b80a5151f694180*](https://wn38Br.absslk.xyz/8bd94c3fded397f88b80a5151f694180)
-  - **ios**: [*https://wn38Br.absslk.xyz/8bd94c3fded397f88b80a5151f694180*](https://wn38Br.absslk.xyz/8bd94c3fded397f88b80a5151f694180)
+  - **clash**: [*https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e*](https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e)
+  - **v2ray**: [*https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e*](https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e)
+  - **ios**: [*https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e*](https://WJub8x.absslk.xyz/90b50e6580655db28f1fa84e9721226e)
 - **mksshare**
   - **clash**: [*https://wGYerH.mcsslk.xyz/d775ba481c840f36c323830bae905acf*](https://wGYerH.mcsslk.xyz/d775ba481c840f36c323830bae905acf)
   - **v2ray**: [*https://wGYerH.mcsslk.xyz/d775ba481c840f36c323830bae905acf*](https://wGYerH.mcsslk.xyz/d775ba481c840f36c323830bae905acf)
