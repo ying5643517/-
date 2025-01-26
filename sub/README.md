@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-27 01:38:43
+> Updated Time: 2025-01-27 01:43:55
 
 - **tolinkshare2**
-  - **clash**: [*https://0duzlr.tosslk.xyz/f3ee27ae1ad2534f28a7b26c333d158a*](https://0duzlr.tosslk.xyz/f3ee27ae1ad2534f28a7b26c333d158a)
-  - **v2ray**: [*https://0duzlr.tosslk.xyz/f3ee27ae1ad2534f28a7b26c333d158a*](https://0duzlr.tosslk.xyz/f3ee27ae1ad2534f28a7b26c333d158a)
-  - **ios**: [*https://0duzlr.tosslk.xyz/f3ee27ae1ad2534f28a7b26c333d158a*](https://0duzlr.tosslk.xyz/f3ee27ae1ad2534f28a7b26c333d158a)
+  - **clash**: [*https://T3eGMc.tosslk.xyz/3c7aa8ce55c0dce798afda2968edf32a*](https://T3eGMc.tosslk.xyz/3c7aa8ce55c0dce798afda2968edf32a)
+  - **v2ray**: [*https://T3eGMc.tosslk.xyz/3c7aa8ce55c0dce798afda2968edf32a*](https://T3eGMc.tosslk.xyz/3c7aa8ce55c0dce798afda2968edf32a)
+  - **ios**: [*https://T3eGMc.tosslk.xyz/3c7aa8ce55c0dce798afda2968edf32a*](https://T3eGMc.tosslk.xyz/3c7aa8ce55c0dce798afda2968edf32a)
 - **abshare**
   - **clash**: [*https://4r5lfR.absslk.xyz/ed5b0358926546c503dde4a56e7723cc*](https://4r5lfR.absslk.xyz/ed5b0358926546c503dde4a56e7723cc)
   - **v2ray**: [*https://4r5lfR.absslk.xyz/ed5b0358926546c503dde4a56e7723cc*](https://4r5lfR.absslk.xyz/ed5b0358926546c503dde4a56e7723cc)
