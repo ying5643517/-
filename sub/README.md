@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-27 06:27:44
+> Updated Time: 2025-01-27 06:50:11
 
 - **tolinkshare2**
-  - **clash**: [*https://7Dr862.tosslk.xyz/d0245b7dac7518fe80f549b4cc39f3b9*](https://7Dr862.tosslk.xyz/d0245b7dac7518fe80f549b4cc39f3b9)
-  - **v2ray**: [*https://7Dr862.tosslk.xyz/d0245b7dac7518fe80f549b4cc39f3b9*](https://7Dr862.tosslk.xyz/d0245b7dac7518fe80f549b4cc39f3b9)
-  - **ios**: [*https://7Dr862.tosslk.xyz/d0245b7dac7518fe80f549b4cc39f3b9*](https://7Dr862.tosslk.xyz/d0245b7dac7518fe80f549b4cc39f3b9)
+  - **clash**: [*https://oC3hpi.tosslk.xyz/67cd6abe2d592e2dd803cc0ae1daf306*](https://oC3hpi.tosslk.xyz/67cd6abe2d592e2dd803cc0ae1daf306)
+  - **v2ray**: [*https://oC3hpi.tosslk.xyz/67cd6abe2d592e2dd803cc0ae1daf306*](https://oC3hpi.tosslk.xyz/67cd6abe2d592e2dd803cc0ae1daf306)
+  - **ios**: [*https://oC3hpi.tosslk.xyz/67cd6abe2d592e2dd803cc0ae1daf306*](https://oC3hpi.tosslk.xyz/67cd6abe2d592e2dd803cc0ae1daf306)
 - **abshare**
-  - **clash**: [*https://5zmZRN.absslk.xyz/b18fa461fa17868c1cf629b115c0c8cd*](https://5zmZRN.absslk.xyz/b18fa461fa17868c1cf629b115c0c8cd)
-  - **v2ray**: [*https://5zmZRN.absslk.xyz/b18fa461fa17868c1cf629b115c0c8cd*](https://5zmZRN.absslk.xyz/b18fa461fa17868c1cf629b115c0c8cd)
-  - **ios**: [*https://5zmZRN.absslk.xyz/b18fa461fa17868c1cf629b115c0c8cd*](https://5zmZRN.absslk.xyz/b18fa461fa17868c1cf629b115c0c8cd)
+  - **clash**: [*https://LTVwmg.absslk.xyz/7ce1e83f626a46ff4136211826bf0f66*](https://LTVwmg.absslk.xyz/7ce1e83f626a46ff4136211826bf0f66)
+  - **v2ray**: [*https://LTVwmg.absslk.xyz/7ce1e83f626a46ff4136211826bf0f66*](https://LTVwmg.absslk.xyz/7ce1e83f626a46ff4136211826bf0f66)
+  - **ios**: [*https://LTVwmg.absslk.xyz/7ce1e83f626a46ff4136211826bf0f66*](https://LTVwmg.absslk.xyz/7ce1e83f626a46ff4136211826bf0f66)
 - **mksshare**
   - **clash**: [*https://AsDJRO.mcsslk.xyz/ba3bd5e47291d9312777bd9f83d4ad37*](https://AsDJRO.mcsslk.xyz/ba3bd5e47291d9312777bd9f83d4ad37)
   - **v2ray**: [*https://AsDJRO.mcsslk.xyz/ba3bd5e47291d9312777bd9f83d4ad37*](https://AsDJRO.mcsslk.xyz/ba3bd5e47291d9312777bd9f83d4ad37)
