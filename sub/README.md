@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-26 22:11:02
+> Updated Time: 2025-01-26 22:24:38
 
 - **tolinkshare2**
-  - **clash**: [*https://vwzys6.tosslk.xyz/411263c3be96f56b7f4bd69b893734c8*](https://vwzys6.tosslk.xyz/411263c3be96f56b7f4bd69b893734c8)
-  - **v2ray**: [*https://vwzys6.tosslk.xyz/411263c3be96f56b7f4bd69b893734c8*](https://vwzys6.tosslk.xyz/411263c3be96f56b7f4bd69b893734c8)
-  - **ios**: [*https://vwzys6.tosslk.xyz/411263c3be96f56b7f4bd69b893734c8*](https://vwzys6.tosslk.xyz/411263c3be96f56b7f4bd69b893734c8)
+  - **clash**: [*https://6kf1Il.tosslk.xyz/426922029f2d0496a8ef880d80fa91b0*](https://6kf1Il.tosslk.xyz/426922029f2d0496a8ef880d80fa91b0)
+  - **v2ray**: [*https://6kf1Il.tosslk.xyz/426922029f2d0496a8ef880d80fa91b0*](https://6kf1Il.tosslk.xyz/426922029f2d0496a8ef880d80fa91b0)
+  - **ios**: [*https://6kf1Il.tosslk.xyz/426922029f2d0496a8ef880d80fa91b0*](https://6kf1Il.tosslk.xyz/426922029f2d0496a8ef880d80fa91b0)
 - **abshare**
   - **clash**: [*https://Tpr0wv.absslk.xyz/711c05065a7bf0cd06b3fbf885901d76*](https://Tpr0wv.absslk.xyz/711c05065a7bf0cd06b3fbf885901d76)
   - **v2ray**: [*https://Tpr0wv.absslk.xyz/711c05065a7bf0cd06b3fbf885901d76*](https://Tpr0wv.absslk.xyz/711c05065a7bf0cd06b3fbf885901d76)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://BySrqh.tosslk.xyz/7f417842a04dbe41c7cd9234898f6a6a*](https://BySrqh.tosslk.xyz/7f417842a04dbe41c7cd9234898f6a6a)
   - **ios**: [*https://BySrqh.tosslk.xyz/7f417842a04dbe41c7cd9234898f6a6a*](https://BySrqh.tosslk.xyz/7f417842a04dbe41c7cd9234898f6a6a)
 - **abshare3**
-  - **clash**: [*https://jvDske.absslk.xyz/ea83c7e949ec54bf8bef533b5736b0a4*](https://jvDske.absslk.xyz/ea83c7e949ec54bf8bef533b5736b0a4)
-  - **v2ray**: [*https://jvDske.absslk.xyz/ea83c7e949ec54bf8bef533b5736b0a4*](https://jvDske.absslk.xyz/ea83c7e949ec54bf8bef533b5736b0a4)
-  - **ios**: [*https://jvDske.absslk.xyz/ea83c7e949ec54bf8bef533b5736b0a4*](https://jvDske.absslk.xyz/ea83c7e949ec54bf8bef533b5736b0a4)
+  - **clash**: [*https://MEW1Dj.absslk.xyz/59e7bfa5189ae065f6cecbd2622f4762*](https://MEW1Dj.absslk.xyz/59e7bfa5189ae065f6cecbd2622f4762)
+  - **v2ray**: [*https://MEW1Dj.absslk.xyz/59e7bfa5189ae065f6cecbd2622f4762*](https://MEW1Dj.absslk.xyz/59e7bfa5189ae065f6cecbd2622f4762)
+  - **ios**: [*https://MEW1Dj.absslk.xyz/59e7bfa5189ae065f6cecbd2622f4762*](https://MEW1Dj.absslk.xyz/59e7bfa5189ae065f6cecbd2622f4762)
