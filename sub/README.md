@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-27 15:51:45
+> Updated Time: 2025-01-27 16:14:32
 
 - **tolinkshare2**
-  - **clash**: [*https://3oYnJ2.tosslk.xyz/73141c090eba192ee73f835352932688*](https://3oYnJ2.tosslk.xyz/73141c090eba192ee73f835352932688)
-  - **v2ray**: [*https://3oYnJ2.tosslk.xyz/73141c090eba192ee73f835352932688*](https://3oYnJ2.tosslk.xyz/73141c090eba192ee73f835352932688)
-  - **ios**: [*https://3oYnJ2.tosslk.xyz/73141c090eba192ee73f835352932688*](https://3oYnJ2.tosslk.xyz/73141c090eba192ee73f835352932688)
+  - **clash**: [*https://pmGJ3e.tosslk.xyz/404812dec67289d405c5c6175ce67901*](https://pmGJ3e.tosslk.xyz/404812dec67289d405c5c6175ce67901)
+  - **v2ray**: [*https://pmGJ3e.tosslk.xyz/404812dec67289d405c5c6175ce67901*](https://pmGJ3e.tosslk.xyz/404812dec67289d405c5c6175ce67901)
+  - **ios**: [*https://pmGJ3e.tosslk.xyz/404812dec67289d405c5c6175ce67901*](https://pmGJ3e.tosslk.xyz/404812dec67289d405c5c6175ce67901)
 - **abshare**
   - **clash**: [*https://KAvkFM.absslk.xyz/d1363739ef9ebfd4687f90d8e92d563c*](https://KAvkFM.absslk.xyz/d1363739ef9ebfd4687f90d8e92d563c)
   - **v2ray**: [*https://KAvkFM.absslk.xyz/d1363739ef9ebfd4687f90d8e92d563c*](https://KAvkFM.absslk.xyz/d1363739ef9ebfd4687f90d8e92d563c)
