@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-27 23:29:26
+> Updated Time: 2025-01-27 23:45:35
 
 - **tolinkshare2**
-  - **clash**: [*https://kbXZZl.tosslk.xyz/72f77112f882c71205a88c66b9a7e839*](https://kbXZZl.tosslk.xyz/72f77112f882c71205a88c66b9a7e839)
-  - **v2ray**: [*https://kbXZZl.tosslk.xyz/72f77112f882c71205a88c66b9a7e839*](https://kbXZZl.tosslk.xyz/72f77112f882c71205a88c66b9a7e839)
-  - **ios**: [*https://kbXZZl.tosslk.xyz/72f77112f882c71205a88c66b9a7e839*](https://kbXZZl.tosslk.xyz/72f77112f882c71205a88c66b9a7e839)
+  - **clash**: [*https://LpptXu.tosslk.xyz/b25515046de0aed60e2b1f6a3db3b7b2*](https://LpptXu.tosslk.xyz/b25515046de0aed60e2b1f6a3db3b7b2)
+  - **v2ray**: [*https://LpptXu.tosslk.xyz/b25515046de0aed60e2b1f6a3db3b7b2*](https://LpptXu.tosslk.xyz/b25515046de0aed60e2b1f6a3db3b7b2)
+  - **ios**: [*https://LpptXu.tosslk.xyz/b25515046de0aed60e2b1f6a3db3b7b2*](https://LpptXu.tosslk.xyz/b25515046de0aed60e2b1f6a3db3b7b2)
 - **abshare**
   - **clash**: [*https://z5ynl6.absslk.xyz/9939491f416d65ecd9700ac2ff2ce496*](https://z5ynl6.absslk.xyz/9939491f416d65ecd9700ac2ff2ce496)
   - **v2ray**: [*https://z5ynl6.absslk.xyz/9939491f416d65ecd9700ac2ff2ce496*](https://z5ynl6.absslk.xyz/9939491f416d65ecd9700ac2ff2ce496)
