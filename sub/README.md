@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-29 02:18:30
+> Updated Time: 2025-01-29 02:36:29
 
 - **tolinkshare2**
-  - **clash**: [*https://xyaS0y.tosslk.xyz/44c2b8548c82251cb0c5060c3ddcfb5f*](https://xyaS0y.tosslk.xyz/44c2b8548c82251cb0c5060c3ddcfb5f)
-  - **v2ray**: [*https://xyaS0y.tosslk.xyz/44c2b8548c82251cb0c5060c3ddcfb5f*](https://xyaS0y.tosslk.xyz/44c2b8548c82251cb0c5060c3ddcfb5f)
-  - **ios**: [*https://xyaS0y.tosslk.xyz/44c2b8548c82251cb0c5060c3ddcfb5f*](https://xyaS0y.tosslk.xyz/44c2b8548c82251cb0c5060c3ddcfb5f)
+  - **clash**: [*https://NTGjb3.tosslk.xyz/2b0754540f34f78009e7c21e936e8013*](https://NTGjb3.tosslk.xyz/2b0754540f34f78009e7c21e936e8013)
+  - **v2ray**: [*https://NTGjb3.tosslk.xyz/2b0754540f34f78009e7c21e936e8013*](https://NTGjb3.tosslk.xyz/2b0754540f34f78009e7c21e936e8013)
+  - **ios**: [*https://NTGjb3.tosslk.xyz/2b0754540f34f78009e7c21e936e8013*](https://NTGjb3.tosslk.xyz/2b0754540f34f78009e7c21e936e8013)
 - **abshare**
-  - **clash**: [*https://DNwylU.absslk.xyz/62917bc131792fd767fa881a7cb59ea3*](https://DNwylU.absslk.xyz/62917bc131792fd767fa881a7cb59ea3)
-  - **v2ray**: [*https://DNwylU.absslk.xyz/62917bc131792fd767fa881a7cb59ea3*](https://DNwylU.absslk.xyz/62917bc131792fd767fa881a7cb59ea3)
-  - **ios**: [*https://DNwylU.absslk.xyz/62917bc131792fd767fa881a7cb59ea3*](https://DNwylU.absslk.xyz/62917bc131792fd767fa881a7cb59ea3)
+  - **clash**: [*https://Ibn4OA.absslk.xyz/6998f3b8075641132e1c76bd1d161bcb*](https://Ibn4OA.absslk.xyz/6998f3b8075641132e1c76bd1d161bcb)
+  - **v2ray**: [*https://Ibn4OA.absslk.xyz/6998f3b8075641132e1c76bd1d161bcb*](https://Ibn4OA.absslk.xyz/6998f3b8075641132e1c76bd1d161bcb)
+  - **ios**: [*https://Ibn4OA.absslk.xyz/6998f3b8075641132e1c76bd1d161bcb*](https://Ibn4OA.absslk.xyz/6998f3b8075641132e1c76bd1d161bcb)
 - **mksshare**
   - **clash**: [*https://a2INyk.mcsslk.xyz/122282f693886ba19a403994354924df*](https://a2INyk.mcsslk.xyz/122282f693886ba19a403994354924df)
   - **v2ray**: [*https://a2INyk.mcsslk.xyz/122282f693886ba19a403994354924df*](https://a2INyk.mcsslk.xyz/122282f693886ba19a403994354924df)
