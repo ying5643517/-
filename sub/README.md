@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-29 12:44:30
+> Updated Time: 2025-01-29 12:49:46
 
 - **tolinkshare2**
-  - **clash**: [*https://ksRbkY.tosslk.xyz/dcbbd60a308245b1fa2d2e2bbefa3f7a*](https://ksRbkY.tosslk.xyz/dcbbd60a308245b1fa2d2e2bbefa3f7a)
-  - **v2ray**: [*https://ksRbkY.tosslk.xyz/dcbbd60a308245b1fa2d2e2bbefa3f7a*](https://ksRbkY.tosslk.xyz/dcbbd60a308245b1fa2d2e2bbefa3f7a)
-  - **ios**: [*https://ksRbkY.tosslk.xyz/dcbbd60a308245b1fa2d2e2bbefa3f7a*](https://ksRbkY.tosslk.xyz/dcbbd60a308245b1fa2d2e2bbefa3f7a)
+  - **clash**: [*https://DKjEcl.tosslk.xyz/28b2187b056d16cce37b3a63e1d72049*](https://DKjEcl.tosslk.xyz/28b2187b056d16cce37b3a63e1d72049)
+  - **v2ray**: [*https://DKjEcl.tosslk.xyz/28b2187b056d16cce37b3a63e1d72049*](https://DKjEcl.tosslk.xyz/28b2187b056d16cce37b3a63e1d72049)
+  - **ios**: [*https://DKjEcl.tosslk.xyz/28b2187b056d16cce37b3a63e1d72049*](https://DKjEcl.tosslk.xyz/28b2187b056d16cce37b3a63e1d72049)
 - **abshare**
   - **clash**: [*https://eFjg3u.absslk.xyz/2df23c4897fd3e5bfa0deb2a056abb11*](https://eFjg3u.absslk.xyz/2df23c4897fd3e5bfa0deb2a056abb11)
   - **v2ray**: [*https://eFjg3u.absslk.xyz/2df23c4897fd3e5bfa0deb2a056abb11*](https://eFjg3u.absslk.xyz/2df23c4897fd3e5bfa0deb2a056abb11)
