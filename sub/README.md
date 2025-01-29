@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-30 04:18:07
+> Updated Time: 2025-01-30 04:41:58
 
 - **tolinkshare2**
-  - **clash**: [*https://ykoLI8.tosslk.xyz/2bf5c26bdb4f91b25a076ddb18cc158f*](https://ykoLI8.tosslk.xyz/2bf5c26bdb4f91b25a076ddb18cc158f)
-  - **v2ray**: [*https://ykoLI8.tosslk.xyz/2bf5c26bdb4f91b25a076ddb18cc158f*](https://ykoLI8.tosslk.xyz/2bf5c26bdb4f91b25a076ddb18cc158f)
-  - **ios**: [*https://ykoLI8.tosslk.xyz/2bf5c26bdb4f91b25a076ddb18cc158f*](https://ykoLI8.tosslk.xyz/2bf5c26bdb4f91b25a076ddb18cc158f)
+  - **clash**: [*https://0czp3v.tosslk.xyz/012cdf3616878482b9987b7d59a60944*](https://0czp3v.tosslk.xyz/012cdf3616878482b9987b7d59a60944)
+  - **v2ray**: [*https://0czp3v.tosslk.xyz/012cdf3616878482b9987b7d59a60944*](https://0czp3v.tosslk.xyz/012cdf3616878482b9987b7d59a60944)
+  - **ios**: [*https://0czp3v.tosslk.xyz/012cdf3616878482b9987b7d59a60944*](https://0czp3v.tosslk.xyz/012cdf3616878482b9987b7d59a60944)
 - **abshare**
-  - **clash**: [*https://vUl7dq.absslk.xyz/49465d1f28fbee4684b5822535910e35*](https://vUl7dq.absslk.xyz/49465d1f28fbee4684b5822535910e35)
-  - **v2ray**: [*https://vUl7dq.absslk.xyz/49465d1f28fbee4684b5822535910e35*](https://vUl7dq.absslk.xyz/49465d1f28fbee4684b5822535910e35)
-  - **ios**: [*https://vUl7dq.absslk.xyz/49465d1f28fbee4684b5822535910e35*](https://vUl7dq.absslk.xyz/49465d1f28fbee4684b5822535910e35)
+  - **clash**: [*https://6XjdNk.absslk.xyz/3c6db8821f530e37b6461cf735bcffce*](https://6XjdNk.absslk.xyz/3c6db8821f530e37b6461cf735bcffce)
+  - **v2ray**: [*https://6XjdNk.absslk.xyz/3c6db8821f530e37b6461cf735bcffce*](https://6XjdNk.absslk.xyz/3c6db8821f530e37b6461cf735bcffce)
+  - **ios**: [*https://6XjdNk.absslk.xyz/3c6db8821f530e37b6461cf735bcffce*](https://6XjdNk.absslk.xyz/3c6db8821f530e37b6461cf735bcffce)
 - **mksshare**
   - **clash**: [*https://Fwqp2j.mcsslk.xyz/cef0f204c590d6fa931ad40b7a2062ca*](https://Fwqp2j.mcsslk.xyz/cef0f204c590d6fa931ad40b7a2062ca)
   - **v2ray**: [*https://Fwqp2j.mcsslk.xyz/cef0f204c590d6fa931ad40b7a2062ca*](https://Fwqp2j.mcsslk.xyz/cef0f204c590d6fa931ad40b7a2062ca)
