@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-29 13:29:55
+> Updated Time: 2025-01-29 13:42:59
 
 - **tolinkshare2**
   - **clash**: [*https://DKjEcl.tosslk.xyz/28b2187b056d16cce37b3a63e1d72049*](https://DKjEcl.tosslk.xyz/28b2187b056d16cce37b3a63e1d72049)
@@ -40,10 +40,10 @@
   - **v2ray**: [*https://m3CiiR.mcsslk.xyz/c59c7bb427b4a766a7e12af458a53f43*](https://m3CiiR.mcsslk.xyz/c59c7bb427b4a766a7e12af458a53f43)
   - **ios**: [*https://m3CiiR.mcsslk.xyz/c59c7bb427b4a766a7e12af458a53f43*](https://m3CiiR.mcsslk.xyz/c59c7bb427b4a766a7e12af458a53f43)
 - **toshare5**
-  - **clash**: [*https://Ggsff7.tosslk.xyz/e56e0d5655e7dd5470bbe38ae838ae2d*](https://Ggsff7.tosslk.xyz/e56e0d5655e7dd5470bbe38ae838ae2d)
-  - **v2ray**: [*https://Ggsff7.tosslk.xyz/e56e0d5655e7dd5470bbe38ae838ae2d*](https://Ggsff7.tosslk.xyz/e56e0d5655e7dd5470bbe38ae838ae2d)
-  - **ios**: [*https://Ggsff7.tosslk.xyz/e56e0d5655e7dd5470bbe38ae838ae2d*](https://Ggsff7.tosslk.xyz/e56e0d5655e7dd5470bbe38ae838ae2d)
+  - **clash**: [*https://9rqWkz.tosslk.xyz/0e837915a91c60ea29b3ab152b95d75d*](https://9rqWkz.tosslk.xyz/0e837915a91c60ea29b3ab152b95d75d)
+  - **v2ray**: [*https://9rqWkz.tosslk.xyz/0e837915a91c60ea29b3ab152b95d75d*](https://9rqWkz.tosslk.xyz/0e837915a91c60ea29b3ab152b95d75d)
+  - **ios**: [*https://9rqWkz.tosslk.xyz/0e837915a91c60ea29b3ab152b95d75d*](https://9rqWkz.tosslk.xyz/0e837915a91c60ea29b3ab152b95d75d)
 - **abshare3**
-  - **clash**: [*https://ZZkSBY.absslk.xyz/2beb36ccc04e6a093275b6baf3eb8fdf*](https://ZZkSBY.absslk.xyz/2beb36ccc04e6a093275b6baf3eb8fdf)
-  - **v2ray**: [*https://ZZkSBY.absslk.xyz/2beb36ccc04e6a093275b6baf3eb8fdf*](https://ZZkSBY.absslk.xyz/2beb36ccc04e6a093275b6baf3eb8fdf)
-  - **ios**: [*https://ZZkSBY.absslk.xyz/2beb36ccc04e6a093275b6baf3eb8fdf*](https://ZZkSBY.absslk.xyz/2beb36ccc04e6a093275b6baf3eb8fdf)
+  - **clash**: [*https://u1FSaR.absslk.xyz/5fa13070c25d70263cc24f5dced15a41*](https://u1FSaR.absslk.xyz/5fa13070c25d70263cc24f5dced15a41)
+  - **v2ray**: [*https://u1FSaR.absslk.xyz/5fa13070c25d70263cc24f5dced15a41*](https://u1FSaR.absslk.xyz/5fa13070c25d70263cc24f5dced15a41)
+  - **ios**: [*https://u1FSaR.absslk.xyz/5fa13070c25d70263cc24f5dced15a41*](https://u1FSaR.absslk.xyz/5fa13070c25d70263cc24f5dced15a41)
