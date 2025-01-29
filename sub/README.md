@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-29 10:44:57
+> Updated Time: 2025-01-29 10:59:44
 
 - **tolinkshare2**
-  - **clash**: [*https://GwXQDu.tosslk.xyz/3e8ec77077f0c7e3a157f9dae50b688d*](https://GwXQDu.tosslk.xyz/3e8ec77077f0c7e3a157f9dae50b688d)
-  - **v2ray**: [*https://GwXQDu.tosslk.xyz/3e8ec77077f0c7e3a157f9dae50b688d*](https://GwXQDu.tosslk.xyz/3e8ec77077f0c7e3a157f9dae50b688d)
-  - **ios**: [*https://GwXQDu.tosslk.xyz/3e8ec77077f0c7e3a157f9dae50b688d*](https://GwXQDu.tosslk.xyz/3e8ec77077f0c7e3a157f9dae50b688d)
+  - **clash**: [*https://vc4mVt.tosslk.xyz/ff9f661c1e5a82b09f2dad88ddbc9024*](https://vc4mVt.tosslk.xyz/ff9f661c1e5a82b09f2dad88ddbc9024)
+  - **v2ray**: [*https://vc4mVt.tosslk.xyz/ff9f661c1e5a82b09f2dad88ddbc9024*](https://vc4mVt.tosslk.xyz/ff9f661c1e5a82b09f2dad88ddbc9024)
+  - **ios**: [*https://vc4mVt.tosslk.xyz/ff9f661c1e5a82b09f2dad88ddbc9024*](https://vc4mVt.tosslk.xyz/ff9f661c1e5a82b09f2dad88ddbc9024)
 - **abshare**
-  - **clash**: [*https://ls7MTx.absslk.xyz/c9772b8c087ab57c33f7deb4d684ee10*](https://ls7MTx.absslk.xyz/c9772b8c087ab57c33f7deb4d684ee10)
-  - **v2ray**: [*https://ls7MTx.absslk.xyz/c9772b8c087ab57c33f7deb4d684ee10*](https://ls7MTx.absslk.xyz/c9772b8c087ab57c33f7deb4d684ee10)
-  - **ios**: [*https://ls7MTx.absslk.xyz/c9772b8c087ab57c33f7deb4d684ee10*](https://ls7MTx.absslk.xyz/c9772b8c087ab57c33f7deb4d684ee10)
+  - **clash**: [*https://BJ7kYa.absslk.xyz/4aac25f7288076f5e462a90e425ce8b1*](https://BJ7kYa.absslk.xyz/4aac25f7288076f5e462a90e425ce8b1)
+  - **v2ray**: [*https://BJ7kYa.absslk.xyz/4aac25f7288076f5e462a90e425ce8b1*](https://BJ7kYa.absslk.xyz/4aac25f7288076f5e462a90e425ce8b1)
+  - **ios**: [*https://BJ7kYa.absslk.xyz/4aac25f7288076f5e462a90e425ce8b1*](https://BJ7kYa.absslk.xyz/4aac25f7288076f5e462a90e425ce8b1)
 - **mksshare**
   - **clash**: [*https://Zmyl3e.mcsslk.xyz/6f0e8abe900c0555a82f3d8945b2c0e3*](https://Zmyl3e.mcsslk.xyz/6f0e8abe900c0555a82f3d8945b2c0e3)
   - **v2ray**: [*https://Zmyl3e.mcsslk.xyz/6f0e8abe900c0555a82f3d8945b2c0e3*](https://Zmyl3e.mcsslk.xyz/6f0e8abe900c0555a82f3d8945b2c0e3)
