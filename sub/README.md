@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-29 21:29:31
+> Updated Time: 2025-01-29 21:37:34
 
 - **tolinkshare2**
-  - **clash**: [*https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8*](https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8)
-  - **v2ray**: [*https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8*](https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8)
-  - **ios**: [*https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8*](https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8)
+  - **clash**: [*https://UZjzLs.tosslk.xyz/1393474c9b82f068fdc681ff831ab7dc*](https://UZjzLs.tosslk.xyz/1393474c9b82f068fdc681ff831ab7dc)
+  - **v2ray**: [*https://UZjzLs.tosslk.xyz/1393474c9b82f068fdc681ff831ab7dc*](https://UZjzLs.tosslk.xyz/1393474c9b82f068fdc681ff831ab7dc)
+  - **ios**: [*https://UZjzLs.tosslk.xyz/1393474c9b82f068fdc681ff831ab7dc*](https://UZjzLs.tosslk.xyz/1393474c9b82f068fdc681ff831ab7dc)
 - **abshare**
   - **clash**: [*https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3*](https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3)
   - **v2ray**: [*https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3*](https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3)
