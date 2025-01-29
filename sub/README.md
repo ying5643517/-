@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-29 21:11:56
+> Updated Time: 2025-01-29 21:29:31
 
 - **tolinkshare2**
-  - **clash**: [*https://tAII5m.tosslk.xyz/e0ea9d612db2f8314597ccdd99f996a3*](https://tAII5m.tosslk.xyz/e0ea9d612db2f8314597ccdd99f996a3)
-  - **v2ray**: [*https://tAII5m.tosslk.xyz/e0ea9d612db2f8314597ccdd99f996a3*](https://tAII5m.tosslk.xyz/e0ea9d612db2f8314597ccdd99f996a3)
-  - **ios**: [*https://tAII5m.tosslk.xyz/e0ea9d612db2f8314597ccdd99f996a3*](https://tAII5m.tosslk.xyz/e0ea9d612db2f8314597ccdd99f996a3)
+  - **clash**: [*https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8*](https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8)
+  - **v2ray**: [*https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8*](https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8)
+  - **ios**: [*https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8*](https://w3ukRz.tosslk.xyz/92a4fab036f486dbc2ab19c2d6bbabd8)
 - **abshare**
-  - **clash**: [*https://UyVvGO.absslk.xyz/dadfecffce42f11ec2157617bfa0f818*](https://UyVvGO.absslk.xyz/dadfecffce42f11ec2157617bfa0f818)
-  - **v2ray**: [*https://UyVvGO.absslk.xyz/dadfecffce42f11ec2157617bfa0f818*](https://UyVvGO.absslk.xyz/dadfecffce42f11ec2157617bfa0f818)
-  - **ios**: [*https://UyVvGO.absslk.xyz/dadfecffce42f11ec2157617bfa0f818*](https://UyVvGO.absslk.xyz/dadfecffce42f11ec2157617bfa0f818)
+  - **clash**: [*https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3*](https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3)
+  - **v2ray**: [*https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3*](https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3)
+  - **ios**: [*https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3*](https://gAeAas.absslk.xyz/bfee79a77788874866f7ddd28bb4eac3)
 - **mksshare**
   - **clash**: [*https://ATX2jK.mcsslk.xyz/fcbea8fc5105ce76b5e6b88956d9825e*](https://ATX2jK.mcsslk.xyz/fcbea8fc5105ce76b5e6b88956d9825e)
   - **v2ray**: [*https://ATX2jK.mcsslk.xyz/fcbea8fc5105ce76b5e6b88956d9825e*](https://ATX2jK.mcsslk.xyz/fcbea8fc5105ce76b5e6b88956d9825e)
