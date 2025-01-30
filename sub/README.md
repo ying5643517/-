@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-30 21:45:57
+> Updated Time: 2025-01-30 21:51:26
 
 - **tolinkshare2**
-  - **clash**: [*https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a*](https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a)
-  - **v2ray**: [*https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a*](https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a)
-  - **ios**: [*https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a*](https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a)
+  - **clash**: [*https://YCkLVo.tosslk.xyz/64c3ed5663b0750330360a3a898ab78a*](https://YCkLVo.tosslk.xyz/64c3ed5663b0750330360a3a898ab78a)
+  - **v2ray**: [*https://YCkLVo.tosslk.xyz/64c3ed5663b0750330360a3a898ab78a*](https://YCkLVo.tosslk.xyz/64c3ed5663b0750330360a3a898ab78a)
+  - **ios**: [*https://YCkLVo.tosslk.xyz/64c3ed5663b0750330360a3a898ab78a*](https://YCkLVo.tosslk.xyz/64c3ed5663b0750330360a3a898ab78a)
 - **abshare**
-  - **clash**: [*https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89*](https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89)
-  - **v2ray**: [*https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89*](https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89)
-  - **ios**: [*https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89*](https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89)
+  - **clash**: [*https://br0yZL.absslk.xyz/691a38e734dd05216be7599edc0d9e47*](https://br0yZL.absslk.xyz/691a38e734dd05216be7599edc0d9e47)
+  - **v2ray**: [*https://br0yZL.absslk.xyz/691a38e734dd05216be7599edc0d9e47*](https://br0yZL.absslk.xyz/691a38e734dd05216be7599edc0d9e47)
+  - **ios**: [*https://br0yZL.absslk.xyz/691a38e734dd05216be7599edc0d9e47*](https://br0yZL.absslk.xyz/691a38e734dd05216be7599edc0d9e47)
 - **mksshare**
   - **clash**: [*https://eXcxgv.mcsslk.xyz/965633302261e42c48eccb668522b672*](https://eXcxgv.mcsslk.xyz/965633302261e42c48eccb668522b672)
   - **v2ray**: [*https://eXcxgv.mcsslk.xyz/965633302261e42c48eccb668522b672*](https://eXcxgv.mcsslk.xyz/965633302261e42c48eccb668522b672)
