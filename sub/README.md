@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-30 18:40:29
+> Updated Time: 2025-01-30 18:45:40
 
 - **tolinkshare2**
   - **clash**: [*https://A3gaHB.tosslk.xyz/6d97cf09fd1d9a7ef4f980e19f132496*](https://A3gaHB.tosslk.xyz/6d97cf09fd1d9a7ef4f980e19f132496)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://Ugfzei.tosslk.xyz/691d268ae5d835bc97a388c6f77aa23e*](https://Ugfzei.tosslk.xyz/691d268ae5d835bc97a388c6f77aa23e)
   - **ios**: [*https://Ugfzei.tosslk.xyz/691d268ae5d835bc97a388c6f77aa23e*](https://Ugfzei.tosslk.xyz/691d268ae5d835bc97a388c6f77aa23e)
 - **abshare3**
-  - **clash**: [*https://s4ePqc.absslk.xyz/06a35fcfa8463100033875942cdf34a0*](https://s4ePqc.absslk.xyz/06a35fcfa8463100033875942cdf34a0)
-  - **v2ray**: [*https://s4ePqc.absslk.xyz/06a35fcfa8463100033875942cdf34a0*](https://s4ePqc.absslk.xyz/06a35fcfa8463100033875942cdf34a0)
-  - **ios**: [*https://s4ePqc.absslk.xyz/06a35fcfa8463100033875942cdf34a0*](https://s4ePqc.absslk.xyz/06a35fcfa8463100033875942cdf34a0)
+  - **clash**: [*https://ZJ71Do.absslk.xyz/aa518a839b45064dd45cbf7886ae3446*](https://ZJ71Do.absslk.xyz/aa518a839b45064dd45cbf7886ae3446)
+  - **v2ray**: [*https://ZJ71Do.absslk.xyz/aa518a839b45064dd45cbf7886ae3446*](https://ZJ71Do.absslk.xyz/aa518a839b45064dd45cbf7886ae3446)
+  - **ios**: [*https://ZJ71Do.absslk.xyz/aa518a839b45064dd45cbf7886ae3446*](https://ZJ71Do.absslk.xyz/aa518a839b45064dd45cbf7886ae3446)
