@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-30 23:33:35
+> Updated Time: 2025-01-30 23:40:32
 
 - **tolinkshare2**
-  - **clash**: [*https://16KLsv.tosslk.xyz/033f873dda507351d77878d84db2ceeb*](https://16KLsv.tosslk.xyz/033f873dda507351d77878d84db2ceeb)
-  - **v2ray**: [*https://16KLsv.tosslk.xyz/033f873dda507351d77878d84db2ceeb*](https://16KLsv.tosslk.xyz/033f873dda507351d77878d84db2ceeb)
-  - **ios**: [*https://16KLsv.tosslk.xyz/033f873dda507351d77878d84db2ceeb*](https://16KLsv.tosslk.xyz/033f873dda507351d77878d84db2ceeb)
+  - **clash**: [*https://aJX3iM.tosslk.xyz/67e8a676551312676755304c2614e29d*](https://aJX3iM.tosslk.xyz/67e8a676551312676755304c2614e29d)
+  - **v2ray**: [*https://aJX3iM.tosslk.xyz/67e8a676551312676755304c2614e29d*](https://aJX3iM.tosslk.xyz/67e8a676551312676755304c2614e29d)
+  - **ios**: [*https://aJX3iM.tosslk.xyz/67e8a676551312676755304c2614e29d*](https://aJX3iM.tosslk.xyz/67e8a676551312676755304c2614e29d)
 - **abshare**
-  - **clash**: [*https://uOiF9E.absslk.xyz/de2182fa90633dcfbf70e58f97b3a602*](https://uOiF9E.absslk.xyz/de2182fa90633dcfbf70e58f97b3a602)
-  - **v2ray**: [*https://uOiF9E.absslk.xyz/de2182fa90633dcfbf70e58f97b3a602*](https://uOiF9E.absslk.xyz/de2182fa90633dcfbf70e58f97b3a602)
-  - **ios**: [*https://uOiF9E.absslk.xyz/de2182fa90633dcfbf70e58f97b3a602*](https://uOiF9E.absslk.xyz/de2182fa90633dcfbf70e58f97b3a602)
+  - **clash**: [*https://2JvOcT.absslk.xyz/4806c0ed942b6f35048817a53c567983*](https://2JvOcT.absslk.xyz/4806c0ed942b6f35048817a53c567983)
+  - **v2ray**: [*https://2JvOcT.absslk.xyz/4806c0ed942b6f35048817a53c567983*](https://2JvOcT.absslk.xyz/4806c0ed942b6f35048817a53c567983)
+  - **ios**: [*https://2JvOcT.absslk.xyz/4806c0ed942b6f35048817a53c567983*](https://2JvOcT.absslk.xyz/4806c0ed942b6f35048817a53c567983)
 - **mksshare**
   - **clash**: [*https://rFlzFg.mcsslk.xyz/3bdce428b95420c72753de946155711d*](https://rFlzFg.mcsslk.xyz/3bdce428b95420c72753de946155711d)
   - **v2ray**: [*https://rFlzFg.mcsslk.xyz/3bdce428b95420c72753de946155711d*](https://rFlzFg.mcsslk.xyz/3bdce428b95420c72753de946155711d)
