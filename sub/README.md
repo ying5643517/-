@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-30 12:34:48
+> Updated Time: 2025-01-30 12:43:28
 
 - **tolinkshare2**
   - **clash**: [*https://e29c8X.tosslk.xyz/e03f95cc8533c03f76691dc7c9b4dfdf*](https://e29c8X.tosslk.xyz/e03f95cc8533c03f76691dc7c9b4dfdf)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://Xgh4zv.mcsslk.xyz/5314302317193fa6c9b94fad64ff0710*](https://Xgh4zv.mcsslk.xyz/5314302317193fa6c9b94fad64ff0710)
   - **ios**: [*https://Xgh4zv.mcsslk.xyz/5314302317193fa6c9b94fad64ff0710*](https://Xgh4zv.mcsslk.xyz/5314302317193fa6c9b94fad64ff0710)
 - **toshare5**
-  - **clash**: [*https://XKCRsP.tosslk.xyz/e768a2668df84242246b3056b61fc2c8*](https://XKCRsP.tosslk.xyz/e768a2668df84242246b3056b61fc2c8)
-  - **v2ray**: [*https://XKCRsP.tosslk.xyz/e768a2668df84242246b3056b61fc2c8*](https://XKCRsP.tosslk.xyz/e768a2668df84242246b3056b61fc2c8)
-  - **ios**: [*https://XKCRsP.tosslk.xyz/e768a2668df84242246b3056b61fc2c8*](https://XKCRsP.tosslk.xyz/e768a2668df84242246b3056b61fc2c8)
+  - **clash**: [*https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5*](https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5)
+  - **v2ray**: [*https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5*](https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5)
+  - **ios**: [*https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5*](https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5)
 - **abshare3**
   - **clash**: [*https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24*](https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24)
   - **v2ray**: [*https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24*](https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24)
