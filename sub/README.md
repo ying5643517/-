@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-30 12:43:28
+> Updated Time: 2025-01-30 12:59:33
 
 - **tolinkshare2**
-  - **clash**: [*https://e29c8X.tosslk.xyz/e03f95cc8533c03f76691dc7c9b4dfdf*](https://e29c8X.tosslk.xyz/e03f95cc8533c03f76691dc7c9b4dfdf)
-  - **v2ray**: [*https://e29c8X.tosslk.xyz/e03f95cc8533c03f76691dc7c9b4dfdf*](https://e29c8X.tosslk.xyz/e03f95cc8533c03f76691dc7c9b4dfdf)
-  - **ios**: [*https://e29c8X.tosslk.xyz/e03f95cc8533c03f76691dc7c9b4dfdf*](https://e29c8X.tosslk.xyz/e03f95cc8533c03f76691dc7c9b4dfdf)
+  - **clash**: [*https://f9F9tJ.tosslk.xyz/7dd9c290ddbd70d59d2112b892973970*](https://f9F9tJ.tosslk.xyz/7dd9c290ddbd70d59d2112b892973970)
+  - **v2ray**: [*https://f9F9tJ.tosslk.xyz/7dd9c290ddbd70d59d2112b892973970*](https://f9F9tJ.tosslk.xyz/7dd9c290ddbd70d59d2112b892973970)
+  - **ios**: [*https://f9F9tJ.tosslk.xyz/7dd9c290ddbd70d59d2112b892973970*](https://f9F9tJ.tosslk.xyz/7dd9c290ddbd70d59d2112b892973970)
 - **abshare**
   - **clash**: [*https://hscKZQ.absslk.xyz/08d7ad0a3b42e7a3bc43443b12c209b1*](https://hscKZQ.absslk.xyz/08d7ad0a3b42e7a3bc43443b12c209b1)
   - **v2ray**: [*https://hscKZQ.absslk.xyz/08d7ad0a3b42e7a3bc43443b12c209b1*](https://hscKZQ.absslk.xyz/08d7ad0a3b42e7a3bc43443b12c209b1)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5*](https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5)
   - **ios**: [*https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5*](https://1u9jOS.tosslk.xyz/5ddbcbda368a19eca54373e2302036d5)
 - **abshare3**
-  - **clash**: [*https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24*](https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24)
-  - **v2ray**: [*https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24*](https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24)
-  - **ios**: [*https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24*](https://jQfLrD.absslk.xyz/ade7af1712b78526db41f699251ccf24)
+  - **clash**: [*https://heAyCI.absslk.xyz/49272198d9d2f37715bb431c44c4ba89*](https://heAyCI.absslk.xyz/49272198d9d2f37715bb431c44c4ba89)
+  - **v2ray**: [*https://heAyCI.absslk.xyz/49272198d9d2f37715bb431c44c4ba89*](https://heAyCI.absslk.xyz/49272198d9d2f37715bb431c44c4ba89)
+  - **ios**: [*https://heAyCI.absslk.xyz/49272198d9d2f37715bb431c44c4ba89*](https://heAyCI.absslk.xyz/49272198d9d2f37715bb431c44c4ba89)
