@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-31 06:15:57
+> Updated Time: 2025-01-31 06:29:55
 
 - **tolinkshare2**
-  - **clash**: [*https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c*](https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c)
-  - **v2ray**: [*https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c*](https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c)
-  - **ios**: [*https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c*](https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c)
+  - **clash**: [*https://KvJGs8.tosslk.xyz/d3518582dc91b395a78bea8ae7d4f091*](https://KvJGs8.tosslk.xyz/d3518582dc91b395a78bea8ae7d4f091)
+  - **v2ray**: [*https://KvJGs8.tosslk.xyz/d3518582dc91b395a78bea8ae7d4f091*](https://KvJGs8.tosslk.xyz/d3518582dc91b395a78bea8ae7d4f091)
+  - **ios**: [*https://KvJGs8.tosslk.xyz/d3518582dc91b395a78bea8ae7d4f091*](https://KvJGs8.tosslk.xyz/d3518582dc91b395a78bea8ae7d4f091)
 - **abshare**
   - **clash**: [*https://PUALOn.absslk.xyz/735c4d3dab7b624ce76afdfe65290251*](https://PUALOn.absslk.xyz/735c4d3dab7b624ce76afdfe65290251)
   - **v2ray**: [*https://PUALOn.absslk.xyz/735c4d3dab7b624ce76afdfe65290251*](https://PUALOn.absslk.xyz/735c4d3dab7b624ce76afdfe65290251)
