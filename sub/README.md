@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-30 21:34:58
+> Updated Time: 2025-01-30 21:40:24
 
 - **tolinkshare2**
-  - **clash**: [*https://q9IIja.tosslk.xyz/d5c640cfbcc9df4bef182a6c3c610c76*](https://q9IIja.tosslk.xyz/d5c640cfbcc9df4bef182a6c3c610c76)
-  - **v2ray**: [*https://q9IIja.tosslk.xyz/d5c640cfbcc9df4bef182a6c3c610c76*](https://q9IIja.tosslk.xyz/d5c640cfbcc9df4bef182a6c3c610c76)
-  - **ios**: [*https://q9IIja.tosslk.xyz/d5c640cfbcc9df4bef182a6c3c610c76*](https://q9IIja.tosslk.xyz/d5c640cfbcc9df4bef182a6c3c610c76)
+  - **clash**: [*https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a*](https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a)
+  - **v2ray**: [*https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a*](https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a)
+  - **ios**: [*https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a*](https://dJ04vP.tosslk.xyz/52cca891a2782356e9de42e623fac96a)
 - **abshare**
   - **clash**: [*https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89*](https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89)
   - **v2ray**: [*https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89*](https://E3s9QK.absslk.xyz/ced3a82619d29c1a10d3f49a8f94ed89)
