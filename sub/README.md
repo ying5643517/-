@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-31 04:51:20
+> Updated Time: 2025-01-31 05:33:59
 
 - **tolinkshare2**
-  - **clash**: [*https://gGNzn2.tosslk.xyz/3e82b2a2a9b2efa03273bf83a8c1bf43*](https://gGNzn2.tosslk.xyz/3e82b2a2a9b2efa03273bf83a8c1bf43)
-  - **v2ray**: [*https://gGNzn2.tosslk.xyz/3e82b2a2a9b2efa03273bf83a8c1bf43*](https://gGNzn2.tosslk.xyz/3e82b2a2a9b2efa03273bf83a8c1bf43)
-  - **ios**: [*https://gGNzn2.tosslk.xyz/3e82b2a2a9b2efa03273bf83a8c1bf43*](https://gGNzn2.tosslk.xyz/3e82b2a2a9b2efa03273bf83a8c1bf43)
+  - **clash**: [*https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c*](https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c)
+  - **v2ray**: [*https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c*](https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c)
+  - **ios**: [*https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c*](https://NlD0fT.tosslk.xyz/1800b47b201b2e760b45b8287de8091c)
 - **abshare**
   - **clash**: [*https://ZqPtzk.absslk.xyz/6a95cc3b488855e5c5e573c7dcf1ddea*](https://ZqPtzk.absslk.xyz/6a95cc3b488855e5c5e573c7dcf1ddea)
   - **v2ray**: [*https://ZqPtzk.absslk.xyz/6a95cc3b488855e5c5e573c7dcf1ddea*](https://ZqPtzk.absslk.xyz/6a95cc3b488855e5c5e573c7dcf1ddea)
