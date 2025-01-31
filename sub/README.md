@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-31 19:37:31
+> Updated Time: 2025-01-31 19:42:57
 
 - **tolinkshare2**
-  - **clash**: [*https://qZkNo1.tosslk.xyz/5da1eef3d9beee2d078cdb4221197c6a*](https://qZkNo1.tosslk.xyz/5da1eef3d9beee2d078cdb4221197c6a)
-  - **v2ray**: [*https://qZkNo1.tosslk.xyz/5da1eef3d9beee2d078cdb4221197c6a*](https://qZkNo1.tosslk.xyz/5da1eef3d9beee2d078cdb4221197c6a)
-  - **ios**: [*https://qZkNo1.tosslk.xyz/5da1eef3d9beee2d078cdb4221197c6a*](https://qZkNo1.tosslk.xyz/5da1eef3d9beee2d078cdb4221197c6a)
+  - **clash**: [*https://6jIPkx.tosslk.xyz/72800a47bf553e8be034449f01aa3fc2*](https://6jIPkx.tosslk.xyz/72800a47bf553e8be034449f01aa3fc2)
+  - **v2ray**: [*https://6jIPkx.tosslk.xyz/72800a47bf553e8be034449f01aa3fc2*](https://6jIPkx.tosslk.xyz/72800a47bf553e8be034449f01aa3fc2)
+  - **ios**: [*https://6jIPkx.tosslk.xyz/72800a47bf553e8be034449f01aa3fc2*](https://6jIPkx.tosslk.xyz/72800a47bf553e8be034449f01aa3fc2)
 - **abshare**
   - **clash**: [*https://s2Yo2o.absslk.xyz/35982e7d0a29608216ec5b32f5364343*](https://s2Yo2o.absslk.xyz/35982e7d0a29608216ec5b32f5364343)
   - **v2ray**: [*https://s2Yo2o.absslk.xyz/35982e7d0a29608216ec5b32f5364343*](https://s2Yo2o.absslk.xyz/35982e7d0a29608216ec5b32f5364343)
