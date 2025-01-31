@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-01-31 16:51:11
+> Updated Time: 2025-01-31 17:09:32
 
 - **tolinkshare2**
-  - **clash**: [*https://Zcb4c0.tosslk.xyz/4427685061fe60f7c44a70ddfbf544c5*](https://Zcb4c0.tosslk.xyz/4427685061fe60f7c44a70ddfbf544c5)
-  - **v2ray**: [*https://Zcb4c0.tosslk.xyz/4427685061fe60f7c44a70ddfbf544c5*](https://Zcb4c0.tosslk.xyz/4427685061fe60f7c44a70ddfbf544c5)
-  - **ios**: [*https://Zcb4c0.tosslk.xyz/4427685061fe60f7c44a70ddfbf544c5*](https://Zcb4c0.tosslk.xyz/4427685061fe60f7c44a70ddfbf544c5)
+  - **clash**: [*https://G00lw3.tosslk.xyz/430c9eda048294f744fa8286d2812104*](https://G00lw3.tosslk.xyz/430c9eda048294f744fa8286d2812104)
+  - **v2ray**: [*https://G00lw3.tosslk.xyz/430c9eda048294f744fa8286d2812104*](https://G00lw3.tosslk.xyz/430c9eda048294f744fa8286d2812104)
+  - **ios**: [*https://G00lw3.tosslk.xyz/430c9eda048294f744fa8286d2812104*](https://G00lw3.tosslk.xyz/430c9eda048294f744fa8286d2812104)
 - **abshare**
   - **clash**: [*https://DjPDHw.absslk.xyz/30754e6e072de031db4b108f98b699b2*](https://DjPDHw.absslk.xyz/30754e6e072de031db4b108f98b699b2)
   - **v2ray**: [*https://DjPDHw.absslk.xyz/30754e6e072de031db4b108f98b699b2*](https://DjPDHw.absslk.xyz/30754e6e072de031db4b108f98b699b2)
