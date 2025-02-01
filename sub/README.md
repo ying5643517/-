@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-02 05:21:23
+> Updated Time: 2025-02-02 05:39:46
 
 - **tolinkshare2**
-  - **clash**: [*https://mCjCle.tosslk.xyz/0a39706ff56f419e77809f33ff307b8b*](https://mCjCle.tosslk.xyz/0a39706ff56f419e77809f33ff307b8b)
-  - **v2ray**: [*https://mCjCle.tosslk.xyz/0a39706ff56f419e77809f33ff307b8b*](https://mCjCle.tosslk.xyz/0a39706ff56f419e77809f33ff307b8b)
-  - **ios**: [*https://mCjCle.tosslk.xyz/0a39706ff56f419e77809f33ff307b8b*](https://mCjCle.tosslk.xyz/0a39706ff56f419e77809f33ff307b8b)
+  - **clash**: [*https://xGriC1.tosslk.xyz/a501ebfe3718966aa58573cf1b7bcb11*](https://xGriC1.tosslk.xyz/a501ebfe3718966aa58573cf1b7bcb11)
+  - **v2ray**: [*https://xGriC1.tosslk.xyz/a501ebfe3718966aa58573cf1b7bcb11*](https://xGriC1.tosslk.xyz/a501ebfe3718966aa58573cf1b7bcb11)
+  - **ios**: [*https://xGriC1.tosslk.xyz/a501ebfe3718966aa58573cf1b7bcb11*](https://xGriC1.tosslk.xyz/a501ebfe3718966aa58573cf1b7bcb11)
 - **abshare**
   - **clash**: [*https://NZ51dZ.absslk.xyz/a983d96afaf39db365963be956f83bfc*](https://NZ51dZ.absslk.xyz/a983d96afaf39db365963be956f83bfc)
   - **v2ray**: [*https://NZ51dZ.absslk.xyz/a983d96afaf39db365963be956f83bfc*](https://NZ51dZ.absslk.xyz/a983d96afaf39db365963be956f83bfc)
