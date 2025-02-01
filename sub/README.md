@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-02 03:46:43
+> Updated Time: 2025-02-02 03:52:07
 
 - **tolinkshare2**
-  - **clash**: [*https://U7a7N1.tosslk.xyz/9a551ade90ac4fa82adb83c496b01190*](https://U7a7N1.tosslk.xyz/9a551ade90ac4fa82adb83c496b01190)
-  - **v2ray**: [*https://U7a7N1.tosslk.xyz/9a551ade90ac4fa82adb83c496b01190*](https://U7a7N1.tosslk.xyz/9a551ade90ac4fa82adb83c496b01190)
-  - **ios**: [*https://U7a7N1.tosslk.xyz/9a551ade90ac4fa82adb83c496b01190*](https://U7a7N1.tosslk.xyz/9a551ade90ac4fa82adb83c496b01190)
+  - **clash**: [*https://0mq7wv.tosslk.xyz/e1ace8c9440674b662db8d743e68e005*](https://0mq7wv.tosslk.xyz/e1ace8c9440674b662db8d743e68e005)
+  - **v2ray**: [*https://0mq7wv.tosslk.xyz/e1ace8c9440674b662db8d743e68e005*](https://0mq7wv.tosslk.xyz/e1ace8c9440674b662db8d743e68e005)
+  - **ios**: [*https://0mq7wv.tosslk.xyz/e1ace8c9440674b662db8d743e68e005*](https://0mq7wv.tosslk.xyz/e1ace8c9440674b662db8d743e68e005)
 - **abshare**
-  - **clash**: [*https://vJm9Ov.absslk.xyz/b7bc33b4d70f47463bdde6ccd7df1b18*](https://vJm9Ov.absslk.xyz/b7bc33b4d70f47463bdde6ccd7df1b18)
-  - **v2ray**: [*https://vJm9Ov.absslk.xyz/b7bc33b4d70f47463bdde6ccd7df1b18*](https://vJm9Ov.absslk.xyz/b7bc33b4d70f47463bdde6ccd7df1b18)
-  - **ios**: [*https://vJm9Ov.absslk.xyz/b7bc33b4d70f47463bdde6ccd7df1b18*](https://vJm9Ov.absslk.xyz/b7bc33b4d70f47463bdde6ccd7df1b18)
+  - **clash**: [*https://AcJUd0.absslk.xyz/a1c1b97ae79e2e9e27c20d9c775146eb*](https://AcJUd0.absslk.xyz/a1c1b97ae79e2e9e27c20d9c775146eb)
+  - **v2ray**: [*https://AcJUd0.absslk.xyz/a1c1b97ae79e2e9e27c20d9c775146eb*](https://AcJUd0.absslk.xyz/a1c1b97ae79e2e9e27c20d9c775146eb)
+  - **ios**: [*https://AcJUd0.absslk.xyz/a1c1b97ae79e2e9e27c20d9c775146eb*](https://AcJUd0.absslk.xyz/a1c1b97ae79e2e9e27c20d9c775146eb)
 - **mksshare**
   - **clash**: [*https://grnMF4.mcsslk.xyz/3d2bf4ee46681579909533086c07bcf4*](https://grnMF4.mcsslk.xyz/3d2bf4ee46681579909533086c07bcf4)
   - **v2ray**: [*https://grnMF4.mcsslk.xyz/3d2bf4ee46681579909533086c07bcf4*](https://grnMF4.mcsslk.xyz/3d2bf4ee46681579909533086c07bcf4)
