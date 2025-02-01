@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-01 23:46:00
+> Updated Time: 2025-02-01 23:51:21
 
 - **tolinkshare2**
   - **clash**: [*https://9h5LKB.tosslk.xyz/701b6752f6a896072ce9661393cfc325*](https://9h5LKB.tosslk.xyz/701b6752f6a896072ce9661393cfc325)
   - **v2ray**: [*https://9h5LKB.tosslk.xyz/701b6752f6a896072ce9661393cfc325*](https://9h5LKB.tosslk.xyz/701b6752f6a896072ce9661393cfc325)
   - **ios**: [*https://9h5LKB.tosslk.xyz/701b6752f6a896072ce9661393cfc325*](https://9h5LKB.tosslk.xyz/701b6752f6a896072ce9661393cfc325)
 - **abshare**
-  - **clash**: [*https://EZaxKJ.absslk.xyz/ae2e0e1b4173ca2a614bdc421f399f83*](https://EZaxKJ.absslk.xyz/ae2e0e1b4173ca2a614bdc421f399f83)
-  - **v2ray**: [*https://EZaxKJ.absslk.xyz/ae2e0e1b4173ca2a614bdc421f399f83*](https://EZaxKJ.absslk.xyz/ae2e0e1b4173ca2a614bdc421f399f83)
-  - **ios**: [*https://EZaxKJ.absslk.xyz/ae2e0e1b4173ca2a614bdc421f399f83*](https://EZaxKJ.absslk.xyz/ae2e0e1b4173ca2a614bdc421f399f83)
+  - **clash**: [*https://RJgqDo.absslk.xyz/f4d5b8ee1f626bf12e5db56686b569f9*](https://RJgqDo.absslk.xyz/f4d5b8ee1f626bf12e5db56686b569f9)
+  - **v2ray**: [*https://RJgqDo.absslk.xyz/f4d5b8ee1f626bf12e5db56686b569f9*](https://RJgqDo.absslk.xyz/f4d5b8ee1f626bf12e5db56686b569f9)
+  - **ios**: [*https://RJgqDo.absslk.xyz/f4d5b8ee1f626bf12e5db56686b569f9*](https://RJgqDo.absslk.xyz/f4d5b8ee1f626bf12e5db56686b569f9)
 - **mksshare**
   - **clash**: [*https://f3h1nb.mcsslk.xyz/679f6919c9b6ecb48c0ffbd3f9663685*](https://f3h1nb.mcsslk.xyz/679f6919c9b6ecb48c0ffbd3f9663685)
   - **v2ray**: [*https://f3h1nb.mcsslk.xyz/679f6919c9b6ecb48c0ffbd3f9663685*](https://f3h1nb.mcsslk.xyz/679f6919c9b6ecb48c0ffbd3f9663685)
