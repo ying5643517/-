@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-01 14:48:20
+> Updated Time: 2025-02-01 14:58:56
 
 - **tolinkshare2**
   - **clash**: [*https://lyUSp8.tosslk.xyz/5b26939be782de2fd387c7fc976e35e9*](https://lyUSp8.tosslk.xyz/5b26939be782de2fd387c7fc976e35e9)
   - **v2ray**: [*https://lyUSp8.tosslk.xyz/5b26939be782de2fd387c7fc976e35e9*](https://lyUSp8.tosslk.xyz/5b26939be782de2fd387c7fc976e35e9)
   - **ios**: [*https://lyUSp8.tosslk.xyz/5b26939be782de2fd387c7fc976e35e9*](https://lyUSp8.tosslk.xyz/5b26939be782de2fd387c7fc976e35e9)
 - **abshare**
-  - **clash**: [*https://ihjFdU.absslk.xyz/68290cf219a9e375028ae7f7eebf8809*](https://ihjFdU.absslk.xyz/68290cf219a9e375028ae7f7eebf8809)
-  - **v2ray**: [*https://ihjFdU.absslk.xyz/68290cf219a9e375028ae7f7eebf8809*](https://ihjFdU.absslk.xyz/68290cf219a9e375028ae7f7eebf8809)
-  - **ios**: [*https://ihjFdU.absslk.xyz/68290cf219a9e375028ae7f7eebf8809*](https://ihjFdU.absslk.xyz/68290cf219a9e375028ae7f7eebf8809)
+  - **clash**: [*https://7H5xIU.absslk.xyz/6d17aa4eafeb4696c8be06e507986bf2*](https://7H5xIU.absslk.xyz/6d17aa4eafeb4696c8be06e507986bf2)
+  - **v2ray**: [*https://7H5xIU.absslk.xyz/6d17aa4eafeb4696c8be06e507986bf2*](https://7H5xIU.absslk.xyz/6d17aa4eafeb4696c8be06e507986bf2)
+  - **ios**: [*https://7H5xIU.absslk.xyz/6d17aa4eafeb4696c8be06e507986bf2*](https://7H5xIU.absslk.xyz/6d17aa4eafeb4696c8be06e507986bf2)
 - **mksshare**
   - **clash**: [*https://kwHFFO.mcsslk.xyz/060c17099c2690d4e4de8edca89e2713*](https://kwHFFO.mcsslk.xyz/060c17099c2690d4e4de8edca89e2713)
   - **v2ray**: [*https://kwHFFO.mcsslk.xyz/060c17099c2690d4e4de8edca89e2713*](https://kwHFFO.mcsslk.xyz/060c17099c2690d4e4de8edca89e2713)
