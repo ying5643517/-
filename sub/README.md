@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-01 21:39:03
+> Updated Time: 2025-02-01 21:50:03
 
 - **tolinkshare2**
-  - **clash**: [*https://2dsDaO.tosslk.xyz/f0f4ddaceced10e804b072b3e0d624b4*](https://2dsDaO.tosslk.xyz/f0f4ddaceced10e804b072b3e0d624b4)
-  - **v2ray**: [*https://2dsDaO.tosslk.xyz/f0f4ddaceced10e804b072b3e0d624b4*](https://2dsDaO.tosslk.xyz/f0f4ddaceced10e804b072b3e0d624b4)
-  - **ios**: [*https://2dsDaO.tosslk.xyz/f0f4ddaceced10e804b072b3e0d624b4*](https://2dsDaO.tosslk.xyz/f0f4ddaceced10e804b072b3e0d624b4)
+  - **clash**: [*https://HnpbL0.tosslk.xyz/b52642fde8dc68abfa851e40b90d1d34*](https://HnpbL0.tosslk.xyz/b52642fde8dc68abfa851e40b90d1d34)
+  - **v2ray**: [*https://HnpbL0.tosslk.xyz/b52642fde8dc68abfa851e40b90d1d34*](https://HnpbL0.tosslk.xyz/b52642fde8dc68abfa851e40b90d1d34)
+  - **ios**: [*https://HnpbL0.tosslk.xyz/b52642fde8dc68abfa851e40b90d1d34*](https://HnpbL0.tosslk.xyz/b52642fde8dc68abfa851e40b90d1d34)
 - **abshare**
   - **clash**: [*https://Wa6SJ8.absslk.xyz/cf0c0ef50857b482d4e883295a2cedc0*](https://Wa6SJ8.absslk.xyz/cf0c0ef50857b482d4e883295a2cedc0)
   - **v2ray**: [*https://Wa6SJ8.absslk.xyz/cf0c0ef50857b482d4e883295a2cedc0*](https://Wa6SJ8.absslk.xyz/cf0c0ef50857b482d4e883295a2cedc0)
