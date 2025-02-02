@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-02 11:35:37
+> Updated Time: 2025-02-02 11:38:04
 
 - **tolinkshare2**
-  - **clash**: [*https://p99Si5.tosslk.xyz/7b66cb54d7204df968536239bc559634*](https://p99Si5.tosslk.xyz/7b66cb54d7204df968536239bc559634)
-  - **v2ray**: [*https://p99Si5.tosslk.xyz/7b66cb54d7204df968536239bc559634*](https://p99Si5.tosslk.xyz/7b66cb54d7204df968536239bc559634)
-  - **ios**: [*https://p99Si5.tosslk.xyz/7b66cb54d7204df968536239bc559634*](https://p99Si5.tosslk.xyz/7b66cb54d7204df968536239bc559634)
+  - **clash**: [*https://8snCEs.tosslk.xyz/dc3abc685134f65fa069994f405212e7*](https://8snCEs.tosslk.xyz/dc3abc685134f65fa069994f405212e7)
+  - **v2ray**: [*https://8snCEs.tosslk.xyz/dc3abc685134f65fa069994f405212e7*](https://8snCEs.tosslk.xyz/dc3abc685134f65fa069994f405212e7)
+  - **ios**: [*https://8snCEs.tosslk.xyz/dc3abc685134f65fa069994f405212e7*](https://8snCEs.tosslk.xyz/dc3abc685134f65fa069994f405212e7)
 - **abshare**
-  - **clash**: [*https://Su6DYO.absslk.xyz/cbd1a92b4ecc54e2164904428bc0d4bf*](https://Su6DYO.absslk.xyz/cbd1a92b4ecc54e2164904428bc0d4bf)
-  - **v2ray**: [*https://Su6DYO.absslk.xyz/cbd1a92b4ecc54e2164904428bc0d4bf*](https://Su6DYO.absslk.xyz/cbd1a92b4ecc54e2164904428bc0d4bf)
-  - **ios**: [*https://Su6DYO.absslk.xyz/cbd1a92b4ecc54e2164904428bc0d4bf*](https://Su6DYO.absslk.xyz/cbd1a92b4ecc54e2164904428bc0d4bf)
+  - **clash**: [*https://IoZaYr.absslk.xyz/366063c0cff754048511ff3553d1c651*](https://IoZaYr.absslk.xyz/366063c0cff754048511ff3553d1c651)
+  - **v2ray**: [*https://IoZaYr.absslk.xyz/366063c0cff754048511ff3553d1c651*](https://IoZaYr.absslk.xyz/366063c0cff754048511ff3553d1c651)
+  - **ios**: [*https://IoZaYr.absslk.xyz/366063c0cff754048511ff3553d1c651*](https://IoZaYr.absslk.xyz/366063c0cff754048511ff3553d1c651)
 - **mksshare**
   - **clash**: [*https://vh6GKK.mcsslk.xyz/4771bec7bb3915819f59ed69252017da*](https://vh6GKK.mcsslk.xyz/4771bec7bb3915819f59ed69252017da)
   - **v2ray**: [*https://vh6GKK.mcsslk.xyz/4771bec7bb3915819f59ed69252017da*](https://vh6GKK.mcsslk.xyz/4771bec7bb3915819f59ed69252017da)
