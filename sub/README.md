@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-02 22:46:12
+> Updated Time: 2025-02-02 22:51:36
 
 - **tolinkshare2**
-  - **clash**: [*https://dP0Jaq.tosslk.xyz/dd5abacb46ca33cc338ca02c201d1a87*](https://dP0Jaq.tosslk.xyz/dd5abacb46ca33cc338ca02c201d1a87)
-  - **v2ray**: [*https://dP0Jaq.tosslk.xyz/dd5abacb46ca33cc338ca02c201d1a87*](https://dP0Jaq.tosslk.xyz/dd5abacb46ca33cc338ca02c201d1a87)
-  - **ios**: [*https://dP0Jaq.tosslk.xyz/dd5abacb46ca33cc338ca02c201d1a87*](https://dP0Jaq.tosslk.xyz/dd5abacb46ca33cc338ca02c201d1a87)
+  - **clash**: [*https://hZypOJ.tosslk.xyz/caaebd1eb7f8a4186e2188800b74650c*](https://hZypOJ.tosslk.xyz/caaebd1eb7f8a4186e2188800b74650c)
+  - **v2ray**: [*https://hZypOJ.tosslk.xyz/caaebd1eb7f8a4186e2188800b74650c*](https://hZypOJ.tosslk.xyz/caaebd1eb7f8a4186e2188800b74650c)
+  - **ios**: [*https://hZypOJ.tosslk.xyz/caaebd1eb7f8a4186e2188800b74650c*](https://hZypOJ.tosslk.xyz/caaebd1eb7f8a4186e2188800b74650c)
 - **abshare**
-  - **clash**: [*https://JQ3FpU.absslk.xyz/c2956a87ba69140f1150c07ff341694c*](https://JQ3FpU.absslk.xyz/c2956a87ba69140f1150c07ff341694c)
-  - **v2ray**: [*https://JQ3FpU.absslk.xyz/c2956a87ba69140f1150c07ff341694c*](https://JQ3FpU.absslk.xyz/c2956a87ba69140f1150c07ff341694c)
-  - **ios**: [*https://JQ3FpU.absslk.xyz/c2956a87ba69140f1150c07ff341694c*](https://JQ3FpU.absslk.xyz/c2956a87ba69140f1150c07ff341694c)
+  - **clash**: [*https://CSQEG4.absslk.xyz/5dab7107c8bafd044784a4e5917f65ef*](https://CSQEG4.absslk.xyz/5dab7107c8bafd044784a4e5917f65ef)
+  - **v2ray**: [*https://CSQEG4.absslk.xyz/5dab7107c8bafd044784a4e5917f65ef*](https://CSQEG4.absslk.xyz/5dab7107c8bafd044784a4e5917f65ef)
+  - **ios**: [*https://CSQEG4.absslk.xyz/5dab7107c8bafd044784a4e5917f65ef*](https://CSQEG4.absslk.xyz/5dab7107c8bafd044784a4e5917f65ef)
 - **mksshare**
   - **clash**: [*https://1QSbo5.mcsslk.xyz/0601767761bbd298fb04070caeb8b787*](https://1QSbo5.mcsslk.xyz/0601767761bbd298fb04070caeb8b787)
   - **v2ray**: [*https://1QSbo5.mcsslk.xyz/0601767761bbd298fb04070caeb8b787*](https://1QSbo5.mcsslk.xyz/0601767761bbd298fb04070caeb8b787)
