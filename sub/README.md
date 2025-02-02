@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-02 15:23:33
+> Updated Time: 2025-02-02 15:28:44
 
 - **tolinkshare2**
-  - **clash**: [*https://oYgg7w.tosslk.xyz/7825a62e4acda2fb3d91c8d5f7b4fa90*](https://oYgg7w.tosslk.xyz/7825a62e4acda2fb3d91c8d5f7b4fa90)
-  - **v2ray**: [*https://oYgg7w.tosslk.xyz/7825a62e4acda2fb3d91c8d5f7b4fa90*](https://oYgg7w.tosslk.xyz/7825a62e4acda2fb3d91c8d5f7b4fa90)
-  - **ios**: [*https://oYgg7w.tosslk.xyz/7825a62e4acda2fb3d91c8d5f7b4fa90*](https://oYgg7w.tosslk.xyz/7825a62e4acda2fb3d91c8d5f7b4fa90)
+  - **clash**: [*https://FPnhtn.tosslk.xyz/8c9c9b8b6d28b950428789e55e1b446c*](https://FPnhtn.tosslk.xyz/8c9c9b8b6d28b950428789e55e1b446c)
+  - **v2ray**: [*https://FPnhtn.tosslk.xyz/8c9c9b8b6d28b950428789e55e1b446c*](https://FPnhtn.tosslk.xyz/8c9c9b8b6d28b950428789e55e1b446c)
+  - **ios**: [*https://FPnhtn.tosslk.xyz/8c9c9b8b6d28b950428789e55e1b446c*](https://FPnhtn.tosslk.xyz/8c9c9b8b6d28b950428789e55e1b446c)
 - **abshare**
   - **clash**: [*https://Ih6CP1.absslk.xyz/c27ea853b59bc7f1c3d8c070d7e5e507*](https://Ih6CP1.absslk.xyz/c27ea853b59bc7f1c3d8c070d7e5e507)
   - **v2ray**: [*https://Ih6CP1.absslk.xyz/c27ea853b59bc7f1c3d8c070d7e5e507*](https://Ih6CP1.absslk.xyz/c27ea853b59bc7f1c3d8c070d7e5e507)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://6XeLNc.tosslk.xyz/9e95eb2a64858b227f2dd6bfbee0aef0*](https://6XeLNc.tosslk.xyz/9e95eb2a64858b227f2dd6bfbee0aef0)
   - **ios**: [*https://6XeLNc.tosslk.xyz/9e95eb2a64858b227f2dd6bfbee0aef0*](https://6XeLNc.tosslk.xyz/9e95eb2a64858b227f2dd6bfbee0aef0)
 - **abshare3**
-  - **clash**: [*https://bHZDND.absslk.xyz/0fcf310ade3a4716ff0ddf4926158c73*](https://bHZDND.absslk.xyz/0fcf310ade3a4716ff0ddf4926158c73)
-  - **v2ray**: [*https://bHZDND.absslk.xyz/0fcf310ade3a4716ff0ddf4926158c73*](https://bHZDND.absslk.xyz/0fcf310ade3a4716ff0ddf4926158c73)
-  - **ios**: [*https://bHZDND.absslk.xyz/0fcf310ade3a4716ff0ddf4926158c73*](https://bHZDND.absslk.xyz/0fcf310ade3a4716ff0ddf4926158c73)
+  - **clash**: [*https://NSeLuf.absslk.xyz/cded24db4ff73db855e6a06acc6548eb*](https://NSeLuf.absslk.xyz/cded24db4ff73db855e6a06acc6548eb)
+  - **v2ray**: [*https://NSeLuf.absslk.xyz/cded24db4ff73db855e6a06acc6548eb*](https://NSeLuf.absslk.xyz/cded24db4ff73db855e6a06acc6548eb)
+  - **ios**: [*https://NSeLuf.absslk.xyz/cded24db4ff73db855e6a06acc6548eb*](https://NSeLuf.absslk.xyz/cded24db4ff73db855e6a06acc6548eb)
