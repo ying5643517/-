@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-03 15:47:32
+> Updated Time: 2025-02-03 15:58:00
 
 - **tolinkshare2**
-  - **clash**: [*https://j0xznh.tosslk.xyz/f90ddaa29e4b0a9c5cdf5128b34f0859*](https://j0xznh.tosslk.xyz/f90ddaa29e4b0a9c5cdf5128b34f0859)
-  - **v2ray**: [*https://j0xznh.tosslk.xyz/f90ddaa29e4b0a9c5cdf5128b34f0859*](https://j0xznh.tosslk.xyz/f90ddaa29e4b0a9c5cdf5128b34f0859)
-  - **ios**: [*https://j0xznh.tosslk.xyz/f90ddaa29e4b0a9c5cdf5128b34f0859*](https://j0xznh.tosslk.xyz/f90ddaa29e4b0a9c5cdf5128b34f0859)
+  - **clash**: [*https://BBQ0Np.tosslk.xyz/f060d4adbb5986172bc90f353f60f8b0*](https://BBQ0Np.tosslk.xyz/f060d4adbb5986172bc90f353f60f8b0)
+  - **v2ray**: [*https://BBQ0Np.tosslk.xyz/f060d4adbb5986172bc90f353f60f8b0*](https://BBQ0Np.tosslk.xyz/f060d4adbb5986172bc90f353f60f8b0)
+  - **ios**: [*https://BBQ0Np.tosslk.xyz/f060d4adbb5986172bc90f353f60f8b0*](https://BBQ0Np.tosslk.xyz/f060d4adbb5986172bc90f353f60f8b0)
 - **abshare**
   - **clash**: [*https://p4q5cD.absslk.xyz/b8cedd3823ee30fa8ee64072b7e3802f*](https://p4q5cD.absslk.xyz/b8cedd3823ee30fa8ee64072b7e3802f)
   - **v2ray**: [*https://p4q5cD.absslk.xyz/b8cedd3823ee30fa8ee64072b7e3802f*](https://p4q5cD.absslk.xyz/b8cedd3823ee30fa8ee64072b7e3802f)
