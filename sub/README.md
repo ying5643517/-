@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-04 02:36:44
+> Updated Time: 2025-02-04 02:44:06
 
 - **tolinkshare2**
-  - **clash**: [*https://joro0k.tosslk.xyz/3b7344aba8ff20d3b8a098c5c2b8606a*](https://joro0k.tosslk.xyz/3b7344aba8ff20d3b8a098c5c2b8606a)
-  - **v2ray**: [*https://joro0k.tosslk.xyz/3b7344aba8ff20d3b8a098c5c2b8606a*](https://joro0k.tosslk.xyz/3b7344aba8ff20d3b8a098c5c2b8606a)
-  - **ios**: [*https://joro0k.tosslk.xyz/3b7344aba8ff20d3b8a098c5c2b8606a*](https://joro0k.tosslk.xyz/3b7344aba8ff20d3b8a098c5c2b8606a)
+  - **clash**: [*https://5NSgf3.tosslk.xyz/b79f253e9aee3dc28c9198bee66f679b*](https://5NSgf3.tosslk.xyz/b79f253e9aee3dc28c9198bee66f679b)
+  - **v2ray**: [*https://5NSgf3.tosslk.xyz/b79f253e9aee3dc28c9198bee66f679b*](https://5NSgf3.tosslk.xyz/b79f253e9aee3dc28c9198bee66f679b)
+  - **ios**: [*https://5NSgf3.tosslk.xyz/b79f253e9aee3dc28c9198bee66f679b*](https://5NSgf3.tosslk.xyz/b79f253e9aee3dc28c9198bee66f679b)
 - **abshare**
-  - **clash**: [*https://6bheX7.absslk.xyz/2769df7aaf762478819dafd95409dcd3*](https://6bheX7.absslk.xyz/2769df7aaf762478819dafd95409dcd3)
-  - **v2ray**: [*https://6bheX7.absslk.xyz/2769df7aaf762478819dafd95409dcd3*](https://6bheX7.absslk.xyz/2769df7aaf762478819dafd95409dcd3)
-  - **ios**: [*https://6bheX7.absslk.xyz/2769df7aaf762478819dafd95409dcd3*](https://6bheX7.absslk.xyz/2769df7aaf762478819dafd95409dcd3)
+  - **clash**: [*https://LyPrNz.absslk.xyz/7b0c4a965d7137926150e93d7e7f88ca*](https://LyPrNz.absslk.xyz/7b0c4a965d7137926150e93d7e7f88ca)
+  - **v2ray**: [*https://LyPrNz.absslk.xyz/7b0c4a965d7137926150e93d7e7f88ca*](https://LyPrNz.absslk.xyz/7b0c4a965d7137926150e93d7e7f88ca)
+  - **ios**: [*https://LyPrNz.absslk.xyz/7b0c4a965d7137926150e93d7e7f88ca*](https://LyPrNz.absslk.xyz/7b0c4a965d7137926150e93d7e7f88ca)
 - **mksshare**
   - **clash**: [*https://yP196E.mcsslk.xyz/78572e4cf188375638733e419a17febb*](https://yP196E.mcsslk.xyz/78572e4cf188375638733e419a17febb)
   - **v2ray**: [*https://yP196E.mcsslk.xyz/78572e4cf188375638733e419a17febb*](https://yP196E.mcsslk.xyz/78572e4cf188375638733e419a17febb)
