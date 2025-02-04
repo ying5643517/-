@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-05 05:29:08
+> Updated Time: 2025-02-05 05:35:19
 
 - **tolinkshare2**
-  - **clash**: [*https://t8oHTR.tosslk.xyz/901f1ee7e26459c132ac2c0bc8a4e4b4*](https://t8oHTR.tosslk.xyz/901f1ee7e26459c132ac2c0bc8a4e4b4)
-  - **v2ray**: [*https://t8oHTR.tosslk.xyz/901f1ee7e26459c132ac2c0bc8a4e4b4*](https://t8oHTR.tosslk.xyz/901f1ee7e26459c132ac2c0bc8a4e4b4)
-  - **ios**: [*https://t8oHTR.tosslk.xyz/901f1ee7e26459c132ac2c0bc8a4e4b4*](https://t8oHTR.tosslk.xyz/901f1ee7e26459c132ac2c0bc8a4e4b4)
+  - **clash**: [*https://xvegq0.tosslk.xyz/941867fe7e1e0dc48e296ca175b9e503*](https://xvegq0.tosslk.xyz/941867fe7e1e0dc48e296ca175b9e503)
+  - **v2ray**: [*https://xvegq0.tosslk.xyz/941867fe7e1e0dc48e296ca175b9e503*](https://xvegq0.tosslk.xyz/941867fe7e1e0dc48e296ca175b9e503)
+  - **ios**: [*https://xvegq0.tosslk.xyz/941867fe7e1e0dc48e296ca175b9e503*](https://xvegq0.tosslk.xyz/941867fe7e1e0dc48e296ca175b9e503)
 - **abshare**
-  - **clash**: [*https://jUrqeE.absslk.xyz/ff33debf9c007aa21e85ef458fe76a30*](https://jUrqeE.absslk.xyz/ff33debf9c007aa21e85ef458fe76a30)
-  - **v2ray**: [*https://jUrqeE.absslk.xyz/ff33debf9c007aa21e85ef458fe76a30*](https://jUrqeE.absslk.xyz/ff33debf9c007aa21e85ef458fe76a30)
-  - **ios**: [*https://jUrqeE.absslk.xyz/ff33debf9c007aa21e85ef458fe76a30*](https://jUrqeE.absslk.xyz/ff33debf9c007aa21e85ef458fe76a30)
+  - **clash**: [*https://KioETq.absslk.xyz/e04c3058da83b81f1f674f94b9fd52a8*](https://KioETq.absslk.xyz/e04c3058da83b81f1f674f94b9fd52a8)
+  - **v2ray**: [*https://KioETq.absslk.xyz/e04c3058da83b81f1f674f94b9fd52a8*](https://KioETq.absslk.xyz/e04c3058da83b81f1f674f94b9fd52a8)
+  - **ios**: [*https://KioETq.absslk.xyz/e04c3058da83b81f1f674f94b9fd52a8*](https://KioETq.absslk.xyz/e04c3058da83b81f1f674f94b9fd52a8)
 - **mksshare**
   - **clash**: [*https://CmKtr1.mcsslk.xyz/ed20108e24445fcf0fed28e96c0cde1d*](https://CmKtr1.mcsslk.xyz/ed20108e24445fcf0fed28e96c0cde1d)
   - **v2ray**: [*https://CmKtr1.mcsslk.xyz/ed20108e24445fcf0fed28e96c0cde1d*](https://CmKtr1.mcsslk.xyz/ed20108e24445fcf0fed28e96c0cde1d)
