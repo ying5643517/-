@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-04 11:51:50
+> Updated Time: 2025-02-04 12:12:27
 
 - **tolinkshare2**
-  - **clash**: [*https://V2nqVx.tosslk.xyz/a6ed880b073c5182b260b5e4e2180de1*](https://V2nqVx.tosslk.xyz/a6ed880b073c5182b260b5e4e2180de1)
-  - **v2ray**: [*https://V2nqVx.tosslk.xyz/a6ed880b073c5182b260b5e4e2180de1*](https://V2nqVx.tosslk.xyz/a6ed880b073c5182b260b5e4e2180de1)
-  - **ios**: [*https://V2nqVx.tosslk.xyz/a6ed880b073c5182b260b5e4e2180de1*](https://V2nqVx.tosslk.xyz/a6ed880b073c5182b260b5e4e2180de1)
+  - **clash**: [*https://LXnavy.tosslk.xyz/d3f3e686d2810efb1fb1eb4a42acbcce*](https://LXnavy.tosslk.xyz/d3f3e686d2810efb1fb1eb4a42acbcce)
+  - **v2ray**: [*https://LXnavy.tosslk.xyz/d3f3e686d2810efb1fb1eb4a42acbcce*](https://LXnavy.tosslk.xyz/d3f3e686d2810efb1fb1eb4a42acbcce)
+  - **ios**: [*https://LXnavy.tosslk.xyz/d3f3e686d2810efb1fb1eb4a42acbcce*](https://LXnavy.tosslk.xyz/d3f3e686d2810efb1fb1eb4a42acbcce)
 - **abshare**
-  - **clash**: [*https://WAkfTX.absslk.xyz/822f7f3ccd7fe7da28337aa7a7721df8*](https://WAkfTX.absslk.xyz/822f7f3ccd7fe7da28337aa7a7721df8)
-  - **v2ray**: [*https://WAkfTX.absslk.xyz/822f7f3ccd7fe7da28337aa7a7721df8*](https://WAkfTX.absslk.xyz/822f7f3ccd7fe7da28337aa7a7721df8)
-  - **ios**: [*https://WAkfTX.absslk.xyz/822f7f3ccd7fe7da28337aa7a7721df8*](https://WAkfTX.absslk.xyz/822f7f3ccd7fe7da28337aa7a7721df8)
+  - **clash**: [*https://WCunC4.absslk.xyz/0fb9ce239ede8ce10111d5215057a2a4*](https://WCunC4.absslk.xyz/0fb9ce239ede8ce10111d5215057a2a4)
+  - **v2ray**: [*https://WCunC4.absslk.xyz/0fb9ce239ede8ce10111d5215057a2a4*](https://WCunC4.absslk.xyz/0fb9ce239ede8ce10111d5215057a2a4)
+  - **ios**: [*https://WCunC4.absslk.xyz/0fb9ce239ede8ce10111d5215057a2a4*](https://WCunC4.absslk.xyz/0fb9ce239ede8ce10111d5215057a2a4)
 - **mksshare**
   - **clash**: [*https://vHkI71.mcsslk.xyz/08dd6c68dd932970a0936aa5b979ee16*](https://vHkI71.mcsslk.xyz/08dd6c68dd932970a0936aa5b979ee16)
   - **v2ray**: [*https://vHkI71.mcsslk.xyz/08dd6c68dd932970a0936aa5b979ee16*](https://vHkI71.mcsslk.xyz/08dd6c68dd932970a0936aa5b979ee16)
