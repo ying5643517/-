@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-05 01:49:12
+> Updated Time: 2025-02-05 01:54:43
 
 - **tolinkshare2**
   - **clash**: [*https://LevOUu.tosslk.xyz/ad5aa0d65f685c043e6858d13335d89c*](https://LevOUu.tosslk.xyz/ad5aa0d65f685c043e6858d13335d89c)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://kotRlR.tosslk.xyz/314e192d3fe19707cf233bdf60627340*](https://kotRlR.tosslk.xyz/314e192d3fe19707cf233bdf60627340)
   - **ios**: [*https://kotRlR.tosslk.xyz/314e192d3fe19707cf233bdf60627340*](https://kotRlR.tosslk.xyz/314e192d3fe19707cf233bdf60627340)
 - **abshare3**
-  - **clash**: [*https://GpvBLG.absslk.xyz/47b8996df1c2bd4190b0d884ae7e6b13*](https://GpvBLG.absslk.xyz/47b8996df1c2bd4190b0d884ae7e6b13)
-  - **v2ray**: [*https://GpvBLG.absslk.xyz/47b8996df1c2bd4190b0d884ae7e6b13*](https://GpvBLG.absslk.xyz/47b8996df1c2bd4190b0d884ae7e6b13)
-  - **ios**: [*https://GpvBLG.absslk.xyz/47b8996df1c2bd4190b0d884ae7e6b13*](https://GpvBLG.absslk.xyz/47b8996df1c2bd4190b0d884ae7e6b13)
+  - **clash**: [*https://BUiMYJ.absslk.xyz/64e913388195d7cc23defe4d4eef3b6d*](https://BUiMYJ.absslk.xyz/64e913388195d7cc23defe4d4eef3b6d)
+  - **v2ray**: [*https://BUiMYJ.absslk.xyz/64e913388195d7cc23defe4d4eef3b6d*](https://BUiMYJ.absslk.xyz/64e913388195d7cc23defe4d4eef3b6d)
+  - **ios**: [*https://BUiMYJ.absslk.xyz/64e913388195d7cc23defe4d4eef3b6d*](https://BUiMYJ.absslk.xyz/64e913388195d7cc23defe4d4eef3b6d)
