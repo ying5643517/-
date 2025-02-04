@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-04 16:48:29
+> Updated Time: 2025-02-04 16:53:43
 
 - **tolinkshare2**
-  - **clash**: [*https://CAUKjc.tosslk.xyz/55f814e3157cf481dc114bf74037ba1c*](https://CAUKjc.tosslk.xyz/55f814e3157cf481dc114bf74037ba1c)
-  - **v2ray**: [*https://CAUKjc.tosslk.xyz/55f814e3157cf481dc114bf74037ba1c*](https://CAUKjc.tosslk.xyz/55f814e3157cf481dc114bf74037ba1c)
-  - **ios**: [*https://CAUKjc.tosslk.xyz/55f814e3157cf481dc114bf74037ba1c*](https://CAUKjc.tosslk.xyz/55f814e3157cf481dc114bf74037ba1c)
+  - **clash**: [*https://3x6sKq.tosslk.xyz/ba26b005ca498569a8293123fcb99dda*](https://3x6sKq.tosslk.xyz/ba26b005ca498569a8293123fcb99dda)
+  - **v2ray**: [*https://3x6sKq.tosslk.xyz/ba26b005ca498569a8293123fcb99dda*](https://3x6sKq.tosslk.xyz/ba26b005ca498569a8293123fcb99dda)
+  - **ios**: [*https://3x6sKq.tosslk.xyz/ba26b005ca498569a8293123fcb99dda*](https://3x6sKq.tosslk.xyz/ba26b005ca498569a8293123fcb99dda)
 - **abshare**
   - **clash**: [*https://piEySX.absslk.xyz/20785c2eb7351838352e63cdb2561a53*](https://piEySX.absslk.xyz/20785c2eb7351838352e63cdb2561a53)
   - **v2ray**: [*https://piEySX.absslk.xyz/20785c2eb7351838352e63cdb2561a53*](https://piEySX.absslk.xyz/20785c2eb7351838352e63cdb2561a53)
