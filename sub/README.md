@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-05 00:47:28
+> Updated Time: 2025-02-05 00:52:46
 
 - **tolinkshare2**
-  - **clash**: [*https://HZGPFY.tosslk.xyz/924b8f1d2cbbeed47c4944122323efdc*](https://HZGPFY.tosslk.xyz/924b8f1d2cbbeed47c4944122323efdc)
-  - **v2ray**: [*https://HZGPFY.tosslk.xyz/924b8f1d2cbbeed47c4944122323efdc*](https://HZGPFY.tosslk.xyz/924b8f1d2cbbeed47c4944122323efdc)
-  - **ios**: [*https://HZGPFY.tosslk.xyz/924b8f1d2cbbeed47c4944122323efdc*](https://HZGPFY.tosslk.xyz/924b8f1d2cbbeed47c4944122323efdc)
+  - **clash**: [*https://LevOUu.tosslk.xyz/ad5aa0d65f685c043e6858d13335d89c*](https://LevOUu.tosslk.xyz/ad5aa0d65f685c043e6858d13335d89c)
+  - **v2ray**: [*https://LevOUu.tosslk.xyz/ad5aa0d65f685c043e6858d13335d89c*](https://LevOUu.tosslk.xyz/ad5aa0d65f685c043e6858d13335d89c)
+  - **ios**: [*https://LevOUu.tosslk.xyz/ad5aa0d65f685c043e6858d13335d89c*](https://LevOUu.tosslk.xyz/ad5aa0d65f685c043e6858d13335d89c)
 - **abshare**
   - **clash**: [*https://NiWLhv.absslk.xyz/d2035e0a254d2432b94c8c3fad6ea284*](https://NiWLhv.absslk.xyz/d2035e0a254d2432b94c8c3fad6ea284)
   - **v2ray**: [*https://NiWLhv.absslk.xyz/d2035e0a254d2432b94c8c3fad6ea284*](https://NiWLhv.absslk.xyz/d2035e0a254d2432b94c8c3fad6ea284)
