@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-04 22:44:45
+> Updated Time: 2025-02-04 22:49:58
 
 - **tolinkshare2**
   - **clash**: [*https://I8MOac.tosslk.xyz/3adf0f2245c25919afac6e8fca1ce967*](https://I8MOac.tosslk.xyz/3adf0f2245c25919afac6e8fca1ce967)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://YVSnL7.tosslk.xyz/c163c6306b2b9b34a5270d5ad320d8f1*](https://YVSnL7.tosslk.xyz/c163c6306b2b9b34a5270d5ad320d8f1)
   - **ios**: [*https://YVSnL7.tosslk.xyz/c163c6306b2b9b34a5270d5ad320d8f1*](https://YVSnL7.tosslk.xyz/c163c6306b2b9b34a5270d5ad320d8f1)
 - **abshare3**
-  - **clash**: [*https://GWQrlu.absslk.xyz/3ba8504ff18699b2d22f4db1a77bfafb*](https://GWQrlu.absslk.xyz/3ba8504ff18699b2d22f4db1a77bfafb)
-  - **v2ray**: [*https://GWQrlu.absslk.xyz/3ba8504ff18699b2d22f4db1a77bfafb*](https://GWQrlu.absslk.xyz/3ba8504ff18699b2d22f4db1a77bfafb)
-  - **ios**: [*https://GWQrlu.absslk.xyz/3ba8504ff18699b2d22f4db1a77bfafb*](https://GWQrlu.absslk.xyz/3ba8504ff18699b2d22f4db1a77bfafb)
+  - **clash**: [*https://GGBzPH.absslk.xyz/fb418651ed03ea181458f4173110da3d*](https://GGBzPH.absslk.xyz/fb418651ed03ea181458f4173110da3d)
+  - **v2ray**: [*https://GGBzPH.absslk.xyz/fb418651ed03ea181458f4173110da3d*](https://GGBzPH.absslk.xyz/fb418651ed03ea181458f4173110da3d)
+  - **ios**: [*https://GGBzPH.absslk.xyz/fb418651ed03ea181458f4173110da3d*](https://GGBzPH.absslk.xyz/fb418651ed03ea181458f4173110da3d)
