@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-04 14:51:47
+> Updated Time: 2025-02-04 14:57:03
 
 - **tolinkshare2**
-  - **clash**: [*https://dUH1uJ.tosslk.xyz/952dd9ef465e43e00deaeb0a7a22e1a7*](https://dUH1uJ.tosslk.xyz/952dd9ef465e43e00deaeb0a7a22e1a7)
-  - **v2ray**: [*https://dUH1uJ.tosslk.xyz/952dd9ef465e43e00deaeb0a7a22e1a7*](https://dUH1uJ.tosslk.xyz/952dd9ef465e43e00deaeb0a7a22e1a7)
-  - **ios**: [*https://dUH1uJ.tosslk.xyz/952dd9ef465e43e00deaeb0a7a22e1a7*](https://dUH1uJ.tosslk.xyz/952dd9ef465e43e00deaeb0a7a22e1a7)
+  - **clash**: [*https://mgp8Kj.tosslk.xyz/64ebe8627620c9a584fdb0d5e85aadd1*](https://mgp8Kj.tosslk.xyz/64ebe8627620c9a584fdb0d5e85aadd1)
+  - **v2ray**: [*https://mgp8Kj.tosslk.xyz/64ebe8627620c9a584fdb0d5e85aadd1*](https://mgp8Kj.tosslk.xyz/64ebe8627620c9a584fdb0d5e85aadd1)
+  - **ios**: [*https://mgp8Kj.tosslk.xyz/64ebe8627620c9a584fdb0d5e85aadd1*](https://mgp8Kj.tosslk.xyz/64ebe8627620c9a584fdb0d5e85aadd1)
 - **abshare**
   - **clash**: [*https://Xs55JW.absslk.xyz/60a94b212ee0034cbf6901524c2b5c4f*](https://Xs55JW.absslk.xyz/60a94b212ee0034cbf6901524c2b5c4f)
   - **v2ray**: [*https://Xs55JW.absslk.xyz/60a94b212ee0034cbf6901524c2b5c4f*](https://Xs55JW.absslk.xyz/60a94b212ee0034cbf6901524c2b5c4f)
