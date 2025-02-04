@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-04 17:28:12
+> Updated Time: 2025-02-04 17:35:45
 
 - **tolinkshare2**
-  - **clash**: [*https://yMgB8V.tosslk.xyz/c52e7c63b02715620dd901e14e8da2af*](https://yMgB8V.tosslk.xyz/c52e7c63b02715620dd901e14e8da2af)
-  - **v2ray**: [*https://yMgB8V.tosslk.xyz/c52e7c63b02715620dd901e14e8da2af*](https://yMgB8V.tosslk.xyz/c52e7c63b02715620dd901e14e8da2af)
-  - **ios**: [*https://yMgB8V.tosslk.xyz/c52e7c63b02715620dd901e14e8da2af*](https://yMgB8V.tosslk.xyz/c52e7c63b02715620dd901e14e8da2af)
+  - **clash**: [*https://0WKFB3.tosslk.xyz/7cd3bc56fe6e179bd629205a66c4d8b7*](https://0WKFB3.tosslk.xyz/7cd3bc56fe6e179bd629205a66c4d8b7)
+  - **v2ray**: [*https://0WKFB3.tosslk.xyz/7cd3bc56fe6e179bd629205a66c4d8b7*](https://0WKFB3.tosslk.xyz/7cd3bc56fe6e179bd629205a66c4d8b7)
+  - **ios**: [*https://0WKFB3.tosslk.xyz/7cd3bc56fe6e179bd629205a66c4d8b7*](https://0WKFB3.tosslk.xyz/7cd3bc56fe6e179bd629205a66c4d8b7)
 - **abshare**
-  - **clash**: [*https://KVCxPQ.absslk.xyz/885828d60553f2df668a4c571a0ca9e0*](https://KVCxPQ.absslk.xyz/885828d60553f2df668a4c571a0ca9e0)
-  - **v2ray**: [*https://KVCxPQ.absslk.xyz/885828d60553f2df668a4c571a0ca9e0*](https://KVCxPQ.absslk.xyz/885828d60553f2df668a4c571a0ca9e0)
-  - **ios**: [*https://KVCxPQ.absslk.xyz/885828d60553f2df668a4c571a0ca9e0*](https://KVCxPQ.absslk.xyz/885828d60553f2df668a4c571a0ca9e0)
+  - **clash**: [*https://wj2uFA.absslk.xyz/a387200f2eb56656e56b55d2f14f23d7*](https://wj2uFA.absslk.xyz/a387200f2eb56656e56b55d2f14f23d7)
+  - **v2ray**: [*https://wj2uFA.absslk.xyz/a387200f2eb56656e56b55d2f14f23d7*](https://wj2uFA.absslk.xyz/a387200f2eb56656e56b55d2f14f23d7)
+  - **ios**: [*https://wj2uFA.absslk.xyz/a387200f2eb56656e56b55d2f14f23d7*](https://wj2uFA.absslk.xyz/a387200f2eb56656e56b55d2f14f23d7)
 - **mksshare**
   - **clash**: [*https://mbRSwU.mcsslk.xyz/f8f73818cd6305609835c33a8a1d229a*](https://mbRSwU.mcsslk.xyz/f8f73818cd6305609835c33a8a1d229a)
   - **v2ray**: [*https://mbRSwU.mcsslk.xyz/f8f73818cd6305609835c33a8a1d229a*](https://mbRSwU.mcsslk.xyz/f8f73818cd6305609835c33a8a1d229a)
