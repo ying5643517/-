@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-05 14:45:13
+> Updated Time: 2025-02-05 14:50:32
 
 - **tolinkshare2**
-  - **clash**: [*https://8Ig2SJ.tosslk.xyz/efbdbef0c9e5926b0c346664779ab3bb*](https://8Ig2SJ.tosslk.xyz/efbdbef0c9e5926b0c346664779ab3bb)
-  - **v2ray**: [*https://8Ig2SJ.tosslk.xyz/efbdbef0c9e5926b0c346664779ab3bb*](https://8Ig2SJ.tosslk.xyz/efbdbef0c9e5926b0c346664779ab3bb)
-  - **ios**: [*https://8Ig2SJ.tosslk.xyz/efbdbef0c9e5926b0c346664779ab3bb*](https://8Ig2SJ.tosslk.xyz/efbdbef0c9e5926b0c346664779ab3bb)
+  - **clash**: [*https://0iLQQV.tosslk.xyz/8d46b74cba3286880f86aa1c359a882f*](https://0iLQQV.tosslk.xyz/8d46b74cba3286880f86aa1c359a882f)
+  - **v2ray**: [*https://0iLQQV.tosslk.xyz/8d46b74cba3286880f86aa1c359a882f*](https://0iLQQV.tosslk.xyz/8d46b74cba3286880f86aa1c359a882f)
+  - **ios**: [*https://0iLQQV.tosslk.xyz/8d46b74cba3286880f86aa1c359a882f*](https://0iLQQV.tosslk.xyz/8d46b74cba3286880f86aa1c359a882f)
 - **abshare**
-  - **clash**: [*https://pryLEh.absslk.xyz/eccf8d234c75ff90fedbdcb9298a6db3*](https://pryLEh.absslk.xyz/eccf8d234c75ff90fedbdcb9298a6db3)
-  - **v2ray**: [*https://pryLEh.absslk.xyz/eccf8d234c75ff90fedbdcb9298a6db3*](https://pryLEh.absslk.xyz/eccf8d234c75ff90fedbdcb9298a6db3)
-  - **ios**: [*https://pryLEh.absslk.xyz/eccf8d234c75ff90fedbdcb9298a6db3*](https://pryLEh.absslk.xyz/eccf8d234c75ff90fedbdcb9298a6db3)
+  - **clash**: [*https://DMZb9v.absslk.xyz/8b417425f6ad9e4bfb539807fd191339*](https://DMZb9v.absslk.xyz/8b417425f6ad9e4bfb539807fd191339)
+  - **v2ray**: [*https://DMZb9v.absslk.xyz/8b417425f6ad9e4bfb539807fd191339*](https://DMZb9v.absslk.xyz/8b417425f6ad9e4bfb539807fd191339)
+  - **ios**: [*https://DMZb9v.absslk.xyz/8b417425f6ad9e4bfb539807fd191339*](https://DMZb9v.absslk.xyz/8b417425f6ad9e4bfb539807fd191339)
 - **mksshare**
   - **clash**: [*https://NgNWIZ.mcsslk.xyz/ad1a2a0856472202b98a70a9b340646b*](https://NgNWIZ.mcsslk.xyz/ad1a2a0856472202b98a70a9b340646b)
   - **v2ray**: [*https://NgNWIZ.mcsslk.xyz/ad1a2a0856472202b98a70a9b340646b*](https://NgNWIZ.mcsslk.xyz/ad1a2a0856472202b98a70a9b340646b)
