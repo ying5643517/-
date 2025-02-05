@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-06 04:54:40
+> Updated Time: 2025-02-06 04:59:52
 
 - **tolinkshare2**
-  - **clash**: [*https://B55ifT.tosslk.xyz/e6995ad359e0e9b1f53d5ed4a241b7c4*](https://B55ifT.tosslk.xyz/e6995ad359e0e9b1f53d5ed4a241b7c4)
-  - **v2ray**: [*https://B55ifT.tosslk.xyz/e6995ad359e0e9b1f53d5ed4a241b7c4*](https://B55ifT.tosslk.xyz/e6995ad359e0e9b1f53d5ed4a241b7c4)
-  - **ios**: [*https://B55ifT.tosslk.xyz/e6995ad359e0e9b1f53d5ed4a241b7c4*](https://B55ifT.tosslk.xyz/e6995ad359e0e9b1f53d5ed4a241b7c4)
+  - **clash**: [*https://Vzok7O.tosslk.xyz/ddccf09fb519f68a13817a745c0905bc*](https://Vzok7O.tosslk.xyz/ddccf09fb519f68a13817a745c0905bc)
+  - **v2ray**: [*https://Vzok7O.tosslk.xyz/ddccf09fb519f68a13817a745c0905bc*](https://Vzok7O.tosslk.xyz/ddccf09fb519f68a13817a745c0905bc)
+  - **ios**: [*https://Vzok7O.tosslk.xyz/ddccf09fb519f68a13817a745c0905bc*](https://Vzok7O.tosslk.xyz/ddccf09fb519f68a13817a745c0905bc)
 - **abshare**
   - **clash**: [*https://t1XS95.absslk.xyz/2ed83756e87bd896a83a4f9693797b3a*](https://t1XS95.absslk.xyz/2ed83756e87bd896a83a4f9693797b3a)
   - **v2ray**: [*https://t1XS95.absslk.xyz/2ed83756e87bd896a83a4f9693797b3a*](https://t1XS95.absslk.xyz/2ed83756e87bd896a83a4f9693797b3a)
