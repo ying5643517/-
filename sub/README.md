@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-05 21:39:48
+> Updated Time: 2025-02-05 21:55:20
 
 - **tolinkshare2**
-  - **clash**: [*https://kSir5N.tosslk.xyz/6089d6bc0cbca016ceb30cfe4f8f6bf9*](https://kSir5N.tosslk.xyz/6089d6bc0cbca016ceb30cfe4f8f6bf9)
-  - **v2ray**: [*https://kSir5N.tosslk.xyz/6089d6bc0cbca016ceb30cfe4f8f6bf9*](https://kSir5N.tosslk.xyz/6089d6bc0cbca016ceb30cfe4f8f6bf9)
-  - **ios**: [*https://kSir5N.tosslk.xyz/6089d6bc0cbca016ceb30cfe4f8f6bf9*](https://kSir5N.tosslk.xyz/6089d6bc0cbca016ceb30cfe4f8f6bf9)
+  - **clash**: [*https://rrTwVF.tosslk.xyz/d5113247332c6de81b10686a58b246ee*](https://rrTwVF.tosslk.xyz/d5113247332c6de81b10686a58b246ee)
+  - **v2ray**: [*https://rrTwVF.tosslk.xyz/d5113247332c6de81b10686a58b246ee*](https://rrTwVF.tosslk.xyz/d5113247332c6de81b10686a58b246ee)
+  - **ios**: [*https://rrTwVF.tosslk.xyz/d5113247332c6de81b10686a58b246ee*](https://rrTwVF.tosslk.xyz/d5113247332c6de81b10686a58b246ee)
 - **abshare**
-  - **clash**: [*https://6lNwPK.absslk.xyz/6799f2da3689cb272dfb03a654e1307c*](https://6lNwPK.absslk.xyz/6799f2da3689cb272dfb03a654e1307c)
-  - **v2ray**: [*https://6lNwPK.absslk.xyz/6799f2da3689cb272dfb03a654e1307c*](https://6lNwPK.absslk.xyz/6799f2da3689cb272dfb03a654e1307c)
-  - **ios**: [*https://6lNwPK.absslk.xyz/6799f2da3689cb272dfb03a654e1307c*](https://6lNwPK.absslk.xyz/6799f2da3689cb272dfb03a654e1307c)
+  - **clash**: [*https://HZUtXA.absslk.xyz/0a5ea347a3f53853e16595e013cd4d28*](https://HZUtXA.absslk.xyz/0a5ea347a3f53853e16595e013cd4d28)
+  - **v2ray**: [*https://HZUtXA.absslk.xyz/0a5ea347a3f53853e16595e013cd4d28*](https://HZUtXA.absslk.xyz/0a5ea347a3f53853e16595e013cd4d28)
+  - **ios**: [*https://HZUtXA.absslk.xyz/0a5ea347a3f53853e16595e013cd4d28*](https://HZUtXA.absslk.xyz/0a5ea347a3f53853e16595e013cd4d28)
 - **mksshare**
   - **clash**: [*https://r5INAC.mcsslk.xyz/c16cfb99d7149b271ad6180b10e39657*](https://r5INAC.mcsslk.xyz/c16cfb99d7149b271ad6180b10e39657)
   - **v2ray**: [*https://r5INAC.mcsslk.xyz/c16cfb99d7149b271ad6180b10e39657*](https://r5INAC.mcsslk.xyz/c16cfb99d7149b271ad6180b10e39657)
