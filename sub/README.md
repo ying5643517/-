@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-06 18:51:09
+> Updated Time: 2025-02-06 18:56:42
 
 - **tolinkshare2**
-  - **clash**: [*https://QTXHLa.tosslk.xyz/26e8c0551329d325ae10588e6a5d427b*](https://QTXHLa.tosslk.xyz/26e8c0551329d325ae10588e6a5d427b)
-  - **v2ray**: [*https://QTXHLa.tosslk.xyz/26e8c0551329d325ae10588e6a5d427b*](https://QTXHLa.tosslk.xyz/26e8c0551329d325ae10588e6a5d427b)
-  - **ios**: [*https://QTXHLa.tosslk.xyz/26e8c0551329d325ae10588e6a5d427b*](https://QTXHLa.tosslk.xyz/26e8c0551329d325ae10588e6a5d427b)
+  - **clash**: [*https://iISTPC.tosslk.xyz/3433ab4c4e12019aae276904a157037f*](https://iISTPC.tosslk.xyz/3433ab4c4e12019aae276904a157037f)
+  - **v2ray**: [*https://iISTPC.tosslk.xyz/3433ab4c4e12019aae276904a157037f*](https://iISTPC.tosslk.xyz/3433ab4c4e12019aae276904a157037f)
+  - **ios**: [*https://iISTPC.tosslk.xyz/3433ab4c4e12019aae276904a157037f*](https://iISTPC.tosslk.xyz/3433ab4c4e12019aae276904a157037f)
 - **abshare**
-  - **clash**: [*https://5hwyn2.absslk.xyz/44fdd065a647c8aad713cd2182c08889*](https://5hwyn2.absslk.xyz/44fdd065a647c8aad713cd2182c08889)
-  - **v2ray**: [*https://5hwyn2.absslk.xyz/44fdd065a647c8aad713cd2182c08889*](https://5hwyn2.absslk.xyz/44fdd065a647c8aad713cd2182c08889)
-  - **ios**: [*https://5hwyn2.absslk.xyz/44fdd065a647c8aad713cd2182c08889*](https://5hwyn2.absslk.xyz/44fdd065a647c8aad713cd2182c08889)
+  - **clash**: [*https://BtpuWO.absslk.xyz/261b336ed0003269897841a773e7c26a*](https://BtpuWO.absslk.xyz/261b336ed0003269897841a773e7c26a)
+  - **v2ray**: [*https://BtpuWO.absslk.xyz/261b336ed0003269897841a773e7c26a*](https://BtpuWO.absslk.xyz/261b336ed0003269897841a773e7c26a)
+  - **ios**: [*https://BtpuWO.absslk.xyz/261b336ed0003269897841a773e7c26a*](https://BtpuWO.absslk.xyz/261b336ed0003269897841a773e7c26a)
 - **mksshare**
   - **clash**: [*https://LeXF1X.mcsslk.xyz/84a405f335883508cb5792fcf1cf4fe2*](https://LeXF1X.mcsslk.xyz/84a405f335883508cb5792fcf1cf4fe2)
   - **v2ray**: [*https://LeXF1X.mcsslk.xyz/84a405f335883508cb5792fcf1cf4fe2*](https://LeXF1X.mcsslk.xyz/84a405f335883508cb5792fcf1cf4fe2)
