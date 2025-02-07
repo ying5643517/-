@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-07 21:59:25
+> Updated Time: 2025-02-07 22:13:53
 
 - **tolinkshare2**
-  - **clash**: [*https://LnnHKb.tosslk.xyz/822434f213d71ee829163eb8864aba33*](https://LnnHKb.tosslk.xyz/822434f213d71ee829163eb8864aba33)
-  - **v2ray**: [*https://LnnHKb.tosslk.xyz/822434f213d71ee829163eb8864aba33*](https://LnnHKb.tosslk.xyz/822434f213d71ee829163eb8864aba33)
-  - **ios**: [*https://LnnHKb.tosslk.xyz/822434f213d71ee829163eb8864aba33*](https://LnnHKb.tosslk.xyz/822434f213d71ee829163eb8864aba33)
+  - **clash**: [*https://BKD1oj.tosslk.xyz/0cd3ee50aa585b9f68bd171dd6d7c546*](https://BKD1oj.tosslk.xyz/0cd3ee50aa585b9f68bd171dd6d7c546)
+  - **v2ray**: [*https://BKD1oj.tosslk.xyz/0cd3ee50aa585b9f68bd171dd6d7c546*](https://BKD1oj.tosslk.xyz/0cd3ee50aa585b9f68bd171dd6d7c546)
+  - **ios**: [*https://BKD1oj.tosslk.xyz/0cd3ee50aa585b9f68bd171dd6d7c546*](https://BKD1oj.tosslk.xyz/0cd3ee50aa585b9f68bd171dd6d7c546)
 - **abshare**
-  - **clash**: [*https://7pmaWl.absslk.xyz/899295e55dd28bbb7a597f41989084af*](https://7pmaWl.absslk.xyz/899295e55dd28bbb7a597f41989084af)
-  - **v2ray**: [*https://7pmaWl.absslk.xyz/899295e55dd28bbb7a597f41989084af*](https://7pmaWl.absslk.xyz/899295e55dd28bbb7a597f41989084af)
-  - **ios**: [*https://7pmaWl.absslk.xyz/899295e55dd28bbb7a597f41989084af*](https://7pmaWl.absslk.xyz/899295e55dd28bbb7a597f41989084af)
+  - **clash**: [*https://fqXUf7.absslk.xyz/4a07272e9fa5f7c8a2c8816a96563448*](https://fqXUf7.absslk.xyz/4a07272e9fa5f7c8a2c8816a96563448)
+  - **v2ray**: [*https://fqXUf7.absslk.xyz/4a07272e9fa5f7c8a2c8816a96563448*](https://fqXUf7.absslk.xyz/4a07272e9fa5f7c8a2c8816a96563448)
+  - **ios**: [*https://fqXUf7.absslk.xyz/4a07272e9fa5f7c8a2c8816a96563448*](https://fqXUf7.absslk.xyz/4a07272e9fa5f7c8a2c8816a96563448)
 - **mksshare**
   - **clash**: [*https://Gne0v8.mcsslk.xyz/65788a75a612aab9c4f783fcc0cef230*](https://Gne0v8.mcsslk.xyz/65788a75a612aab9c4f783fcc0cef230)
   - **v2ray**: [*https://Gne0v8.mcsslk.xyz/65788a75a612aab9c4f783fcc0cef230*](https://Gne0v8.mcsslk.xyz/65788a75a612aab9c4f783fcc0cef230)
