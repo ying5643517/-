@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-07 22:59:38
+> Updated Time: 2025-02-07 23:15:42
 
 - **tolinkshare2**
-  - **clash**: [*https://hDsgs0.tosslk.xyz/e8629bc8cf94af12d22c345af3a4b85d*](https://hDsgs0.tosslk.xyz/e8629bc8cf94af12d22c345af3a4b85d)
-  - **v2ray**: [*https://hDsgs0.tosslk.xyz/e8629bc8cf94af12d22c345af3a4b85d*](https://hDsgs0.tosslk.xyz/e8629bc8cf94af12d22c345af3a4b85d)
-  - **ios**: [*https://hDsgs0.tosslk.xyz/e8629bc8cf94af12d22c345af3a4b85d*](https://hDsgs0.tosslk.xyz/e8629bc8cf94af12d22c345af3a4b85d)
+  - **clash**: [*https://2tcrGO.tosslk.xyz/5801367c9019f6e6de4b181aa02fa9b6*](https://2tcrGO.tosslk.xyz/5801367c9019f6e6de4b181aa02fa9b6)
+  - **v2ray**: [*https://2tcrGO.tosslk.xyz/5801367c9019f6e6de4b181aa02fa9b6*](https://2tcrGO.tosslk.xyz/5801367c9019f6e6de4b181aa02fa9b6)
+  - **ios**: [*https://2tcrGO.tosslk.xyz/5801367c9019f6e6de4b181aa02fa9b6*](https://2tcrGO.tosslk.xyz/5801367c9019f6e6de4b181aa02fa9b6)
 - **abshare**
   - **clash**: [*https://QDeQJl.absslk.xyz/a273fd9de5a119f1c6a512ea51c619d4*](https://QDeQJl.absslk.xyz/a273fd9de5a119f1c6a512ea51c619d4)
   - **v2ray**: [*https://QDeQJl.absslk.xyz/a273fd9de5a119f1c6a512ea51c619d4*](https://QDeQJl.absslk.xyz/a273fd9de5a119f1c6a512ea51c619d4)
