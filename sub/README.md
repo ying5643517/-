@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-08 19:07:34
+> Updated Time: 2025-02-08 19:19:07
 
 - **tolinkshare2**
-  - **clash**: [*https://d7Fwni.tosslk.xyz/42ed2e4716d60cac62f5000348e0ec9d*](https://d7Fwni.tosslk.xyz/42ed2e4716d60cac62f5000348e0ec9d)
-  - **v2ray**: [*https://d7Fwni.tosslk.xyz/42ed2e4716d60cac62f5000348e0ec9d*](https://d7Fwni.tosslk.xyz/42ed2e4716d60cac62f5000348e0ec9d)
-  - **ios**: [*https://d7Fwni.tosslk.xyz/42ed2e4716d60cac62f5000348e0ec9d*](https://d7Fwni.tosslk.xyz/42ed2e4716d60cac62f5000348e0ec9d)
+  - **clash**: [*https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5*](https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5)
+  - **v2ray**: [*https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5*](https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5)
+  - **ios**: [*https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5*](https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5)
 - **abshare**
-  - **clash**: [*https://YxeWpN.absslk.xyz/e55ae1cf5cf1685e76b9122ba289f41b*](https://YxeWpN.absslk.xyz/e55ae1cf5cf1685e76b9122ba289f41b)
-  - **v2ray**: [*https://YxeWpN.absslk.xyz/e55ae1cf5cf1685e76b9122ba289f41b*](https://YxeWpN.absslk.xyz/e55ae1cf5cf1685e76b9122ba289f41b)
-  - **ios**: [*https://YxeWpN.absslk.xyz/e55ae1cf5cf1685e76b9122ba289f41b*](https://YxeWpN.absslk.xyz/e55ae1cf5cf1685e76b9122ba289f41b)
+  - **clash**: [*https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4*](https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4)
+  - **v2ray**: [*https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4*](https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4)
+  - **ios**: [*https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4*](https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4)
 - **mksshare**
   - **clash**: [*https://lyygeR.mcsslk.xyz/af9ef96bdea3cbcc92dfbfd4d0c531be*](https://lyygeR.mcsslk.xyz/af9ef96bdea3cbcc92dfbfd4d0c531be)
   - **v2ray**: [*https://lyygeR.mcsslk.xyz/af9ef96bdea3cbcc92dfbfd4d0c531be*](https://lyygeR.mcsslk.xyz/af9ef96bdea3cbcc92dfbfd4d0c531be)
