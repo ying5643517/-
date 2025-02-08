@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-08 19:30:22
+> Updated Time: 2025-02-08 19:36:13
 
 - **tolinkshare2**
-  - **clash**: [*https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5*](https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5)
-  - **v2ray**: [*https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5*](https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5)
-  - **ios**: [*https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5*](https://4QXdsH.tosslk.xyz/29c5da6abed8d01a0ce3c5a1bb5f33a5)
+  - **clash**: [*https://h00ncP.tosslk.xyz/1f2a17d3c6b00734bc43a958d1989f95*](https://h00ncP.tosslk.xyz/1f2a17d3c6b00734bc43a958d1989f95)
+  - **v2ray**: [*https://h00ncP.tosslk.xyz/1f2a17d3c6b00734bc43a958d1989f95*](https://h00ncP.tosslk.xyz/1f2a17d3c6b00734bc43a958d1989f95)
+  - **ios**: [*https://h00ncP.tosslk.xyz/1f2a17d3c6b00734bc43a958d1989f95*](https://h00ncP.tosslk.xyz/1f2a17d3c6b00734bc43a958d1989f95)
 - **abshare**
   - **clash**: [*https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4*](https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4)
   - **v2ray**: [*https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4*](https://FpJDDK.absslk.xyz/883654e0860651a51f11fb930b2e8cc4)
