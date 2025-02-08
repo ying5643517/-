@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-09 00:49:52
+> Updated Time: 2025-02-09 00:54:59
 
 - **tolinkshare2**
   - **clash**: [*https://2DFitm.tosslk.xyz/df4a2b75ddfd0bea1869349c475c02c2*](https://2DFitm.tosslk.xyz/df4a2b75ddfd0bea1869349c475c02c2)
   - **v2ray**: [*https://2DFitm.tosslk.xyz/df4a2b75ddfd0bea1869349c475c02c2*](https://2DFitm.tosslk.xyz/df4a2b75ddfd0bea1869349c475c02c2)
   - **ios**: [*https://2DFitm.tosslk.xyz/df4a2b75ddfd0bea1869349c475c02c2*](https://2DFitm.tosslk.xyz/df4a2b75ddfd0bea1869349c475c02c2)
 - **abshare**
-  - **clash**: [*https://muMVvZ.absslk.xyz/e354fbaa47ee7a879c3d1532e9379e20*](https://muMVvZ.absslk.xyz/e354fbaa47ee7a879c3d1532e9379e20)
-  - **v2ray**: [*https://muMVvZ.absslk.xyz/e354fbaa47ee7a879c3d1532e9379e20*](https://muMVvZ.absslk.xyz/e354fbaa47ee7a879c3d1532e9379e20)
-  - **ios**: [*https://muMVvZ.absslk.xyz/e354fbaa47ee7a879c3d1532e9379e20*](https://muMVvZ.absslk.xyz/e354fbaa47ee7a879c3d1532e9379e20)
+  - **clash**: [*https://5aAHTV.absslk.xyz/99a8300fdd46bf77f94580326fef1133*](https://5aAHTV.absslk.xyz/99a8300fdd46bf77f94580326fef1133)
+  - **v2ray**: [*https://5aAHTV.absslk.xyz/99a8300fdd46bf77f94580326fef1133*](https://5aAHTV.absslk.xyz/99a8300fdd46bf77f94580326fef1133)
+  - **ios**: [*https://5aAHTV.absslk.xyz/99a8300fdd46bf77f94580326fef1133*](https://5aAHTV.absslk.xyz/99a8300fdd46bf77f94580326fef1133)
 - **mksshare**
   - **clash**: [*https://9yvD5x.mcsslk.xyz/955449d73fbf640eee0a51b99a962f56*](https://9yvD5x.mcsslk.xyz/955449d73fbf640eee0a51b99a962f56)
   - **v2ray**: [*https://9yvD5x.mcsslk.xyz/955449d73fbf640eee0a51b99a962f56*](https://9yvD5x.mcsslk.xyz/955449d73fbf640eee0a51b99a962f56)
