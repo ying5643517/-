@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-08 22:44:40
+> Updated Time: 2025-02-08 22:49:48
 
 - **tolinkshare2**
   - **clash**: [*https://9iTXa5.tosslk.xyz/77fb3618e18e8c384fea7bdcfacf85b9*](https://9iTXa5.tosslk.xyz/77fb3618e18e8c384fea7bdcfacf85b9)
   - **v2ray**: [*https://9iTXa5.tosslk.xyz/77fb3618e18e8c384fea7bdcfacf85b9*](https://9iTXa5.tosslk.xyz/77fb3618e18e8c384fea7bdcfacf85b9)
   - **ios**: [*https://9iTXa5.tosslk.xyz/77fb3618e18e8c384fea7bdcfacf85b9*](https://9iTXa5.tosslk.xyz/77fb3618e18e8c384fea7bdcfacf85b9)
 - **abshare**
-  - **clash**: [*https://BHvVZz.absslk.xyz/6395dca95232e8c4de670f927988f7ce*](https://BHvVZz.absslk.xyz/6395dca95232e8c4de670f927988f7ce)
-  - **v2ray**: [*https://BHvVZz.absslk.xyz/6395dca95232e8c4de670f927988f7ce*](https://BHvVZz.absslk.xyz/6395dca95232e8c4de670f927988f7ce)
-  - **ios**: [*https://BHvVZz.absslk.xyz/6395dca95232e8c4de670f927988f7ce*](https://BHvVZz.absslk.xyz/6395dca95232e8c4de670f927988f7ce)
+  - **clash**: [*https://SRaEp8.absslk.xyz/feb10d2569c7e54a4f0cceec106988be*](https://SRaEp8.absslk.xyz/feb10d2569c7e54a4f0cceec106988be)
+  - **v2ray**: [*https://SRaEp8.absslk.xyz/feb10d2569c7e54a4f0cceec106988be*](https://SRaEp8.absslk.xyz/feb10d2569c7e54a4f0cceec106988be)
+  - **ios**: [*https://SRaEp8.absslk.xyz/feb10d2569c7e54a4f0cceec106988be*](https://SRaEp8.absslk.xyz/feb10d2569c7e54a4f0cceec106988be)
 - **mksshare**
   - **clash**: [*https://QCTJ3z.mcsslk.xyz/e39afeb95421c4a7044807f6c7f44b02*](https://QCTJ3z.mcsslk.xyz/e39afeb95421c4a7044807f6c7f44b02)
   - **v2ray**: [*https://QCTJ3z.mcsslk.xyz/e39afeb95421c4a7044807f6c7f44b02*](https://QCTJ3z.mcsslk.xyz/e39afeb95421c4a7044807f6c7f44b02)
