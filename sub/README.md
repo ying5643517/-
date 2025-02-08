@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-09 03:36:42
+> Updated Time: 2025-02-09 03:47:17
 
 - **tolinkshare2**
-  - **clash**: [*https://V3v0xD.tosslk.xyz/08f7d623e905e22cf839bf427fb3e6d1*](https://V3v0xD.tosslk.xyz/08f7d623e905e22cf839bf427fb3e6d1)
-  - **v2ray**: [*https://V3v0xD.tosslk.xyz/08f7d623e905e22cf839bf427fb3e6d1*](https://V3v0xD.tosslk.xyz/08f7d623e905e22cf839bf427fb3e6d1)
-  - **ios**: [*https://V3v0xD.tosslk.xyz/08f7d623e905e22cf839bf427fb3e6d1*](https://V3v0xD.tosslk.xyz/08f7d623e905e22cf839bf427fb3e6d1)
+  - **clash**: [*https://XfxqAm.tosslk.xyz/fbaac66a3675512e4dba7a83789086ab*](https://XfxqAm.tosslk.xyz/fbaac66a3675512e4dba7a83789086ab)
+  - **v2ray**: [*https://XfxqAm.tosslk.xyz/fbaac66a3675512e4dba7a83789086ab*](https://XfxqAm.tosslk.xyz/fbaac66a3675512e4dba7a83789086ab)
+  - **ios**: [*https://XfxqAm.tosslk.xyz/fbaac66a3675512e4dba7a83789086ab*](https://XfxqAm.tosslk.xyz/fbaac66a3675512e4dba7a83789086ab)
 - **abshare**
-  - **clash**: [*https://p70ihe.absslk.xyz/e036a5e4823805e7f6d0a8cd8a511d10*](https://p70ihe.absslk.xyz/e036a5e4823805e7f6d0a8cd8a511d10)
-  - **v2ray**: [*https://p70ihe.absslk.xyz/e036a5e4823805e7f6d0a8cd8a511d10*](https://p70ihe.absslk.xyz/e036a5e4823805e7f6d0a8cd8a511d10)
-  - **ios**: [*https://p70ihe.absslk.xyz/e036a5e4823805e7f6d0a8cd8a511d10*](https://p70ihe.absslk.xyz/e036a5e4823805e7f6d0a8cd8a511d10)
+  - **clash**: [*https://lDfWjf.absslk.xyz/fb709c4d61ca8e1dbb50d28502f4720e*](https://lDfWjf.absslk.xyz/fb709c4d61ca8e1dbb50d28502f4720e)
+  - **v2ray**: [*https://lDfWjf.absslk.xyz/fb709c4d61ca8e1dbb50d28502f4720e*](https://lDfWjf.absslk.xyz/fb709c4d61ca8e1dbb50d28502f4720e)
+  - **ios**: [*https://lDfWjf.absslk.xyz/fb709c4d61ca8e1dbb50d28502f4720e*](https://lDfWjf.absslk.xyz/fb709c4d61ca8e1dbb50d28502f4720e)
 - **mksshare**
   - **clash**: [*https://hkjNzZ.mcsslk.xyz/410d587bf8ddaf45e75757dbb2d83d0a*](https://hkjNzZ.mcsslk.xyz/410d587bf8ddaf45e75757dbb2d83d0a)
   - **v2ray**: [*https://hkjNzZ.mcsslk.xyz/410d587bf8ddaf45e75757dbb2d83d0a*](https://hkjNzZ.mcsslk.xyz/410d587bf8ddaf45e75757dbb2d83d0a)
