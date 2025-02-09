@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-10 04:42:29
+> Updated Time: 2025-02-10 04:52:57
 
 - **tolinkshare2**
-  - **clash**: [*https://sncyyk.tosslk.xyz/2f9c8c427e287285ae4f1e6aed3cbf85*](https://sncyyk.tosslk.xyz/2f9c8c427e287285ae4f1e6aed3cbf85)
-  - **v2ray**: [*https://sncyyk.tosslk.xyz/2f9c8c427e287285ae4f1e6aed3cbf85*](https://sncyyk.tosslk.xyz/2f9c8c427e287285ae4f1e6aed3cbf85)
-  - **ios**: [*https://sncyyk.tosslk.xyz/2f9c8c427e287285ae4f1e6aed3cbf85*](https://sncyyk.tosslk.xyz/2f9c8c427e287285ae4f1e6aed3cbf85)
+  - **clash**: [*https://fdD7Zb.tosslk.xyz/671aa3e49e0677704cdac96b3c112e17*](https://fdD7Zb.tosslk.xyz/671aa3e49e0677704cdac96b3c112e17)
+  - **v2ray**: [*https://fdD7Zb.tosslk.xyz/671aa3e49e0677704cdac96b3c112e17*](https://fdD7Zb.tosslk.xyz/671aa3e49e0677704cdac96b3c112e17)
+  - **ios**: [*https://fdD7Zb.tosslk.xyz/671aa3e49e0677704cdac96b3c112e17*](https://fdD7Zb.tosslk.xyz/671aa3e49e0677704cdac96b3c112e17)
 - **abshare**
   - **clash**: [*https://QwfmLs.absslk.xyz/5eac54afca4692f7bb6b4d4fadd82531*](https://QwfmLs.absslk.xyz/5eac54afca4692f7bb6b4d4fadd82531)
   - **v2ray**: [*https://QwfmLs.absslk.xyz/5eac54afca4692f7bb6b4d4fadd82531*](https://QwfmLs.absslk.xyz/5eac54afca4692f7bb6b4d4fadd82531)
