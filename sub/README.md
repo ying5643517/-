@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-09 13:37:35
+> Updated Time: 2025-02-09 13:42:45
 
 - **tolinkshare2**
-  - **clash**: [*https://nMddag.tosslk.xyz/9521cc7fa8769855bf085a58cded47f1*](https://nMddag.tosslk.xyz/9521cc7fa8769855bf085a58cded47f1)
-  - **v2ray**: [*https://nMddag.tosslk.xyz/9521cc7fa8769855bf085a58cded47f1*](https://nMddag.tosslk.xyz/9521cc7fa8769855bf085a58cded47f1)
-  - **ios**: [*https://nMddag.tosslk.xyz/9521cc7fa8769855bf085a58cded47f1*](https://nMddag.tosslk.xyz/9521cc7fa8769855bf085a58cded47f1)
+  - **clash**: [*https://IyThkp.tosslk.xyz/479bfd8087427c9ce95bcdeaffb93d39*](https://IyThkp.tosslk.xyz/479bfd8087427c9ce95bcdeaffb93d39)
+  - **v2ray**: [*https://IyThkp.tosslk.xyz/479bfd8087427c9ce95bcdeaffb93d39*](https://IyThkp.tosslk.xyz/479bfd8087427c9ce95bcdeaffb93d39)
+  - **ios**: [*https://IyThkp.tosslk.xyz/479bfd8087427c9ce95bcdeaffb93d39*](https://IyThkp.tosslk.xyz/479bfd8087427c9ce95bcdeaffb93d39)
 - **abshare**
-  - **clash**: [*https://Qnnyri.absslk.xyz/e7d82a32b355f5dfe1b5a9ed67c13e75*](https://Qnnyri.absslk.xyz/e7d82a32b355f5dfe1b5a9ed67c13e75)
-  - **v2ray**: [*https://Qnnyri.absslk.xyz/e7d82a32b355f5dfe1b5a9ed67c13e75*](https://Qnnyri.absslk.xyz/e7d82a32b355f5dfe1b5a9ed67c13e75)
-  - **ios**: [*https://Qnnyri.absslk.xyz/e7d82a32b355f5dfe1b5a9ed67c13e75*](https://Qnnyri.absslk.xyz/e7d82a32b355f5dfe1b5a9ed67c13e75)
+  - **clash**: [*https://t2NRsD.absslk.xyz/9bfe1b678b997a319934e876d4d8019b*](https://t2NRsD.absslk.xyz/9bfe1b678b997a319934e876d4d8019b)
+  - **v2ray**: [*https://t2NRsD.absslk.xyz/9bfe1b678b997a319934e876d4d8019b*](https://t2NRsD.absslk.xyz/9bfe1b678b997a319934e876d4d8019b)
+  - **ios**: [*https://t2NRsD.absslk.xyz/9bfe1b678b997a319934e876d4d8019b*](https://t2NRsD.absslk.xyz/9bfe1b678b997a319934e876d4d8019b)
 - **mksshare**
   - **clash**: [*https://BKKqFc.mcsslk.xyz/b8558810c54e43f4f330eb0869812b92*](https://BKKqFc.mcsslk.xyz/b8558810c54e43f4f330eb0869812b92)
   - **v2ray**: [*https://BKKqFc.mcsslk.xyz/b8558810c54e43f4f330eb0869812b92*](https://BKKqFc.mcsslk.xyz/b8558810c54e43f4f330eb0869812b92)
