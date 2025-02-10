@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-10 21:50:47
+> Updated Time: 2025-02-10 21:55:58
 
 - **tolinkshare2**
-  - **clash**: [*https://UasDyS.tosslk.xyz/def16908b1e6b2bda5255022552604e1*](https://UasDyS.tosslk.xyz/def16908b1e6b2bda5255022552604e1)
-  - **v2ray**: [*https://UasDyS.tosslk.xyz/def16908b1e6b2bda5255022552604e1*](https://UasDyS.tosslk.xyz/def16908b1e6b2bda5255022552604e1)
-  - **ios**: [*https://UasDyS.tosslk.xyz/def16908b1e6b2bda5255022552604e1*](https://UasDyS.tosslk.xyz/def16908b1e6b2bda5255022552604e1)
+  - **clash**: [*https://GVyyly.tosslk.xyz/c09dd097d84b77727aaebf7ada7a83c4*](https://GVyyly.tosslk.xyz/c09dd097d84b77727aaebf7ada7a83c4)
+  - **v2ray**: [*https://GVyyly.tosslk.xyz/c09dd097d84b77727aaebf7ada7a83c4*](https://GVyyly.tosslk.xyz/c09dd097d84b77727aaebf7ada7a83c4)
+  - **ios**: [*https://GVyyly.tosslk.xyz/c09dd097d84b77727aaebf7ada7a83c4*](https://GVyyly.tosslk.xyz/c09dd097d84b77727aaebf7ada7a83c4)
 - **abshare**
-  - **clash**: [*https://ildXGu.absslk.xyz/d0f43dfdea286668c1cf034fa500348d*](https://ildXGu.absslk.xyz/d0f43dfdea286668c1cf034fa500348d)
-  - **v2ray**: [*https://ildXGu.absslk.xyz/d0f43dfdea286668c1cf034fa500348d*](https://ildXGu.absslk.xyz/d0f43dfdea286668c1cf034fa500348d)
-  - **ios**: [*https://ildXGu.absslk.xyz/d0f43dfdea286668c1cf034fa500348d*](https://ildXGu.absslk.xyz/d0f43dfdea286668c1cf034fa500348d)
+  - **clash**: [*https://sVMNYm.absslk.xyz/34fdd3d48b99e698f69d2e9beb6accd0*](https://sVMNYm.absslk.xyz/34fdd3d48b99e698f69d2e9beb6accd0)
+  - **v2ray**: [*https://sVMNYm.absslk.xyz/34fdd3d48b99e698f69d2e9beb6accd0*](https://sVMNYm.absslk.xyz/34fdd3d48b99e698f69d2e9beb6accd0)
+  - **ios**: [*https://sVMNYm.absslk.xyz/34fdd3d48b99e698f69d2e9beb6accd0*](https://sVMNYm.absslk.xyz/34fdd3d48b99e698f69d2e9beb6accd0)
 - **mksshare**
   - **clash**: [*https://kphn9R.mcsslk.xyz/56e8266b16b11b51d353b044f171cc71*](https://kphn9R.mcsslk.xyz/56e8266b16b11b51d353b044f171cc71)
   - **v2ray**: [*https://kphn9R.mcsslk.xyz/56e8266b16b11b51d353b044f171cc71*](https://kphn9R.mcsslk.xyz/56e8266b16b11b51d353b044f171cc71)
