@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-10 22:52:57
+> Updated Time: 2025-02-10 22:58:19
 
 - **tolinkshare2**
-  - **clash**: [*https://uhCCOB.tosslk.xyz/6f8cbef9e0f5d450e944f3eaf0e5d279*](https://uhCCOB.tosslk.xyz/6f8cbef9e0f5d450e944f3eaf0e5d279)
-  - **v2ray**: [*https://uhCCOB.tosslk.xyz/6f8cbef9e0f5d450e944f3eaf0e5d279*](https://uhCCOB.tosslk.xyz/6f8cbef9e0f5d450e944f3eaf0e5d279)
-  - **ios**: [*https://uhCCOB.tosslk.xyz/6f8cbef9e0f5d450e944f3eaf0e5d279*](https://uhCCOB.tosslk.xyz/6f8cbef9e0f5d450e944f3eaf0e5d279)
+  - **clash**: [*https://TWNOMQ.tosslk.xyz/975b6e6413de5106d64377b210d03bfe*](https://TWNOMQ.tosslk.xyz/975b6e6413de5106d64377b210d03bfe)
+  - **v2ray**: [*https://TWNOMQ.tosslk.xyz/975b6e6413de5106d64377b210d03bfe*](https://TWNOMQ.tosslk.xyz/975b6e6413de5106d64377b210d03bfe)
+  - **ios**: [*https://TWNOMQ.tosslk.xyz/975b6e6413de5106d64377b210d03bfe*](https://TWNOMQ.tosslk.xyz/975b6e6413de5106d64377b210d03bfe)
 - **abshare**
-  - **clash**: [*https://B4CjXG.absslk.xyz/6254b55835697a051cf7fbb89235692f*](https://B4CjXG.absslk.xyz/6254b55835697a051cf7fbb89235692f)
-  - **v2ray**: [*https://B4CjXG.absslk.xyz/6254b55835697a051cf7fbb89235692f*](https://B4CjXG.absslk.xyz/6254b55835697a051cf7fbb89235692f)
-  - **ios**: [*https://B4CjXG.absslk.xyz/6254b55835697a051cf7fbb89235692f*](https://B4CjXG.absslk.xyz/6254b55835697a051cf7fbb89235692f)
+  - **clash**: [*https://6HSfsD.absslk.xyz/4aca9980330c5b9b639cdc110b571b51*](https://6HSfsD.absslk.xyz/4aca9980330c5b9b639cdc110b571b51)
+  - **v2ray**: [*https://6HSfsD.absslk.xyz/4aca9980330c5b9b639cdc110b571b51*](https://6HSfsD.absslk.xyz/4aca9980330c5b9b639cdc110b571b51)
+  - **ios**: [*https://6HSfsD.absslk.xyz/4aca9980330c5b9b639cdc110b571b51*](https://6HSfsD.absslk.xyz/4aca9980330c5b9b639cdc110b571b51)
 - **mksshare**
   - **clash**: [*https://LC4tWL.mcsslk.xyz/770905431c0976533283cd062f89bd49*](https://LC4tWL.mcsslk.xyz/770905431c0976533283cd062f89bd49)
   - **v2ray**: [*https://LC4tWL.mcsslk.xyz/770905431c0976533283cd062f89bd49*](https://LC4tWL.mcsslk.xyz/770905431c0976533283cd062f89bd49)
