@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-10 14:22:10
+> Updated Time: 2025-02-10 14:40:54
 
 - **tolinkshare2**
-  - **clash**: [*https://MPOyQk.tosslk.xyz/f995ec2e10a60cb61e04a14a6411202e*](https://MPOyQk.tosslk.xyz/f995ec2e10a60cb61e04a14a6411202e)
-  - **v2ray**: [*https://MPOyQk.tosslk.xyz/f995ec2e10a60cb61e04a14a6411202e*](https://MPOyQk.tosslk.xyz/f995ec2e10a60cb61e04a14a6411202e)
-  - **ios**: [*https://MPOyQk.tosslk.xyz/f995ec2e10a60cb61e04a14a6411202e*](https://MPOyQk.tosslk.xyz/f995ec2e10a60cb61e04a14a6411202e)
+  - **clash**: [*https://1y1Xch.tosslk.xyz/38022d26ae7ad60645ab9066c51161ad*](https://1y1Xch.tosslk.xyz/38022d26ae7ad60645ab9066c51161ad)
+  - **v2ray**: [*https://1y1Xch.tosslk.xyz/38022d26ae7ad60645ab9066c51161ad*](https://1y1Xch.tosslk.xyz/38022d26ae7ad60645ab9066c51161ad)
+  - **ios**: [*https://1y1Xch.tosslk.xyz/38022d26ae7ad60645ab9066c51161ad*](https://1y1Xch.tosslk.xyz/38022d26ae7ad60645ab9066c51161ad)
 - **abshare**
-  - **clash**: [*https://jxXLOL.absslk.xyz/1c2d19609b9d4916123a1c44ef7e5578*](https://jxXLOL.absslk.xyz/1c2d19609b9d4916123a1c44ef7e5578)
-  - **v2ray**: [*https://jxXLOL.absslk.xyz/1c2d19609b9d4916123a1c44ef7e5578*](https://jxXLOL.absslk.xyz/1c2d19609b9d4916123a1c44ef7e5578)
-  - **ios**: [*https://jxXLOL.absslk.xyz/1c2d19609b9d4916123a1c44ef7e5578*](https://jxXLOL.absslk.xyz/1c2d19609b9d4916123a1c44ef7e5578)
+  - **clash**: [*https://DFqzHT.absslk.xyz/f075858a2ce10f35fa09a04aa83a867b*](https://DFqzHT.absslk.xyz/f075858a2ce10f35fa09a04aa83a867b)
+  - **v2ray**: [*https://DFqzHT.absslk.xyz/f075858a2ce10f35fa09a04aa83a867b*](https://DFqzHT.absslk.xyz/f075858a2ce10f35fa09a04aa83a867b)
+  - **ios**: [*https://DFqzHT.absslk.xyz/f075858a2ce10f35fa09a04aa83a867b*](https://DFqzHT.absslk.xyz/f075858a2ce10f35fa09a04aa83a867b)
 - **mksshare**
   - **clash**: [*https://QlZZ7I.mcsslk.xyz/cb11c7c0c5c7d330271f4d79860fc2f7*](https://QlZZ7I.mcsslk.xyz/cb11c7c0c5c7d330271f4d79860fc2f7)
   - **v2ray**: [*https://QlZZ7I.mcsslk.xyz/cb11c7c0c5c7d330271f4d79860fc2f7*](https://QlZZ7I.mcsslk.xyz/cb11c7c0c5c7d330271f4d79860fc2f7)
