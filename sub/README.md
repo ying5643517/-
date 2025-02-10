@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-10 12:30:31
+> Updated Time: 2025-02-10 12:37:22
 
 - **tolinkshare2**
   - **clash**: [*https://GWb0bd.tosslk.xyz/020207f96c88faf553729176da2fb6e4*](https://GWb0bd.tosslk.xyz/020207f96c88faf553729176da2fb6e4)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://Yph0ma.tosslk.xyz/aff07acedcef6dfbdb9de15d54a75ec4*](https://Yph0ma.tosslk.xyz/aff07acedcef6dfbdb9de15d54a75ec4)
   - **ios**: [*https://Yph0ma.tosslk.xyz/aff07acedcef6dfbdb9de15d54a75ec4*](https://Yph0ma.tosslk.xyz/aff07acedcef6dfbdb9de15d54a75ec4)
 - **abshare3**
-  - **clash**: [*https://VXD6hM.absslk.xyz/d65aa7ba489e807ba03a5bcef4c3ddfa*](https://VXD6hM.absslk.xyz/d65aa7ba489e807ba03a5bcef4c3ddfa)
-  - **v2ray**: [*https://VXD6hM.absslk.xyz/d65aa7ba489e807ba03a5bcef4c3ddfa*](https://VXD6hM.absslk.xyz/d65aa7ba489e807ba03a5bcef4c3ddfa)
-  - **ios**: [*https://VXD6hM.absslk.xyz/d65aa7ba489e807ba03a5bcef4c3ddfa*](https://VXD6hM.absslk.xyz/d65aa7ba489e807ba03a5bcef4c3ddfa)
+  - **clash**: [*https://x68P5T.absslk.xyz/98b85ef77f92192c950d98f385c84909*](https://x68P5T.absslk.xyz/98b85ef77f92192c950d98f385c84909)
+  - **v2ray**: [*https://x68P5T.absslk.xyz/98b85ef77f92192c950d98f385c84909*](https://x68P5T.absslk.xyz/98b85ef77f92192c950d98f385c84909)
+  - **ios**: [*https://x68P5T.absslk.xyz/98b85ef77f92192c950d98f385c84909*](https://x68P5T.absslk.xyz/98b85ef77f92192c950d98f385c84909)
