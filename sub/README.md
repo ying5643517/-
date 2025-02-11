@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-11 21:40:19
+> Updated Time: 2025-02-11 21:45:39
 
 - **tolinkshare2**
-  - **clash**: [*https://Wku9hy.tosslk.xyz/260a41b6e3b0e730dd3317b2fbccb03b*](https://Wku9hy.tosslk.xyz/260a41b6e3b0e730dd3317b2fbccb03b)
-  - **v2ray**: [*https://Wku9hy.tosslk.xyz/260a41b6e3b0e730dd3317b2fbccb03b*](https://Wku9hy.tosslk.xyz/260a41b6e3b0e730dd3317b2fbccb03b)
-  - **ios**: [*https://Wku9hy.tosslk.xyz/260a41b6e3b0e730dd3317b2fbccb03b*](https://Wku9hy.tosslk.xyz/260a41b6e3b0e730dd3317b2fbccb03b)
+  - **clash**: [*https://CovNbr.tosslk.xyz/7275dac2aa36af17991c45ad9d8234b8*](https://CovNbr.tosslk.xyz/7275dac2aa36af17991c45ad9d8234b8)
+  - **v2ray**: [*https://CovNbr.tosslk.xyz/7275dac2aa36af17991c45ad9d8234b8*](https://CovNbr.tosslk.xyz/7275dac2aa36af17991c45ad9d8234b8)
+  - **ios**: [*https://CovNbr.tosslk.xyz/7275dac2aa36af17991c45ad9d8234b8*](https://CovNbr.tosslk.xyz/7275dac2aa36af17991c45ad9d8234b8)
 - **abshare**
   - **clash**: [*https://lUF5gk.absslk.xyz/f276cb63ea6d86d7fac8b123d8786cbc*](https://lUF5gk.absslk.xyz/f276cb63ea6d86d7fac8b123d8786cbc)
   - **v2ray**: [*https://lUF5gk.absslk.xyz/f276cb63ea6d86d7fac8b123d8786cbc*](https://lUF5gk.absslk.xyz/f276cb63ea6d86d7fac8b123d8786cbc)
