@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-11 23:52:11
+> Updated Time: 2025-02-11 23:57:40
 
 - **tolinkshare2**
   - **clash**: [*https://mBtOaL.tosslk.xyz/311c8e80508b3861bb0a16f8fbc38bf7*](https://mBtOaL.tosslk.xyz/311c8e80508b3861bb0a16f8fbc38bf7)
   - **v2ray**: [*https://mBtOaL.tosslk.xyz/311c8e80508b3861bb0a16f8fbc38bf7*](https://mBtOaL.tosslk.xyz/311c8e80508b3861bb0a16f8fbc38bf7)
   - **ios**: [*https://mBtOaL.tosslk.xyz/311c8e80508b3861bb0a16f8fbc38bf7*](https://mBtOaL.tosslk.xyz/311c8e80508b3861bb0a16f8fbc38bf7)
 - **abshare**
-  - **clash**: [*https://perFPO.absslk.xyz/58e91c9d4dac2153d0d54a3900cbf347*](https://perFPO.absslk.xyz/58e91c9d4dac2153d0d54a3900cbf347)
-  - **v2ray**: [*https://perFPO.absslk.xyz/58e91c9d4dac2153d0d54a3900cbf347*](https://perFPO.absslk.xyz/58e91c9d4dac2153d0d54a3900cbf347)
-  - **ios**: [*https://perFPO.absslk.xyz/58e91c9d4dac2153d0d54a3900cbf347*](https://perFPO.absslk.xyz/58e91c9d4dac2153d0d54a3900cbf347)
+  - **clash**: [*https://bgXYkr.absslk.xyz/3547f22f09511eca9d561091ed88ec79*](https://bgXYkr.absslk.xyz/3547f22f09511eca9d561091ed88ec79)
+  - **v2ray**: [*https://bgXYkr.absslk.xyz/3547f22f09511eca9d561091ed88ec79*](https://bgXYkr.absslk.xyz/3547f22f09511eca9d561091ed88ec79)
+  - **ios**: [*https://bgXYkr.absslk.xyz/3547f22f09511eca9d561091ed88ec79*](https://bgXYkr.absslk.xyz/3547f22f09511eca9d561091ed88ec79)
 - **mksshare**
   - **clash**: [*https://pKRD6K.mcsslk.xyz/9a1b857c0be83ff80fcd9bb3d40efce8*](https://pKRD6K.mcsslk.xyz/9a1b857c0be83ff80fcd9bb3d40efce8)
   - **v2ray**: [*https://pKRD6K.mcsslk.xyz/9a1b857c0be83ff80fcd9bb3d40efce8*](https://pKRD6K.mcsslk.xyz/9a1b857c0be83ff80fcd9bb3d40efce8)
