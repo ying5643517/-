@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-12 15:51:49
+> Updated Time: 2025-02-12 15:57:07
 
 - **tolinkshare2**
-  - **clash**: [*https://Yu7lu0.tosslk.xyz/abc0835f8b5a33959fe576a084d3b7ed*](https://Yu7lu0.tosslk.xyz/abc0835f8b5a33959fe576a084d3b7ed)
-  - **v2ray**: [*https://Yu7lu0.tosslk.xyz/abc0835f8b5a33959fe576a084d3b7ed*](https://Yu7lu0.tosslk.xyz/abc0835f8b5a33959fe576a084d3b7ed)
-  - **ios**: [*https://Yu7lu0.tosslk.xyz/abc0835f8b5a33959fe576a084d3b7ed*](https://Yu7lu0.tosslk.xyz/abc0835f8b5a33959fe576a084d3b7ed)
+  - **clash**: [*https://hqzXsW.tosslk.xyz/a503816a4a959cae9824da3186021ac7*](https://hqzXsW.tosslk.xyz/a503816a4a959cae9824da3186021ac7)
+  - **v2ray**: [*https://hqzXsW.tosslk.xyz/a503816a4a959cae9824da3186021ac7*](https://hqzXsW.tosslk.xyz/a503816a4a959cae9824da3186021ac7)
+  - **ios**: [*https://hqzXsW.tosslk.xyz/a503816a4a959cae9824da3186021ac7*](https://hqzXsW.tosslk.xyz/a503816a4a959cae9824da3186021ac7)
 - **abshare**
-  - **clash**: [*https://2G7bUP.absslk.xyz/97483d4812ec5543043471d590426e78*](https://2G7bUP.absslk.xyz/97483d4812ec5543043471d590426e78)
-  - **v2ray**: [*https://2G7bUP.absslk.xyz/97483d4812ec5543043471d590426e78*](https://2G7bUP.absslk.xyz/97483d4812ec5543043471d590426e78)
-  - **ios**: [*https://2G7bUP.absslk.xyz/97483d4812ec5543043471d590426e78*](https://2G7bUP.absslk.xyz/97483d4812ec5543043471d590426e78)
+  - **clash**: [*https://bUb03C.absslk.xyz/5f3cd47809b920fb789c208250abe579*](https://bUb03C.absslk.xyz/5f3cd47809b920fb789c208250abe579)
+  - **v2ray**: [*https://bUb03C.absslk.xyz/5f3cd47809b920fb789c208250abe579*](https://bUb03C.absslk.xyz/5f3cd47809b920fb789c208250abe579)
+  - **ios**: [*https://bUb03C.absslk.xyz/5f3cd47809b920fb789c208250abe579*](https://bUb03C.absslk.xyz/5f3cd47809b920fb789c208250abe579)
 - **mksshare**
   - **clash**: [*https://iez0pz.mcsslk.xyz/a6a73a332f925bb918058d19a7738225*](https://iez0pz.mcsslk.xyz/a6a73a332f925bb918058d19a7738225)
   - **v2ray**: [*https://iez0pz.mcsslk.xyz/a6a73a332f925bb918058d19a7738225*](https://iez0pz.mcsslk.xyz/a6a73a332f925bb918058d19a7738225)
