@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-12 13:44:02
+> Updated Time: 2025-02-12 13:49:25
 
 - **tolinkshare2**
   - **clash**: [*https://bXciUx.tosslk.xyz/b9c9a15d5afc632626df04aa3e9c8c52*](https://bXciUx.tosslk.xyz/b9c9a15d5afc632626df04aa3e9c8c52)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://yzy1tU.tosslk.xyz/0cb48633df9a904ce734cdbe2e7e6174*](https://yzy1tU.tosslk.xyz/0cb48633df9a904ce734cdbe2e7e6174)
   - **ios**: [*https://yzy1tU.tosslk.xyz/0cb48633df9a904ce734cdbe2e7e6174*](https://yzy1tU.tosslk.xyz/0cb48633df9a904ce734cdbe2e7e6174)
 - **abshare3**
-  - **clash**: [*https://qC4pik.absslk.xyz/354ccc494ffda3463f356fceeab4ba7c*](https://qC4pik.absslk.xyz/354ccc494ffda3463f356fceeab4ba7c)
-  - **v2ray**: [*https://qC4pik.absslk.xyz/354ccc494ffda3463f356fceeab4ba7c*](https://qC4pik.absslk.xyz/354ccc494ffda3463f356fceeab4ba7c)
-  - **ios**: [*https://qC4pik.absslk.xyz/354ccc494ffda3463f356fceeab4ba7c*](https://qC4pik.absslk.xyz/354ccc494ffda3463f356fceeab4ba7c)
+  - **clash**: [*https://LCM76s.absslk.xyz/dac3a0e1d2ecf95d6cc19de22dffe3c6*](https://LCM76s.absslk.xyz/dac3a0e1d2ecf95d6cc19de22dffe3c6)
+  - **v2ray**: [*https://LCM76s.absslk.xyz/dac3a0e1d2ecf95d6cc19de22dffe3c6*](https://LCM76s.absslk.xyz/dac3a0e1d2ecf95d6cc19de22dffe3c6)
+  - **ios**: [*https://LCM76s.absslk.xyz/dac3a0e1d2ecf95d6cc19de22dffe3c6*](https://LCM76s.absslk.xyz/dac3a0e1d2ecf95d6cc19de22dffe3c6)
