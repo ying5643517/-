@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-12 21:40:37
+> Updated Time: 2025-02-12 21:51:20
 
 - **tolinkshare2**
   - **clash**: [*https://jQLE8I.tosslk.xyz/ccbfb241ddf7958561f500eb0c38ec70*](https://jQLE8I.tosslk.xyz/ccbfb241ddf7958561f500eb0c38ec70)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://4ixieb.tosslk.xyz/d0b47787b20f90cd7cb962f94e14902d*](https://4ixieb.tosslk.xyz/d0b47787b20f90cd7cb962f94e14902d)
   - **ios**: [*https://4ixieb.tosslk.xyz/d0b47787b20f90cd7cb962f94e14902d*](https://4ixieb.tosslk.xyz/d0b47787b20f90cd7cb962f94e14902d)
 - **abshare3**
-  - **clash**: [*https://D4XJPZ.absslk.xyz/b6ba59c5b23300d6ead82e19ec7a82ea*](https://D4XJPZ.absslk.xyz/b6ba59c5b23300d6ead82e19ec7a82ea)
-  - **v2ray**: [*https://D4XJPZ.absslk.xyz/b6ba59c5b23300d6ead82e19ec7a82ea*](https://D4XJPZ.absslk.xyz/b6ba59c5b23300d6ead82e19ec7a82ea)
-  - **ios**: [*https://D4XJPZ.absslk.xyz/b6ba59c5b23300d6ead82e19ec7a82ea*](https://D4XJPZ.absslk.xyz/b6ba59c5b23300d6ead82e19ec7a82ea)
+  - **clash**: [*https://j7MUm1.absslk.xyz/a3210c1429bffd1e6887610a0882cc55*](https://j7MUm1.absslk.xyz/a3210c1429bffd1e6887610a0882cc55)
+  - **v2ray**: [*https://j7MUm1.absslk.xyz/a3210c1429bffd1e6887610a0882cc55*](https://j7MUm1.absslk.xyz/a3210c1429bffd1e6887610a0882cc55)
+  - **ios**: [*https://j7MUm1.absslk.xyz/a3210c1429bffd1e6887610a0882cc55*](https://j7MUm1.absslk.xyz/a3210c1429bffd1e6887610a0882cc55)
