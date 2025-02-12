@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-12 11:29:43
+> Updated Time: 2025-02-12 11:39:23
 
 - **tolinkshare2**
-  - **clash**: [*https://mApW6Y.tosslk.xyz/0469dae5a1d440df056cf66d70fb9ebc*](https://mApW6Y.tosslk.xyz/0469dae5a1d440df056cf66d70fb9ebc)
-  - **v2ray**: [*https://mApW6Y.tosslk.xyz/0469dae5a1d440df056cf66d70fb9ebc*](https://mApW6Y.tosslk.xyz/0469dae5a1d440df056cf66d70fb9ebc)
-  - **ios**: [*https://mApW6Y.tosslk.xyz/0469dae5a1d440df056cf66d70fb9ebc*](https://mApW6Y.tosslk.xyz/0469dae5a1d440df056cf66d70fb9ebc)
+  - **clash**: [*https://TYJR07.tosslk.xyz/e80d348adfd65946122711b26679baf9*](https://TYJR07.tosslk.xyz/e80d348adfd65946122711b26679baf9)
+  - **v2ray**: [*https://TYJR07.tosslk.xyz/e80d348adfd65946122711b26679baf9*](https://TYJR07.tosslk.xyz/e80d348adfd65946122711b26679baf9)
+  - **ios**: [*https://TYJR07.tosslk.xyz/e80d348adfd65946122711b26679baf9*](https://TYJR07.tosslk.xyz/e80d348adfd65946122711b26679baf9)
 - **abshare**
-  - **clash**: [*https://5efBDg.absslk.xyz/71ba80d8c4ad3ab64b3d57b36432a86a*](https://5efBDg.absslk.xyz/71ba80d8c4ad3ab64b3d57b36432a86a)
-  - **v2ray**: [*https://5efBDg.absslk.xyz/71ba80d8c4ad3ab64b3d57b36432a86a*](https://5efBDg.absslk.xyz/71ba80d8c4ad3ab64b3d57b36432a86a)
-  - **ios**: [*https://5efBDg.absslk.xyz/71ba80d8c4ad3ab64b3d57b36432a86a*](https://5efBDg.absslk.xyz/71ba80d8c4ad3ab64b3d57b36432a86a)
+  - **clash**: [*https://lkRTrA.absslk.xyz/e324b0dea722cb5722ab6df8cae4635f*](https://lkRTrA.absslk.xyz/e324b0dea722cb5722ab6df8cae4635f)
+  - **v2ray**: [*https://lkRTrA.absslk.xyz/e324b0dea722cb5722ab6df8cae4635f*](https://lkRTrA.absslk.xyz/e324b0dea722cb5722ab6df8cae4635f)
+  - **ios**: [*https://lkRTrA.absslk.xyz/e324b0dea722cb5722ab6df8cae4635f*](https://lkRTrA.absslk.xyz/e324b0dea722cb5722ab6df8cae4635f)
 - **mksshare**
   - **clash**: [*https://AsTHWU.mcsslk.xyz/404269b6908e3890c64b832523abfc9d*](https://AsTHWU.mcsslk.xyz/404269b6908e3890c64b832523abfc9d)
   - **v2ray**: [*https://AsTHWU.mcsslk.xyz/404269b6908e3890c64b832523abfc9d*](https://AsTHWU.mcsslk.xyz/404269b6908e3890c64b832523abfc9d)
