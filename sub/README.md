@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-13 00:44:56
+> Updated Time: 2025-02-13 00:51:39
 
 - **tolinkshare2**
-  - **clash**: [*https://zPEhVy.tosslk.xyz/a58173ad4840374ed3a75d9c883ff882*](https://zPEhVy.tosslk.xyz/a58173ad4840374ed3a75d9c883ff882)
-  - **v2ray**: [*https://zPEhVy.tosslk.xyz/a58173ad4840374ed3a75d9c883ff882*](https://zPEhVy.tosslk.xyz/a58173ad4840374ed3a75d9c883ff882)
-  - **ios**: [*https://zPEhVy.tosslk.xyz/a58173ad4840374ed3a75d9c883ff882*](https://zPEhVy.tosslk.xyz/a58173ad4840374ed3a75d9c883ff882)
+  - **clash**: [*https://wUv1cw.tosslk.xyz/24a2e39aa0649d77f71142b4b9681df8*](https://wUv1cw.tosslk.xyz/24a2e39aa0649d77f71142b4b9681df8)
+  - **v2ray**: [*https://wUv1cw.tosslk.xyz/24a2e39aa0649d77f71142b4b9681df8*](https://wUv1cw.tosslk.xyz/24a2e39aa0649d77f71142b4b9681df8)
+  - **ios**: [*https://wUv1cw.tosslk.xyz/24a2e39aa0649d77f71142b4b9681df8*](https://wUv1cw.tosslk.xyz/24a2e39aa0649d77f71142b4b9681df8)
 - **abshare**
-  - **clash**: [*https://ntBOrj.absslk.xyz/7a6e6aee859d9d8999b470a24c191cc9*](https://ntBOrj.absslk.xyz/7a6e6aee859d9d8999b470a24c191cc9)
-  - **v2ray**: [*https://ntBOrj.absslk.xyz/7a6e6aee859d9d8999b470a24c191cc9*](https://ntBOrj.absslk.xyz/7a6e6aee859d9d8999b470a24c191cc9)
-  - **ios**: [*https://ntBOrj.absslk.xyz/7a6e6aee859d9d8999b470a24c191cc9*](https://ntBOrj.absslk.xyz/7a6e6aee859d9d8999b470a24c191cc9)
+  - **clash**: [*https://Nklaep.absslk.xyz/d8cb41c3a62fe59fc6bf8812dfe7e001*](https://Nklaep.absslk.xyz/d8cb41c3a62fe59fc6bf8812dfe7e001)
+  - **v2ray**: [*https://Nklaep.absslk.xyz/d8cb41c3a62fe59fc6bf8812dfe7e001*](https://Nklaep.absslk.xyz/d8cb41c3a62fe59fc6bf8812dfe7e001)
+  - **ios**: [*https://Nklaep.absslk.xyz/d8cb41c3a62fe59fc6bf8812dfe7e001*](https://Nklaep.absslk.xyz/d8cb41c3a62fe59fc6bf8812dfe7e001)
 - **mksshare**
   - **clash**: [*https://yjyuMV.mcsslk.xyz/4851041ed37e53e84f33eaef571eb7e1*](https://yjyuMV.mcsslk.xyz/4851041ed37e53e84f33eaef571eb7e1)
   - **v2ray**: [*https://yjyuMV.mcsslk.xyz/4851041ed37e53e84f33eaef571eb7e1*](https://yjyuMV.mcsslk.xyz/4851041ed37e53e84f33eaef571eb7e1)
