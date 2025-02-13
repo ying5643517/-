@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-13 12:11:24
+> Updated Time: 2025-02-13 12:30:46
 
 - **tolinkshare2**
-  - **clash**: [*https://yYJhXG.tosslk.xyz/b6d35461ce458fe6e241b0de6db29ca5*](https://yYJhXG.tosslk.xyz/b6d35461ce458fe6e241b0de6db29ca5)
-  - **v2ray**: [*https://yYJhXG.tosslk.xyz/b6d35461ce458fe6e241b0de6db29ca5*](https://yYJhXG.tosslk.xyz/b6d35461ce458fe6e241b0de6db29ca5)
-  - **ios**: [*https://yYJhXG.tosslk.xyz/b6d35461ce458fe6e241b0de6db29ca5*](https://yYJhXG.tosslk.xyz/b6d35461ce458fe6e241b0de6db29ca5)
+  - **clash**: [*https://ONQE1l.tosslk.xyz/ddc457bb92949490435edbf73aca1294*](https://ONQE1l.tosslk.xyz/ddc457bb92949490435edbf73aca1294)
+  - **v2ray**: [*https://ONQE1l.tosslk.xyz/ddc457bb92949490435edbf73aca1294*](https://ONQE1l.tosslk.xyz/ddc457bb92949490435edbf73aca1294)
+  - **ios**: [*https://ONQE1l.tosslk.xyz/ddc457bb92949490435edbf73aca1294*](https://ONQE1l.tosslk.xyz/ddc457bb92949490435edbf73aca1294)
 - **abshare**
-  - **clash**: [*https://Ut3RKl.absslk.xyz/f5077f43ae19b687751b48060ff0a4d5*](https://Ut3RKl.absslk.xyz/f5077f43ae19b687751b48060ff0a4d5)
-  - **v2ray**: [*https://Ut3RKl.absslk.xyz/f5077f43ae19b687751b48060ff0a4d5*](https://Ut3RKl.absslk.xyz/f5077f43ae19b687751b48060ff0a4d5)
-  - **ios**: [*https://Ut3RKl.absslk.xyz/f5077f43ae19b687751b48060ff0a4d5*](https://Ut3RKl.absslk.xyz/f5077f43ae19b687751b48060ff0a4d5)
+  - **clash**: [*https://LM3tE5.absslk.xyz/32a0ff4dc5cb8971f438242205badd85*](https://LM3tE5.absslk.xyz/32a0ff4dc5cb8971f438242205badd85)
+  - **v2ray**: [*https://LM3tE5.absslk.xyz/32a0ff4dc5cb8971f438242205badd85*](https://LM3tE5.absslk.xyz/32a0ff4dc5cb8971f438242205badd85)
+  - **ios**: [*https://LM3tE5.absslk.xyz/32a0ff4dc5cb8971f438242205badd85*](https://LM3tE5.absslk.xyz/32a0ff4dc5cb8971f438242205badd85)
 - **mksshare**
   - **clash**: [*https://LpimZl.mcsslk.xyz/cd47174d92e5e6b57a6c907684656c31*](https://LpimZl.mcsslk.xyz/cd47174d92e5e6b57a6c907684656c31)
   - **v2ray**: [*https://LpimZl.mcsslk.xyz/cd47174d92e5e6b57a6c907684656c31*](https://LpimZl.mcsslk.xyz/cd47174d92e5e6b57a6c907684656c31)
