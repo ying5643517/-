@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-14 04:13:54
+> Updated Time: 2025-02-14 04:28:31
 
 - **tolinkshare2**
-  - **clash**: [*https://7lxmDW.tosslk.xyz/770f6e3383149a3ddbaa5e6fc3fcb229*](https://7lxmDW.tosslk.xyz/770f6e3383149a3ddbaa5e6fc3fcb229)
-  - **v2ray**: [*https://7lxmDW.tosslk.xyz/770f6e3383149a3ddbaa5e6fc3fcb229*](https://7lxmDW.tosslk.xyz/770f6e3383149a3ddbaa5e6fc3fcb229)
-  - **ios**: [*https://7lxmDW.tosslk.xyz/770f6e3383149a3ddbaa5e6fc3fcb229*](https://7lxmDW.tosslk.xyz/770f6e3383149a3ddbaa5e6fc3fcb229)
+  - **clash**: [*https://husnOY.tosslk.xyz/fe2de6ba291ef6bcab69346d9afd84e5*](https://husnOY.tosslk.xyz/fe2de6ba291ef6bcab69346d9afd84e5)
+  - **v2ray**: [*https://husnOY.tosslk.xyz/fe2de6ba291ef6bcab69346d9afd84e5*](https://husnOY.tosslk.xyz/fe2de6ba291ef6bcab69346d9afd84e5)
+  - **ios**: [*https://husnOY.tosslk.xyz/fe2de6ba291ef6bcab69346d9afd84e5*](https://husnOY.tosslk.xyz/fe2de6ba291ef6bcab69346d9afd84e5)
 - **abshare**
-  - **clash**: [*https://dyNv5S.absslk.xyz/befffd64e3894c56d0e8912c9dd8cdd8*](https://dyNv5S.absslk.xyz/befffd64e3894c56d0e8912c9dd8cdd8)
-  - **v2ray**: [*https://dyNv5S.absslk.xyz/befffd64e3894c56d0e8912c9dd8cdd8*](https://dyNv5S.absslk.xyz/befffd64e3894c56d0e8912c9dd8cdd8)
-  - **ios**: [*https://dyNv5S.absslk.xyz/befffd64e3894c56d0e8912c9dd8cdd8*](https://dyNv5S.absslk.xyz/befffd64e3894c56d0e8912c9dd8cdd8)
+  - **clash**: [*https://RsLVVl.absslk.xyz/754e977b55fda5d3ff0f096ca34ba782*](https://RsLVVl.absslk.xyz/754e977b55fda5d3ff0f096ca34ba782)
+  - **v2ray**: [*https://RsLVVl.absslk.xyz/754e977b55fda5d3ff0f096ca34ba782*](https://RsLVVl.absslk.xyz/754e977b55fda5d3ff0f096ca34ba782)
+  - **ios**: [*https://RsLVVl.absslk.xyz/754e977b55fda5d3ff0f096ca34ba782*](https://RsLVVl.absslk.xyz/754e977b55fda5d3ff0f096ca34ba782)
 - **mksshare**
   - **clash**: [*https://qVZCGU.mcsslk.xyz/d5e3a83559c6c25479c366fd4f25f213*](https://qVZCGU.mcsslk.xyz/d5e3a83559c6c25479c366fd4f25f213)
   - **v2ray**: [*https://qVZCGU.mcsslk.xyz/d5e3a83559c6c25479c366fd4f25f213*](https://qVZCGU.mcsslk.xyz/d5e3a83559c6c25479c366fd4f25f213)
