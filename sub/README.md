@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-14 19:07:11
+> Updated Time: 2025-02-14 19:20:01
 
 - **tolinkshare2**
-  - **clash**: [*https://0QOqkL.tosslk.xyz/ed4b5a230e76b2ef5d69e0a54695755e*](https://0QOqkL.tosslk.xyz/ed4b5a230e76b2ef5d69e0a54695755e)
-  - **v2ray**: [*https://0QOqkL.tosslk.xyz/ed4b5a230e76b2ef5d69e0a54695755e*](https://0QOqkL.tosslk.xyz/ed4b5a230e76b2ef5d69e0a54695755e)
-  - **ios**: [*https://0QOqkL.tosslk.xyz/ed4b5a230e76b2ef5d69e0a54695755e*](https://0QOqkL.tosslk.xyz/ed4b5a230e76b2ef5d69e0a54695755e)
+  - **clash**: [*https://s3oSw1.tosslk.xyz/131b1c1e08c078625cb988f8cc6dfda7*](https://s3oSw1.tosslk.xyz/131b1c1e08c078625cb988f8cc6dfda7)
+  - **v2ray**: [*https://s3oSw1.tosslk.xyz/131b1c1e08c078625cb988f8cc6dfda7*](https://s3oSw1.tosslk.xyz/131b1c1e08c078625cb988f8cc6dfda7)
+  - **ios**: [*https://s3oSw1.tosslk.xyz/131b1c1e08c078625cb988f8cc6dfda7*](https://s3oSw1.tosslk.xyz/131b1c1e08c078625cb988f8cc6dfda7)
 - **abshare**
-  - **clash**: [*https://zEp04v.absslk.xyz/cc04f939074044a43a9e79e9c63b1c55*](https://zEp04v.absslk.xyz/cc04f939074044a43a9e79e9c63b1c55)
-  - **v2ray**: [*https://zEp04v.absslk.xyz/cc04f939074044a43a9e79e9c63b1c55*](https://zEp04v.absslk.xyz/cc04f939074044a43a9e79e9c63b1c55)
-  - **ios**: [*https://zEp04v.absslk.xyz/cc04f939074044a43a9e79e9c63b1c55*](https://zEp04v.absslk.xyz/cc04f939074044a43a9e79e9c63b1c55)
+  - **clash**: [*https://WEneM7.absslk.xyz/140145df49864d775ebf341e7073e49b*](https://WEneM7.absslk.xyz/140145df49864d775ebf341e7073e49b)
+  - **v2ray**: [*https://WEneM7.absslk.xyz/140145df49864d775ebf341e7073e49b*](https://WEneM7.absslk.xyz/140145df49864d775ebf341e7073e49b)
+  - **ios**: [*https://WEneM7.absslk.xyz/140145df49864d775ebf341e7073e49b*](https://WEneM7.absslk.xyz/140145df49864d775ebf341e7073e49b)
 - **mksshare**
   - **clash**: [*https://UJvqUE.mcsslk.xyz/77f8c828bd82ff982f4db7a75643d994*](https://UJvqUE.mcsslk.xyz/77f8c828bd82ff982f4db7a75643d994)
   - **v2ray**: [*https://UJvqUE.mcsslk.xyz/77f8c828bd82ff982f4db7a75643d994*](https://UJvqUE.mcsslk.xyz/77f8c828bd82ff982f4db7a75643d994)
