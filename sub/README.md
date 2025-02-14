@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-14 21:45:03
+> Updated Time: 2025-02-14 21:50:23
 
 - **tolinkshare2**
   - **clash**: [*https://ayHr04.tosslk.xyz/ee4441229842fe325b7f96ac7c7d571d*](https://ayHr04.tosslk.xyz/ee4441229842fe325b7f96ac7c7d571d)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://SBsGtp.tosslk.xyz/21b54cc6283c72791a2cb8d9fcfc35bf*](https://SBsGtp.tosslk.xyz/21b54cc6283c72791a2cb8d9fcfc35bf)
   - **ios**: [*https://SBsGtp.tosslk.xyz/21b54cc6283c72791a2cb8d9fcfc35bf*](https://SBsGtp.tosslk.xyz/21b54cc6283c72791a2cb8d9fcfc35bf)
 - **abshare3**
-  - **clash**: [*https://P3A11e.absslk.xyz/addf5d4d7a849429570e889f94256601*](https://P3A11e.absslk.xyz/addf5d4d7a849429570e889f94256601)
-  - **v2ray**: [*https://P3A11e.absslk.xyz/addf5d4d7a849429570e889f94256601*](https://P3A11e.absslk.xyz/addf5d4d7a849429570e889f94256601)
-  - **ios**: [*https://P3A11e.absslk.xyz/addf5d4d7a849429570e889f94256601*](https://P3A11e.absslk.xyz/addf5d4d7a849429570e889f94256601)
+  - **clash**: [*https://nSyon9.absslk.xyz/aa3b9c3a7351f8a04c274a7cec3b33ed*](https://nSyon9.absslk.xyz/aa3b9c3a7351f8a04c274a7cec3b33ed)
+  - **v2ray**: [*https://nSyon9.absslk.xyz/aa3b9c3a7351f8a04c274a7cec3b33ed*](https://nSyon9.absslk.xyz/aa3b9c3a7351f8a04c274a7cec3b33ed)
+  - **ios**: [*https://nSyon9.absslk.xyz/aa3b9c3a7351f8a04c274a7cec3b33ed*](https://nSyon9.absslk.xyz/aa3b9c3a7351f8a04c274a7cec3b33ed)
