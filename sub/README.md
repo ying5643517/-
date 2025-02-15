@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-15 17:37:37
+> Updated Time: 2025-02-15 18:12:32
 
 - **tolinkshare2**
-  - **clash**: [*https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843*](https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843)
-  - **v2ray**: [*https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843*](https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843)
-  - **ios**: [*https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843*](https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843)
+  - **clash**: [*https://Em7QlB.tosslk.xyz/1f9dc9e0d7ff78d7bfbd27641b78ac8a*](https://Em7QlB.tosslk.xyz/1f9dc9e0d7ff78d7bfbd27641b78ac8a)
+  - **v2ray**: [*https://Em7QlB.tosslk.xyz/1f9dc9e0d7ff78d7bfbd27641b78ac8a*](https://Em7QlB.tosslk.xyz/1f9dc9e0d7ff78d7bfbd27641b78ac8a)
+  - **ios**: [*https://Em7QlB.tosslk.xyz/1f9dc9e0d7ff78d7bfbd27641b78ac8a*](https://Em7QlB.tosslk.xyz/1f9dc9e0d7ff78d7bfbd27641b78ac8a)
 - **abshare**
-  - **clash**: [*https://vk4QJQ.absslk.xyz/0f5c83b7add11d504f93f5719db5878f*](https://vk4QJQ.absslk.xyz/0f5c83b7add11d504f93f5719db5878f)
-  - **v2ray**: [*https://vk4QJQ.absslk.xyz/0f5c83b7add11d504f93f5719db5878f*](https://vk4QJQ.absslk.xyz/0f5c83b7add11d504f93f5719db5878f)
-  - **ios**: [*https://vk4QJQ.absslk.xyz/0f5c83b7add11d504f93f5719db5878f*](https://vk4QJQ.absslk.xyz/0f5c83b7add11d504f93f5719db5878f)
+  - **clash**: [*https://haJMJv.absslk.xyz/998bd50e0b80754fc4750b6d53db25db*](https://haJMJv.absslk.xyz/998bd50e0b80754fc4750b6d53db25db)
+  - **v2ray**: [*https://haJMJv.absslk.xyz/998bd50e0b80754fc4750b6d53db25db*](https://haJMJv.absslk.xyz/998bd50e0b80754fc4750b6d53db25db)
+  - **ios**: [*https://haJMJv.absslk.xyz/998bd50e0b80754fc4750b6d53db25db*](https://haJMJv.absslk.xyz/998bd50e0b80754fc4750b6d53db25db)
 - **mksshare**
   - **clash**: [*https://Cyzead.mcsslk.xyz/654716b2192b069184a946cde575743a*](https://Cyzead.mcsslk.xyz/654716b2192b069184a946cde575743a)
   - **v2ray**: [*https://Cyzead.mcsslk.xyz/654716b2192b069184a946cde575743a*](https://Cyzead.mcsslk.xyz/654716b2192b069184a946cde575743a)
