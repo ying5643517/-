@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-15 22:41:32
+> Updated Time: 2025-02-15 22:52:27
 
 - **tolinkshare2**
   - **clash**: [*https://4ynKbR.tosslk.xyz/637463fdf6a9c1d2170a41c2d8514bd2*](https://4ynKbR.tosslk.xyz/637463fdf6a9c1d2170a41c2d8514bd2)
   - **v2ray**: [*https://4ynKbR.tosslk.xyz/637463fdf6a9c1d2170a41c2d8514bd2*](https://4ynKbR.tosslk.xyz/637463fdf6a9c1d2170a41c2d8514bd2)
   - **ios**: [*https://4ynKbR.tosslk.xyz/637463fdf6a9c1d2170a41c2d8514bd2*](https://4ynKbR.tosslk.xyz/637463fdf6a9c1d2170a41c2d8514bd2)
 - **abshare**
-  - **clash**: [*https://SPd75F.absslk.xyz/8cdf526cf756efcaf8b736dd61e6d818*](https://SPd75F.absslk.xyz/8cdf526cf756efcaf8b736dd61e6d818)
-  - **v2ray**: [*https://SPd75F.absslk.xyz/8cdf526cf756efcaf8b736dd61e6d818*](https://SPd75F.absslk.xyz/8cdf526cf756efcaf8b736dd61e6d818)
-  - **ios**: [*https://SPd75F.absslk.xyz/8cdf526cf756efcaf8b736dd61e6d818*](https://SPd75F.absslk.xyz/8cdf526cf756efcaf8b736dd61e6d818)
+  - **clash**: [*https://C3E9Yo.absslk.xyz/191010663c6b462fde20ea856ec98528*](https://C3E9Yo.absslk.xyz/191010663c6b462fde20ea856ec98528)
+  - **v2ray**: [*https://C3E9Yo.absslk.xyz/191010663c6b462fde20ea856ec98528*](https://C3E9Yo.absslk.xyz/191010663c6b462fde20ea856ec98528)
+  - **ios**: [*https://C3E9Yo.absslk.xyz/191010663c6b462fde20ea856ec98528*](https://C3E9Yo.absslk.xyz/191010663c6b462fde20ea856ec98528)
 - **mksshare**
   - **clash**: [*https://T5E5Cy.mcsslk.xyz/2615d1300a3dfdb49b38ae9e338d7f66*](https://T5E5Cy.mcsslk.xyz/2615d1300a3dfdb49b38ae9e338d7f66)
   - **v2ray**: [*https://T5E5Cy.mcsslk.xyz/2615d1300a3dfdb49b38ae9e338d7f66*](https://T5E5Cy.mcsslk.xyz/2615d1300a3dfdb49b38ae9e338d7f66)
