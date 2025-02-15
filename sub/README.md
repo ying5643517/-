@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-15 12:37:40
+> Updated Time: 2025-02-15 12:45:46
 
 - **tolinkshare2**
-  - **clash**: [*https://rwD7aw.tosslk.xyz/3a320427a6931e46d9272743d3da56ea*](https://rwD7aw.tosslk.xyz/3a320427a6931e46d9272743d3da56ea)
-  - **v2ray**: [*https://rwD7aw.tosslk.xyz/3a320427a6931e46d9272743d3da56ea*](https://rwD7aw.tosslk.xyz/3a320427a6931e46d9272743d3da56ea)
-  - **ios**: [*https://rwD7aw.tosslk.xyz/3a320427a6931e46d9272743d3da56ea*](https://rwD7aw.tosslk.xyz/3a320427a6931e46d9272743d3da56ea)
+  - **clash**: [*https://0O1pkT.tosslk.xyz/26f0573b6885d00893f0e45d6abc03a9*](https://0O1pkT.tosslk.xyz/26f0573b6885d00893f0e45d6abc03a9)
+  - **v2ray**: [*https://0O1pkT.tosslk.xyz/26f0573b6885d00893f0e45d6abc03a9*](https://0O1pkT.tosslk.xyz/26f0573b6885d00893f0e45d6abc03a9)
+  - **ios**: [*https://0O1pkT.tosslk.xyz/26f0573b6885d00893f0e45d6abc03a9*](https://0O1pkT.tosslk.xyz/26f0573b6885d00893f0e45d6abc03a9)
 - **abshare**
   - **clash**: [*https://836hLw.absslk.xyz/53c5c5f01bea72ecee5187c8bf613754*](https://836hLw.absslk.xyz/53c5c5f01bea72ecee5187c8bf613754)
   - **v2ray**: [*https://836hLw.absslk.xyz/53c5c5f01bea72ecee5187c8bf613754*](https://836hLw.absslk.xyz/53c5c5f01bea72ecee5187c8bf613754)
