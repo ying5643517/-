@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-15 16:56:04
+> Updated Time: 2025-02-15 17:07:38
 
 - **tolinkshare2**
-  - **clash**: [*https://29igze.tosslk.xyz/104c232d27789caafae03e05221ba6fe*](https://29igze.tosslk.xyz/104c232d27789caafae03e05221ba6fe)
-  - **v2ray**: [*https://29igze.tosslk.xyz/104c232d27789caafae03e05221ba6fe*](https://29igze.tosslk.xyz/104c232d27789caafae03e05221ba6fe)
-  - **ios**: [*https://29igze.tosslk.xyz/104c232d27789caafae03e05221ba6fe*](https://29igze.tosslk.xyz/104c232d27789caafae03e05221ba6fe)
+  - **clash**: [*https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843*](https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843)
+  - **v2ray**: [*https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843*](https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843)
+  - **ios**: [*https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843*](https://2S1mrm.tosslk.xyz/59170498f366d449939688f546f34843)
 - **abshare**
-  - **clash**: [*https://R7FyYC.absslk.xyz/18f39df47a9c8f7d0fcee454c561c91a*](https://R7FyYC.absslk.xyz/18f39df47a9c8f7d0fcee454c561c91a)
-  - **v2ray**: [*https://R7FyYC.absslk.xyz/18f39df47a9c8f7d0fcee454c561c91a*](https://R7FyYC.absslk.xyz/18f39df47a9c8f7d0fcee454c561c91a)
-  - **ios**: [*https://R7FyYC.absslk.xyz/18f39df47a9c8f7d0fcee454c561c91a*](https://R7FyYC.absslk.xyz/18f39df47a9c8f7d0fcee454c561c91a)
+  - **clash**: [*https://k2Bic4.absslk.xyz/c9453567b3cede93355f8f63f338c398*](https://k2Bic4.absslk.xyz/c9453567b3cede93355f8f63f338c398)
+  - **v2ray**: [*https://k2Bic4.absslk.xyz/c9453567b3cede93355f8f63f338c398*](https://k2Bic4.absslk.xyz/c9453567b3cede93355f8f63f338c398)
+  - **ios**: [*https://k2Bic4.absslk.xyz/c9453567b3cede93355f8f63f338c398*](https://k2Bic4.absslk.xyz/c9453567b3cede93355f8f63f338c398)
 - **mksshare**
   - **clash**: [*https://y0IIX9.mcsslk.xyz/f4479af899f16e8415807dc6852674c5*](https://y0IIX9.mcsslk.xyz/f4479af899f16e8415807dc6852674c5)
   - **v2ray**: [*https://y0IIX9.mcsslk.xyz/f4479af899f16e8415807dc6852674c5*](https://y0IIX9.mcsslk.xyz/f4479af899f16e8415807dc6852674c5)
