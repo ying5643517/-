@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-16 03:30:31
+> Updated Time: 2025-02-16 03:47:05
 
 - **tolinkshare2**
-  - **clash**: [*https://1f1Q1L.tosslk.xyz/ec686a0ec0fef1ca3296ee7a9d0f7ade*](https://1f1Q1L.tosslk.xyz/ec686a0ec0fef1ca3296ee7a9d0f7ade)
-  - **v2ray**: [*https://1f1Q1L.tosslk.xyz/ec686a0ec0fef1ca3296ee7a9d0f7ade*](https://1f1Q1L.tosslk.xyz/ec686a0ec0fef1ca3296ee7a9d0f7ade)
-  - **ios**: [*https://1f1Q1L.tosslk.xyz/ec686a0ec0fef1ca3296ee7a9d0f7ade*](https://1f1Q1L.tosslk.xyz/ec686a0ec0fef1ca3296ee7a9d0f7ade)
+  - **clash**: [*https://Gg6wPL.tosslk.xyz/f66d7608869db96e387fc7bea5e171ed*](https://Gg6wPL.tosslk.xyz/f66d7608869db96e387fc7bea5e171ed)
+  - **v2ray**: [*https://Gg6wPL.tosslk.xyz/f66d7608869db96e387fc7bea5e171ed*](https://Gg6wPL.tosslk.xyz/f66d7608869db96e387fc7bea5e171ed)
+  - **ios**: [*https://Gg6wPL.tosslk.xyz/f66d7608869db96e387fc7bea5e171ed*](https://Gg6wPL.tosslk.xyz/f66d7608869db96e387fc7bea5e171ed)
 - **abshare**
   - **clash**: [*https://MX6gYe.absslk.xyz/1a8bbd6acfb6774913ae948367753b82*](https://MX6gYe.absslk.xyz/1a8bbd6acfb6774913ae948367753b82)
   - **v2ray**: [*https://MX6gYe.absslk.xyz/1a8bbd6acfb6774913ae948367753b82*](https://MX6gYe.absslk.xyz/1a8bbd6acfb6774913ae948367753b82)
