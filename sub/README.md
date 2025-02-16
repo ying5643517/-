@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-17 04:25:52
+> Updated Time: 2025-02-17 04:31:45
 
 - **tolinkshare2**
-  - **clash**: [*https://ujp2XB.tosslk.xyz/c2b6eae14fbe9a1b70b3bef9798d66f8*](https://ujp2XB.tosslk.xyz/c2b6eae14fbe9a1b70b3bef9798d66f8)
-  - **v2ray**: [*https://ujp2XB.tosslk.xyz/c2b6eae14fbe9a1b70b3bef9798d66f8*](https://ujp2XB.tosslk.xyz/c2b6eae14fbe9a1b70b3bef9798d66f8)
-  - **ios**: [*https://ujp2XB.tosslk.xyz/c2b6eae14fbe9a1b70b3bef9798d66f8*](https://ujp2XB.tosslk.xyz/c2b6eae14fbe9a1b70b3bef9798d66f8)
+  - **clash**: [*https://ODMV70.tosslk.xyz/8256fa5fe117774c508c8d28606d837c*](https://ODMV70.tosslk.xyz/8256fa5fe117774c508c8d28606d837c)
+  - **v2ray**: [*https://ODMV70.tosslk.xyz/8256fa5fe117774c508c8d28606d837c*](https://ODMV70.tosslk.xyz/8256fa5fe117774c508c8d28606d837c)
+  - **ios**: [*https://ODMV70.tosslk.xyz/8256fa5fe117774c508c8d28606d837c*](https://ODMV70.tosslk.xyz/8256fa5fe117774c508c8d28606d837c)
 - **abshare**
   - **clash**: [*https://B17Q4i.absslk.xyz/7866cb693f01ebf0356afd49ffdb2c41*](https://B17Q4i.absslk.xyz/7866cb693f01ebf0356afd49ffdb2c41)
   - **v2ray**: [*https://B17Q4i.absslk.xyz/7866cb693f01ebf0356afd49ffdb2c41*](https://B17Q4i.absslk.xyz/7866cb693f01ebf0356afd49ffdb2c41)
