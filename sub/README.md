@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-16 17:25:05
+> Updated Time: 2025-02-16 17:35:59
 
 - **tolinkshare2**
-  - **clash**: [*https://Gc2ZbM.tosslk.xyz/3e7c42ba28a2a171533dc758ca6538e2*](https://Gc2ZbM.tosslk.xyz/3e7c42ba28a2a171533dc758ca6538e2)
-  - **v2ray**: [*https://Gc2ZbM.tosslk.xyz/3e7c42ba28a2a171533dc758ca6538e2*](https://Gc2ZbM.tosslk.xyz/3e7c42ba28a2a171533dc758ca6538e2)
-  - **ios**: [*https://Gc2ZbM.tosslk.xyz/3e7c42ba28a2a171533dc758ca6538e2*](https://Gc2ZbM.tosslk.xyz/3e7c42ba28a2a171533dc758ca6538e2)
+  - **clash**: [*https://HppbI4.tosslk.xyz/410b759023b8138ae0d3bedda6aa7c32*](https://HppbI4.tosslk.xyz/410b759023b8138ae0d3bedda6aa7c32)
+  - **v2ray**: [*https://HppbI4.tosslk.xyz/410b759023b8138ae0d3bedda6aa7c32*](https://HppbI4.tosslk.xyz/410b759023b8138ae0d3bedda6aa7c32)
+  - **ios**: [*https://HppbI4.tosslk.xyz/410b759023b8138ae0d3bedda6aa7c32*](https://HppbI4.tosslk.xyz/410b759023b8138ae0d3bedda6aa7c32)
 - **abshare**
   - **clash**: [*https://ec4ZsN.absslk.xyz/3ba76420007f230d4ef32077ccd88d01*](https://ec4ZsN.absslk.xyz/3ba76420007f230d4ef32077ccd88d01)
   - **v2ray**: [*https://ec4ZsN.absslk.xyz/3ba76420007f230d4ef32077ccd88d01*](https://ec4ZsN.absslk.xyz/3ba76420007f230d4ef32077ccd88d01)
