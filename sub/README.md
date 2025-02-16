@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-16 14:33:08
+> Updated Time: 2025-02-16 14:58:33
 
 - **tolinkshare2**
   - **clash**: [*https://pMbk8c.tosslk.xyz/46a19b7b4b874badcfa81515d3f8eed2*](https://pMbk8c.tosslk.xyz/46a19b7b4b874badcfa81515d3f8eed2)
   - **v2ray**: [*https://pMbk8c.tosslk.xyz/46a19b7b4b874badcfa81515d3f8eed2*](https://pMbk8c.tosslk.xyz/46a19b7b4b874badcfa81515d3f8eed2)
   - **ios**: [*https://pMbk8c.tosslk.xyz/46a19b7b4b874badcfa81515d3f8eed2*](https://pMbk8c.tosslk.xyz/46a19b7b4b874badcfa81515d3f8eed2)
 - **abshare**
-  - **clash**: [*https://jpMosa.absslk.xyz/910d31ea36dcaa149c936d40e6d28ec1*](https://jpMosa.absslk.xyz/910d31ea36dcaa149c936d40e6d28ec1)
-  - **v2ray**: [*https://jpMosa.absslk.xyz/910d31ea36dcaa149c936d40e6d28ec1*](https://jpMosa.absslk.xyz/910d31ea36dcaa149c936d40e6d28ec1)
-  - **ios**: [*https://jpMosa.absslk.xyz/910d31ea36dcaa149c936d40e6d28ec1*](https://jpMosa.absslk.xyz/910d31ea36dcaa149c936d40e6d28ec1)
+  - **clash**: [*https://Gs2T8T.absslk.xyz/9826cea860eb0f342fbfc0299d0d73b2*](https://Gs2T8T.absslk.xyz/9826cea860eb0f342fbfc0299d0d73b2)
+  - **v2ray**: [*https://Gs2T8T.absslk.xyz/9826cea860eb0f342fbfc0299d0d73b2*](https://Gs2T8T.absslk.xyz/9826cea860eb0f342fbfc0299d0d73b2)
+  - **ios**: [*https://Gs2T8T.absslk.xyz/9826cea860eb0f342fbfc0299d0d73b2*](https://Gs2T8T.absslk.xyz/9826cea860eb0f342fbfc0299d0d73b2)
 - **mksshare**
   - **clash**: [*https://nZoU9x.mcsslk.xyz/2d84790e275a610ad9c6e9e9c5c1be46*](https://nZoU9x.mcsslk.xyz/2d84790e275a610ad9c6e9e9c5c1be46)
   - **v2ray**: [*https://nZoU9x.mcsslk.xyz/2d84790e275a610ad9c6e9e9c5c1be46*](https://nZoU9x.mcsslk.xyz/2d84790e275a610ad9c6e9e9c5c1be46)
