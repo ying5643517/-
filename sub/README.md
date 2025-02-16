@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-16 13:41:31
+> Updated Time: 2025-02-16 13:46:56
 
 - **tolinkshare2**
   - **clash**: [*https://xusn7Y.tosslk.xyz/07792cef661bc884b2a43eed6956f94b*](https://xusn7Y.tosslk.xyz/07792cef661bc884b2a43eed6956f94b)
   - **v2ray**: [*https://xusn7Y.tosslk.xyz/07792cef661bc884b2a43eed6956f94b*](https://xusn7Y.tosslk.xyz/07792cef661bc884b2a43eed6956f94b)
   - **ios**: [*https://xusn7Y.tosslk.xyz/07792cef661bc884b2a43eed6956f94b*](https://xusn7Y.tosslk.xyz/07792cef661bc884b2a43eed6956f94b)
 - **abshare**
-  - **clash**: [*https://cN6gUo.absslk.xyz/f046ad3db080d4c50304b88175689858*](https://cN6gUo.absslk.xyz/f046ad3db080d4c50304b88175689858)
-  - **v2ray**: [*https://cN6gUo.absslk.xyz/f046ad3db080d4c50304b88175689858*](https://cN6gUo.absslk.xyz/f046ad3db080d4c50304b88175689858)
-  - **ios**: [*https://cN6gUo.absslk.xyz/f046ad3db080d4c50304b88175689858*](https://cN6gUo.absslk.xyz/f046ad3db080d4c50304b88175689858)
+  - **clash**: [*https://NOGErD.absslk.xyz/59a5d3beb165be80570b06fa43fb1be1*](https://NOGErD.absslk.xyz/59a5d3beb165be80570b06fa43fb1be1)
+  - **v2ray**: [*https://NOGErD.absslk.xyz/59a5d3beb165be80570b06fa43fb1be1*](https://NOGErD.absslk.xyz/59a5d3beb165be80570b06fa43fb1be1)
+  - **ios**: [*https://NOGErD.absslk.xyz/59a5d3beb165be80570b06fa43fb1be1*](https://NOGErD.absslk.xyz/59a5d3beb165be80570b06fa43fb1be1)
 - **mksshare**
   - **clash**: [*https://Ar3m0I.mcsslk.xyz/d8bbdf5706d36b4ab37eeee9bf464b85*](https://Ar3m0I.mcsslk.xyz/d8bbdf5706d36b4ab37eeee9bf464b85)
   - **v2ray**: [*https://Ar3m0I.mcsslk.xyz/d8bbdf5706d36b4ab37eeee9bf464b85*](https://Ar3m0I.mcsslk.xyz/d8bbdf5706d36b4ab37eeee9bf464b85)
