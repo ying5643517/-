@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-17 14:47:43
+> Updated Time: 2025-02-17 14:52:55
 
 - **tolinkshare2**
   - **clash**: [*https://MTTEvX.tosslk.xyz/5bc69f9f3ba01cbba625ccacc331db61*](https://MTTEvX.tosslk.xyz/5bc69f9f3ba01cbba625ccacc331db61)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://Hzy656.tosslk.xyz/aa610589f27883a1ef4f7483aa4b8ce8*](https://Hzy656.tosslk.xyz/aa610589f27883a1ef4f7483aa4b8ce8)
   - **ios**: [*https://Hzy656.tosslk.xyz/aa610589f27883a1ef4f7483aa4b8ce8*](https://Hzy656.tosslk.xyz/aa610589f27883a1ef4f7483aa4b8ce8)
 - **abshare3**
-  - **clash**: [*https://S2Y35y.absslk.xyz/bed2abcefd7b19759b0be019bcd97ac4*](https://S2Y35y.absslk.xyz/bed2abcefd7b19759b0be019bcd97ac4)
-  - **v2ray**: [*https://S2Y35y.absslk.xyz/bed2abcefd7b19759b0be019bcd97ac4*](https://S2Y35y.absslk.xyz/bed2abcefd7b19759b0be019bcd97ac4)
-  - **ios**: [*https://S2Y35y.absslk.xyz/bed2abcefd7b19759b0be019bcd97ac4*](https://S2Y35y.absslk.xyz/bed2abcefd7b19759b0be019bcd97ac4)
+  - **clash**: [*https://n21wpe.absslk.xyz/66177505694bb884e4353a757a09705b*](https://n21wpe.absslk.xyz/66177505694bb884e4353a757a09705b)
+  - **v2ray**: [*https://n21wpe.absslk.xyz/66177505694bb884e4353a757a09705b*](https://n21wpe.absslk.xyz/66177505694bb884e4353a757a09705b)
+  - **ios**: [*https://n21wpe.absslk.xyz/66177505694bb884e4353a757a09705b*](https://n21wpe.absslk.xyz/66177505694bb884e4353a757a09705b)
