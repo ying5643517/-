@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-17 19:36:14
+> Updated Time: 2025-02-17 19:47:04
 
 - **tolinkshare2**
-  - **clash**: [*https://oS0CQZ.tosslk.xyz/d1c89c00fb656cba41ec8a6d47efaf18*](https://oS0CQZ.tosslk.xyz/d1c89c00fb656cba41ec8a6d47efaf18)
-  - **v2ray**: [*https://oS0CQZ.tosslk.xyz/d1c89c00fb656cba41ec8a6d47efaf18*](https://oS0CQZ.tosslk.xyz/d1c89c00fb656cba41ec8a6d47efaf18)
-  - **ios**: [*https://oS0CQZ.tosslk.xyz/d1c89c00fb656cba41ec8a6d47efaf18*](https://oS0CQZ.tosslk.xyz/d1c89c00fb656cba41ec8a6d47efaf18)
+  - **clash**: [*https://c3JcmV.tosslk.xyz/3a93e4d9034ab00238903dbb8ead917a*](https://c3JcmV.tosslk.xyz/3a93e4d9034ab00238903dbb8ead917a)
+  - **v2ray**: [*https://c3JcmV.tosslk.xyz/3a93e4d9034ab00238903dbb8ead917a*](https://c3JcmV.tosslk.xyz/3a93e4d9034ab00238903dbb8ead917a)
+  - **ios**: [*https://c3JcmV.tosslk.xyz/3a93e4d9034ab00238903dbb8ead917a*](https://c3JcmV.tosslk.xyz/3a93e4d9034ab00238903dbb8ead917a)
 - **abshare**
   - **clash**: [*https://BL4qLM.absslk.xyz/c776de97a8c09cb4e091647462841ee6*](https://BL4qLM.absslk.xyz/c776de97a8c09cb4e091647462841ee6)
   - **v2ray**: [*https://BL4qLM.absslk.xyz/c776de97a8c09cb4e091647462841ee6*](https://BL4qLM.absslk.xyz/c776de97a8c09cb4e091647462841ee6)
