@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-19 00:23:23
+> Updated Time: 2025-02-19 00:41:26
 
 - **tolinkshare2**
-  - **clash**: [*https://vl1jfw.tosslk.xyz/4cdbb9c52b29f8cba5f9224400489efc*](https://vl1jfw.tosslk.xyz/4cdbb9c52b29f8cba5f9224400489efc)
-  - **v2ray**: [*https://vl1jfw.tosslk.xyz/4cdbb9c52b29f8cba5f9224400489efc*](https://vl1jfw.tosslk.xyz/4cdbb9c52b29f8cba5f9224400489efc)
-  - **ios**: [*https://vl1jfw.tosslk.xyz/4cdbb9c52b29f8cba5f9224400489efc*](https://vl1jfw.tosslk.xyz/4cdbb9c52b29f8cba5f9224400489efc)
+  - **clash**: [*https://RQAED7.tosslk.xyz/9dc9aca6734631742509a706800cdc98*](https://RQAED7.tosslk.xyz/9dc9aca6734631742509a706800cdc98)
+  - **v2ray**: [*https://RQAED7.tosslk.xyz/9dc9aca6734631742509a706800cdc98*](https://RQAED7.tosslk.xyz/9dc9aca6734631742509a706800cdc98)
+  - **ios**: [*https://RQAED7.tosslk.xyz/9dc9aca6734631742509a706800cdc98*](https://RQAED7.tosslk.xyz/9dc9aca6734631742509a706800cdc98)
 - **abshare**
-  - **clash**: [*https://zfbYqM.absslk.xyz/22fefb37060587b319f741f7c50d453a*](https://zfbYqM.absslk.xyz/22fefb37060587b319f741f7c50d453a)
-  - **v2ray**: [*https://zfbYqM.absslk.xyz/22fefb37060587b319f741f7c50d453a*](https://zfbYqM.absslk.xyz/22fefb37060587b319f741f7c50d453a)
-  - **ios**: [*https://zfbYqM.absslk.xyz/22fefb37060587b319f741f7c50d453a*](https://zfbYqM.absslk.xyz/22fefb37060587b319f741f7c50d453a)
+  - **clash**: [*https://ammnmk.absslk.xyz/1d012c449957831a4b4e7536a1f811b2*](https://ammnmk.absslk.xyz/1d012c449957831a4b4e7536a1f811b2)
+  - **v2ray**: [*https://ammnmk.absslk.xyz/1d012c449957831a4b4e7536a1f811b2*](https://ammnmk.absslk.xyz/1d012c449957831a4b4e7536a1f811b2)
+  - **ios**: [*https://ammnmk.absslk.xyz/1d012c449957831a4b4e7536a1f811b2*](https://ammnmk.absslk.xyz/1d012c449957831a4b4e7536a1f811b2)
 - **mksshare**
   - **clash**: [*https://vB08hx.mcsslk.xyz/fdfb0a45efca2a2e1eb990b57122acf0*](https://vB08hx.mcsslk.xyz/fdfb0a45efca2a2e1eb990b57122acf0)
   - **v2ray**: [*https://vB08hx.mcsslk.xyz/fdfb0a45efca2a2e1eb990b57122acf0*](https://vB08hx.mcsslk.xyz/fdfb0a45efca2a2e1eb990b57122acf0)
