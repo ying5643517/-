@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-18 23:29:49
+> Updated Time: 2025-02-18 23:39:10
 
 - **tolinkshare2**
-  - **clash**: [*https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79*](https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79)
-  - **v2ray**: [*https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79*](https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79)
-  - **ios**: [*https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79*](https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79)
+  - **clash**: [*https://iaxZV8.tosslk.xyz/10b242841a185d46679ce9b34cb371e5*](https://iaxZV8.tosslk.xyz/10b242841a185d46679ce9b34cb371e5)
+  - **v2ray**: [*https://iaxZV8.tosslk.xyz/10b242841a185d46679ce9b34cb371e5*](https://iaxZV8.tosslk.xyz/10b242841a185d46679ce9b34cb371e5)
+  - **ios**: [*https://iaxZV8.tosslk.xyz/10b242841a185d46679ce9b34cb371e5*](https://iaxZV8.tosslk.xyz/10b242841a185d46679ce9b34cb371e5)
 - **abshare**
   - **clash**: [*https://lsOJIb.absslk.xyz/4a09782e7251b759de744dd3d66e79ba*](https://lsOJIb.absslk.xyz/4a09782e7251b759de744dd3d66e79ba)
   - **v2ray**: [*https://lsOJIb.absslk.xyz/4a09782e7251b759de744dd3d66e79ba*](https://lsOJIb.absslk.xyz/4a09782e7251b759de744dd3d66e79ba)
