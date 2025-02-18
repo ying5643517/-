@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-18 22:00:04
+> Updated Time: 2025-02-18 22:31:46
 
 - **tolinkshare2**
-  - **clash**: [*https://f5TThd.tosslk.xyz/4285f1f07ab19f7e18a3c3af13a75b59*](https://f5TThd.tosslk.xyz/4285f1f07ab19f7e18a3c3af13a75b59)
-  - **v2ray**: [*https://f5TThd.tosslk.xyz/4285f1f07ab19f7e18a3c3af13a75b59*](https://f5TThd.tosslk.xyz/4285f1f07ab19f7e18a3c3af13a75b59)
-  - **ios**: [*https://f5TThd.tosslk.xyz/4285f1f07ab19f7e18a3c3af13a75b59*](https://f5TThd.tosslk.xyz/4285f1f07ab19f7e18a3c3af13a75b59)
+  - **clash**: [*https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79*](https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79)
+  - **v2ray**: [*https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79*](https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79)
+  - **ios**: [*https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79*](https://hBDRrM.tosslk.xyz/69dc3f1e2fe613ce3e1446a2eaaf7d79)
 - **abshare**
   - **clash**: [*https://2rPtDs.absslk.xyz/0e89b6ef1b315d30bfa3749a6021b24b*](https://2rPtDs.absslk.xyz/0e89b6ef1b315d30bfa3749a6021b24b)
   - **v2ray**: [*https://2rPtDs.absslk.xyz/0e89b6ef1b315d30bfa3749a6021b24b*](https://2rPtDs.absslk.xyz/0e89b6ef1b315d30bfa3749a6021b24b)
