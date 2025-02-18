@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-19 00:50:10
+> Updated Time: 2025-02-19 01:07:11
 
 - **tolinkshare2**
   - **clash**: [*https://RQAED7.tosslk.xyz/9dc9aca6734631742509a706800cdc98*](https://RQAED7.tosslk.xyz/9dc9aca6734631742509a706800cdc98)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://JpadWl.tosslk.xyz/e52e6141ff21c1c6d3f1ff01558e38b3*](https://JpadWl.tosslk.xyz/e52e6141ff21c1c6d3f1ff01558e38b3)
   - **ios**: [*https://JpadWl.tosslk.xyz/e52e6141ff21c1c6d3f1ff01558e38b3*](https://JpadWl.tosslk.xyz/e52e6141ff21c1c6d3f1ff01558e38b3)
 - **abshare3**
-  - **clash**: [*https://ipJi7p.absslk.xyz/cb7dd6906c515036414fc4d8bae8c973*](https://ipJi7p.absslk.xyz/cb7dd6906c515036414fc4d8bae8c973)
-  - **v2ray**: [*https://ipJi7p.absslk.xyz/cb7dd6906c515036414fc4d8bae8c973*](https://ipJi7p.absslk.xyz/cb7dd6906c515036414fc4d8bae8c973)
-  - **ios**: [*https://ipJi7p.absslk.xyz/cb7dd6906c515036414fc4d8bae8c973*](https://ipJi7p.absslk.xyz/cb7dd6906c515036414fc4d8bae8c973)
+  - **clash**: [*https://yBdBEt.absslk.xyz/366a17e0e039561ac56e821c3cda96b1*](https://yBdBEt.absslk.xyz/366a17e0e039561ac56e821c3cda96b1)
+  - **v2ray**: [*https://yBdBEt.absslk.xyz/366a17e0e039561ac56e821c3cda96b1*](https://yBdBEt.absslk.xyz/366a17e0e039561ac56e821c3cda96b1)
+  - **ios**: [*https://yBdBEt.absslk.xyz/366a17e0e039561ac56e821c3cda96b1*](https://yBdBEt.absslk.xyz/366a17e0e039561ac56e821c3cda96b1)
