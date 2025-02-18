@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-18 18:41:51
+> Updated Time: 2025-02-18 18:47:11
 
 - **tolinkshare2**
-  - **clash**: [*https://QcbpVb.tosslk.xyz/88f9a30ba3984c8eff3beffdacf5dbfc*](https://QcbpVb.tosslk.xyz/88f9a30ba3984c8eff3beffdacf5dbfc)
-  - **v2ray**: [*https://QcbpVb.tosslk.xyz/88f9a30ba3984c8eff3beffdacf5dbfc*](https://QcbpVb.tosslk.xyz/88f9a30ba3984c8eff3beffdacf5dbfc)
-  - **ios**: [*https://QcbpVb.tosslk.xyz/88f9a30ba3984c8eff3beffdacf5dbfc*](https://QcbpVb.tosslk.xyz/88f9a30ba3984c8eff3beffdacf5dbfc)
+  - **clash**: [*https://lYJ14Q.tosslk.xyz/9627384f1e2ea5cf883993522f14dfcb*](https://lYJ14Q.tosslk.xyz/9627384f1e2ea5cf883993522f14dfcb)
+  - **v2ray**: [*https://lYJ14Q.tosslk.xyz/9627384f1e2ea5cf883993522f14dfcb*](https://lYJ14Q.tosslk.xyz/9627384f1e2ea5cf883993522f14dfcb)
+  - **ios**: [*https://lYJ14Q.tosslk.xyz/9627384f1e2ea5cf883993522f14dfcb*](https://lYJ14Q.tosslk.xyz/9627384f1e2ea5cf883993522f14dfcb)
 - **abshare**
   - **clash**: [*https://JKEUnh.absslk.xyz/5943f806af0bdd707d579c10f65e8a95*](https://JKEUnh.absslk.xyz/5943f806af0bdd707d579c10f65e8a95)
   - **v2ray**: [*https://JKEUnh.absslk.xyz/5943f806af0bdd707d579c10f65e8a95*](https://JKEUnh.absslk.xyz/5943f806af0bdd707d579c10f65e8a95)
