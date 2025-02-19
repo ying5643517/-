@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-19 14:54:13
+> Updated Time: 2025-02-19 15:14:33
 
 - **tolinkshare2**
   - **clash**: [*https://t0byA0.tosslk.xyz/ba95a323adb5a8290b79e3ac6f959186*](https://t0byA0.tosslk.xyz/ba95a323adb5a8290b79e3ac6f959186)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://TctUTe.tosslk.xyz/f3f609ded5904b158e838aba2baf1df4*](https://TctUTe.tosslk.xyz/f3f609ded5904b158e838aba2baf1df4)
   - **ios**: [*https://TctUTe.tosslk.xyz/f3f609ded5904b158e838aba2baf1df4*](https://TctUTe.tosslk.xyz/f3f609ded5904b158e838aba2baf1df4)
 - **abshare3**
-  - **clash**: [*https://tSBX8i.absslk.xyz/ce45b818c5086d6c18502c7f8be36c93*](https://tSBX8i.absslk.xyz/ce45b818c5086d6c18502c7f8be36c93)
-  - **v2ray**: [*https://tSBX8i.absslk.xyz/ce45b818c5086d6c18502c7f8be36c93*](https://tSBX8i.absslk.xyz/ce45b818c5086d6c18502c7f8be36c93)
-  - **ios**: [*https://tSBX8i.absslk.xyz/ce45b818c5086d6c18502c7f8be36c93*](https://tSBX8i.absslk.xyz/ce45b818c5086d6c18502c7f8be36c93)
+  - **clash**: [*https://Qeba3n.absslk.xyz/d5b6ab22930b3f560b9254382fae210e*](https://Qeba3n.absslk.xyz/d5b6ab22930b3f560b9254382fae210e)
+  - **v2ray**: [*https://Qeba3n.absslk.xyz/d5b6ab22930b3f560b9254382fae210e*](https://Qeba3n.absslk.xyz/d5b6ab22930b3f560b9254382fae210e)
+  - **ios**: [*https://Qeba3n.absslk.xyz/d5b6ab22930b3f560b9254382fae210e*](https://Qeba3n.absslk.xyz/d5b6ab22930b3f560b9254382fae210e)
