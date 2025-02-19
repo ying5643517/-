@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-20 03:57:05
+> Updated Time: 2025-02-20 04:42:21
 
 - **tolinkshare2**
   - **clash**: [*https://yWhUvn.tosslk.xyz/3156437539d394945f4cf2d570afb3f1*](https://yWhUvn.tosslk.xyz/3156437539d394945f4cf2d570afb3f1)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://3u126l.tosslk.xyz/1e2f1718b2d2f91f2f0d2bcab1542b8e*](https://3u126l.tosslk.xyz/1e2f1718b2d2f91f2f0d2bcab1542b8e)
   - **ios**: [*https://3u126l.tosslk.xyz/1e2f1718b2d2f91f2f0d2bcab1542b8e*](https://3u126l.tosslk.xyz/1e2f1718b2d2f91f2f0d2bcab1542b8e)
 - **abshare3**
-  - **clash**: [*https://k8BGYM.absslk.xyz/20092ab2795d41bfcf07c9eab91fc2a8*](https://k8BGYM.absslk.xyz/20092ab2795d41bfcf07c9eab91fc2a8)
-  - **v2ray**: [*https://k8BGYM.absslk.xyz/20092ab2795d41bfcf07c9eab91fc2a8*](https://k8BGYM.absslk.xyz/20092ab2795d41bfcf07c9eab91fc2a8)
-  - **ios**: [*https://k8BGYM.absslk.xyz/20092ab2795d41bfcf07c9eab91fc2a8*](https://k8BGYM.absslk.xyz/20092ab2795d41bfcf07c9eab91fc2a8)
+  - **clash**: [*https://kzQfkE.absslk.xyz/95498a367bbcca2d23c1931283047758*](https://kzQfkE.absslk.xyz/95498a367bbcca2d23c1931283047758)
+  - **v2ray**: [*https://kzQfkE.absslk.xyz/95498a367bbcca2d23c1931283047758*](https://kzQfkE.absslk.xyz/95498a367bbcca2d23c1931283047758)
+  - **ios**: [*https://kzQfkE.absslk.xyz/95498a367bbcca2d23c1931283047758*](https://kzQfkE.absslk.xyz/95498a367bbcca2d23c1931283047758)
