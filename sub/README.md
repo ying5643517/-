@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-19 19:11:38
+> Updated Time: 2025-02-19 19:22:28
 
 - **tolinkshare2**
-  - **clash**: [*https://iejngp.tosslk.xyz/3107498bddd0823b7d3b4319962ee396*](https://iejngp.tosslk.xyz/3107498bddd0823b7d3b4319962ee396)
-  - **v2ray**: [*https://iejngp.tosslk.xyz/3107498bddd0823b7d3b4319962ee396*](https://iejngp.tosslk.xyz/3107498bddd0823b7d3b4319962ee396)
-  - **ios**: [*https://iejngp.tosslk.xyz/3107498bddd0823b7d3b4319962ee396*](https://iejngp.tosslk.xyz/3107498bddd0823b7d3b4319962ee396)
+  - **clash**: [*https://OvllIV.tosslk.xyz/dae351edbed672dbcdea8d30aa2b6833*](https://OvllIV.tosslk.xyz/dae351edbed672dbcdea8d30aa2b6833)
+  - **v2ray**: [*https://OvllIV.tosslk.xyz/dae351edbed672dbcdea8d30aa2b6833*](https://OvllIV.tosslk.xyz/dae351edbed672dbcdea8d30aa2b6833)
+  - **ios**: [*https://OvllIV.tosslk.xyz/dae351edbed672dbcdea8d30aa2b6833*](https://OvllIV.tosslk.xyz/dae351edbed672dbcdea8d30aa2b6833)
 - **abshare**
   - **clash**: [*https://RmcxE5.absslk.xyz/ab804ba1e5512c6a4449047fff1463f5*](https://RmcxE5.absslk.xyz/ab804ba1e5512c6a4449047fff1463f5)
   - **v2ray**: [*https://RmcxE5.absslk.xyz/ab804ba1e5512c6a4449047fff1463f5*](https://RmcxE5.absslk.xyz/ab804ba1e5512c6a4449047fff1463f5)
