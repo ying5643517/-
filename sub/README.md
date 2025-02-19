@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-20 03:18:54
+> Updated Time: 2025-02-20 03:36:08
 
 - **tolinkshare2**
-  - **clash**: [*https://pa0F8f.tosslk.xyz/6d00a44b8b9e8efa6204e8eb4aacb088*](https://pa0F8f.tosslk.xyz/6d00a44b8b9e8efa6204e8eb4aacb088)
-  - **v2ray**: [*https://pa0F8f.tosslk.xyz/6d00a44b8b9e8efa6204e8eb4aacb088*](https://pa0F8f.tosslk.xyz/6d00a44b8b9e8efa6204e8eb4aacb088)
-  - **ios**: [*https://pa0F8f.tosslk.xyz/6d00a44b8b9e8efa6204e8eb4aacb088*](https://pa0F8f.tosslk.xyz/6d00a44b8b9e8efa6204e8eb4aacb088)
+  - **clash**: [*https://yWhUvn.tosslk.xyz/3156437539d394945f4cf2d570afb3f1*](https://yWhUvn.tosslk.xyz/3156437539d394945f4cf2d570afb3f1)
+  - **v2ray**: [*https://yWhUvn.tosslk.xyz/3156437539d394945f4cf2d570afb3f1*](https://yWhUvn.tosslk.xyz/3156437539d394945f4cf2d570afb3f1)
+  - **ios**: [*https://yWhUvn.tosslk.xyz/3156437539d394945f4cf2d570afb3f1*](https://yWhUvn.tosslk.xyz/3156437539d394945f4cf2d570afb3f1)
 - **abshare**
   - **clash**: [*https://kmkMKJ.absslk.xyz/259c2d78d891791b46b1f2bdaff23152*](https://kmkMKJ.absslk.xyz/259c2d78d891791b46b1f2bdaff23152)
   - **v2ray**: [*https://kmkMKJ.absslk.xyz/259c2d78d891791b46b1f2bdaff23152*](https://kmkMKJ.absslk.xyz/259c2d78d891791b46b1f2bdaff23152)
