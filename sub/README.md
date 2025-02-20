@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-21 04:31:02
+> Updated Time: 2025-02-21 04:39:09
 
 - **tolinkshare2**
-  - **clash**: [*https://6kb8AC.tosslk.xyz/76dc778f6a260355acd2720451a838d5*](https://6kb8AC.tosslk.xyz/76dc778f6a260355acd2720451a838d5)
-  - **v2ray**: [*https://6kb8AC.tosslk.xyz/76dc778f6a260355acd2720451a838d5*](https://6kb8AC.tosslk.xyz/76dc778f6a260355acd2720451a838d5)
-  - **ios**: [*https://6kb8AC.tosslk.xyz/76dc778f6a260355acd2720451a838d5*](https://6kb8AC.tosslk.xyz/76dc778f6a260355acd2720451a838d5)
+  - **clash**: [*https://cs30Nm.tosslk.xyz/68349453652213ca56796b954abd3c44*](https://cs30Nm.tosslk.xyz/68349453652213ca56796b954abd3c44)
+  - **v2ray**: [*https://cs30Nm.tosslk.xyz/68349453652213ca56796b954abd3c44*](https://cs30Nm.tosslk.xyz/68349453652213ca56796b954abd3c44)
+  - **ios**: [*https://cs30Nm.tosslk.xyz/68349453652213ca56796b954abd3c44*](https://cs30Nm.tosslk.xyz/68349453652213ca56796b954abd3c44)
 - **abshare**
   - **clash**: [*https://0uGaEs.absslk.xyz/eb34d44a42b903866804b116db732d0f*](https://0uGaEs.absslk.xyz/eb34d44a42b903866804b116db732d0f)
   - **v2ray**: [*https://0uGaEs.absslk.xyz/eb34d44a42b903866804b116db732d0f*](https://0uGaEs.absslk.xyz/eb34d44a42b903866804b116db732d0f)
