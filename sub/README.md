@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-21 21:53:02
+> Updated Time: 2025-02-21 21:58:13
 
 - **tolinkshare2**
-  - **clash**: [*https://06mXAW.tosslk.xyz/f225f5fd7231336c92cd3d1e676c49b4*](https://06mXAW.tosslk.xyz/f225f5fd7231336c92cd3d1e676c49b4)
-  - **v2ray**: [*https://06mXAW.tosslk.xyz/f225f5fd7231336c92cd3d1e676c49b4*](https://06mXAW.tosslk.xyz/f225f5fd7231336c92cd3d1e676c49b4)
-  - **ios**: [*https://06mXAW.tosslk.xyz/f225f5fd7231336c92cd3d1e676c49b4*](https://06mXAW.tosslk.xyz/f225f5fd7231336c92cd3d1e676c49b4)
+  - **clash**: [*https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e*](https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e)
+  - **v2ray**: [*https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e*](https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e)
+  - **ios**: [*https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e*](https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e)
 - **abshare**
   - **clash**: [*https://9sPu40.absslk.xyz/542873ae05bf2bb31177fb2440f30f14*](https://9sPu40.absslk.xyz/542873ae05bf2bb31177fb2440f30f14)
   - **v2ray**: [*https://9sPu40.absslk.xyz/542873ae05bf2bb31177fb2440f30f14*](https://9sPu40.absslk.xyz/542873ae05bf2bb31177fb2440f30f14)
