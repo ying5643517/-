@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-21 22:37:15
+> Updated Time: 2025-02-21 22:42:59
 
 - **tolinkshare2**
-  - **clash**: [*https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e*](https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e)
-  - **v2ray**: [*https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e*](https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e)
-  - **ios**: [*https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e*](https://pNcedF.tosslk.xyz/66f136d13ca9df87d9c89045b5a02b3e)
+  - **clash**: [*https://gibw0d.tosslk.xyz/4bd87ae9a0ab45d75c695bff3f3a92b4*](https://gibw0d.tosslk.xyz/4bd87ae9a0ab45d75c695bff3f3a92b4)
+  - **v2ray**: [*https://gibw0d.tosslk.xyz/4bd87ae9a0ab45d75c695bff3f3a92b4*](https://gibw0d.tosslk.xyz/4bd87ae9a0ab45d75c695bff3f3a92b4)
+  - **ios**: [*https://gibw0d.tosslk.xyz/4bd87ae9a0ab45d75c695bff3f3a92b4*](https://gibw0d.tosslk.xyz/4bd87ae9a0ab45d75c695bff3f3a92b4)
 - **abshare**
   - **clash**: [*https://zk7JI3.absslk.xyz/29f67fa2c4088215eb658a5228644b4d*](https://zk7JI3.absslk.xyz/29f67fa2c4088215eb658a5228644b4d)
   - **v2ray**: [*https://zk7JI3.absslk.xyz/29f67fa2c4088215eb658a5228644b4d*](https://zk7JI3.absslk.xyz/29f67fa2c4088215eb658a5228644b4d)
