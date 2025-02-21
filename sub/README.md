@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-21 14:52:59
+> Updated Time: 2025-02-21 15:12:32
 
 - **tolinkshare2**
-  - **clash**: [*https://7At33r.tosslk.xyz/a8a1d32b10ce8023071424945600ee28*](https://7At33r.tosslk.xyz/a8a1d32b10ce8023071424945600ee28)
-  - **v2ray**: [*https://7At33r.tosslk.xyz/a8a1d32b10ce8023071424945600ee28*](https://7At33r.tosslk.xyz/a8a1d32b10ce8023071424945600ee28)
-  - **ios**: [*https://7At33r.tosslk.xyz/a8a1d32b10ce8023071424945600ee28*](https://7At33r.tosslk.xyz/a8a1d32b10ce8023071424945600ee28)
+  - **clash**: [*https://aLuteo.tosslk.xyz/96a6399d7683130dd86d1531eee53eec*](https://aLuteo.tosslk.xyz/96a6399d7683130dd86d1531eee53eec)
+  - **v2ray**: [*https://aLuteo.tosslk.xyz/96a6399d7683130dd86d1531eee53eec*](https://aLuteo.tosslk.xyz/96a6399d7683130dd86d1531eee53eec)
+  - **ios**: [*https://aLuteo.tosslk.xyz/96a6399d7683130dd86d1531eee53eec*](https://aLuteo.tosslk.xyz/96a6399d7683130dd86d1531eee53eec)
 - **abshare**
   - **clash**: [*https://FzTc5R.absslk.xyz/b5171762be822cb77cd23fa1ca13fbb4*](https://FzTc5R.absslk.xyz/b5171762be822cb77cd23fa1ca13fbb4)
   - **v2ray**: [*https://FzTc5R.absslk.xyz/b5171762be822cb77cd23fa1ca13fbb4*](https://FzTc5R.absslk.xyz/b5171762be822cb77cd23fa1ca13fbb4)
