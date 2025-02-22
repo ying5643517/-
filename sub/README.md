@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-22 10:17:16
+> Updated Time: 2025-02-22 10:53:46
 
 - **tolinkshare2**
-  - **clash**: [*https://z8mR0S.tosslk.xyz/c220f5aa1fa795033f227b5e61ce8c67*](https://z8mR0S.tosslk.xyz/c220f5aa1fa795033f227b5e61ce8c67)
-  - **v2ray**: [*https://z8mR0S.tosslk.xyz/c220f5aa1fa795033f227b5e61ce8c67*](https://z8mR0S.tosslk.xyz/c220f5aa1fa795033f227b5e61ce8c67)
-  - **ios**: [*https://z8mR0S.tosslk.xyz/c220f5aa1fa795033f227b5e61ce8c67*](https://z8mR0S.tosslk.xyz/c220f5aa1fa795033f227b5e61ce8c67)
+  - **clash**: [*https://WUblrb.tosslk.xyz/7c4d11890f0b5550b3b136488839ec24*](https://WUblrb.tosslk.xyz/7c4d11890f0b5550b3b136488839ec24)
+  - **v2ray**: [*https://WUblrb.tosslk.xyz/7c4d11890f0b5550b3b136488839ec24*](https://WUblrb.tosslk.xyz/7c4d11890f0b5550b3b136488839ec24)
+  - **ios**: [*https://WUblrb.tosslk.xyz/7c4d11890f0b5550b3b136488839ec24*](https://WUblrb.tosslk.xyz/7c4d11890f0b5550b3b136488839ec24)
 - **abshare**
   - **clash**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
   - **v2ray**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
