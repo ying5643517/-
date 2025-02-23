@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-23 23:37:17
+> Updated Time: 2025-02-23 23:42:20
 
 - **tolinkshare2**
-  - **clash**: [*https://1Hb2x0.tosslk.xyz/5d7595498eb6b79e97ac860f922dc8d4*](https://1Hb2x0.tosslk.xyz/5d7595498eb6b79e97ac860f922dc8d4)
-  - **v2ray**: [*https://1Hb2x0.tosslk.xyz/5d7595498eb6b79e97ac860f922dc8d4*](https://1Hb2x0.tosslk.xyz/5d7595498eb6b79e97ac860f922dc8d4)
-  - **ios**: [*https://1Hb2x0.tosslk.xyz/5d7595498eb6b79e97ac860f922dc8d4*](https://1Hb2x0.tosslk.xyz/5d7595498eb6b79e97ac860f922dc8d4)
+  - **clash**: [*https://SfTMwM.tosslk.xyz/2b786006aae812ad3481cc73abea9a1a*](https://SfTMwM.tosslk.xyz/2b786006aae812ad3481cc73abea9a1a)
+  - **v2ray**: [*https://SfTMwM.tosslk.xyz/2b786006aae812ad3481cc73abea9a1a*](https://SfTMwM.tosslk.xyz/2b786006aae812ad3481cc73abea9a1a)
+  - **ios**: [*https://SfTMwM.tosslk.xyz/2b786006aae812ad3481cc73abea9a1a*](https://SfTMwM.tosslk.xyz/2b786006aae812ad3481cc73abea9a1a)
 - **abshare**
   - **clash**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
   - **v2ray**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
