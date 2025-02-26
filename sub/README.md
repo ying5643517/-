@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-26 18:59:57
+> Updated Time: 2025-02-26 19:14:10
 
 - **tolinkshare2**
-  - **clash**: [*https://QeBZWd.tosslk.xyz/7a13947c76ee99389e8ff3ce61e6e8d3*](https://QeBZWd.tosslk.xyz/7a13947c76ee99389e8ff3ce61e6e8d3)
-  - **v2ray**: [*https://QeBZWd.tosslk.xyz/7a13947c76ee99389e8ff3ce61e6e8d3*](https://QeBZWd.tosslk.xyz/7a13947c76ee99389e8ff3ce61e6e8d3)
-  - **ios**: [*https://QeBZWd.tosslk.xyz/7a13947c76ee99389e8ff3ce61e6e8d3*](https://QeBZWd.tosslk.xyz/7a13947c76ee99389e8ff3ce61e6e8d3)
+  - **clash**: [*https://weJBPO.tosslk.xyz/f2390f05dd1a71eaf87e6f1a98dcd4b4*](https://weJBPO.tosslk.xyz/f2390f05dd1a71eaf87e6f1a98dcd4b4)
+  - **v2ray**: [*https://weJBPO.tosslk.xyz/f2390f05dd1a71eaf87e6f1a98dcd4b4*](https://weJBPO.tosslk.xyz/f2390f05dd1a71eaf87e6f1a98dcd4b4)
+  - **ios**: [*https://weJBPO.tosslk.xyz/f2390f05dd1a71eaf87e6f1a98dcd4b4*](https://weJBPO.tosslk.xyz/f2390f05dd1a71eaf87e6f1a98dcd4b4)
 - **abshare**
   - **clash**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
   - **v2ray**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
