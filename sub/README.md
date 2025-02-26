@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-26 19:36:53
+> Updated Time: 2025-02-26 19:52:26
 
 - **tolinkshare2**
-  - **clash**: [*https://fVLTHI.tosslk.xyz/0b97d9fdc6c7430c4614ef8236c6a5ab*](https://fVLTHI.tosslk.xyz/0b97d9fdc6c7430c4614ef8236c6a5ab)
-  - **v2ray**: [*https://fVLTHI.tosslk.xyz/0b97d9fdc6c7430c4614ef8236c6a5ab*](https://fVLTHI.tosslk.xyz/0b97d9fdc6c7430c4614ef8236c6a5ab)
-  - **ios**: [*https://fVLTHI.tosslk.xyz/0b97d9fdc6c7430c4614ef8236c6a5ab*](https://fVLTHI.tosslk.xyz/0b97d9fdc6c7430c4614ef8236c6a5ab)
+  - **clash**: [*https://WIbvFO.tosslk.xyz/f6b0d91b3469b0327b0e56f7fbdc91e7*](https://WIbvFO.tosslk.xyz/f6b0d91b3469b0327b0e56f7fbdc91e7)
+  - **v2ray**: [*https://WIbvFO.tosslk.xyz/f6b0d91b3469b0327b0e56f7fbdc91e7*](https://WIbvFO.tosslk.xyz/f6b0d91b3469b0327b0e56f7fbdc91e7)
+  - **ios**: [*https://WIbvFO.tosslk.xyz/f6b0d91b3469b0327b0e56f7fbdc91e7*](https://WIbvFO.tosslk.xyz/f6b0d91b3469b0327b0e56f7fbdc91e7)
 - **abshare**
   - **clash**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
   - **v2ray**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
