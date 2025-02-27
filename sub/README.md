@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-27 07:50:30
+> Updated Time: 2025-02-27 08:38:53
 
 - **tolinkshare2**
-  - **clash**: [*https://Mjvh6C.tosslk.xyz/dae8a81cc259efe9bfe2b26a2b024ce3*](https://Mjvh6C.tosslk.xyz/dae8a81cc259efe9bfe2b26a2b024ce3)
-  - **v2ray**: [*https://Mjvh6C.tosslk.xyz/dae8a81cc259efe9bfe2b26a2b024ce3*](https://Mjvh6C.tosslk.xyz/dae8a81cc259efe9bfe2b26a2b024ce3)
-  - **ios**: [*https://Mjvh6C.tosslk.xyz/dae8a81cc259efe9bfe2b26a2b024ce3*](https://Mjvh6C.tosslk.xyz/dae8a81cc259efe9bfe2b26a2b024ce3)
+  - **clash**: [*https://IXwg4s.tosslk.xyz/6542c40cdab7977f08c2fd9f5854fcb8*](https://IXwg4s.tosslk.xyz/6542c40cdab7977f08c2fd9f5854fcb8)
+  - **v2ray**: [*https://IXwg4s.tosslk.xyz/6542c40cdab7977f08c2fd9f5854fcb8*](https://IXwg4s.tosslk.xyz/6542c40cdab7977f08c2fd9f5854fcb8)
+  - **ios**: [*https://IXwg4s.tosslk.xyz/6542c40cdab7977f08c2fd9f5854fcb8*](https://IXwg4s.tosslk.xyz/6542c40cdab7977f08c2fd9f5854fcb8)
 - **abshare**
   - **clash**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
   - **v2ray**: [*https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366*](https://dIDlSV.absslk.xyz/1553b538b7eb19ef12cef68b00a21366)
