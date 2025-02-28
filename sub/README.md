@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-01 06:14:43
+> Updated Time: 2025-03-01 07:07:27
 
 - **tolinkshare2**
   - **clash**: [*https://g9fnZu.tosslk.xyz/b83130ed701ca483c9e5d1b258aef21d*](https://g9fnZu.tosslk.xyz/b83130ed701ca483c9e5d1b258aef21d)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://7cVs0v.mcsslk.xyz/c70a6632511c693fb4239ec0051d565c*](https://7cVs0v.mcsslk.xyz/c70a6632511c693fb4239ec0051d565c)
   - **ios**: [*https://7cVs0v.mcsslk.xyz/c70a6632511c693fb4239ec0051d565c*](https://7cVs0v.mcsslk.xyz/c70a6632511c693fb4239ec0051d565c)
 - **toshare5**
-  - **clash**: [*https://mRU3uk.tosslk.xyz/cfe183381e04c193a5318e061e582333*](https://mRU3uk.tosslk.xyz/cfe183381e04c193a5318e061e582333)
-  - **v2ray**: [*https://mRU3uk.tosslk.xyz/cfe183381e04c193a5318e061e582333*](https://mRU3uk.tosslk.xyz/cfe183381e04c193a5318e061e582333)
-  - **ios**: [*https://mRU3uk.tosslk.xyz/cfe183381e04c193a5318e061e582333*](https://mRU3uk.tosslk.xyz/cfe183381e04c193a5318e061e582333)
+  - **clash**: [*https://YInwcc.tosslk.xyz/b52836d7124a01aa43a77c6e3076f22e*](https://YInwcc.tosslk.xyz/b52836d7124a01aa43a77c6e3076f22e)
+  - **v2ray**: [*https://YInwcc.tosslk.xyz/b52836d7124a01aa43a77c6e3076f22e*](https://YInwcc.tosslk.xyz/b52836d7124a01aa43a77c6e3076f22e)
+  - **ios**: [*https://YInwcc.tosslk.xyz/b52836d7124a01aa43a77c6e3076f22e*](https://YInwcc.tosslk.xyz/b52836d7124a01aa43a77c6e3076f22e)
 - **abshare3**
   - **clash**: [*https://VgPhza.absslk.xyz/f21d9df36b8b23895bc6d0cf48d67755*](https://VgPhza.absslk.xyz/f21d9df36b8b23895bc6d0cf48d67755)
   - **v2ray**: [*https://VgPhza.absslk.xyz/f21d9df36b8b23895bc6d0cf48d67755*](https://VgPhza.absslk.xyz/f21d9df36b8b23895bc6d0cf48d67755)
