@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-28 15:31:57
+> Updated Time: 2025-02-28 15:37:51
 
 - **tolinkshare2**
-  - **clash**: [*https://1pjJ6b.tosslk.xyz/53861d2a52bc146929899054b9376e4b*](https://1pjJ6b.tosslk.xyz/53861d2a52bc146929899054b9376e4b)
-  - **v2ray**: [*https://1pjJ6b.tosslk.xyz/53861d2a52bc146929899054b9376e4b*](https://1pjJ6b.tosslk.xyz/53861d2a52bc146929899054b9376e4b)
-  - **ios**: [*https://1pjJ6b.tosslk.xyz/53861d2a52bc146929899054b9376e4b*](https://1pjJ6b.tosslk.xyz/53861d2a52bc146929899054b9376e4b)
+  - **clash**: [*https://LhIUHm.tosslk.xyz/731ccb7aa47535ff5d1e1ebbc4a79a45*](https://LhIUHm.tosslk.xyz/731ccb7aa47535ff5d1e1ebbc4a79a45)
+  - **v2ray**: [*https://LhIUHm.tosslk.xyz/731ccb7aa47535ff5d1e1ebbc4a79a45*](https://LhIUHm.tosslk.xyz/731ccb7aa47535ff5d1e1ebbc4a79a45)
+  - **ios**: [*https://LhIUHm.tosslk.xyz/731ccb7aa47535ff5d1e1ebbc4a79a45*](https://LhIUHm.tosslk.xyz/731ccb7aa47535ff5d1e1ebbc4a79a45)
 - **abshare**
   - **clash**: [*https://N8XmT0.absslk.xyz/4711911ac0f77c87a3ef0095b2a1a7d3*](https://N8XmT0.absslk.xyz/4711911ac0f77c87a3ef0095b2a1a7d3)
   - **v2ray**: [*https://N8XmT0.absslk.xyz/4711911ac0f77c87a3ef0095b2a1a7d3*](https://N8XmT0.absslk.xyz/4711911ac0f77c87a3ef0095b2a1a7d3)
