@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-02-28 17:53:18
+> Updated Time: 2025-02-28 18:14:16
 
 - **tolinkshare2**
   - **clash**: [*https://5Mxhgt.tosslk.xyz/81f869cd24a3801b257115712371f4ef*](https://5Mxhgt.tosslk.xyz/81f869cd24a3801b257115712371f4ef)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://lNwSv8.absslk.xyz/c2fd220036319bcf5036475d71a063a1*](https://lNwSv8.absslk.xyz/c2fd220036319bcf5036475d71a063a1)
   - **ios**: [*https://lNwSv8.absslk.xyz/c2fd220036319bcf5036475d71a063a1*](https://lNwSv8.absslk.xyz/c2fd220036319bcf5036475d71a063a1)
 - **mksshare**
-  - **clash**: [*https://TTumvi.mcsslk.xyz/61d1c6d204a6f32f9729a255899f89a7*](https://TTumvi.mcsslk.xyz/61d1c6d204a6f32f9729a255899f89a7)
-  - **v2ray**: [*https://TTumvi.mcsslk.xyz/61d1c6d204a6f32f9729a255899f89a7*](https://TTumvi.mcsslk.xyz/61d1c6d204a6f32f9729a255899f89a7)
-  - **ios**: [*https://TTumvi.mcsslk.xyz/61d1c6d204a6f32f9729a255899f89a7*](https://TTumvi.mcsslk.xyz/61d1c6d204a6f32f9729a255899f89a7)
+  - **clash**: [*https://rJwWjR.mcsslk.xyz/197247ca71c9405544cee04f1abdbf21*](https://rJwWjR.mcsslk.xyz/197247ca71c9405544cee04f1abdbf21)
+  - **v2ray**: [*https://rJwWjR.mcsslk.xyz/197247ca71c9405544cee04f1abdbf21*](https://rJwWjR.mcsslk.xyz/197247ca71c9405544cee04f1abdbf21)
+  - **ios**: [*https://rJwWjR.mcsslk.xyz/197247ca71c9405544cee04f1abdbf21*](https://rJwWjR.mcsslk.xyz/197247ca71c9405544cee04f1abdbf21)
 - **mkshare3**
   - **clash**: [*https://6FI3eH.mcsslk.xyz/9fe11821146574b385ee2e599ae77eb8*](https://6FI3eH.mcsslk.xyz/9fe11821146574b385ee2e599ae77eb8)
   - **v2ray**: [*https://6FI3eH.mcsslk.xyz/9fe11821146574b385ee2e599ae77eb8*](https://6FI3eH.mcsslk.xyz/9fe11821146574b385ee2e599ae77eb8)
