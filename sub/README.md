@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-01 23:10:58
+> Updated Time: 2025-03-01 23:27:15
 
 - **tolinkshare2**
-  - **clash**: [*https://FqYfNE.tosslk.xyz/8230cbad19412f84ec284c98812c78ee*](https://FqYfNE.tosslk.xyz/8230cbad19412f84ec284c98812c78ee)
-  - **v2ray**: [*https://FqYfNE.tosslk.xyz/8230cbad19412f84ec284c98812c78ee*](https://FqYfNE.tosslk.xyz/8230cbad19412f84ec284c98812c78ee)
-  - **ios**: [*https://FqYfNE.tosslk.xyz/8230cbad19412f84ec284c98812c78ee*](https://FqYfNE.tosslk.xyz/8230cbad19412f84ec284c98812c78ee)
+  - **clash**: [*https://TfWHJv.tosslk.xyz/361577292fde0545c5ae95713153f629*](https://TfWHJv.tosslk.xyz/361577292fde0545c5ae95713153f629)
+  - **v2ray**: [*https://TfWHJv.tosslk.xyz/361577292fde0545c5ae95713153f629*](https://TfWHJv.tosslk.xyz/361577292fde0545c5ae95713153f629)
+  - **ios**: [*https://TfWHJv.tosslk.xyz/361577292fde0545c5ae95713153f629*](https://TfWHJv.tosslk.xyz/361577292fde0545c5ae95713153f629)
 - **abshare**
-  - **clash**: [*https://JTGNhQ.absslk.xyz/5999d40ffab5e12abe6e483a157377b5*](https://JTGNhQ.absslk.xyz/5999d40ffab5e12abe6e483a157377b5)
-  - **v2ray**: [*https://JTGNhQ.absslk.xyz/5999d40ffab5e12abe6e483a157377b5*](https://JTGNhQ.absslk.xyz/5999d40ffab5e12abe6e483a157377b5)
-  - **ios**: [*https://JTGNhQ.absslk.xyz/5999d40ffab5e12abe6e483a157377b5*](https://JTGNhQ.absslk.xyz/5999d40ffab5e12abe6e483a157377b5)
+  - **clash**: [*https://j58hHn.absslk.xyz/6e9d9eb2b8415027c97878a25deb49da*](https://j58hHn.absslk.xyz/6e9d9eb2b8415027c97878a25deb49da)
+  - **v2ray**: [*https://j58hHn.absslk.xyz/6e9d9eb2b8415027c97878a25deb49da*](https://j58hHn.absslk.xyz/6e9d9eb2b8415027c97878a25deb49da)
+  - **ios**: [*https://j58hHn.absslk.xyz/6e9d9eb2b8415027c97878a25deb49da*](https://j58hHn.absslk.xyz/6e9d9eb2b8415027c97878a25deb49da)
 - **mksshare**
   - **clash**: [*https://Tob4Jz.mcsslk.xyz/a88e210491918960263b217519951a65*](https://Tob4Jz.mcsslk.xyz/a88e210491918960263b217519951a65)
   - **v2ray**: [*https://Tob4Jz.mcsslk.xyz/a88e210491918960263b217519951a65*](https://Tob4Jz.mcsslk.xyz/a88e210491918960263b217519951a65)
