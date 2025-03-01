@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-01 17:25:17
+> Updated Time: 2025-03-01 17:31:49
 
 - **tolinkshare2**
-  - **clash**: [*https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6*](https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6)
-  - **v2ray**: [*https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6*](https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6)
-  - **ios**: [*https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6*](https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6)
+  - **clash**: [*https://5CONyR.tosslk.xyz/adbb929b5a478de7857dd198f1a33206*](https://5CONyR.tosslk.xyz/adbb929b5a478de7857dd198f1a33206)
+  - **v2ray**: [*https://5CONyR.tosslk.xyz/adbb929b5a478de7857dd198f1a33206*](https://5CONyR.tosslk.xyz/adbb929b5a478de7857dd198f1a33206)
+  - **ios**: [*https://5CONyR.tosslk.xyz/adbb929b5a478de7857dd198f1a33206*](https://5CONyR.tosslk.xyz/adbb929b5a478de7857dd198f1a33206)
 - **abshare**
   - **clash**: [*https://MEaTIi.absslk.xyz/97f7ae2a14339e7b841489fc348148b8*](https://MEaTIi.absslk.xyz/97f7ae2a14339e7b841489fc348148b8)
   - **v2ray**: [*https://MEaTIi.absslk.xyz/97f7ae2a14339e7b841489fc348148b8*](https://MEaTIi.absslk.xyz/97f7ae2a14339e7b841489fc348148b8)
