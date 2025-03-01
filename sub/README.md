@@ -21,20 +21,20 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-01 16:10:33
+> Updated Time: 2025-03-01 16:30:15
 
 - **tolinkshare2**
-  - **clash**: [*https://mxbtsO.tosslk.xyz/54666715fe174e1b3ad176ed7a7ba39c*](https://mxbtsO.tosslk.xyz/54666715fe174e1b3ad176ed7a7ba39c)
-  - **v2ray**: [*https://mxbtsO.tosslk.xyz/54666715fe174e1b3ad176ed7a7ba39c*](https://mxbtsO.tosslk.xyz/54666715fe174e1b3ad176ed7a7ba39c)
-  - **ios**: [*https://mxbtsO.tosslk.xyz/54666715fe174e1b3ad176ed7a7ba39c*](https://mxbtsO.tosslk.xyz/54666715fe174e1b3ad176ed7a7ba39c)
+  - **clash**: [*https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6*](https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6)
+  - **v2ray**: [*https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6*](https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6)
+  - **ios**: [*https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6*](https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6)
 - **abshare**
   - **clash**: [*https://bJlQ62.absslk.xyz/095bdb35e25b7c5a02b6192fa70c839b*](https://bJlQ62.absslk.xyz/095bdb35e25b7c5a02b6192fa70c839b)
   - **v2ray**: [*https://bJlQ62.absslk.xyz/095bdb35e25b7c5a02b6192fa70c839b*](https://bJlQ62.absslk.xyz/095bdb35e25b7c5a02b6192fa70c839b)
   - **ios**: [*https://bJlQ62.absslk.xyz/095bdb35e25b7c5a02b6192fa70c839b*](https://bJlQ62.absslk.xyz/095bdb35e25b7c5a02b6192fa70c839b)
 - **mksshare**
-  - **clash**: [*https://FIgiBw.mcsslk.xyz/b77c237cf5a580796910a01595d58ed3*](https://FIgiBw.mcsslk.xyz/b77c237cf5a580796910a01595d58ed3)
-  - **v2ray**: [*https://FIgiBw.mcsslk.xyz/b77c237cf5a580796910a01595d58ed3*](https://FIgiBw.mcsslk.xyz/b77c237cf5a580796910a01595d58ed3)
-  - **ios**: [*https://FIgiBw.mcsslk.xyz/b77c237cf5a580796910a01595d58ed3*](https://FIgiBw.mcsslk.xyz/b77c237cf5a580796910a01595d58ed3)
+  - **clash**: [*https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249*](https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249)
+  - **v2ray**: [*https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249*](https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249)
+  - **ios**: [*https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249*](https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249)
 - **mkshare3**
   - **clash**: [*https://fm2yWK.mcsslk.xyz/05fea44d8eb4b369ee48b0bc94d51d71*](https://fm2yWK.mcsslk.xyz/05fea44d8eb4b369ee48b0bc94d51d71)
   - **v2ray**: [*https://fm2yWK.mcsslk.xyz/05fea44d8eb4b369ee48b0bc94d51d71*](https://fm2yWK.mcsslk.xyz/05fea44d8eb4b369ee48b0bc94d51d71)
