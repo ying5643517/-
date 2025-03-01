@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-01 16:40:44
+> Updated Time: 2025-03-01 16:52:21
 
 - **tolinkshare2**
   - **clash**: [*https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6*](https://PcVu43.tosslk.xyz/fa9d52da0f6b2f4ce33e8a031faf5ce6)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://scpzYb.absslk.xyz/c581cecfcdcc4e899a6d16cf35739428*](https://scpzYb.absslk.xyz/c581cecfcdcc4e899a6d16cf35739428)
   - **ios**: [*https://scpzYb.absslk.xyz/c581cecfcdcc4e899a6d16cf35739428*](https://scpzYb.absslk.xyz/c581cecfcdcc4e899a6d16cf35739428)
 - **mksshare**
-  - **clash**: [*https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249*](https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249)
-  - **v2ray**: [*https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249*](https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249)
-  - **ios**: [*https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249*](https://NYXGEr.mcsslk.xyz/39c3005759c3b09ba8072a96a6da6249)
+  - **clash**: [*https://Q2n5LA.mcsslk.xyz/2b942fcb79a9165f2d7dcc3376a3c680*](https://Q2n5LA.mcsslk.xyz/2b942fcb79a9165f2d7dcc3376a3c680)
+  - **v2ray**: [*https://Q2n5LA.mcsslk.xyz/2b942fcb79a9165f2d7dcc3376a3c680*](https://Q2n5LA.mcsslk.xyz/2b942fcb79a9165f2d7dcc3376a3c680)
+  - **ios**: [*https://Q2n5LA.mcsslk.xyz/2b942fcb79a9165f2d7dcc3376a3c680*](https://Q2n5LA.mcsslk.xyz/2b942fcb79a9165f2d7dcc3376a3c680)
 - **mkshare3**
   - **clash**: [*https://fm2yWK.mcsslk.xyz/05fea44d8eb4b369ee48b0bc94d51d71*](https://fm2yWK.mcsslk.xyz/05fea44d8eb4b369ee48b0bc94d51d71)
   - **v2ray**: [*https://fm2yWK.mcsslk.xyz/05fea44d8eb4b369ee48b0bc94d51d71*](https://fm2yWK.mcsslk.xyz/05fea44d8eb4b369ee48b0bc94d51d71)
