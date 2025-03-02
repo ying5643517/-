@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-02 22:41:04
+> Updated Time: 2025-03-02 23:09:10
 
 - **tolinkshare2**
   - **clash**: [*https://qI7HVA.tosslk.xyz/be89274c4cc05dae12814464de291921*](https://qI7HVA.tosslk.xyz/be89274c4cc05dae12814464de291921)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://0s8vqI.tosslk.xyz/b3ec54c89bc00a050d2e8ab8aad85e90*](https://0s8vqI.tosslk.xyz/b3ec54c89bc00a050d2e8ab8aad85e90)
   - **ios**: [*https://0s8vqI.tosslk.xyz/b3ec54c89bc00a050d2e8ab8aad85e90*](https://0s8vqI.tosslk.xyz/b3ec54c89bc00a050d2e8ab8aad85e90)
 - **abshare3**
-  - **clash**: [*https://Bq3Pef.absslk.xyz/93e7527a68faecf875884ab8a81bf273*](https://Bq3Pef.absslk.xyz/93e7527a68faecf875884ab8a81bf273)
-  - **v2ray**: [*https://Bq3Pef.absslk.xyz/93e7527a68faecf875884ab8a81bf273*](https://Bq3Pef.absslk.xyz/93e7527a68faecf875884ab8a81bf273)
-  - **ios**: [*https://Bq3Pef.absslk.xyz/93e7527a68faecf875884ab8a81bf273*](https://Bq3Pef.absslk.xyz/93e7527a68faecf875884ab8a81bf273)
+  - **clash**: [*https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10*](https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10)
+  - **v2ray**: [*https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10*](https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10)
+  - **ios**: [*https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10*](https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10)
