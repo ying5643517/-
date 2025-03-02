@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-02 16:55:32
+> Updated Time: 2025-03-02 17:07:03
 
 - **tolinkshare2**
-  - **clash**: [*https://yWJTwv.tosslk.xyz/b7d2348992c8ad3fc1e5d5edcc450b5d*](https://yWJTwv.tosslk.xyz/b7d2348992c8ad3fc1e5d5edcc450b5d)
-  - **v2ray**: [*https://yWJTwv.tosslk.xyz/b7d2348992c8ad3fc1e5d5edcc450b5d*](https://yWJTwv.tosslk.xyz/b7d2348992c8ad3fc1e5d5edcc450b5d)
-  - **ios**: [*https://yWJTwv.tosslk.xyz/b7d2348992c8ad3fc1e5d5edcc450b5d*](https://yWJTwv.tosslk.xyz/b7d2348992c8ad3fc1e5d5edcc450b5d)
+  - **clash**: [*https://KeU2Jk.tosslk.xyz/78547dba24dc920bd70de97a4c18afd7*](https://KeU2Jk.tosslk.xyz/78547dba24dc920bd70de97a4c18afd7)
+  - **v2ray**: [*https://KeU2Jk.tosslk.xyz/78547dba24dc920bd70de97a4c18afd7*](https://KeU2Jk.tosslk.xyz/78547dba24dc920bd70de97a4c18afd7)
+  - **ios**: [*https://KeU2Jk.tosslk.xyz/78547dba24dc920bd70de97a4c18afd7*](https://KeU2Jk.tosslk.xyz/78547dba24dc920bd70de97a4c18afd7)
 - **abshare**
   - **clash**: [*https://4wUWDw.absslk.xyz/ad28e2927ebd4dd78e12e290bc190a38*](https://4wUWDw.absslk.xyz/ad28e2927ebd4dd78e12e290bc190a38)
   - **v2ray**: [*https://4wUWDw.absslk.xyz/ad28e2927ebd4dd78e12e290bc190a38*](https://4wUWDw.absslk.xyz/ad28e2927ebd4dd78e12e290bc190a38)
