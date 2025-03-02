@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-03 00:53:57
+> Updated Time: 2025-03-03 00:59:03
 
 - **tolinkshare2**
   - **clash**: [*https://RCWlET.tosslk.xyz/3825451e4b6560be7704b3ec25bbb9ae*](https://RCWlET.tosslk.xyz/3825451e4b6560be7704b3ec25bbb9ae)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://0s8vqI.tosslk.xyz/b3ec54c89bc00a050d2e8ab8aad85e90*](https://0s8vqI.tosslk.xyz/b3ec54c89bc00a050d2e8ab8aad85e90)
   - **ios**: [*https://0s8vqI.tosslk.xyz/b3ec54c89bc00a050d2e8ab8aad85e90*](https://0s8vqI.tosslk.xyz/b3ec54c89bc00a050d2e8ab8aad85e90)
 - **abshare3**
-  - **clash**: [*https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10*](https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10)
-  - **v2ray**: [*https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10*](https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10)
-  - **ios**: [*https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10*](https://xUEF3m.absslk.xyz/849c982e1b1aed166ba5853c3318dc10)
+  - **clash**: [*https://tM67Lz.absslk.xyz/0b071a761783758a51ff5ce589c8c970*](https://tM67Lz.absslk.xyz/0b071a761783758a51ff5ce589c8c970)
+  - **v2ray**: [*https://tM67Lz.absslk.xyz/0b071a761783758a51ff5ce589c8c970*](https://tM67Lz.absslk.xyz/0b071a761783758a51ff5ce589c8c970)
+  - **ios**: [*https://tM67Lz.absslk.xyz/0b071a761783758a51ff5ce589c8c970*](https://tM67Lz.absslk.xyz/0b071a761783758a51ff5ce589c8c970)
