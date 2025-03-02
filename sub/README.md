@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-03 02:39:20
+> Updated Time: 2025-03-03 02:47:09
 
 - **tolinkshare2**
   - **clash**: [*https://nYIlza.tosslk.xyz/31b03ff93c3415591fdc60fabb9d9f58*](https://nYIlza.tosslk.xyz/31b03ff93c3415591fdc60fabb9d9f58)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://pHfxlb.absslk.xyz/2f69c540231a1a372e0ed48d6105ded1*](https://pHfxlb.absslk.xyz/2f69c540231a1a372e0ed48d6105ded1)
   - **ios**: [*https://pHfxlb.absslk.xyz/2f69c540231a1a372e0ed48d6105ded1*](https://pHfxlb.absslk.xyz/2f69c540231a1a372e0ed48d6105ded1)
 - **mksshare**
-  - **clash**: [*https://YvmSpj.mcsslk.xyz/a2771ca6d92ec0220fa61c0a7fe133ff*](https://YvmSpj.mcsslk.xyz/a2771ca6d92ec0220fa61c0a7fe133ff)
-  - **v2ray**: [*https://YvmSpj.mcsslk.xyz/a2771ca6d92ec0220fa61c0a7fe133ff*](https://YvmSpj.mcsslk.xyz/a2771ca6d92ec0220fa61c0a7fe133ff)
-  - **ios**: [*https://YvmSpj.mcsslk.xyz/a2771ca6d92ec0220fa61c0a7fe133ff*](https://YvmSpj.mcsslk.xyz/a2771ca6d92ec0220fa61c0a7fe133ff)
+  - **clash**: [*https://eVoip7.mcsslk.xyz/46460fccf2fc2845362118ef78c4b63f*](https://eVoip7.mcsslk.xyz/46460fccf2fc2845362118ef78c4b63f)
+  - **v2ray**: [*https://eVoip7.mcsslk.xyz/46460fccf2fc2845362118ef78c4b63f*](https://eVoip7.mcsslk.xyz/46460fccf2fc2845362118ef78c4b63f)
+  - **ios**: [*https://eVoip7.mcsslk.xyz/46460fccf2fc2845362118ef78c4b63f*](https://eVoip7.mcsslk.xyz/46460fccf2fc2845362118ef78c4b63f)
 - **mkshare3**
   - **clash**: [*https://07v2pG.mcsslk.xyz/8357cbe93d6edf797ea8cfdd31c99ae6*](https://07v2pG.mcsslk.xyz/8357cbe93d6edf797ea8cfdd31c99ae6)
   - **v2ray**: [*https://07v2pG.mcsslk.xyz/8357cbe93d6edf797ea8cfdd31c99ae6*](https://07v2pG.mcsslk.xyz/8357cbe93d6edf797ea8cfdd31c99ae6)
