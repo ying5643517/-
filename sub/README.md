@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-03 05:32:10
+> Updated Time: 2025-03-03 06:29:31
 
 - **tolinkshare2**
-  - **clash**: [*https://mJRVqB.tosslk.xyz/7745c39b2220b03e7adc2d0c812d0d8c*](https://mJRVqB.tosslk.xyz/7745c39b2220b03e7adc2d0c812d0d8c)
-  - **v2ray**: [*https://mJRVqB.tosslk.xyz/7745c39b2220b03e7adc2d0c812d0d8c*](https://mJRVqB.tosslk.xyz/7745c39b2220b03e7adc2d0c812d0d8c)
-  - **ios**: [*https://mJRVqB.tosslk.xyz/7745c39b2220b03e7adc2d0c812d0d8c*](https://mJRVqB.tosslk.xyz/7745c39b2220b03e7adc2d0c812d0d8c)
+  - **clash**: [*https://dUUjsA.tosslk.xyz/a2be55a1720ec90acec261fe64dd8a07*](https://dUUjsA.tosslk.xyz/a2be55a1720ec90acec261fe64dd8a07)
+  - **v2ray**: [*https://dUUjsA.tosslk.xyz/a2be55a1720ec90acec261fe64dd8a07*](https://dUUjsA.tosslk.xyz/a2be55a1720ec90acec261fe64dd8a07)
+  - **ios**: [*https://dUUjsA.tosslk.xyz/a2be55a1720ec90acec261fe64dd8a07*](https://dUUjsA.tosslk.xyz/a2be55a1720ec90acec261fe64dd8a07)
 - **abshare**
   - **clash**: [*https://3K38AF.absslk.xyz/750c6f3b85a89b900c3112551fa5183e*](https://3K38AF.absslk.xyz/750c6f3b85a89b900c3112551fa5183e)
   - **v2ray**: [*https://3K38AF.absslk.xyz/750c6f3b85a89b900c3112551fa5183e*](https://3K38AF.absslk.xyz/750c6f3b85a89b900c3112551fa5183e)
