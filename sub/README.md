@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-02 22:10:17
+> Updated Time: 2025-03-02 22:27:04
 
 - **tolinkshare2**
-  - **clash**: [*https://CpePh1.tosslk.xyz/9bd35b39bbde7835d81fb79b0921a024*](https://CpePh1.tosslk.xyz/9bd35b39bbde7835d81fb79b0921a024)
-  - **v2ray**: [*https://CpePh1.tosslk.xyz/9bd35b39bbde7835d81fb79b0921a024*](https://CpePh1.tosslk.xyz/9bd35b39bbde7835d81fb79b0921a024)
-  - **ios**: [*https://CpePh1.tosslk.xyz/9bd35b39bbde7835d81fb79b0921a024*](https://CpePh1.tosslk.xyz/9bd35b39bbde7835d81fb79b0921a024)
+  - **clash**: [*https://qI7HVA.tosslk.xyz/be89274c4cc05dae12814464de291921*](https://qI7HVA.tosslk.xyz/be89274c4cc05dae12814464de291921)
+  - **v2ray**: [*https://qI7HVA.tosslk.xyz/be89274c4cc05dae12814464de291921*](https://qI7HVA.tosslk.xyz/be89274c4cc05dae12814464de291921)
+  - **ios**: [*https://qI7HVA.tosslk.xyz/be89274c4cc05dae12814464de291921*](https://qI7HVA.tosslk.xyz/be89274c4cc05dae12814464de291921)
 - **abshare**
-  - **clash**: [*https://pS3BtR.absslk.xyz/750070020ce4f05265fb1b5b6875334e*](https://pS3BtR.absslk.xyz/750070020ce4f05265fb1b5b6875334e)
-  - **v2ray**: [*https://pS3BtR.absslk.xyz/750070020ce4f05265fb1b5b6875334e*](https://pS3BtR.absslk.xyz/750070020ce4f05265fb1b5b6875334e)
-  - **ios**: [*https://pS3BtR.absslk.xyz/750070020ce4f05265fb1b5b6875334e*](https://pS3BtR.absslk.xyz/750070020ce4f05265fb1b5b6875334e)
+  - **clash**: [*https://HdQh8E.absslk.xyz/39fc32cfafdd69b012de2337e24f27cf*](https://HdQh8E.absslk.xyz/39fc32cfafdd69b012de2337e24f27cf)
+  - **v2ray**: [*https://HdQh8E.absslk.xyz/39fc32cfafdd69b012de2337e24f27cf*](https://HdQh8E.absslk.xyz/39fc32cfafdd69b012de2337e24f27cf)
+  - **ios**: [*https://HdQh8E.absslk.xyz/39fc32cfafdd69b012de2337e24f27cf*](https://HdQh8E.absslk.xyz/39fc32cfafdd69b012de2337e24f27cf)
 - **mksshare**
   - **clash**: [*https://q52h4j.mcsslk.xyz/81c201de7e86e548be5f8f3ab97000cb*](https://q52h4j.mcsslk.xyz/81c201de7e86e548be5f8f3ab97000cb)
   - **v2ray**: [*https://q52h4j.mcsslk.xyz/81c201de7e86e548be5f8f3ab97000cb*](https://q52h4j.mcsslk.xyz/81c201de7e86e548be5f8f3ab97000cb)
