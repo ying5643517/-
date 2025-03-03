@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-03 18:34:19
+> Updated Time: 2025-03-03 18:50:08
 
 - **tolinkshare2**
   - **clash**: [*https://A37AI1.tosslk.xyz/24c80bf4d7a902cce95efb7678aaef4c*](https://A37AI1.tosslk.xyz/24c80bf4d7a902cce95efb7678aaef4c)
   - **v2ray**: [*https://A37AI1.tosslk.xyz/24c80bf4d7a902cce95efb7678aaef4c*](https://A37AI1.tosslk.xyz/24c80bf4d7a902cce95efb7678aaef4c)
   - **ios**: [*https://A37AI1.tosslk.xyz/24c80bf4d7a902cce95efb7678aaef4c*](https://A37AI1.tosslk.xyz/24c80bf4d7a902cce95efb7678aaef4c)
 - **abshare**
-  - **clash**: [*https://NYGpHY.absslk.xyz/400dcb0ff3d72e9d242c81fe282ef0aa*](https://NYGpHY.absslk.xyz/400dcb0ff3d72e9d242c81fe282ef0aa)
-  - **v2ray**: [*https://NYGpHY.absslk.xyz/400dcb0ff3d72e9d242c81fe282ef0aa*](https://NYGpHY.absslk.xyz/400dcb0ff3d72e9d242c81fe282ef0aa)
-  - **ios**: [*https://NYGpHY.absslk.xyz/400dcb0ff3d72e9d242c81fe282ef0aa*](https://NYGpHY.absslk.xyz/400dcb0ff3d72e9d242c81fe282ef0aa)
+  - **clash**: [*https://nWi7Yg.absslk.xyz/7b373810e179a97347a480509e453f18*](https://nWi7Yg.absslk.xyz/7b373810e179a97347a480509e453f18)
+  - **v2ray**: [*https://nWi7Yg.absslk.xyz/7b373810e179a97347a480509e453f18*](https://nWi7Yg.absslk.xyz/7b373810e179a97347a480509e453f18)
+  - **ios**: [*https://nWi7Yg.absslk.xyz/7b373810e179a97347a480509e453f18*](https://nWi7Yg.absslk.xyz/7b373810e179a97347a480509e453f18)
 - **mksshare**
   - **clash**: [*https://Ll8XVL.mcsslk.xyz/fdf006768c2cca82f5a7eefdc3474a6c*](https://Ll8XVL.mcsslk.xyz/fdf006768c2cca82f5a7eefdc3474a6c)
   - **v2ray**: [*https://Ll8XVL.mcsslk.xyz/fdf006768c2cca82f5a7eefdc3474a6c*](https://Ll8XVL.mcsslk.xyz/fdf006768c2cca82f5a7eefdc3474a6c)
