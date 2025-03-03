@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-04 01:43:36
+> Updated Time: 2025-03-04 01:48:55
 
 - **tolinkshare2**
-  - **clash**: [*https://GDQP8k.tosslk.xyz/3f43f71824f85fdc9cfbc4c42a903ec3*](https://GDQP8k.tosslk.xyz/3f43f71824f85fdc9cfbc4c42a903ec3)
-  - **v2ray**: [*https://GDQP8k.tosslk.xyz/3f43f71824f85fdc9cfbc4c42a903ec3*](https://GDQP8k.tosslk.xyz/3f43f71824f85fdc9cfbc4c42a903ec3)
-  - **ios**: [*https://GDQP8k.tosslk.xyz/3f43f71824f85fdc9cfbc4c42a903ec3*](https://GDQP8k.tosslk.xyz/3f43f71824f85fdc9cfbc4c42a903ec3)
+  - **clash**: [*https://mejKdj.tosslk.xyz/037a70ff01e5a351179cea5c72d3e93a*](https://mejKdj.tosslk.xyz/037a70ff01e5a351179cea5c72d3e93a)
+  - **v2ray**: [*https://mejKdj.tosslk.xyz/037a70ff01e5a351179cea5c72d3e93a*](https://mejKdj.tosslk.xyz/037a70ff01e5a351179cea5c72d3e93a)
+  - **ios**: [*https://mejKdj.tosslk.xyz/037a70ff01e5a351179cea5c72d3e93a*](https://mejKdj.tosslk.xyz/037a70ff01e5a351179cea5c72d3e93a)
 - **abshare**
   - **clash**: [*https://f5rtJv.absslk.xyz/2f0a904d4f014bb92cc49764ca2b0a5b*](https://f5rtJv.absslk.xyz/2f0a904d4f014bb92cc49764ca2b0a5b)
   - **v2ray**: [*https://f5rtJv.absslk.xyz/2f0a904d4f014bb92cc49764ca2b0a5b*](https://f5rtJv.absslk.xyz/2f0a904d4f014bb92cc49764ca2b0a5b)
