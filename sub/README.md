@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-04 17:38:43
+> Updated Time: 2025-03-04 17:49:09
 
 - **tolinkshare2**
   - **clash**: [*https://g4m0fV.tosslk.xyz/1d8df5c5aab2524a3eb10192611b05da*](https://g4m0fV.tosslk.xyz/1d8df5c5aab2524a3eb10192611b05da)
   - **v2ray**: [*https://g4m0fV.tosslk.xyz/1d8df5c5aab2524a3eb10192611b05da*](https://g4m0fV.tosslk.xyz/1d8df5c5aab2524a3eb10192611b05da)
   - **ios**: [*https://g4m0fV.tosslk.xyz/1d8df5c5aab2524a3eb10192611b05da*](https://g4m0fV.tosslk.xyz/1d8df5c5aab2524a3eb10192611b05da)
 - **abshare**
-  - **clash**: [*https://0hUGun.absslk.xyz/471f979a53eb786d524a5046af9fb2bc*](https://0hUGun.absslk.xyz/471f979a53eb786d524a5046af9fb2bc)
-  - **v2ray**: [*https://0hUGun.absslk.xyz/471f979a53eb786d524a5046af9fb2bc*](https://0hUGun.absslk.xyz/471f979a53eb786d524a5046af9fb2bc)
-  - **ios**: [*https://0hUGun.absslk.xyz/471f979a53eb786d524a5046af9fb2bc*](https://0hUGun.absslk.xyz/471f979a53eb786d524a5046af9fb2bc)
+  - **clash**: [*https://Mn1kMn.absslk.xyz/eabc5834f6147753368c3282594f94db*](https://Mn1kMn.absslk.xyz/eabc5834f6147753368c3282594f94db)
+  - **v2ray**: [*https://Mn1kMn.absslk.xyz/eabc5834f6147753368c3282594f94db*](https://Mn1kMn.absslk.xyz/eabc5834f6147753368c3282594f94db)
+  - **ios**: [*https://Mn1kMn.absslk.xyz/eabc5834f6147753368c3282594f94db*](https://Mn1kMn.absslk.xyz/eabc5834f6147753368c3282594f94db)
 - **mksshare**
   - **clash**: [*https://hdqE2w.mcsslk.xyz/8936928e9ce532950994365d4dc480dd*](https://hdqE2w.mcsslk.xyz/8936928e9ce532950994365d4dc480dd)
   - **v2ray**: [*https://hdqE2w.mcsslk.xyz/8936928e9ce532950994365d4dc480dd*](https://hdqE2w.mcsslk.xyz/8936928e9ce532950994365d4dc480dd)
