@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-04 21:34:12
+> Updated Time: 2025-03-04 21:43:24
 
 - **tolinkshare2**
-  - **clash**: [*https://RXGg09.tosslk.xyz/a9fc83ff24ca8b3b68ecf2a5eba25621*](https://RXGg09.tosslk.xyz/a9fc83ff24ca8b3b68ecf2a5eba25621)
-  - **v2ray**: [*https://RXGg09.tosslk.xyz/a9fc83ff24ca8b3b68ecf2a5eba25621*](https://RXGg09.tosslk.xyz/a9fc83ff24ca8b3b68ecf2a5eba25621)
-  - **ios**: [*https://RXGg09.tosslk.xyz/a9fc83ff24ca8b3b68ecf2a5eba25621*](https://RXGg09.tosslk.xyz/a9fc83ff24ca8b3b68ecf2a5eba25621)
+  - **clash**: [*https://1SNRyo.tosslk.xyz/cb8f4033f4e24d36beb0e1ab8a22b0ff*](https://1SNRyo.tosslk.xyz/cb8f4033f4e24d36beb0e1ab8a22b0ff)
+  - **v2ray**: [*https://1SNRyo.tosslk.xyz/cb8f4033f4e24d36beb0e1ab8a22b0ff*](https://1SNRyo.tosslk.xyz/cb8f4033f4e24d36beb0e1ab8a22b0ff)
+  - **ios**: [*https://1SNRyo.tosslk.xyz/cb8f4033f4e24d36beb0e1ab8a22b0ff*](https://1SNRyo.tosslk.xyz/cb8f4033f4e24d36beb0e1ab8a22b0ff)
 - **abshare**
-  - **clash**: [*https://irYlNw.absslk.xyz/5be3afa8fa7b58b114fcef1394459414*](https://irYlNw.absslk.xyz/5be3afa8fa7b58b114fcef1394459414)
-  - **v2ray**: [*https://irYlNw.absslk.xyz/5be3afa8fa7b58b114fcef1394459414*](https://irYlNw.absslk.xyz/5be3afa8fa7b58b114fcef1394459414)
-  - **ios**: [*https://irYlNw.absslk.xyz/5be3afa8fa7b58b114fcef1394459414*](https://irYlNw.absslk.xyz/5be3afa8fa7b58b114fcef1394459414)
+  - **clash**: [*https://7q9hN8.absslk.xyz/316ebbd92576aee22eee6b83754d7fb3*](https://7q9hN8.absslk.xyz/316ebbd92576aee22eee6b83754d7fb3)
+  - **v2ray**: [*https://7q9hN8.absslk.xyz/316ebbd92576aee22eee6b83754d7fb3*](https://7q9hN8.absslk.xyz/316ebbd92576aee22eee6b83754d7fb3)
+  - **ios**: [*https://7q9hN8.absslk.xyz/316ebbd92576aee22eee6b83754d7fb3*](https://7q9hN8.absslk.xyz/316ebbd92576aee22eee6b83754d7fb3)
 - **mksshare**
   - **clash**: [*https://PbnOKh.mcsslk.xyz/fcd86040e4052040ae56e8c7ba160117*](https://PbnOKh.mcsslk.xyz/fcd86040e4052040ae56e8c7ba160117)
   - **v2ray**: [*https://PbnOKh.mcsslk.xyz/fcd86040e4052040ae56e8c7ba160117*](https://PbnOKh.mcsslk.xyz/fcd86040e4052040ae56e8c7ba160117)
