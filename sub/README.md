@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-05 03:07:52
+> Updated Time: 2025-03-05 03:54:34
 
 - **tolinkshare2**
   - **clash**: [*https://wC0z63.tosslk.xyz/94e6c6b31099aed481ec954559f28d6e*](https://wC0z63.tosslk.xyz/94e6c6b31099aed481ec954559f28d6e)
   - **v2ray**: [*https://wC0z63.tosslk.xyz/94e6c6b31099aed481ec954559f28d6e*](https://wC0z63.tosslk.xyz/94e6c6b31099aed481ec954559f28d6e)
   - **ios**: [*https://wC0z63.tosslk.xyz/94e6c6b31099aed481ec954559f28d6e*](https://wC0z63.tosslk.xyz/94e6c6b31099aed481ec954559f28d6e)
 - **abshare**
-  - **clash**: [*https://ZeuEAd.absslk.xyz/c72f7ef498822f7d062458963ef5d4e3*](https://ZeuEAd.absslk.xyz/c72f7ef498822f7d062458963ef5d4e3)
-  - **v2ray**: [*https://ZeuEAd.absslk.xyz/c72f7ef498822f7d062458963ef5d4e3*](https://ZeuEAd.absslk.xyz/c72f7ef498822f7d062458963ef5d4e3)
-  - **ios**: [*https://ZeuEAd.absslk.xyz/c72f7ef498822f7d062458963ef5d4e3*](https://ZeuEAd.absslk.xyz/c72f7ef498822f7d062458963ef5d4e3)
+  - **clash**: [*https://1oqzNB.absslk.xyz/5dfe92b10db74130832488f6743636cf*](https://1oqzNB.absslk.xyz/5dfe92b10db74130832488f6743636cf)
+  - **v2ray**: [*https://1oqzNB.absslk.xyz/5dfe92b10db74130832488f6743636cf*](https://1oqzNB.absslk.xyz/5dfe92b10db74130832488f6743636cf)
+  - **ios**: [*https://1oqzNB.absslk.xyz/5dfe92b10db74130832488f6743636cf*](https://1oqzNB.absslk.xyz/5dfe92b10db74130832488f6743636cf)
 - **mksshare**
   - **clash**: [*https://OT4G0O.mcsslk.xyz/4cff7305e3888b298924ad6b2abd7b63*](https://OT4G0O.mcsslk.xyz/4cff7305e3888b298924ad6b2abd7b63)
   - **v2ray**: [*https://OT4G0O.mcsslk.xyz/4cff7305e3888b298924ad6b2abd7b63*](https://OT4G0O.mcsslk.xyz/4cff7305e3888b298924ad6b2abd7b63)
