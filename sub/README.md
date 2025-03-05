@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-05 15:29:12
+> Updated Time: 2025-03-05 15:43:04
 
 - **tolinkshare2**
-  - **clash**: [*https://Dnc54I.tosslk.xyz/2b3e39cce58740985e81394a4a647bfc*](https://Dnc54I.tosslk.xyz/2b3e39cce58740985e81394a4a647bfc)
-  - **v2ray**: [*https://Dnc54I.tosslk.xyz/2b3e39cce58740985e81394a4a647bfc*](https://Dnc54I.tosslk.xyz/2b3e39cce58740985e81394a4a647bfc)
-  - **ios**: [*https://Dnc54I.tosslk.xyz/2b3e39cce58740985e81394a4a647bfc*](https://Dnc54I.tosslk.xyz/2b3e39cce58740985e81394a4a647bfc)
+  - **clash**: [*https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd*](https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd)
+  - **v2ray**: [*https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd*](https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd)
+  - **ios**: [*https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd*](https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd)
 - **abshare**
-  - **clash**: [*https://T57IhQ.absslk.xyz/32314f2085948de2510da3dc3aa09702*](https://T57IhQ.absslk.xyz/32314f2085948de2510da3dc3aa09702)
-  - **v2ray**: [*https://T57IhQ.absslk.xyz/32314f2085948de2510da3dc3aa09702*](https://T57IhQ.absslk.xyz/32314f2085948de2510da3dc3aa09702)
-  - **ios**: [*https://T57IhQ.absslk.xyz/32314f2085948de2510da3dc3aa09702*](https://T57IhQ.absslk.xyz/32314f2085948de2510da3dc3aa09702)
+  - **clash**: [*https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f*](https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f)
+  - **v2ray**: [*https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f*](https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f)
+  - **ios**: [*https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f*](https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f)
 - **mksshare**
   - **clash**: [*https://LnZdoK.mcsslk.xyz/a4710cdb927be32566b370340e085d4c*](https://LnZdoK.mcsslk.xyz/a4710cdb927be32566b370340e085d4c)
   - **v2ray**: [*https://LnZdoK.mcsslk.xyz/a4710cdb927be32566b370340e085d4c*](https://LnZdoK.mcsslk.xyz/a4710cdb927be32566b370340e085d4c)
