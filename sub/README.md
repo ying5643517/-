@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-05 17:17:17
+> Updated Time: 2025-03-05 17:31:26
 
 - **tolinkshare2**
-  - **clash**: [*https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd*](https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd)
-  - **v2ray**: [*https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd*](https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd)
-  - **ios**: [*https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd*](https://h1rTmU.tosslk.xyz/497bef80bbbd09c13809ad6ff7d2c9dd)
+  - **clash**: [*https://HrTmeG.tosslk.xyz/c338a8c1931f664883e4fd53414748b0*](https://HrTmeG.tosslk.xyz/c338a8c1931f664883e4fd53414748b0)
+  - **v2ray**: [*https://HrTmeG.tosslk.xyz/c338a8c1931f664883e4fd53414748b0*](https://HrTmeG.tosslk.xyz/c338a8c1931f664883e4fd53414748b0)
+  - **ios**: [*https://HrTmeG.tosslk.xyz/c338a8c1931f664883e4fd53414748b0*](https://HrTmeG.tosslk.xyz/c338a8c1931f664883e4fd53414748b0)
 - **abshare**
   - **clash**: [*https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f*](https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f)
   - **v2ray**: [*https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f*](https://By8Wau.absslk.xyz/f3ffd2c60e0e38fc5c31a82071748f8f)
