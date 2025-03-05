@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-05 10:34:44
+> Updated Time: 2025-03-05 11:06:27
 
 - **tolinkshare2**
   - **clash**: [*https://ojvzaA.tosslk.xyz/2f386eab03db47db45a21174e319ac75*](https://ojvzaA.tosslk.xyz/2f386eab03db47db45a21174e319ac75)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://TDJVXR.absslk.xyz/c6a5409875430093efc7c433fef1735c*](https://TDJVXR.absslk.xyz/c6a5409875430093efc7c433fef1735c)
   - **ios**: [*https://TDJVXR.absslk.xyz/c6a5409875430093efc7c433fef1735c*](https://TDJVXR.absslk.xyz/c6a5409875430093efc7c433fef1735c)
 - **mksshare**
-  - **clash**: [*https://VIlYUN.mcsslk.xyz/095b923dbee4a2062b5cdd80531d3a55*](https://VIlYUN.mcsslk.xyz/095b923dbee4a2062b5cdd80531d3a55)
-  - **v2ray**: [*https://VIlYUN.mcsslk.xyz/095b923dbee4a2062b5cdd80531d3a55*](https://VIlYUN.mcsslk.xyz/095b923dbee4a2062b5cdd80531d3a55)
-  - **ios**: [*https://VIlYUN.mcsslk.xyz/095b923dbee4a2062b5cdd80531d3a55*](https://VIlYUN.mcsslk.xyz/095b923dbee4a2062b5cdd80531d3a55)
+  - **clash**: [*https://p3v6vB.mcsslk.xyz/1de4504ba209b38242aa09a5404d39ee*](https://p3v6vB.mcsslk.xyz/1de4504ba209b38242aa09a5404d39ee)
+  - **v2ray**: [*https://p3v6vB.mcsslk.xyz/1de4504ba209b38242aa09a5404d39ee*](https://p3v6vB.mcsslk.xyz/1de4504ba209b38242aa09a5404d39ee)
+  - **ios**: [*https://p3v6vB.mcsslk.xyz/1de4504ba209b38242aa09a5404d39ee*](https://p3v6vB.mcsslk.xyz/1de4504ba209b38242aa09a5404d39ee)
 - **mkshare3**
   - **clash**: [*https://B0WD0p.mcsslk.xyz/c591e13c96f371c6412ddea2980cf2a3*](https://B0WD0p.mcsslk.xyz/c591e13c96f371c6412ddea2980cf2a3)
   - **v2ray**: [*https://B0WD0p.mcsslk.xyz/c591e13c96f371c6412ddea2980cf2a3*](https://B0WD0p.mcsslk.xyz/c591e13c96f371c6412ddea2980cf2a3)
