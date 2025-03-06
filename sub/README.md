@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-06 23:41:53
+> Updated Time: 2025-03-06 23:47:47
 
 - **tolinkshare2**
   - **clash**: [*https://onfX5x.tosslk.xyz/1df96f10ff9f887fa8f8170689539d7e*](https://onfX5x.tosslk.xyz/1df96f10ff9f887fa8f8170689539d7e)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://9RXQ44.tosslk.xyz/d584623e9f06d5e605e96ec0810e8e2b*](https://9RXQ44.tosslk.xyz/d584623e9f06d5e605e96ec0810e8e2b)
   - **ios**: [*https://9RXQ44.tosslk.xyz/d584623e9f06d5e605e96ec0810e8e2b*](https://9RXQ44.tosslk.xyz/d584623e9f06d5e605e96ec0810e8e2b)
 - **abshare3**
-  - **clash**: [*https://yPM4Cc.absslk.xyz/15eb90a8db6f73ee292819160abf1329*](https://yPM4Cc.absslk.xyz/15eb90a8db6f73ee292819160abf1329)
-  - **v2ray**: [*https://yPM4Cc.absslk.xyz/15eb90a8db6f73ee292819160abf1329*](https://yPM4Cc.absslk.xyz/15eb90a8db6f73ee292819160abf1329)
-  - **ios**: [*https://yPM4Cc.absslk.xyz/15eb90a8db6f73ee292819160abf1329*](https://yPM4Cc.absslk.xyz/15eb90a8db6f73ee292819160abf1329)
+  - **clash**: [*https://eeHdUe.absslk.xyz/64d755f2c5eec77d0fbe23565d7fc7cd*](https://eeHdUe.absslk.xyz/64d755f2c5eec77d0fbe23565d7fc7cd)
+  - **v2ray**: [*https://eeHdUe.absslk.xyz/64d755f2c5eec77d0fbe23565d7fc7cd*](https://eeHdUe.absslk.xyz/64d755f2c5eec77d0fbe23565d7fc7cd)
+  - **ios**: [*https://eeHdUe.absslk.xyz/64d755f2c5eec77d0fbe23565d7fc7cd*](https://eeHdUe.absslk.xyz/64d755f2c5eec77d0fbe23565d7fc7cd)
