@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-07 12:16:51
+> Updated Time: 2025-03-07 12:34:03
 
 - **tolinkshare2**
-  - **clash**: [*https://2MOA8R.tosslk.xyz/b3b5636289fb34199614a813681a259c*](https://2MOA8R.tosslk.xyz/b3b5636289fb34199614a813681a259c)
-  - **v2ray**: [*https://2MOA8R.tosslk.xyz/b3b5636289fb34199614a813681a259c*](https://2MOA8R.tosslk.xyz/b3b5636289fb34199614a813681a259c)
-  - **ios**: [*https://2MOA8R.tosslk.xyz/b3b5636289fb34199614a813681a259c*](https://2MOA8R.tosslk.xyz/b3b5636289fb34199614a813681a259c)
+  - **clash**: [*https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5*](https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5)
+  - **v2ray**: [*https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5*](https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5)
+  - **ios**: [*https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5*](https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5)
 - **abshare**
   - **clash**: [*https://kRozWI.absslk.xyz/22566fc76ea177b772a542af2a3c2622*](https://kRozWI.absslk.xyz/22566fc76ea177b772a542af2a3c2622)
   - **v2ray**: [*https://kRozWI.absslk.xyz/22566fc76ea177b772a542af2a3c2622*](https://kRozWI.absslk.xyz/22566fc76ea177b772a542af2a3c2622)
