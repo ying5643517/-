@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-07 23:48:19
+> Updated Time: 2025-03-07 23:59:16
 
 - **tolinkshare2**
-  - **clash**: [*https://xuRyw9.tosslk.xyz/8054e9721d8d1cb5735e3a126a8e97fe*](https://xuRyw9.tosslk.xyz/8054e9721d8d1cb5735e3a126a8e97fe)
-  - **v2ray**: [*https://xuRyw9.tosslk.xyz/8054e9721d8d1cb5735e3a126a8e97fe*](https://xuRyw9.tosslk.xyz/8054e9721d8d1cb5735e3a126a8e97fe)
-  - **ios**: [*https://xuRyw9.tosslk.xyz/8054e9721d8d1cb5735e3a126a8e97fe*](https://xuRyw9.tosslk.xyz/8054e9721d8d1cb5735e3a126a8e97fe)
+  - **clash**: [*https://v1zKRV.tosslk.xyz/19e2ff370763e0cefa22f4d793d23bb9*](https://v1zKRV.tosslk.xyz/19e2ff370763e0cefa22f4d793d23bb9)
+  - **v2ray**: [*https://v1zKRV.tosslk.xyz/19e2ff370763e0cefa22f4d793d23bb9*](https://v1zKRV.tosslk.xyz/19e2ff370763e0cefa22f4d793d23bb9)
+  - **ios**: [*https://v1zKRV.tosslk.xyz/19e2ff370763e0cefa22f4d793d23bb9*](https://v1zKRV.tosslk.xyz/19e2ff370763e0cefa22f4d793d23bb9)
 - **abshare**
   - **clash**: [*https://eHDgAe.absslk.xyz/8400c2d1f762bc0f4e2c30734064e60a*](https://eHDgAe.absslk.xyz/8400c2d1f762bc0f4e2c30734064e60a)
   - **v2ray**: [*https://eHDgAe.absslk.xyz/8400c2d1f762bc0f4e2c30734064e60a*](https://eHDgAe.absslk.xyz/8400c2d1f762bc0f4e2c30734064e60a)
