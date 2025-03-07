@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-07 13:46:40
+> Updated Time: 2025-03-07 14:15:35
 
 - **tolinkshare2**
-  - **clash**: [*https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5*](https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5)
-  - **v2ray**: [*https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5*](https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5)
-  - **ios**: [*https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5*](https://W3bnLh.tosslk.xyz/bc673d75a1b87af2b3f62c9334dfd2a5)
+  - **clash**: [*https://PH5trc.tosslk.xyz/86a10f8708e636a4c602d4cb6fa5f614*](https://PH5trc.tosslk.xyz/86a10f8708e636a4c602d4cb6fa5f614)
+  - **v2ray**: [*https://PH5trc.tosslk.xyz/86a10f8708e636a4c602d4cb6fa5f614*](https://PH5trc.tosslk.xyz/86a10f8708e636a4c602d4cb6fa5f614)
+  - **ios**: [*https://PH5trc.tosslk.xyz/86a10f8708e636a4c602d4cb6fa5f614*](https://PH5trc.tosslk.xyz/86a10f8708e636a4c602d4cb6fa5f614)
 - **abshare**
   - **clash**: [*https://pMXMJF.absslk.xyz/1d0c10fbd5f4840b83ab983d88155558*](https://pMXMJF.absslk.xyz/1d0c10fbd5f4840b83ab983d88155558)
   - **v2ray**: [*https://pMXMJF.absslk.xyz/1d0c10fbd5f4840b83ab983d88155558*](https://pMXMJF.absslk.xyz/1d0c10fbd5f4840b83ab983d88155558)
