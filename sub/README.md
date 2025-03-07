@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-08 02:48:18
+> Updated Time: 2025-03-08 02:58:34
 
 - **tolinkshare2**
   - **clash**: [*https://vlvVr8.tosslk.xyz/4ad21450ed85e9a7e41e34fc1bca6d18*](https://vlvVr8.tosslk.xyz/4ad21450ed85e9a7e41e34fc1bca6d18)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://All5W9.tosslk.xyz/13efa1dc9b529816dc3a32fc2bd651c8*](https://All5W9.tosslk.xyz/13efa1dc9b529816dc3a32fc2bd651c8)
   - **ios**: [*https://All5W9.tosslk.xyz/13efa1dc9b529816dc3a32fc2bd651c8*](https://All5W9.tosslk.xyz/13efa1dc9b529816dc3a32fc2bd651c8)
 - **abshare3**
-  - **clash**: [*https://V5fYXD.absslk.xyz/f37a49c88caadb9dacc4145ccea9cc57*](https://V5fYXD.absslk.xyz/f37a49c88caadb9dacc4145ccea9cc57)
-  - **v2ray**: [*https://V5fYXD.absslk.xyz/f37a49c88caadb9dacc4145ccea9cc57*](https://V5fYXD.absslk.xyz/f37a49c88caadb9dacc4145ccea9cc57)
-  - **ios**: [*https://V5fYXD.absslk.xyz/f37a49c88caadb9dacc4145ccea9cc57*](https://V5fYXD.absslk.xyz/f37a49c88caadb9dacc4145ccea9cc57)
+  - **clash**: [*https://BA8PUA.absslk.xyz/ee7a48c9733387816045552022a3e5bb*](https://BA8PUA.absslk.xyz/ee7a48c9733387816045552022a3e5bb)
+  - **v2ray**: [*https://BA8PUA.absslk.xyz/ee7a48c9733387816045552022a3e5bb*](https://BA8PUA.absslk.xyz/ee7a48c9733387816045552022a3e5bb)
+  - **ios**: [*https://BA8PUA.absslk.xyz/ee7a48c9733387816045552022a3e5bb*](https://BA8PUA.absslk.xyz/ee7a48c9733387816045552022a3e5bb)
