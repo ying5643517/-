@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-08 14:29:26
+> Updated Time: 2025-03-08 14:43:43
 
 - **tolinkshare2**
   - **clash**: [*https://GiBqm6.tosslk.xyz/ec4a32d5505710c8e68b0639e31ec737*](https://GiBqm6.tosslk.xyz/ec4a32d5505710c8e68b0639e31ec737)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://IZwm4I.absslk.xyz/aa5a07e714641675807049f43a79500f*](https://IZwm4I.absslk.xyz/aa5a07e714641675807049f43a79500f)
   - **ios**: [*https://IZwm4I.absslk.xyz/aa5a07e714641675807049f43a79500f*](https://IZwm4I.absslk.xyz/aa5a07e714641675807049f43a79500f)
 - **mksshare**
-  - **clash**: [*https://MipBNB.mcsslk.xyz/0f236167183723c3f6938e9c8aaa4e9c*](https://MipBNB.mcsslk.xyz/0f236167183723c3f6938e9c8aaa4e9c)
-  - **v2ray**: [*https://MipBNB.mcsslk.xyz/0f236167183723c3f6938e9c8aaa4e9c*](https://MipBNB.mcsslk.xyz/0f236167183723c3f6938e9c8aaa4e9c)
-  - **ios**: [*https://MipBNB.mcsslk.xyz/0f236167183723c3f6938e9c8aaa4e9c*](https://MipBNB.mcsslk.xyz/0f236167183723c3f6938e9c8aaa4e9c)
+  - **clash**: [*https://7xpq7Z.mcsslk.xyz/e8102d44854252ecfa8becf73f601405*](https://7xpq7Z.mcsslk.xyz/e8102d44854252ecfa8becf73f601405)
+  - **v2ray**: [*https://7xpq7Z.mcsslk.xyz/e8102d44854252ecfa8becf73f601405*](https://7xpq7Z.mcsslk.xyz/e8102d44854252ecfa8becf73f601405)
+  - **ios**: [*https://7xpq7Z.mcsslk.xyz/e8102d44854252ecfa8becf73f601405*](https://7xpq7Z.mcsslk.xyz/e8102d44854252ecfa8becf73f601405)
 - **mkshare3**
   - **clash**: [*https://H2yGNH.mcsslk.xyz/0109a38279a36221deedcdf548800e0c*](https://H2yGNH.mcsslk.xyz/0109a38279a36221deedcdf548800e0c)
   - **v2ray**: [*https://H2yGNH.mcsslk.xyz/0109a38279a36221deedcdf548800e0c*](https://H2yGNH.mcsslk.xyz/0109a38279a36221deedcdf548800e0c)
