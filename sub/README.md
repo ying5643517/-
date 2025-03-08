@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-09 04:34:44
+> Updated Time: 2025-03-09 04:55:54
 
 - **tolinkshare2**
   - **clash**: [*https://ykMMjV.tosslk.xyz/42b620e9b0de2ffd10b54764021901f0*](https://ykMMjV.tosslk.xyz/42b620e9b0de2ffd10b54764021901f0)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://16kF9S.tosslk.xyz/7664fafac8d98078c4cec76ec80ce0b4*](https://16kF9S.tosslk.xyz/7664fafac8d98078c4cec76ec80ce0b4)
   - **ios**: [*https://16kF9S.tosslk.xyz/7664fafac8d98078c4cec76ec80ce0b4*](https://16kF9S.tosslk.xyz/7664fafac8d98078c4cec76ec80ce0b4)
 - **abshare3**
-  - **clash**: [*https://SJikhk.absslk.xyz/fd617b265e2d1ea65b652d22283e3c86*](https://SJikhk.absslk.xyz/fd617b265e2d1ea65b652d22283e3c86)
-  - **v2ray**: [*https://SJikhk.absslk.xyz/fd617b265e2d1ea65b652d22283e3c86*](https://SJikhk.absslk.xyz/fd617b265e2d1ea65b652d22283e3c86)
-  - **ios**: [*https://SJikhk.absslk.xyz/fd617b265e2d1ea65b652d22283e3c86*](https://SJikhk.absslk.xyz/fd617b265e2d1ea65b652d22283e3c86)
+  - **clash**: [*https://z1GAJe.absslk.xyz/9a43769d3918f34c19388812f46d1f71*](https://z1GAJe.absslk.xyz/9a43769d3918f34c19388812f46d1f71)
+  - **v2ray**: [*https://z1GAJe.absslk.xyz/9a43769d3918f34c19388812f46d1f71*](https://z1GAJe.absslk.xyz/9a43769d3918f34c19388812f46d1f71)
+  - **ios**: [*https://z1GAJe.absslk.xyz/9a43769d3918f34c19388812f46d1f71*](https://z1GAJe.absslk.xyz/9a43769d3918f34c19388812f46d1f71)
