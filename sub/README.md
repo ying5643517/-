@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-08 22:54:37
+> Updated Time: 2025-03-08 22:59:44
 
 - **tolinkshare2**
-  - **clash**: [*https://O7VtAo.tosslk.xyz/f2189498494e3218ce6fb8e3ecd2cb7c*](https://O7VtAo.tosslk.xyz/f2189498494e3218ce6fb8e3ecd2cb7c)
-  - **v2ray**: [*https://O7VtAo.tosslk.xyz/f2189498494e3218ce6fb8e3ecd2cb7c*](https://O7VtAo.tosslk.xyz/f2189498494e3218ce6fb8e3ecd2cb7c)
-  - **ios**: [*https://O7VtAo.tosslk.xyz/f2189498494e3218ce6fb8e3ecd2cb7c*](https://O7VtAo.tosslk.xyz/f2189498494e3218ce6fb8e3ecd2cb7c)
+  - **clash**: [*https://NGU9x6.tosslk.xyz/9d088f8e86f70d196cafb3751bb1c4eb*](https://NGU9x6.tosslk.xyz/9d088f8e86f70d196cafb3751bb1c4eb)
+  - **v2ray**: [*https://NGU9x6.tosslk.xyz/9d088f8e86f70d196cafb3751bb1c4eb*](https://NGU9x6.tosslk.xyz/9d088f8e86f70d196cafb3751bb1c4eb)
+  - **ios**: [*https://NGU9x6.tosslk.xyz/9d088f8e86f70d196cafb3751bb1c4eb*](https://NGU9x6.tosslk.xyz/9d088f8e86f70d196cafb3751bb1c4eb)
 - **abshare**
   - **clash**: [*https://3XSoAq.absslk.xyz/40485a3325cc64a5f5d68d4df2e51ddc*](https://3XSoAq.absslk.xyz/40485a3325cc64a5f5d68d4df2e51ddc)
   - **v2ray**: [*https://3XSoAq.absslk.xyz/40485a3325cc64a5f5d68d4df2e51ddc*](https://3XSoAq.absslk.xyz/40485a3325cc64a5f5d68d4df2e51ddc)
