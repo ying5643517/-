@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-08 20:59:09
+> Updated Time: 2025-03-08 21:12:49
 
 - **tolinkshare2**
-  - **clash**: [*https://d9FY0X.tosslk.xyz/aa99bb6baeb2b9c035dd1c3203924351*](https://d9FY0X.tosslk.xyz/aa99bb6baeb2b9c035dd1c3203924351)
-  - **v2ray**: [*https://d9FY0X.tosslk.xyz/aa99bb6baeb2b9c035dd1c3203924351*](https://d9FY0X.tosslk.xyz/aa99bb6baeb2b9c035dd1c3203924351)
-  - **ios**: [*https://d9FY0X.tosslk.xyz/aa99bb6baeb2b9c035dd1c3203924351*](https://d9FY0X.tosslk.xyz/aa99bb6baeb2b9c035dd1c3203924351)
+  - **clash**: [*https://0d8Xab.tosslk.xyz/46248f9da30e0635fc34deffaf067a80*](https://0d8Xab.tosslk.xyz/46248f9da30e0635fc34deffaf067a80)
+  - **v2ray**: [*https://0d8Xab.tosslk.xyz/46248f9da30e0635fc34deffaf067a80*](https://0d8Xab.tosslk.xyz/46248f9da30e0635fc34deffaf067a80)
+  - **ios**: [*https://0d8Xab.tosslk.xyz/46248f9da30e0635fc34deffaf067a80*](https://0d8Xab.tosslk.xyz/46248f9da30e0635fc34deffaf067a80)
 - **abshare**
-  - **clash**: [*https://AUDIaC.absslk.xyz/bb10d368149e2e24c2dbcf37fa583f67*](https://AUDIaC.absslk.xyz/bb10d368149e2e24c2dbcf37fa583f67)
-  - **v2ray**: [*https://AUDIaC.absslk.xyz/bb10d368149e2e24c2dbcf37fa583f67*](https://AUDIaC.absslk.xyz/bb10d368149e2e24c2dbcf37fa583f67)
-  - **ios**: [*https://AUDIaC.absslk.xyz/bb10d368149e2e24c2dbcf37fa583f67*](https://AUDIaC.absslk.xyz/bb10d368149e2e24c2dbcf37fa583f67)
+  - **clash**: [*https://2Pmb6f.absslk.xyz/694907a8c3595cea437b4047a86ddac6*](https://2Pmb6f.absslk.xyz/694907a8c3595cea437b4047a86ddac6)
+  - **v2ray**: [*https://2Pmb6f.absslk.xyz/694907a8c3595cea437b4047a86ddac6*](https://2Pmb6f.absslk.xyz/694907a8c3595cea437b4047a86ddac6)
+  - **ios**: [*https://2Pmb6f.absslk.xyz/694907a8c3595cea437b4047a86ddac6*](https://2Pmb6f.absslk.xyz/694907a8c3595cea437b4047a86ddac6)
 - **mksshare**
   - **clash**: [*https://efMWVa.mcsslk.xyz/80ca1cf90295e96603a12d71591149aa*](https://efMWVa.mcsslk.xyz/80ca1cf90295e96603a12d71591149aa)
   - **v2ray**: [*https://efMWVa.mcsslk.xyz/80ca1cf90295e96603a12d71591149aa*](https://efMWVa.mcsslk.xyz/80ca1cf90295e96603a12d71591149aa)
