@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-08 10:58:08
+> Updated Time: 2025-03-08 11:12:16
 
 - **tolinkshare2**
-  - **clash**: [*https://cLj7pW.tosslk.xyz/5b7f0bc3087af61fc0031388c2488110*](https://cLj7pW.tosslk.xyz/5b7f0bc3087af61fc0031388c2488110)
-  - **v2ray**: [*https://cLj7pW.tosslk.xyz/5b7f0bc3087af61fc0031388c2488110*](https://cLj7pW.tosslk.xyz/5b7f0bc3087af61fc0031388c2488110)
-  - **ios**: [*https://cLj7pW.tosslk.xyz/5b7f0bc3087af61fc0031388c2488110*](https://cLj7pW.tosslk.xyz/5b7f0bc3087af61fc0031388c2488110)
+  - **clash**: [*https://Isttpl.tosslk.xyz/8ca2e8ef1667513d58e16c4ce1490320*](https://Isttpl.tosslk.xyz/8ca2e8ef1667513d58e16c4ce1490320)
+  - **v2ray**: [*https://Isttpl.tosslk.xyz/8ca2e8ef1667513d58e16c4ce1490320*](https://Isttpl.tosslk.xyz/8ca2e8ef1667513d58e16c4ce1490320)
+  - **ios**: [*https://Isttpl.tosslk.xyz/8ca2e8ef1667513d58e16c4ce1490320*](https://Isttpl.tosslk.xyz/8ca2e8ef1667513d58e16c4ce1490320)
 - **abshare**
   - **clash**: [*https://gMWfy5.absslk.xyz/1005cc2b8c35d3e323f5f1fc4e29f21a*](https://gMWfy5.absslk.xyz/1005cc2b8c35d3e323f5f1fc4e29f21a)
   - **v2ray**: [*https://gMWfy5.absslk.xyz/1005cc2b8c35d3e323f5f1fc4e29f21a*](https://gMWfy5.absslk.xyz/1005cc2b8c35d3e323f5f1fc4e29f21a)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://EC2Pgb.tosslk.xyz/841024e16d18b5ba95af1c3f627848ef*](https://EC2Pgb.tosslk.xyz/841024e16d18b5ba95af1c3f627848ef)
   - **ios**: [*https://EC2Pgb.tosslk.xyz/841024e16d18b5ba95af1c3f627848ef*](https://EC2Pgb.tosslk.xyz/841024e16d18b5ba95af1c3f627848ef)
 - **abshare3**
-  - **clash**: [*https://oNFaKo.absslk.xyz/05b5eb325fd1793411b5ab5ec29c287c*](https://oNFaKo.absslk.xyz/05b5eb325fd1793411b5ab5ec29c287c)
-  - **v2ray**: [*https://oNFaKo.absslk.xyz/05b5eb325fd1793411b5ab5ec29c287c*](https://oNFaKo.absslk.xyz/05b5eb325fd1793411b5ab5ec29c287c)
-  - **ios**: [*https://oNFaKo.absslk.xyz/05b5eb325fd1793411b5ab5ec29c287c*](https://oNFaKo.absslk.xyz/05b5eb325fd1793411b5ab5ec29c287c)
+  - **clash**: [*https://NbkGWE.absslk.xyz/e4170f115de638955c6224db2f4537a3*](https://NbkGWE.absslk.xyz/e4170f115de638955c6224db2f4537a3)
+  - **v2ray**: [*https://NbkGWE.absslk.xyz/e4170f115de638955c6224db2f4537a3*](https://NbkGWE.absslk.xyz/e4170f115de638955c6224db2f4537a3)
+  - **ios**: [*https://NbkGWE.absslk.xyz/e4170f115de638955c6224db2f4537a3*](https://NbkGWE.absslk.xyz/e4170f115de638955c6224db2f4537a3)
