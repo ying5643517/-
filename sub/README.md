@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-09 23:32:33
+> Updated Time: 2025-03-09 23:42:56
 
 - **tolinkshare2**
-  - **clash**: [*https://rHJ2ym.tosslk.xyz/296e66664b5304cd40234e93b7108e3e*](https://rHJ2ym.tosslk.xyz/296e66664b5304cd40234e93b7108e3e)
-  - **v2ray**: [*https://rHJ2ym.tosslk.xyz/296e66664b5304cd40234e93b7108e3e*](https://rHJ2ym.tosslk.xyz/296e66664b5304cd40234e93b7108e3e)
-  - **ios**: [*https://rHJ2ym.tosslk.xyz/296e66664b5304cd40234e93b7108e3e*](https://rHJ2ym.tosslk.xyz/296e66664b5304cd40234e93b7108e3e)
+  - **clash**: [*https://UkeG99.tosslk.xyz/08d7175264fd1a49ce80a019159b03bc*](https://UkeG99.tosslk.xyz/08d7175264fd1a49ce80a019159b03bc)
+  - **v2ray**: [*https://UkeG99.tosslk.xyz/08d7175264fd1a49ce80a019159b03bc*](https://UkeG99.tosslk.xyz/08d7175264fd1a49ce80a019159b03bc)
+  - **ios**: [*https://UkeG99.tosslk.xyz/08d7175264fd1a49ce80a019159b03bc*](https://UkeG99.tosslk.xyz/08d7175264fd1a49ce80a019159b03bc)
 - **abshare**
   - **clash**: [*https://PEZiud.absslk.xyz/03ce25e88fecadc514cc82a83ad6b676*](https://PEZiud.absslk.xyz/03ce25e88fecadc514cc82a83ad6b676)
   - **v2ray**: [*https://PEZiud.absslk.xyz/03ce25e88fecadc514cc82a83ad6b676*](https://PEZiud.absslk.xyz/03ce25e88fecadc514cc82a83ad6b676)
