@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-09 21:09:08
+> Updated Time: 2025-03-09 21:23:14
 
 - **tolinkshare2**
-  - **clash**: [*https://Hck537.tosslk.xyz/2e78b98d907ac1083bc46692af935b12*](https://Hck537.tosslk.xyz/2e78b98d907ac1083bc46692af935b12)
-  - **v2ray**: [*https://Hck537.tosslk.xyz/2e78b98d907ac1083bc46692af935b12*](https://Hck537.tosslk.xyz/2e78b98d907ac1083bc46692af935b12)
-  - **ios**: [*https://Hck537.tosslk.xyz/2e78b98d907ac1083bc46692af935b12*](https://Hck537.tosslk.xyz/2e78b98d907ac1083bc46692af935b12)
+  - **clash**: [*https://JCrphV.tosslk.xyz/9e6ca114ae51614005b8429674ac15e8*](https://JCrphV.tosslk.xyz/9e6ca114ae51614005b8429674ac15e8)
+  - **v2ray**: [*https://JCrphV.tosslk.xyz/9e6ca114ae51614005b8429674ac15e8*](https://JCrphV.tosslk.xyz/9e6ca114ae51614005b8429674ac15e8)
+  - **ios**: [*https://JCrphV.tosslk.xyz/9e6ca114ae51614005b8429674ac15e8*](https://JCrphV.tosslk.xyz/9e6ca114ae51614005b8429674ac15e8)
 - **abshare**
   - **clash**: [*https://ETx6fd.absslk.xyz/7951b977ca59a4e2c5b7e53a73dcf5b1*](https://ETx6fd.absslk.xyz/7951b977ca59a4e2c5b7e53a73dcf5b1)
   - **v2ray**: [*https://ETx6fd.absslk.xyz/7951b977ca59a4e2c5b7e53a73dcf5b1*](https://ETx6fd.absslk.xyz/7951b977ca59a4e2c5b7e53a73dcf5b1)
